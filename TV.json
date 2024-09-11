@@ -2940,6 +2940,135 @@
         "name": "MasterChef",
         "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdsvM4gm6mZWN8TDo6SoWcqONli8o/4MjkpNnu1GtSpH+H3/BUbOZfmYOmbu+Ric8Rlpy2iIrmh9W1tMTZFLF1FTXSjDEkpx0HPRyQfJdQv3XBBl0W7YMxZyLQpKHvaUCAqc6UW+2Mhzd1KkkWaa5+nqWkHIcbkpVP6kzQK2N5qiUwQi7lUmWTm3bcg/kvzphbTC7biZTSBz3Fwqi2VELHA8paO7QaYkNWCpqjpPNeD39KGvo2V4ceqkZNVNS+j2Yp18V4EGXy2SU4PBvvdm/r8Ug9hSl4510Qz6vHeDvRLNFiiG3W3DIdIPEuUFsDHsMtMhNPv26t8xIoR4NtbrqxyJfdiXnwXk/sjaWM/XrolqVtdL9C0hi8s1pCo3XVYRlTCpMuPR/9eTwbstEds4pPWOaJ+aP64jbLxaNnJYnHTWY983aAuYYEg8+MN4qSsHQ2HG+hLGleJ1+Ma6MQwWSG7DuPAssjAW+frOOFgkLgc9tIoyG6p5cxcM0IF/srpwjzZLOwfQZCzfP1zAg+eDHhzQ==",
         "icono": "https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png"
+    }
+    ]
+  },
+  {
+    "name": "📚 CULTURA",
+    "samples": [
+      {
+        "name": "HISTORY",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKa2DPG2Sn3vGTnSoA1Ru2yvDYYOfYK1thp791CXy8qk0I5NeFpPek6vmf2cY1C7dF69SX/8TCSINsYK590HwkV",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLzNbLc/ZQy1RVEqwr4CsEXv5E/huCQ2n7m7BrgPsNUw9iN1xoA1+XiGHhuLCk6W0SNyaGwVZQZnhI+lHriUmcQc+zf/+hnzEjSvoFeieSr8shSAOv8Ci2yVtrn+zAJCug==",
+        "icono": "https://yt3.googleusercontent.com/0MpmmKlHqG0BdWXx0TiipcSABbIrPZKkF113gC8o-CPcX58Y2yL8WgnykcVAePa2kh_2p1TaZg=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "HISTORY 2",
+        "uri": "LX46EnLWmPsTQWzzE5C2pBvsXPm3gqkAvLdTB+rKTGuim+BKq4+P+utm5OMbFJ9FGXDXHn+y7BHTWoyqSGAt//l9f4OgAVngPuzUcZ1SBWg7MQRhlpdJwuoSfOhhM8Zx",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFi+O9cVzJcCteJK7qeKdWDUvGlQYaappn6xDCO/A4ZtRQboaN9eURUE0VStdTQcnbt1ZD0H8owplrp5vptipzYaaqHD+xcQNQQcyKP0ItopaV8lFrAokxFCmFft9qCbag==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"
+      },
+      {
+        "name": "DISCOVERY",
+        "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo9J7GSGEUnX3xOSGGVRaTFwJCrDWg7IBCcLjjMQhgA1X5NFjBW8nk4YIdxvYf6eKip4w1BmUKfzu95iFSo3y+n/",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKPboSWyzVlwiBLZpHqBP9CEeP62NeZhfXPiSLvMqrly9kzd/jarVyj9xDlLYZNaTVdgUGpeX+FaDE9docJNKtCqffpJbdBb9rQeOe/lQJ3W2Pisou7jrmgACh9J/wl1ig==",
+        "icono": "https://eu1-prod-images.disco-api.com/2023/06/15/58051bc3-9d67-4708-bb5b-5b7958ac60c9.png?bf=0&f=jpg&p=true&q=70&w=1920"
+      },
+      {
+        "name": "DISCOVERY SCIENCE",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJWNTQUB8X6+DdjEIiBkFfLJaNpeHCjSbgQ3fvLrS1BAGZy6s6UWf+t+vTvqYZQYu834FarZLjg368cCbUWp/5X",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDhLfBKFaVcFCEBxeSv9nk8rN3xr8399dPg/q1CJpkG8pUbGKZbbClOFsyxny+fD/yIEzb3DE84sC9kLUyclRJdcxKk07NqlW6v8NtJWP3SA4EVe020IUgo3F6y3UKEeVg==",
+        "icono": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor-1024x512.png"
+      },
+      {
+        "name": "DISCOVERY H&H",
+        "uri": "LX46EnLWmPsTQWzzE5C2pNlD+ntI8cdBe02xr6z6QOxJ7GSGEUnX3xOSGGVRaTFwK9MPvGl4qemYi5q22d/wIaQL6onuwIKHCDy35oocTdvsUG2OGff/Si7y9w3zzrt3HPqG8UyiOr9+kKjyUHBBFMHNaa5qVd5DWtCk/6fjXVU=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOHljSnP7Xyag2hIlV2ujy6XCZigjocfMuu3Nx1NtiM3Ojz+6lRFXlCInysemt6G7yj4LVovxwo4/aC2AFw/GqAg380boglObJo5LCdixzjKf5O36tj2n0R04Dfbu3Eo+A==",
+        "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large.207902319_HH.png.46f35ade54b7d3f363748febc08702e8.png"
+      },
+      {
+        "name": "DISCOVERY ID",
+        "uri": "LX46EnLWmPsTQWzzE5C2pNlD+ntI8cdBe02xr6z6QOyyxtTgIxOXO0S70LFmTkqdt5p8LV1uOuzDb7jD0M0sblrk3B1FhbDThqHdVXFrwBs=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBVxOytdDHBig6eO+gFrE4BSgxo9iXjisb4KlDwsbUN3Xk8wVXhMDr9XbhDJpDSdDlk7r2i+41eNIKp2YNEC3AvWMWPfMKDYjaiLpAHLmVxuV5QuKoaDOmvtiByewwZN7g==",
+        "icono": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpg?rlkey=e4qy94y6huevaihwyo0rspzn0&dl=0"
+      },
+      {
+        "name": "DISCOVERY SCIENCE",
+        "uri": "LX46EnLWmPsTQWzzE5C2pAtiZe9AtFOHaScetMoCK43xazMl6G+9SZGUHrgCmnnyrQdTm27HyAJr7IelsvlQW+ayZQqAHvVQMnfYPHplJAq1+5Ru2mtRGNQC1S5s2PGn0CGKLDaNu7+52v6LU4QiHA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDhLfBKFaVcFCEBxeSv9nk8rN3xr8399dPg/q1CJpkG8pUbGKZbbClOFsyxny+fD/yIEzb3DE84sC9kLUyclRJdcxKk07NqlW6v8NtJWP3SA4EVe020IUgo3F6y3UKEeVg==",
+        "icono": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor-1024x512.png"
+      },
+      {
+        "name": "DISCOVERY TURBO",
+        "uri": "LX46EnLWmPsTQWzzE5C2pM5oVLjLvNyztbnxEbF8X53/mp9Brvc5uyxRW1em2eZ3n9AGocTzlNc+O9G5+Pv0G/8jwjXa0B9lyFoovQxZnvQNgeTmDb6BssFBVsPtCvIEjCbLJBIaU1e9hBurbDDTQQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKgxuxMT3xke/WXL59RGa5jWpK9gDCpblgsieCrWEaft+zaHHkHGYCgkngOJYm3NNhDRRig7zpPiPvY4PPiYEBBQPQIjlyik8CTiEJ2vNo9pxfsKddCQoRgXW7Ht+11gOg==",
+        "icono": "https://yt3.googleusercontent.com/r3tZMRkQnemnrWoG7SSTQZnwkRxbjLcg33aIsImHUqoGJutvM4CGiIyhLGs9CN6eOPnQkoJ1=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "DISCOVERY TEATER",
+        "uri": "KusJ5ShfomSLrFIJxHev/mIUXp3nbjSybfys+7HVleJmXBuqeXlq3KAdZYIwvuJQT4Xq4YSLLqwkHpkXgRXJ1g0pROCsIDZVkrNWC0DAYZ0jA3HLI6YL6bTDb9xE+Jtj",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIYhmJRaRPw/ZnqnowENumETpKN6SozBGuCrIqqr2ybozGq+yiOA0JCzuA9kD1vZM31MLQ0uIoqWJ2LqBcqj9U/Ug4I+5YHtsP6r6/c6NNQbM7xkJG9WO8xNvR4wHR7pCg==",
+        "icono": "https://www.ipuntotv.com/IMAGES/Discovery-HD-Teacher-Logo.png"
+      },
+      {
+        "name": "DISCOVERY TLC",
+        "uri": "KusJ5ShfomSLrFIJxHev/j5By7uj1sKtBL7rUGi+XwxmXBuqeXlq3KAdZYIwvuJQRRy6b8OEIBkCLrw9BfdSbn8eEhSz9dIPQq6j5/RvqIw=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIobxwdQFHczJuLPhcVAybJ8bJ5DsvWuZu++XTJBmgl8gjaPA+jazdk2xZ/U0C38byV6fjlKZFRwVSzkSj4xWJ5IaJadyVwgKsLvCWDsmSafw7xsnimFWJxZzXom4VXfZw==",
+        "icono": "https://pbs.twimg.com/profile_images/1372582266568904709/0OvSVtae_400x400.jpg"
+      },
+      {
+        "name": "DISCOVERY WORL",
+        "uri": "KusJ5ShfomSLrFIJxHev/lZUC6R71wyEykNA2u1z8lBmXBuqeXlq3KAdZYIwvuJQj4fDOV4ZjIMd5ASm/OW6M7XphcMuPilFzoXFbs5rcHn2+J0OWViSkU4xAsgm3vUfd/Qnng2OG0SOGodHMWUG6g==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCBn21AD5D7mhVqZYdzLERuUJ0LUNKmjf9aooap4q5WnxTm7EjnAOEQQWyMYf7cqB4rle/bLKDRq+/tLrwKO7PUjo2LelOYVzqPOG0ObF9/6Opkv43fa4ZBiOS9WZ2w/Mw==",
+        "icono": "https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2F20110715012655_Discovery.JPG"
+      },
+      {
+        "name": "E!",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJtiSMf47o/yVJaaNom54JTLOUvRroeYt0U8vPC5rE0IW7JF/Gt/w+9zo6Oq7Ea9OTIhvoMH8HfqpnfKdbbT/ddJidcgJHLmLVN0XyXW2nqyD046zLPYK8gFVHqibusTfs=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEWqhk61YM8wA76dVwbNYobndBCyuR7TkYfwLSPKqrjfk7Tw6ZKNqGwHv9FUnOTDG/G4YttwZ+Mw2nccMlfMxjvmN5ckgItU9ZwCdzgbxpyDWezpROi53tZB6BhYyWo68g==",
+        "icono": "https://i.imgur.com/Pcr6ci0.png"
+      },
+      {
+        "name": "ANIMALPLANET",
+        "uri": "KusJ5ShfomSLrFIJxHev/p6VDh7q5nbYcV4gLp+Zm2SXfymEfZKVjJaXPcutg/lMom7WpFkHp1G1wYNoAV+9WeJtqx7A3vUxYcbP+61Ty26XWah4mK0KErSAIDmihH565FLgOLdmyJMRa8FcrSEHdg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO4q3wLHUQbHLuMQP2zwx8/stiZ2NBG6s3NagWM6zu9/H1hVN6jsSPFYkXl81TTlgvaAb5E2cxFoOYrOXxmAnZeeTgfAhL62oF0kv+MTGhk86udGRJ9QGmDAJUjg3I71ZQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
+      },
+      {
+        "name": "NAT GEO",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147AlBRmZwpxp7CfG2OQAa7QpVGhm6vHrt3XWsDrrOR/wvC90CCerhNuW2MQhY/msBRCMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZEhRBumTWyVcZBAveoszHZTAMX/6/yYau6+9jvnlsPEphT1e0kG7WSJ95ZztDxxatbrlJvuM5e1zExIoa7g7Wdo45VpddOpnaXZHrD3UxQa2jB47UNPSpUdAX+vgjNFVw==",
+        "icono": "https://i.ibb.co/YL79wkw/natgeo-mundo.png"
+      },
+      {
+        "name": "GOURMET",
+        "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEJ6mJt29B/oqSANh0rphCn6YYgjZleZ4NEoM1hRk7Y/k0KWePqvVtUgE0WMV8nUOjqMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBdCQKHAf7aVbFlHmMM6GLjSTEQATSv+2+trG3n7okM6H/kBs8p97pbWUV99SJxzVtI4X43KBG9qhy4DqDs7UM619NBGEsjn5VS+gvAyj/lBLa3XwsBb5FyRBv0gtw/cgA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/1200px-El_Gourmet_logo.svg.png"
+      },
+      {
+        "name": "CANAL COCINA",
+        "uri": "cGabVCsds5oM6mQpLF4iAL8GutacH7nzoLPKe0BzhMi0VFwr9IR29k+8rRjKXRkkVYKs1bNX/PI5ZdjjKMU4HxzqbapkWwl//64rLvQGJR/YM7GBOWkGuYFfm9L/XRGf",
+        "icono": "https://yt3.googleusercontent.com/ZH-FZJf7AV0T7nAK_OBw4QNSF-1G8rg1kAXjnxbnuKYWrVvK6XHA4knhE3fb_1m8scy30E6PBw=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "CANAL COCINA 4K",
+        "uri": "UVWgZKcFl5YndJbOS+GAz6ZJIZpWTLDelsJ4W7XW4XKnKJwUMYMcM2XBkAxw1BkLCUHC33jkmwhgAiMCDry8FtvhXzO1kG38gt/ifTqBZ9Y=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNqNsVll9URBORB0Ja7erCTnc1bmrSnPSAY2fLxe4sFCNdfYiyJ88fdA62H9n+d61c2j/zQ/dvuCD6L+YhVWLbvL311mX2TPcYa7sigO5BLmpsbiYUeU5D26CwGEr6Lbiw==",
+        "icono": "https://canalcocina.es/medias/images/1703canalcocina4k1600x9001.jpg"
+      },
+      {
+        "name": "Food Network",
+        "uri": "EkaIwYvYUQmdu8f0KwsOZcftz2qaHl+MasNHxZe93eEJvdwGkkXiT1Zrv2K85MjBd53Z0aGMtmy4UGZy68wa4G62m4Ec8Erd39qlycYo/tAwToEiHU4iftRNHzlgQJV3",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIiHJkxVuhAPqXDNT0gqAO3VBIoDFsn9LciqWSbL4STmDTbhPsYVJ6saSxFtwf2equY/PYC8h5tuKVdlDtNbfRtnKV88XgY31OW/hUGIFzgAMbAOJZiv7kUnR815lpKFDg==",
+        "icono": "https://static.wikia.nocookie.net/youtube/images/6/6b/Food_Network.jpg/revision/latest?cb=20220209064632"
       }
     ]
   }
