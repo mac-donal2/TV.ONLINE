@@ -49,12 +49,12 @@
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNQGjW1dpLz522rElcibZT0HFYefm2K+3w29oe2bif3PA==",
         "icono": "https://i.ytimg.com/vi/cuPZdFxCY6M/hq720_live.jpg?sqp=CMjYgrcG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDT1MYPz_GMSk71fMOKr2JvyjJDdQ"
       },
-      { 
+      {
         "name": " Venezuela vs. Uruguay",
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQNQGjW1dpLz522rElcibZT0HFYefm2K+3w29oe2bif3PA==",
         "icono": "https://i.ytimg.com/vi/cuPZdFxCY6M/hq720_live.jpg?sqp=CMjYgrcG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDT1MYPz_GMSk71fMOKr2JvyjJDdQ"
       },
-      { 
+      {
         "name": "LIGA URUGUAYA NICO",
         "uri": "uVDxTPhO0I22wwSdrJvbj70E7Ek7Vs1oxRFdA4CqLFTwW+jVPgacr2wJGkMLVfPzpAhMfAPAVhP2yoDTUPW8GJW5SO0RoHo05ayJmuQCQ8o=",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
@@ -990,7 +990,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPgpUVkJPIfYdLhHlazjK372ZlbeLwZNxiIlq/XgRaCCqCKVjlWop721LJ7jCNDA5jHf86CDpl77i4XXJrwXAjWWRuKbB8YfXf737V5Tmye9xL3D3Q2XT9ZSyjnHcBijAA==",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
-       },
+      },
       {
         "name": "CRONICA TV OPC 2",
         "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr3Ly9v6B+SwnReMVakP8xstaeOQC5B3HMPhPFrje2g56Q==",
@@ -1122,7 +1122,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "pz8OoReJiHM+1Z9fn7DVoLArdQ3FGV03aIcvwJrd5EdNRr73gxIsJyOJ7eYLIHY1/zFOx37XHsVF27A/YhBNGenxqukJjOXQfZYPtFL+e3EyZsAJ9QBz87kT/1KMNIa2Wr9NlxYEVM7iAOQ3CN7Ko3O19XZEgMR06eGKYQUCTfylEwpMe5c2AUGLAirkYh/Kp3lzG4Vva2nyGAQP6nbftQ==",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
-        
       },
       {
         "name": "TEATRIX TV  1",
@@ -3030,13 +3029,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "Bxiz1sRKa8YTnDJ4REA2XJdbTsdghBuUTXeWOIJ9u0TDXIZadfCcapw/VLga7/E+8+fB0VyBtDokdxDBqBfn4w==",
         "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg"
-       },
+      },
       {
         "name": "LA TELE",
         "uri": "V6uLyMT/GdWl6BN42k7nLjpRmAWCv620hjP3YgqV4UknXcdLGBpVy0xP8eiiWuKY9cPEhPBY9h1w8voKCql0XIZFsSP1fIc+vZ25mN6+xAm+KSW6kDgnOsC9LUh0JFox",
         "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg"
       },
-      {   
+      {
         "name": "Unión Tv",
         "uri": "iw+B3fsu5W3Iapr4FNuQZ+wfBucK3xDcwJ8UhRrQor0poUVbGdnc7kphJ2oZfqzyRBWq5aifGL0+UoOUEZ8Bwg==",
         "icono": "https://i.ibb.co/9hqVmzy/descarga.png"
@@ -3324,6 +3323,90 @@
         "name": "FTV Red Nacional",
         "uri": "StQm6kWa9/O/XV5ESMY1+6Le2a2nzQom5nMJLjUSPm6TF4qYoBijfDkKK+t7Z6qp",
         "icono": "https://i.ibb.co/Prct1gv/hqdefault.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎼 MUSICA & RADIOS",
+    "samples": [
+      {
+        "name": "radiocanal",
+        "uri": "RSxjl1qme8Rtl1ZFQpais6/1VjrWYiwe24RGclAaejY=",
+        "icono": "https://yt3.googleusercontent.com/bv_2_Ib1HlUx_iwLnSkZtPGYV_gQciut9czjC0PLl9QWTlQY3Q73ga1jQFuQZZq14XU7x2oDsw=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "la-popu",
+        "uri": "1RH7vyytXEwcdihy+015TUIDrUj5tC2pEcz37IFM/AZhQeEKq1wtsoetWBxYl0yKaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://www.lapopu.com.ar/img/logo-la-popu.png"
+      },
+      {
+        "name": "CADENA 3 ARGENTINA ",
+        "uri": "C4sHdSUhk5Gh0RSCXScKH/x5VvHOh7gfhUd+I2RYFeyr5AE/Xq5rAuaXL+FV1lOtmRqNYSEzGz3DJRIlC23teFF//g2JnsJNAYAf8bMhzaU=",
+        "icono": "https://cdn-profiles.tunein.com/s13665/images/logog.png?t=636325"
+      },
+      {
+        "name": "Rock24",
+        "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KzlPRa0FSPL0kSGgApDANyPdgU5mAGtEEhOwcGqGCqdQA==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0T9KnUS_T7jLjPIET0RndRnMuHwiW1qqwAA&s"
+      },
+      {
+        "name": "la voz digital",
+        "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8Kzlkd+jB1lxqZxt3h0Rasaoja4WTYjism20YyAWGaPgaw==",
+        "icono": "https://i.ibb.co/2nTXNX5/Whats-App-Image-2024-07-04-at-9-52-54-AM.jpg"
+      },
+      {
+        "name": "Vallenato Internacional Radio",
+        "uri": "8RiGx2ef8Z9ohekwIWokObIZIIFaLe4651w9hqNhWywCCiOCOAyoklNg4Xr0TIOrDnYZb6Aarg160Wn2LwyHyQ==",
+        "icono": "https://static-media.streema.com/media/cache/37/ad/37ad3ee67c2378f93e0305739787dc95.jpg"
+      },
+      {
+        "name": "MTV HITS",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJm6P6EGWSknkkaj7OL2PVqpq7xsMxl5lZGPht4gGrCWLzkn+SXJpjKDgqGsEls3c7PzWazH3Ygs4wjo1+6z8wT",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDe7rbW3tH37pTijScMg21H6BRnxj0wajb2L8aFygCRaQkSfpVojN0HsfyQSN4GthqtYx56aRQV0NyRFWcS4Lb1/nZgIGxvLd32XP8tSDe0CEvDPR3W68iZ4YpYsZDZgWg==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png"
+      },
+      {
+        "name": "ESENCIALES VORTERIX",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLrcT2JsIZRRT/0Bsu+wMQ/ytjnY9LZKTs7Eanscdy7NUFXcJm39RCeM8O56y7jXWHBzWmualXeQ1rQpP+n411V",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJBVAfJsVcEu0+CT5MfKKgmuyKdddni6EWY8kIMOq9dAElIQaX5IVYcBOIIJ2bHl3CB823UAYQOtzA3Ldvn1DIj8LnjStWcujuYybB76RHWvGu5oXR03g6H8QNhLMqgVQQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+      },
+      {
+        "name": "EN ALTA",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKjT27GapI5EGLf9GuC6e4ff6XRnJzlQsQmTmGSipBEPUlQx0KCBNm3qY4Gy+JnyDCMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBR0lSLmZI0uaAxeoY9tiI8MDJON+rmo9RTGNEtPp/ZJ4SRuRIqYTiS1Qz+srTFCY+JIoyttTVIECmG/bSKjXXORPGxrVuto91/1U93/wpWTZBgfJdCxP9V8b+exn88uzg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuXpg2iXCKbblA1tSg8Grd0E4T-cfHFm9_Gat3S8&s"
+      },
+      {
+        "name": "CANAL DE MUSICA",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL6IU4swjc1vU1l1J4sK4V4KfRGfx8145jABGMZZQICPKunuyt6coTxHJ0OTTPGeow=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNFXA++gB8jdl7P9zc/NPJiFBR99dVDksDuLbBCMkgCpyjfnK9R6jVb9U+/oe2CXwae2t/b6l51ZKPcSgT/bdlMI/IUAjcOfuDd5lZpPRsg3L2GR130IHK2wloShtLYoTg==",
+        "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
+      },
+      {
+        "name": "CM MUSIC",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL6IU4swjc1vU1l1J4sK4V4ZW9k3vaB6ggHQtDQpYrDm5mgMsOORVrwMWfZ32BgLsQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNFXA++gB8jdl7P9zc/NPJiFBR99dVDksDuLbBCMkgCpyjfnK9R6jVb9U+/oe2CXwae2t/b6l51ZKPcSgT/bdlMI/IUAjcOfuDd5lZpPRsg3L2GR130IHK2wloShtLYoTg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQs2XoXN3loMr6UTK_y_DVpVtxWP9AxwAymBO2Hp9&s"
+      },
+      {
+        "name": "HTV",
+        "uri": "nD9rBpDatMYAXfl1n08glwFtA3vf4B6N6pJgjlGvWfnvuzzeR9SAum9nxlUx0gPfy6kRnYqQJnVVBGEs/O/tJw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMXJWSaX/XJPst+fvd3o+WlZplwi6y65qazcBM4lkkyvfo6mIfgQ1tiSs/ER4BJ4im48DWAvxD9Hb+I3ZyXP3wMeXO7g0VyPSPLx/WSkFr4C2Pisou7jrmgACh9J/wl1ig==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
+      },
+      {
+        "name": "playtv",
+        "uri": "Do+6ng1YkPlsGo3E5SAQCUdLxB2qAzl+ekgoW4doWlaOZIpjpqBXSDKoIycaANixzYPkYxW/luMJpeh99qR+s3BSo1ZIv/0mEXeRxsWaKH0=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "DSdIx5e0e7UeVnllTROUN6ti70VF/QXimS8OyrFMbA3Wc4MaW4gyU6aQL6XuKXZDkgca7Ez4qlKzwc5pdoOwzw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       }
     ]
   }
