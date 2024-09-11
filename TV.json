@@ -3406,7 +3406,18 @@
         "uri": "Do+6ng1YkPlsGo3E5SAQCUdLxB2qAzl+ekgoW4doWlaOZIpjpqBXSDKoIycaANixzYPkYxW/luMJpeh99qR+s3BSo1ZIv/0mEXeRxsWaKH0=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "DSdIx5e0e7UeVnllTROUN6ti70VF/QXimS8OyrFMbA3Wc4MaW4gyU6aQL6XuKXZDkgca7Ez4qlKzwc5pdoOwzw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"      
+      },
+      {
+        "icon": "https://i.ibb.co/z2QvG13/Logo-a24.jpg",
+        "name": "A24",
+        "uri": "I7HO2vaDEGf6CRpjqrwYus8syo3fu/icCIdhd2x8IdoQgWo6mt2y/eSB18yE8lZ+ZifR4B9Voc24dRXem/gFz/rjBj3RWDlSnnboPC4IdCw=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "ZXVhsIXESYvKc82xtn7xtXGXSBg7DQMxZsqcuDiVWK71/aRRiahUJpo4J4TCICLNhv5Wvk7bO3cdsW/VCnkOdnjK8YRt86YNeeoVHVbrcozLwOFaHqVy/VxSzreIp5sf",
+        "header": {
+          "user-agent": "Dalvik/2.1.0 (Linux; U; Android 13; moto g play - 2023 Build/T3SG33.165-46-3)",
+          "Origin": "",
+          "referer": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI="
       }
     ]
   }
