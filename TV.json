@@ -3167,6 +3167,74 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvET60rDywDguO0UL/KG0bcGzsjwHvV9bag523kcjbMvk4jOIGmBInLFJL4GZHwLfm6AFc/WVlL3ZgzrcaEKDB8khLGXO2Y5wU6U4eRUrwYXfhNyk/JL/CZ8jWElPPYp9+g==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+    }
+    ]
+  },
+  {
+    "name": "🙏🏻 CANALES CRISTIANOS",
+    "samples": [
+      {
+        "name": "Dios Tv",
+        "uri": "YtoYruFcbeONwiMybiokl3xelLv8PZ+T+UwKX2QsIE9hGGvduXQVJbBhTYpYEYmjaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://pbs.twimg.com/profile_images/598164936431443969/LKwzeOZ4_400x400.png"
+      },
+      {
+        "name": "Santa María TV",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLbxjDbkJjtbrwDPL00t9LU3FdZb+F8yxImaIv7OLstCHyK1xYWuTi5oktKEbIEWbzma4O+T6ujjeEnnwUjfOPz",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMBElQq2C9oEBoilgWT+FxQKLrUg9h7wsdMtpwPPQEvEowGnkaIupMCKe8NoscoB7w/F6NSGWGPtmJwfIdC5kWZROmu2rmzRAtYFAH7KdHkL/aX/7Bc2djrIY6QLRNAjaw==",
+        "icono": "https://pbs.twimg.com/profile_images/445976084186554368/Ch4aqZPR_400x400.jpeg"
+      },
+      {
+        "name": "EWTN",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJI14TaHdx83Pvl5LHiZw/sAyzXWu1wiQhsxISW6RP29IioykdmwLPcLYteaT82BEg=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfefAPIdvC7vxkYq5NuIPPofhRDuO17Drv0bscTyq+YfPiGs6PyVXBv4D5GoYCotKLQC40+rofvP55IYSXMhmScfHYSHKJlCeRfezsrgPWseYJKeYPozaftnK0+Vn8zxzCI/NBU5vzURtFUCLDTUAHqoM=",
+        "icono": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw"
+      },
+      {
+        "name": "Nuevo Tiempo Argentina",
+        "uri": "YZLS+agqcsKfn2C4SA3F8jxJ3nKBFRIfSE2BSrYGSVvV9C9Rq0ToCprMU1xY5+3iHGefN3m8CfAN/GD8L1XAy78zKgoTOVA/7LqRZEY33Ci1G6xmN0jY8h/BMvWywfFe",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStuy-k9lWdOAzYD-lwRiba82ahFBzh5W4Mkg&s"
+      },
+      {
+        "name": "MovieFE",
+        "uri": "zq3s+OHnppwzLIcyaN6InmWs/ItxQw/eykVWbIWZFCpv92MAxLnjdfHoxwoflMNKm2FSVaCR4wsuPIumsFqKRg==",
+        "icono": "https://cdn.m3u.cl/logo/928_MovieFE.png"
+      },
+      {
+        "name": "LOGO TV",
+        "uri": "0vusnf1dTwbY9nhbLiZcqC3tkfkgCv4nvLMarD9+iIoVbXeeXA1aLknF2WszOKxmljxDhtoXLdCyMtoJ8JpIwHYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://static.vecteezy.com/system/resources/previews/008/349/469/non_2x/tv-logo-design-flat-icon-vector.jpg"
+      },
+      {
+        "name": " CanalLuz ",
+        "uri": "vcqmXsaPqRy62+vRXI3UV2drQk2LtiouiMQbtCuXktnbl3nvJhrBjebn4co2Ja2P3h90q74yBB9vB2hMv61lrWiuU6lsJ+9rON76pdeGO24ZkrJ8G/Dzg1JuYV3WUPfC",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB5UvUe8QtQHcacZtAJ55g/p440tbFgYXWH6tlkUJ6tw0GHXbASQkJwEcxVGl2bdBQqOCj3JED3SQyyKeYvN3aTqHeCI2YYJdPpuzkKd2FhqxfsKddCQoRgXW7Ht+11gOg==",
+        "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
+      },
+      {
+        "name": " Canal Luz OPC 332 ",
+        "uri": "vcqmXsaPqRy62+vRXI3UV2drQk2LtiouiMQbtCuXktnbl3nvJhrBjebn4co2Ja2P3h90q74yBB9vB2hMv61lrWiuU6lsJ+9rON76pdeGO24ZkrJ8G/Dzg1JuYV3WUPfC",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfea/ob+kAmLr5DQw+ZZIG+iN9n/XS5bRyPR9o1dvpirvj7MDZaF0uK3cqjfPj7SfELShZSLnENaO1eWC7hQTiSYspLAZqHrT2528wJy8JIqscxZvfmD3nBCpUxz/3yenhIg==",
+        "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg"
+      },
+      {
+        "name": "Eperanza tv",
+        "uri": "Vf0G+U9hN3NGtSh2zGP2wyDL/wFMYuJpDcZvVl9YaA/paXkNfzIlEtjwdP1pxmfU4iywuYxzBFntl6ViJekXdgq7+YugjdBXcMTPOX0Xq/s=",
+        "icono": "https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png"
+      },
+      {
+        "name": "Faro de Santidad",
+        "uri": "8SN1HODLKzaKzw7BPWALOdy3EDTSCHVtK/F32UG3sRPJyvVlPpPMrtkSusdaoAu396OOXMKM201gIQAL80JITLdbW9Htl2OlJvk4GhUrtqXZuPih7u8zKgxjOlbosu1nIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://static-media.streema.com/media/cache/92/a6/92a62f1ddf5d1f1f7f34b299faa15bc0.jpg"
+      },
+      {
+        "name": "Misión Vida TV",
+        "uri": "X/46AF5QTwFVm1il51JKOdoHNRGOMH/TS///4KYyVg2dKEAl3S4Gx8hVdBBvLqWo",
+        "icono": "https://pbs.twimg.com/profile_images/634219937016467456/BEUuY5T2_400x400.png"
       }
     ]
   }
