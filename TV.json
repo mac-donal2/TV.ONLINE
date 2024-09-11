@@ -3069,6 +3069,104 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIiHJkxVuhAPqXDNT0gqAO3VBIoDFsn9LciqWSbL4STmDTbhPsYVJ6saSxFtwf2equY/PYC8h5tuKVdlDtNbfRtnKV88XgY31OW/hUGIFzgAMbAOJZiv7kUnR815lpKFDg==",
         "icono": "https://static.wikia.nocookie.net/youtube/images/6/6b/Food_Network.jpg/revision/latest?cb=20220209064632"
+    }
+    ]
+  },
+  {
+    "name": "📺 NOVELAS",
+    "samples": [
+      {
+        "name": "TELEMUNDO",
+        "uri": "6cyGTHCJHouDyVOj1V3TSh9gliP7xFfkaxl/O/NomF7jjSMwuxuaB8rIP0pltYClYcNJFNqgMo0SR34jL0TUcZWaaK7lhB6VLUB6qovX3rs=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
+      },
+      {
+        "name": "TELEMUNDO OPC 2 ",
+        "uri": "naesvCySKo8f+hdww3SWgDXZ+OBCBaBecy457O72dhRMs+7tLSt32CTmC50RDzKGDI0L1XqUf12VjlEWLxKoOvzKa6/o9A5UFXWVq983FPOmlbkl6rVHyjvHrtS07GNh",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
+      },
+      {
+        "name": "telemundo-internacional",
+        "uri": "KusJ5ShfomSLrFIJxHev/g0wCvJzSY8sJQLZa+o24xCXfymEfZKVjJaXPcutg/lM9cs4SYJ3IuG+2mYqLZbgkuJtqx7A3vUxYcbP+61Ty26ud8vrEBO5dScpEfHFtaJE5FLgOLdmyJMRa8FcrSEHdg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMqTbK1T9nXLpH7BZx2oYy4GrNV/tLVbox919ewvRm9igHHtLfMoqCIR4zC9mHJAnTq+I/xKiYpRvOBU6bHBbevwVdOaRFkpBUZEZbWveb20nRgh9ZWFsIOozmf/TZltvQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
+      },
+      {
+        "name": "Canal RCN NOVELAS",
+        "uri": "wV32FVzLcjfrjGqmdCfCsgl/U7U2Z6Uszf/5VLa73uHqj6lQIQTafibcuQ4/RgV7YifIePW0NLO/iu7/Cqyklw==",
+        "icono": "https://cdns-images.dzcdn.net/images/artist/a0b00452185e46f1fb541cf9287b9599/1900x1900-000000-80-0-0.jpg"
+      },
+      {
+        "name": "Canal RCN NOVELAS OPC 2",
+        "uri": "8LgC0Cxityuxf0RDNTZqOqgZYQzNUCBCP/taXeDS3SH+qfcpM24pq9eOuZEPzullaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://cdns-images.dzcdn.net/images/artist/a0b00452185e46f1fb541cf9287b9599/1900x1900-000000-80-0-0.jpg"
+      },
+      {
+        "name": "TLN",
+        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147AiwiQmKP2mpYRPS28FK4Fa9utNy35YA261RXBD5nlBD56M8dB0GdFd1ja6jcxMHeiDqPBIJn9vXiQFe+s1WwVl",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGAiDcZDpGg4nC33mL/0P6F/trlJOF52AwPtvyTWazTikFJ1FjWUexfEs8hbs/nyFzZW3fHp3MDbJz5HZKmByIrkZ8W4VO4f9w0Fq5zk2KrIvS82+kou4vct3pGYIPgG9A==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png"
+      },
+      {
+        "name": "TLN opc2",
+        "uri": "mkYdbUcrYeGsa8N3BZLz0q7abiHVa2owb3uyS4hDDsNVXJRpwyeu3w+Doolr4sAW",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png"
+      },
+      {
+        "name": "TLN opc3",
+        "uri": "9ze7zoWeEnlExpv5EF6qZnFVxSTPgNpmXXXDbJdvs8MnCP54hJxnZb6/we6AnHrQdgU5mAGtEEhOwcGqGCqdQA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png"
+      },
+      {
+        "name": "Como Dice el Dicho",
+        "uri": "LKY06lOhOyBwZjSJvWMZ1AsA7Uy0zo1tZ0fQJ1ituZ5Awk4f3YONW6FWcPmZRvqZaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNzE4YjU4OTEtODY5OS00NzViLWIwNzMtNDY3NzkzMjIzZjc1XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "CANELA NOVELAS",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6AqfyHpaYh9HaMwKJNyPJLQ==",
+        "icono": "https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/channel-canela_telenovelas-16x9.jpg"
+      },
+      {
+        "name": "PASIONES",
+        "uri": "LX46EnLWmPsTQWzzE5C2pPXiNq+e/X0LQQgJ5Zps366J21yN4J21BR5omZTUlgYinTHwt9mm9NVhdaIkki0z48XT/tv169FSIfk4Ms2PXYuxJ7MycC6TI+i7/oY8KLQw",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEZpTSRTOkFFgWzpNJnraH6hRIxYV1OmbtmyAAXbgPL8EJ6IxHQVtOAXqtpXT04xPpWJEgKqg9SsCxXnYb//reGD9gc8rGFI/jW3UQi1+mxivZDAtov0GNRBMvnGYuqegQ==",
+        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
+      },
+      {
+        "name": "NOVELAS",
+        "uri": "/dpci2E3xeGAIZhMznZrm78huGtpKc1Om0NKiNaAj5YMAIlbxQilxg6VoIRr5mwpxwQwXV7gmUvtsFLErJau8g==",
+        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
+      },
+      {
+        "name": "NOVELISIMA",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGM4lzipYuPPtLxTTQKSirK6eYkIwwReCmV0MzewiaFL5w==",
+        "icono": "https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB"
+      },
+      {
+        "name": "PLUTO TELENOVELAS ",
+        "uri": "At33rBmLbsQ8r1xsklrRUAlQaQsm5nYrQg39iWHK5lXFhPN4xKpBshTPsJn3J5CavLxqXCqCZOFZRIKMawYrsjw8bbwEijgoC8ejjunaXKZWFx25aavD9BAfWioy9a6ihlRFU3803Jhq+BbH/Q1v5shNK0TxW/KdMq3ghZy91wu4BNlbWcvABJFCK5qnvVOMaZR7j+/bZ7Zl2x3FzL9NMNN4j27CAMADS6UmXz0viB2UdpE+9X0D1KLQO8Vki/qj94YXVE0JqnbAfuFfuiCWPmmj0HN4/eyN9HTeKa7JB0u8TAsc9OrV5knTW9mwL5LSk7BnDXHDqbyMg672F1gcuwoVMBy9FpnYy5h0VSy8DOYrVO/unq0+lIaNmIlIPSYLW67aF4B6tey9bFpo+wFD2wsA4AgfbvmHige8nZAEVJ52ed03Xxtoa2lthdpsXyQK3RSqUgCvC51M6gzXRhCY/zQ19mmEIw3eLDsL8wQfv9miyIInP0rTHrSjvQpJQtNzM0gn2ysqBdabH2W62XZ66Z422tkLsRbMk1LeIiTTN3Nue8HbQGEkf+SFHMIv7L5K",
+        "icono": "https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg"
+      },
+      {
+        "name": "NOVELAS INOLVIDABLES",
+        "uri": "ebn980AlhpZGrTE9U9jVESdn2kmMQN8orrb2JFCKHIfRVl+zfFF2U+hZ9UHPg/nRg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-inolvidables-16x9_0.jpg"
+      },
+      {
+        "name": "SONY NOVELAS",
+        "uri": "+cXdS7WqUIRnGi+Z9PBF8MQAIhRSF98BhZwQnAWFeCA9ysntQYuE5OjL8wBbF951IhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGW5z_RzPO0yqZXPjOTEEJKe8ccAtkqYcDFA&s"
+      },
+      {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHdU3mGBahHMg+F4eyxYc2vMouaSioOXFnRCH5KJfbcGlRDGS0A3tJ6POIse9jn935A1y1OhPrTbliQSx8QpJO3eRS4Di3ZsiTEWvBXK0hB3Y=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvET60rDywDguO0UL/KG0bcGzsjwHvV9bag523kcjbMvk4jOIGmBInLFJL4GZHwLfm6AFc/WVlL3ZgzrcaEKDB8khLGXO2Y5wU6U4eRUrwYXfhNyk/JL/CZ8jWElPPYp9+g==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
       }
     ]
   }
