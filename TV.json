@@ -3415,9 +3415,9 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvG4bbl1PHpzxPV0tQt4eLIyq9iBz8BHaFk/wSMDvIDhTqjmsJsI52V8I8GnjHIcuvEH1fJtB0R+qd7Chk7xZEZJqm6pF0n5do5NiLG+KZm2UAZQ8zCQUdBBv4r0FxjzbnA==",
         "header": {
-        "user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
-        "Origin": "",
-        "referer": "1+HZcuuQ8b633MbAvJbH1R1AOOhqvbBzKymMddmxaHs="
+        "user-agent": "no",
+        "Origin": "no",
+        "referer": "no"
       }}
     ]
   }
