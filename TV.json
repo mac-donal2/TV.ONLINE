@@ -3409,21 +3409,21 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"      
       },
       {
-        "nombre": "DHE",
-        "uri": "gGpVxLzFk/l/Ocvd4EzM9r2VtSEQNO5A3oSC2C1gJmCHf5xHoiluYIbvt5ql8wOzRHTYtJ+BauP7o8ZByVuij8upEZ2KkCZ1VQRhLPzv7Sc=",
+        "nombre": "DHETT",
+        "uri": "http://cdn-cirion01.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_url": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJ4/NpzM3l28L6RyvgSiO9rqVoFSjjl7A9Pk/AYeFiO7cO11qvmS0QjR2M51VKXKT9BV3Pdb2eCnbI4FvBZqZgOc87GBLjxksY6bpobpc+ldXFr1MVxm7n+zlRjwMrEWZQ==",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5453180074c0a8ecfe2a21e0cd5f2c1b&key=1150fd93492ba8609fb94d0a3087b3a5",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/800/542/0/0/76775190072352.png"
       },
       {
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg",
-        "name": "futboñl",
+        "name": "futbÑÑÑoñl",
         "uri": "gGpVxLzFk/l/Ocvd4EzM9r2VtSEQNO5A3oSC2C1gJmCHf5xHoiluYIbvt5ql8wOzRHTYtJ+BauP7o8ZByVuij8upEZ2KkCZ1VQRhLPzv7Sc=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJ4/NpzM3l28L6RyvgSiO9rqVoFSjjl7A9Pk/AYeFiO7cO11qvmS0QjR2M51VKXKT9BV3Pdb2eCnbI4FvBZqZgOc87GBLjxksY6bpobpc+ldXFr1MVxm7n+zlRjwMrEWZQ==",
         "header": {
         "user-agent": "FFB3+/a5/zcxlwOWb69naGj8aOwsNxbRQUXSuTBoMTKnV1RS8udhLzTfru7YNEdT6Ea/g21xlCdOUTZq3lwiTb9qpmOB4XI7vwOpuYNR64BD2Wo6ugOTWGut2lTsOqbGvbw/T0b1uY6dXVqcM7zKFsQd66eayimMCmDFW/vaoKyVlFRqu2otfYddvyJm0ikv",
-        "Origin": "",
+        "Origin": "1+HZcuuQ8b633MbAvJbH1YRh/53hXyqOPqGIXT438DM=",
         "referer": "1+HZcuuQ8b633MbAvJbH1R1AOOhqvbBzKymMddmxaHs="
       }}
     ]
