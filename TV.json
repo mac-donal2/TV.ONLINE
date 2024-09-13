@@ -1673,6 +1673,11 @@
     "name": "📺 CINE & SERIES",
     "samples": [
       {
+        "name": "+Cine",
+        "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SoztM34bbuRtA+iQ9b2ANwAuSdgU5mAGtEEhOwcGqGCqdQA==",
+        "icono": "https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg"
+      },
+      {
         "name": "USAA",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLN7Cp9laIGpM7u2yCm7C12Fjvw+65k/CANUsZAPTyvKgkvXgLbEP+gX4C9NGURbxzIknU0d7+4jo4ysU3f+QtW",
         "drm_scheme": "clearkey",
