@@ -1125,6 +1125,13 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "CANAL PROVINCIAL",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSc1q+lHN/7Yn4TtynHYtZ9fdthGBoux2G6ZWte+aiXl6rPwPrdwL0DBTdJ+NPn3QQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "Hoq/0lvHV+XwCDj/Xp/oHDzm3JAuic0pF9zxJoh2JsT3epD6MQyG+UkAJNverCwtMkL3xeYr0C3JkKGWMgfLSJTgy2eYYTj+/ms8A/O58gZOE0cmpA6WOp4uFRqHjkpi8dJpa46o87Ns8SK6PG1MLdFHaSw7973fOgPAvy9kvGIQ5m8sTm1rw6I6GrWWebyLntZ0KvoNFxURJwKknOpCxQ==",
+        "icono": "https://yt3.googleusercontent.com/th9FIjwWfxyjC5WnmRj0xlBISa5FYZR4MKHwBGr6fI0y8OXmncctu72Oeao7rPYUOrkI0ZZ_2g=s900-c-k-c0x00ffffff-no-rj"
+      },
+      { 
         "name": "San Luis +",
         "uri": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awqVIuvMDpOXrAiL6PwKGGJqQ==",
         "icono": "https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s900-c-k-c0x00ffffff-no-rj"
