@@ -1101,6 +1101,13 @@
       },
       {
         "name": "ENCUENTRO TV",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oQPPZ7TACR3B1oi5lIayOZOzMEcX1IKq943BLSu45ZZuwXjCZCts9RQIXVc7d3wMBg=",
+		"drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCTy1BNVV+153PtcQICKbpKpWeQ3QBKDAjEdiD8d1GEtjcj4uugRtS8mCPj480sEPjYkxorOUUs2JSs1A8qVCvj0FzM/nqWaHmDSpxBfiSoPX47ztnXvx6ELDX35TMVVDw==",
+        "icono": "https://i.ibb.co/WVrgyCt/unnamed-2.jpg"
+      },
+      {
+        "name": "ENCUENTRO TV OPC 2",
         "uri": "S+QuM8f2JGeCSTClhSh7Cq60SGXHXoI9ItCVDKORvtrX6R9aJaKyScj/08giXiyCECcsMHzyKlmQMqguvFh/DINARVoQWmbbLUeFMmgHLa8=",
         "icono": "https://i.ibb.co/WVrgyCt/unnamed-2.jpg"
       },
