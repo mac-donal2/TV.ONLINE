@@ -1652,9 +1652,30 @@
         "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSe8fIsAwOLmRZ1jTeWTaRgpr8qHIMcCHvh2CV8qKM3KQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvExyw8egPGcfhMgFCgARkTVmuu6EC9LwBY3jc+SVaf8j74dES/udmr71iEZiWX0ShCdMcY1uql2QHXCB5JJc6/Qh0JaBaWldFMQz1csoV642KuzzKLCkosJ9MnhHegF+pQ==",
+        "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
+      },
+      {
+        "name": "HBO 2",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oTnEua3Od7CgViWajpEViVZonwntTetfDRP9M86E3Zr58HNaa5qVd5DWtCk/6fjXVU=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFGbPnVuWytMSLTFWgYi5WyXJcso3IHqrp1lxLHqplmY+107awCeql0zqLWEVGhF2H+qjHGQY6aDGmIIM/nfv0bZwoo1bwBip94c0URoq0Onj/sxZJP+xu1ijVv1ytusTw==",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
       },
-      {      
+      {
+        "name": "HBO XTREME",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIxVdo8kctqgOEzCPD+tMUw5rJlCoAe9VAyd9g8emUkCrLvpWYgBrewh4aeZ4Tm+dCMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGXhQ0dvM5HIpdofBwOXAskt6mKvdY9OIgTXPCRS444v41SgQSfDbvnt/FSHn0slBZLH+uHChj0bWpj9PtzLNHdQL7yUMrVBzymNcHfR0WJnm91J1p5XC3YXqdj+Gi1zig==",
+        "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png"
+      },
+      {
+        "name": "HBO XTREME OPC 2",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oS7Gi/qgCdfWygBLuCejgmdXJBXXSjV1rv53Nxjr426/dl2XQMySnUUTOWQytIVkjo=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHTekbyeFarG8pvvoozduXSIcnBqRhLxe1CUksmxF92RWztM6yXRvr8piYx3Ayf5ayiVHoSuHIRvSGc724B50bQWRi+ChdRRgs3iLvlRyvIV6q/iFGnxPdwRyYb/13uL8g==",
+        "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png"
+      },
+      {
         "name": "UNIVERSAL TV",
         "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEJmXBuqeXlq3KAdZYIwvuJQChqb1nORlT/1di/uf8ApXjHytRxg8Ery0wTr9rrQB1rhnWXihsE2Ng8hypAPtWAf1kWLi1BuOtO78uyXxw0PWg==",
         "drm_scheme": "clearkey",
