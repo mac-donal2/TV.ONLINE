@@ -1700,6 +1700,20 @@
         "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png"
       },
       {
+        "name": "HBO POP",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIpA8+hEZobvgNfsuFsgdhmryOwJVXG9v0XAfvAHV4X+3jsvz/I624oCtxBHSPwWmtp45ALkHccw+E8WuN7aDnp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEkmNoozjMWx/9IdekSu9YYfyQiMHmuf4AFlmFjDNLrJAGXecAPG926RTAi5Aqlam1VHEjV3FXqnwZWdmItGzZH4b6MM8HEQMUZSEpDFB311yaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png"
+      },
+      {
+        "name": "HBO POP OPC 2",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oS7uX9M6lG1UQfyoVuvUcMjbZv/HCYnsTAa9ZEaCKCBfgFVAMaSlvCvhol+ILNajqg=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKeQ8iamb908a8iThHE1Fq1GplnMIFE6lvkXC/dKGkl1Mt5m4G9eLyoazKnYZVXs3nAexASNLpiJfS6en703wNdYaOAwMW7hmofDA0pwkrOfUIiiJbHFIpyIVdBO88LR4g==",
+        "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png"
+      },
+      {
         "name": "UNIVERSAL TV",
         "uri": "KusJ5ShfomSLrFIJxHev/qO9585W8+vgOl/77FW3gEJmXBuqeXlq3KAdZYIwvuJQChqb1nORlT/1di/uf8ApXjHytRxg8Ery0wTr9rrQB1rhnWXihsE2Ng8hypAPtWAf1kWLi1BuOtO78uyXxw0PWg==",
         "drm_scheme": "clearkey",
