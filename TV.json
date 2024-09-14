@@ -915,7 +915,7 @@
         "name": "TV PUBLICA OPC2",
         "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79Zqjov3PmMjL54LOeUcqK7tU7Eyk6IO7XcA03J8XyMg2C1Dp0V0YJfXNpm4HnPNPuh70/s1yBI89HP4DRfiiVdf",
         "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg"
-      },
+         },
       {
         "name": "C5N",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmI3k0s7brdvQZPFAUTeEn9IJYcMEM1i03IU+Vk6RK5DsyLHotHl/IG3YB4Y0lKYSiU=",
@@ -925,6 +925,13 @@
       },
       {
         "name": "C5N OPC 2",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oTfQwHe8DHYOE6dfGK3H5d2pUznAhQcmmx8rpu9q6w60g==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBMbA8aIbuT9x6R2K5lY8TVq++DssATnf7Y/b3Yza15nPW4a57EkpnJI+DKQ57Tg10BW52u/9uxpRbgZERXsBzk3DWXxglEY5EekqjNBLqmF9zoucmogmd+2fywR7y3TLA==",
+        "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
+      },
+      {  
+        "name": "C5N OPC 3",
         "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79YginYaXd7dIL5ZI6haM5Atwc1prmpV3kNa0KT/p+NdVQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSoXpJctC1/u+LAVRXMTcj0slL5iSK2Xx97BhSOhcvt7Uwazt7RYgoMjphNwA7YxWwMy+RVJgdpE3yGE1F96R5sLSSyw346Ajr+rZinotb2vS82+kou4vct3pGYIPgG9A==",
@@ -980,6 +987,13 @@
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
       },
       {
+        "name": "A24 OPC 2",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSWoVxSdXUmieKSBss0GZjFJ5eOiichJslxsZYIl4tpQg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAr7lgYc0mYcF4VUKZpQe9KguLOITQD2Pcse7e88BVoJ8IbUDkuufD86U5jlpjwzgknixFcwi4cRv9VpdcJILmoUPt5HbmQAT92LxkOfjP0O2l9JMS5Ka7gwsHIOTfJhng==",
+        "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
+      },
+      { 
         "name": "CANAL 26",
         "uri": "KusJ5ShfomSLrFIJxHev/jXIAcht3gt6FMFILfqq4pVmXBuqeXlq3KAdZYIwvuJQeUEDYm3/VcF/FBeH1C77Uv6w1hhAk9N1bGzR+TW9uRDu/z8QAUaM/kvaCYEISAAk",
         "drm_scheme": "clearkey",
