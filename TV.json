@@ -399,12 +399,19 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeTq3bc2hVH5xNxMAc/RruqY4Fan3a2iiP4ZgevpS11Vg/ZNYpQD9HWg7WDsXVvLGOOVneZ4XOeFECxdY6zHiSx+V70Sixl/pibqaiXR6LhCm6oy5xsvsDE4rtRCuSDROxg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"
-      },
+        },
       {
         "name": "FOX SPORTS 1",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72qFg1SDWXWnezHyZkilPJ2Vo4ZeffaLUqA3S4Agk8awiMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKdac3GmfGcWq4swPhlGiWGNE1mUAbefL4YopnM7OhKU4MH7g6+rzboBB1RbuOtKz+YmDyaynkbZwDvK4AbfxqcmJVKveF+NNZpzUBHc3cSLFU6viS9GkGMpwi8GW4UB0g==",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png"
+      },
+      {
+        "name": "FOX SPORTS 1 OPC 2",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRqDmQ1L6K95/7GaXs6NavA0fLYDZFAFtXg90BnTOlqlVKgtrEe6dXheHaQi/kp/1s=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFBuqtc2Xbu9vzBDJ1j4IYdIEy9+CvVOD0FnQgWtfdef72FUijhLLqC+vt/IPFPYazw9E4nvtlXhBuDqAjhvxORWRnEMWMNsOkXKqnxlooATV5QuKoaDOmvtiByewwZN7g==",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png"
       },
       {
@@ -415,10 +422,24 @@
         "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
       },
       {
+        "name": "FOX SPORTS 2 OPC 2",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRqDmQ1L6K95/7GaXs6NavAFO7IAc0/DttttzUgA7LVgs4pKhuls58TKzBJ9hOLcN5p45ALkHccw+E8WuN7aDnp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvE394akpniScBq9Zv3jP1F5En9xA7k46FE47oxugU4npvEpxQp5hSMUAvBS25sLH50HbyUnp0bNJXlcB2pSBNXrhSgVpHN20CaIM89CzDIQe6q/iFGnxPdwRyYb/13uL8g==",
+        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
+      },
+      {
         "name": "FOX SPORTS 3",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72309xw6xvbhaJx3Bglhpbe5NEEMbLpM0R81ZeGfci+8ETQxw0mmGl9mpGrSB85zQh",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIJCwMm24xCLjRRiQ5CdnWyd3wAKxxOKQMwxOfBLKzQ5Jqu3ZY+HrQFobWbOmJS7WSn6VUU60VN4M3RiSXjByZbxpTHoDZgw82De2TKfdf1QFU6viS9GkGMpwi8GW4UB0g==",
+        "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
+      },
+      {
+        "name": "FOX SPORTS 3 OPC 2",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRqDmQ1L6K95/7GaXs6NavAb1I/Qysmis7cclNjZRn5/NIuT9qew7iXUDJTE/FilBFp45ALkHccw+E8WuN7aDnp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEjyJ2WjEb752Q3e59QUoDjWCdtiFImKEgha3l1fnG19wC/nXasXAbAwXygUrQ5muSyK6yrFESxLqInHs+aUQWItIUPsRI+6keurHfuWSIOm7/M+0HqK+C4P2T2y17VppQ==",
         "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
       },
       {
