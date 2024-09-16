@@ -3507,15 +3507,14 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
       },
       {
-        "icono":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "name":"telefe",
-        "uri": "gGpVxLzFk/l/Ocvd4EzM9r2VtSEQNO5A3oSC2C1gJmCAGQDdXbpSB37J1KQgUhcXY9w53dLiWlp5jBKuMa9q08upEZ2KkCZ1VQRhLPzv7Sc=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAr7lgYc0mYcF4VUKZpQe9KguLOITQD2Pcse7e88BVoJ8IbUDkuufD86U5jlpjwzgknixFcwi4cRv9VpdcJILmoUPt5HbmQAT92LxkOfjP0O2l9JMS5Ka7gwsHIOTfJhng==",
-        "header": {
-        "User-Agent":"FFB3+/a5/zcxlwOWb69naKzglU2ZvJ5ZkFoQcBJJd0paLIeuXeHMm4b6CWglSU+UhyQu7V0j7EZoaXpo1YUConrWrhKrqy6c+5FRGXK2RLXR24ZG/o3BN4peZ4LPUjNNMYO/t3FrKUL+l3WgwF0DwlfafBJ1BRwnc8SdacwgXnkpGdC7H1kjwWIcylB6FekN",
-        "origin": "",
-        "referer": "https://player.sensa.com.ar"
+      "name": "América Sports",
+      "link": "gGpVxLzFk/l/Ocvd4EzM9r2VtSEQNO5A3oSC2C1gJmC3mCl/RzDD2obApYSRUOBt1P/15M+67A4P8TNo5DE/CLwMFzQEbxw33O9H7O5BN4/NVsLGykDnp8ayGwYX764v",
+      "web": "no",
+      "icono": "americasport",
+      "license": "https://mrpw.pt.verspective.net:443?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5",
+      "ua": "v/k2L6BzeErF5iv4D2mcsWz1NZz8pee47s8CchEzaICs8B2zA9kzM01oiqajI9LflFCj7mE/GhPYItValY0+OCI1UP7+vVNodPV7KxoCLUE=",
+      "origin": "",
+      "referer": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI="
         }
       }
     ]
