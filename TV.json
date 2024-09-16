@@ -3512,7 +3512,7 @@
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI8O8j1Ktm6xVNrN3p8+pa0dxiVaAQ1XTn2hjNSjPzyj6ftxvpVpNg41tULsQQjQd4",
         "drm_scheme": "clearkey",
         "drm_license_url": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
-        "encabezado": {
+        "header": {
           "User-Agent":"FFB3+/a5/zcxlwOWb69naKzglU2ZvJ5ZkFoQcBJJd0paLIeuXeHMm4b6CWglSU+UhyQu7V0j7EZoaXpo1YUConrWrhKrqy6c+5FRGXK2RLXR24ZG/o3BN4peZ4LPUjNNMYO/t3FrKUL+l3WgwF0DwlfafBJ1BRwnc8SdacwgXnkpGdC7H1kjwWIcylB6FekN",
           "Origen": "",
           "referidor": "https://player.sensa.com.ar"
