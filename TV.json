@@ -1,9 +1,9 @@
 [
   {
-    "name": "🏆 EVENTOS EN VIVO",
+    "name": "🏆EVENTOS EN VIVO ACTIVOS SOLO CUNADO AHI EVENTOS",
     "samples": [
       {
-        "name": "EVENTOS PYY",
+        "name": "EVENTOS PY",
         "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "drm_scheme": "clearkey",
         "drm_license_uri": "Hoq/0lvHV+XwCDj/Xp/oHDzm3JAuic0pF9zxJoh2JsT3epD6MQyG+UkAJNverCwtMkL3xeYr0C3JkKGWMgfLSLz/pkSnds6wyQtXnYbk/8M0JosQNZygogQmOs0Q19koSKVnkPgX2Up0Kq9OnI8wzfmpf/tm3k/qOEpnghz8JgotNU2DZrvsjfFVJTUjW8sxnkorAolbpBfEGtTAQ6YRuA==",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "name": " EVENTOS INTERNACIONALES",
+    "name": " EVENTOS INTERNACIONALES ACTIVOS SOLO CUANDO AHI EVENTOS ",
     "samples": [
       {
         "name": "LIGA URUGUAYA",
