@@ -1664,14 +1664,9 @@
     "name": "🍿MOVIE 4K",
     "samples": [
       {
-        "name": "🍿Furiosa: De la Saga Mad Max 4K (2024)",
+		"name": "🍿Furiosa: De la Saga Mad Max 4K (2024)",
         "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlqBNheowvUnV6Fdu9P9l/+NjADMhSNjEblFQt+LKVKGzbmfOSndPyQS24gmZ/RQlUxjoawMW6MQcF2aM5Y/J6Ic/0z3bniUYF20sCcp6w8212cY6NXtoUJquhi3YLE+pVxurXBqtxCWuB6OEUlmQfh",
         "icono": "https://pics.filmaffinity.com/Furiosa_De_la_saga_Mad_Max-943403371-large.jpg"
-      },
-      {
-        "name": "🍿Twisters 4K(2024)",
-        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkvkOEKFR0+L4s+cvviaplDrNKHib9HwUzwLkKLP2k7ediqsw1Dd4xWBHD+jtktyIkMzVZr3O7wOhEqIcKo+NlxU7+OIDcaqURB+a07tT5YKQ==",
-        "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/twisters/images/regions/us/updates/onesheet.jpg"
       },
       {
         "name": "🍿El planeta de los simios: Nuevo reino 4K (2024)",
@@ -1679,39 +1674,39 @@
         "icono": "https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
       },
       {
-        "name": "🍿Godzilla y Kong: el nuevo imperio 4K (2024)",
-        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm92jAPuWOumzfeXNBVPh+CIQZbEQsgKIFRgRn00JLOHY4Pl4bA8RiS2ymQfZuEIjO/oihAMMS/vsoc13G45j5pynPp2z+sI7yBH4VIVYGO/mAvXcEG0XF53PUwnNgtradOItBzSiMuPttlvoDCr7kB5fnN5ceksp6/znQTE/+62Q==",
-        "icono": "https://cdn1-production-images-kly.akamaized.net/X2TwL_QHmKMwpIKPRxnTLPW-XjU=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3434129/original/036544100_1618898169-MV5BMjk1MDc2ZGQtNTdkYy00ZTRhLTljNjgtZGVkNWUyZjYyOGFlXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_FMjpg_UX1080_.jpg"
-      },
-      {
-        "name": "🍿Un lugar en silencio: Día uno 4K (2024)",
+        "name": "🍿Un lugar en silencio: Día uno(2024)",
         "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkXEI4+fhO5HtuCyUsuL1rLqhIduPw46e/TMNIlroaHGuDhONzswlTyv+qt55igjlt/xwpqwcTShOCrv9oAgKbAzLDLfLyP7CBszIb5VSlggrNqTs/Z4zYzMuUkApZG3UJKD1ZkksVLmsdqzY2JjqVxcSv0eQo3cxAUlZ2BPupG+YHGLmP4f7TdhvbB+A1pFDA=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rFS59g2f6iBPaUrL6uKFsWwGc1mn7kn87B1VgFqk8hNXx2Pd"
       },
       {
-        "name": "🍿En el corazón del mar 4K (2024)",
-        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frk6WRseroEXdEpiZJLhjn9GEu4lshBdR9LtYhtZ8uWTItLzQUrMisFAPgcLnrMgb19U+OsUFIYOjOin93EaHWeyt8ScWlZdHYwof35A3QPTMVx9bBbfmKIvHnYCECOyAVc=",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMjA5NzUwODExM15BMl5BanBnXkFtZTgwNjM0MzE4NjE@._V1_.jpg"
+        "name": "🍿Twisters 4K(2024)",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkvkOEKFR0+L4s+cvviaplDrNKHib9HwUzwLkKLP2k7ediqsw1Dd4xWBHD+jtktyIkMzVZr3O7wOhEqIcKo+NlxU7+OIDcaqURB+a07tT5YKQ==",
+        "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/twisters/images/regions/us/updates/onesheet.jpg"
       },
       {
-        "name": "🍿Godzilla Minus One 4K (2023)",
-        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm92jAPuWOumzfeXNBVPh+CGHQ/oaswPZ6KgnFWYWHF8Vv//XhiXXYxOil8I5J6BSSVlc9S28o5rvrI5oJlKBrtZnaqGG4qAMVpvgqIYkSf0jR2SQ/p8i92qO7xFXH+prI=",
-        "icono": "https://m.media-amazon.com/images/M/MV5BOTI5MjNjMTMtN2NiNC00YjBlLTgzMWQtMGRhZDZkYmY1NGU2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
-      },
-      {
-        "name": "🍿El duro 4K (2024)",
-        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frl9PSsFbdFJRqnTvexHN8BVF6z6IL02sxXp5HDnih6sgzohCTVWVKZWAKKgC43Eq7qbcfoXX3rENuG1UDxMNuOxCVblrcrgbKE4si7tv/7wgw==",
-        "icono": "https://static.wikia.nocookie.net/doblaje/images/1/12/Poster_Road_House_2024.png/revision/latest?cb=20240127055229&path-prefix=es"
-      },
-      {
-        "name": "🍿justiciero 3 4K (2024)",
-        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frl9PSsFbdFJRqnTvexHN8BVnls6BCKapMcN4hzFUB+b9jziRKyrjWbHVvf2bfea8mO+WrI8YTZlZKNs3qP5OQfKGeGO4apSSqbR5rUEqS97X7G86CuaKLemOkyArFHamTHoBgYsU//wy9kr612lJAJhQA+nHZdAKuPD4Q8+qk+S7JjtiH3/1blO0GbcVVr2Pjg=",
-        "icono": "https://th.bing.com/th/id/OIP.5FYWD5RQ1j912HSa9ZjNSAHaLG?pid=ImgDet&rs=1"
-      },
-      {
-        "name": "🍿Amigos imaginarios 4K (2024)",
+        "name": "🍿Amigos imaginarios(2024)",
         "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkXEI4+fhO5HtuCyUsuL1rLVY8a96sNTznuhsRm4CH9u3IqIMaNe1vlTi07HTyj7nUY6+x+WzHPNBpUaRxi8WgIzZMnIvesykG7YD8sfA7QMEcmPeZosKNS5zOtv/luKcAU7rYpd1ipzDNBJB4QZbd7",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQShR6WZDqDqAKUNsueoBKQ_ewHr3gpHEwNb5GfcOqKWre3e2ga"
+      },
+      {
+        "name": "🍿Aquaman 2 (2023)",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkXEI4+fhO5HtuCyUsuL1rL2fqf36TcOgwRBI71aE6gBhCsPyzbQAsdUEnAbfS0U8UKPwXDuKzlDgl1ECgNWCNc47I2TyrF5v3podRUGr+uOiTH998IwVD9kxz+tgK4Vngj+L4+4H9mkQvFTUquMRDXxtunnoQ74I99qUBrkOq4ZA==",
+        "icono": "https://es.web.img3.acsta.net/pictures/23/09/20/11/47/5660137.jpg"
+      },
+      {
+        "name": "🍿Argylle Agente secreto (2024)",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkXEI4+fhO5HtuCyUsuL1rL4L/LPKP5ZZV5NFIzf/++BOm52D2Q2WgPb5iYVxU/GvuvzSV4TcBTHv9tgu02redStpbEXCFe48zy9+Z0MLLu9BsYOIgwZaB/0DloRgd5+meF9qpdi7HttVJkxQpmVpVr",
+        "icono": "https://www.universalpictures.com.ar/tl_files/content/movies/argylle/posters/01.jpg"
+      },
+      {
+        "name": "🍿Bad Boys 4(2024)",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkWJbxBClZDMpynHpyvnKL2tXmgTf3uA3bH1YEXieI+cVBaBi6QZ9eSL4kDlG5t3gOMxRKWN3WfW0iPDylOXCADi7JHqnTc4fdm61dARR4wtZDGHWWDTETCdatb8i3JIYbv/LP52Nfs2OXhz+sAylvnACOewkZnaOQaiqOrl8g4Kg==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5ucKA-nygSRvvuKvQRAT8qwP2c2RusK9CXadHLXIKewchkvHK"
+      },
+      {
+        "name": "🍿Baghead: Contacto con la muerte(2023",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkWJbxBClZDMpynHpyvnKL2gXFeWmatpwP4inub414ALApH1cJgg7+o+/DsvXVJODmhP6dH7S5ipxITThmyI6AbtjB9Z7XMNsIh1cXOKAjMAw==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNGRhN2RlZjAtMzFlOS00YzY1LTg5NzMtYjgxMmNiNTBjNzU0XkEyXkFqcGc@._V1_.jpg"
       }
     ]
   },
