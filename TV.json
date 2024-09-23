@@ -1331,7 +1331,7 @@
       {
         "name": "MULTIPLATAFORMA FENIX LA RIOJA",
         "uri": "8Eg+14Jus5vq0+EYuXiHLdLHA7jbpx8dUmQg/Nx1TCyTMsghjP8tB2XS1NT3tnmiFktQsy5M/Z3m8+3m9ioRWHYFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
+        "icono": "https://fenix951.com.ar/Nuevo_2013/imagenes/165152_1590517102.jpg"
       },
       {
         "name": "CANAL U CORDOBA",
@@ -1363,7 +1363,7 @@
       {
         "name": "CANAL 4 JUJUY",
         "uri": "5tQn0qO4lqOvTpcynZBBuOG4XjmDqedyIsOFhdcZJP7PEs6/DsDUzfaFMwRNaFGIMR+q5At7xtVu/iOyK3f7gP3gAE0jOqCzMYKAg8FWnmU=",
-        "icono": "http://static.tvar.io/imagenes/canal4jujuy.png"
+        "icono": "https://static-c4-1.s3.amazonaws.com/assets/img/logos/elcuatro-logo-500x353.png"
       },
       {
         "name": "Catamarca TV ",
@@ -1392,7 +1392,7 @@
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTz8JwT00gqf70um+ll1HHiJYcMEM1i03IU+Vk6RK5Ds2+L1OOK1VH81oGCQEWB/0hp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCZ7Jvs4w1o3lPNyvADmKlcUtrZ9iSnbin8WyVa8HIFnhM0xVaomO9RXfsJhAJDmSMbHTcPG6L3E/KQsvfaA7r+JlEk4asuX5BybY6A8CqSLHSAFSp7Tnsdp3XvR4L5Blw==",
-        "icono": "https://static.tvar.io/imagenes/telefecba.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png"
       },
       {
         "name": "TELEFE SALTA",
@@ -1428,7 +1428,7 @@
         "uri": "LX46EnLWmPsTQWzzE5C2pKknSrgNrnuepyfiGtakUBjI14gcUId9dvA55++zUdDgB+sF3cDP0u4J9kAqpp90beg1c66ypqo9nLpdPsipS3uKp9jBp2/g3jx/mKleUChcaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIE2B9fCHbfirQTB23s88sYLJtY4HcYz31cBdnoE0T2ek9CL2Zbz2fMHkprUZCOz4ieh5W8/m2ueXGEjzwV1BLyKRlSi71SPU9896SpB0jblQGVRWqpKFp3ZSJDqqtvf3w==",
-        "icono": "https://static.tvar.io/imagenes/telefesfe.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/2/21/RTS_Nuevo_Logo.png"
       },
       {
         "name": "SANTAFE CANAL",
@@ -1447,47 +1447,47 @@
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHvs8c1nnhDDMkP0Ui7ikCLD6lqpwQQ9q78MY4JHn5C6SPsJ489HcPr1L79/PWNRT45FLgOLdmyJMRa8FcrSEHdg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN63A7dTIjzbgEvKzuRvuFacdjgsgLgyfU9sAu5yZzrVeWajX6Zdf48YIVHboUOfa+sOAgrALoENDLeqDH6DP38l9y0naI+xAN7vPqZBLCjkCOGxCXknCUF3wgCeouwJsg==",
-        "icono": "https://static.tvar.io/imagenes/canal9litoral.png"
+        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-1.png?resize=696%2C392&ssl=1"
       },
       {
         "name": "TELEFE ROSARIO",
         "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3JHZwOZPNh86z+V8r1SnLPudyB4UOG58G1IIZ9r8p+R01Dr3MejmE8DdMLrKbSQSLUq5XmXo7OXphv/TvkLO8t",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvApwQ+25vILJXC0BL3rTYpo1EDNj3vWvVBAGXdxbagh9ygKl6ZtQIA9r2FerOkjMXVS9idqki4x5eGfMfTrYEH5uIEQxLxJxyJ53noTlftRUXhV5ot4rW191aZGlwq6zWA==",
-        "icono": "https://static.tvar.io/imagenes/teleferosario.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/800px-Telefe_Rosario_%282018%29.png"
       },
       {
         "name": "CANAL 3 ROSARI0O",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJcVRpNyQ1tjYXHXfgLy9MNlIbH9aTWR+kiHB+Hk9da0Og1c66ypqo9nLpdPsipS3sp32GFZl0hdVYXOaUEeDa2y6kRnYqQJnVVBGEs/O/tJw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvASQydc985hG5Rw0jKnngOSyhvj2xhyN3v3tlpFdSzJ78+MSdv4QlWG7W3fDtwH9yRhPjgy+UWvp0IL/C0QPVbbgq2zmUN9jGTj5qMPJbE5gqJjlH0rEmS85sNQwWp23QA==",
-        "icono": "https://static.tvar.io/imagenes/canal3rosario.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/800px-Telefe_Rosario_%282018%29.png"
       },
       {
         "name": "TELEFE NEUQUEN",
         "uri": "LX46EnLWmPsTQWzzE5C2pHTkdf04SSydzxlNIAAUkdh9hBxF0mI69sa+6s4oB2BBtL+NHlBGlU/rRRn5os4tNP8jwjXa0B9lyFoovQxZnvQEYivOLRi0OFBrehspD2ehjCbLJBIaU1e9hBurbDDTQQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIdzRK/lr29U/BT4rOSJPqBDlPCHApcSwR/CcDP77pr6GUASWpOt0wrV5PncmWYl1vQwmmzzxBpi9hSzrsTN+iPlNHdWHHc0xXzFby87neNCQapq3rnPGSNCVJwX+If3eQ==",
-        "icono": "https://static.tvar.io/imagenes/telefeneuquen.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png"
       },
       {
         "name": "13 Max Televisión",
         "uri": "+Z2+hWd52l8tnz3QKAcg7oiquukL+UoG2vvlrwS9SRXjOcQCB9igvtbqf61wD3b4DQvAylxtLq9WmO/Y2bwqG/SVVOlopzWB6ZAw3w8eURU=",
-        "icono": "https://static.tvar.io/imagenes/13maxdigital.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"
       },
       {
-        "name": "TELEFE BAHIA BLANCAa",
+        "name": "TELEFE BAHIA BLANCA",
         "uri": "LX46EnLWmPsTQWzzE5C2pHNONr3XIsO1eY5U2d88uo/VSobuYZuUtUzEKXfLIKzZYuf5tvx4CGDKhg0G+KT58Gmzomg2Kr9G7BBH33w6i60CsI+N2SDIX4NU1miHh1dgqJ3+45WauKYe0lo1sKevYg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO/qkJnSYOC4UFjkvnJlOMRzfow11BbwkWthxMuk83QDyGksB713O3RdaBlb+qi7iHh9ZIdNUrybZAzIyZ+i48In73xjr+0fSmfNXG68xM7k8BDa9sg2BsXSmbGxnomjvA==",
-        "icono": "https://static.tvar.io/imagenes/telefebahia.png"
+        "icono": "https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg"
       },
       {
         "name": "Canal Siete Bahía Blanca",
         "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLR7EuGPI304BpRDX3tdyL8KOxT2eStOKwDtp7GGU6kqQuFBK02ReUC/WihpwUVj+yMwDP2e8yS7eP0L6mRKOf+3aeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGqi1aduPSGEDKzFq+ZuB1wmUgStI4qyK8IBLtL2TOb3dDpPekzorm8ExMg9aBjNcsdYiwhd0DfrujpdbuhepbxZWw8BWQwnp28I2r8LXKItD5UFBITqjkuwXbDHVcXS6A==",
-        "icono": "https://static.tvar.io/imagenes/canal7bahia.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png"
       }
     ]
   },
