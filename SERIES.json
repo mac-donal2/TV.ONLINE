@@ -1,285 +1,5 @@
 [
   {
-    "name": "🍿TODO MARVEL MOVIE",
-    "samples": [
-      {
-        "name": "🍿Capitan américa: Primer vengador",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeWTsBVxZE5h0Yqpzd+RLZr6TAFQkiR78ASucueItbW6O/XKapKWyR3lWXX7Fc85+JNfXh2nGrei+T7is/4/Ps+vSHNoHMQ2glRPJEXXCAzpxJvQgkeBfDefl5ecvxEGLQgF4DJy8uE/lRcAk+4/KRxcP4ia2ASLDVV09G6rpTRW+",
-        "icono": "https://men.gsstatic.es/sfAttachPlugin/67388.jpg"
-      },
-      {
-        "name": "🍿Capitan américa: El soldado del invierno",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XK9fliIm4967YUZQAmIcroHbMDTL/zstn4gylZvHyv3uqjiMDdS9TIZJmqcnKIDHjQ==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg"
-      },
-      {
-        "name": "🍿Capitan américa: El soldado del invierno",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XK9fliIm4967YUZQAmIcroHbMDTL/zstn4gylZvHyv3uqjiMDdS9TIZJmqcnKIDHjQ==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg"
-      },
-      {
-        "name": "🍿Capitan américa civil war",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XN2FQeZj9VW0z4qiDUC5nSivyXNoqa8x1fbgJ8DsBWvuwurzpGpmz9ZU/ZxDueWHgg==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/g6UTwUVFYWI8VPWo5GylnbZVhin.jpg"
-      },
-      {
-        "name": "🍿iron man 1",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeQzDLC5HJevRn5yp/mKvMj/DL9ktrtHV64/pfZjv+1zDMfH4kUJhezD5MSlJYTxwIHdwAa8LUI/LsBwHtjiLVhCMSKWaMKsrBW5rPMFdfE3/hlla7fptpX6JwQ9weAflFg+TFGZB03/7hzinmbAkC/s=",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg"
-      },
-      {
-        "name": "🍿iron man 2",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeR3zS+KqnH51rWrTQpqdsN6vdU2+CxGIIoyMcBW2RgMOyPwLTKnRFs8FwHcp37RGsasvIABAsPpKfnF5eECIomQucQeHZFG0OEcE+Ythst+TXSp1SHL1q0PKac6liMChI8DpFOrCh0yvQzTuCMy1JSE=",
-        "icono": "https://image.tmdb.org/t/p/w220_and_h330_face/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg"
-      },
-      {
-        "name": "🍿iron man 3",
-        "uri": "TQSPBT5fFAmrHLJIeXbfefmxdeqAG44xxWxxq9lcg4Ct5bAa7MJF8V0Q/5+4FSQftjfkXHNC5wsHsynHGLlGupRXV1zWq4u3X1NJbHjF7uRTlxcSigqVaEvY0W5MXr1VSBQZkC/lAlD0mAxjbWW97x7rJxwIxdlF+rBLMkzyAfc=",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg"
-      },
-      {
-        "name": "🍿El increíble hulk",
-        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3FOdTg2QuJkafhQpkSVgdjL",
-        "icono": "https://image.tmdb.org/t/p/w220_and_h330_face/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg"
-      },
-      {
-        "name": "🍿Thor",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeXcJWCHLQgXCzEKFIxcUt514YXdgoHdvPOTs2nAtDzYPs3jCOW6+gk8NsL90XUXn89zvnexP6h8cHUTCYiZHVs5SMCNcbs2cSAm1lnkfIniiPHY2dovu3vXisZAfz5Fs2h7rJxwIxdlF+rBLMkzyAfc=",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg"
-      },
-      {
-        "name": "🍿Thor un mundo oscuro",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XIj8F32rAF/UAlzLYUt8tBZdZ/gKdZsiqX0mJuZ/yYHM",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg"
-      },
-      {
-        "name": "🍿Thor Ragnarok",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XGNBfdxVkQeR3fSgesCPiYFE2xDEj1t95Qh73PV3g0Use8WSqSHRs08B//UqUenf1g==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg"
-      },
-      {
-        "name": "🍿Thor amor y trueno",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XCXPYKqk/AcwU8m362+KN2+CWxQ6xyP/e31NboiTLfbSPLimhqIiM2fjXV1LPEy1BQNAjO6uq7dxXHfxZ20+jpA=",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/z9ajF6E39Hg2pXUofmUYgZHvdX.jpg"
-      },
-      {
-        "name": "🍿Avengers",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeUJHv7sdYGe2EYZnAstrfbFr5kAhq4yzwoib2KHIKnOEBCApZgTt0YHvLCe3FcudsJwr5nWQcL9XM6vAxnZoqWNDpA35VQ3fAo0V7rryky40kfktM3QiOkWoyb5cEtJUGgCXx91tYFe8UgiypoqL22I=",
-        "icono": "https://pelisimg.online/cover/the-avengers-los-vengadores.jpg"
-      },
-      {
-        "name": "🍿Avengers infinity war",
-        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3F48ByiCAtvZOZ/v6MD3VS5FbPj4HmaySq/yVEIz+ReJ3G6tcGq3EJa4Ho4RSWZB+E=",
-        "icono": "https://pelisimg.online/cover/the-avengers-3-la-guerra-del-infinito.jpg"
-      },
-      {
-        "name": "🍿The Avegers 2: era de ultron",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeS1zmT6QEy8V5Jgz4+nMpZ/220GEE22J7lemltbtbR2KqHmw7jPN+z2ULQEszIR7bJ6gQ23biYI5RiMC+5mMxOGPtxSLVpDHl6ZTZYxneZnGHLs1XrK783AhrWKPVvopF385S2ir7o6pLLzgG/Zs9s4=",
-        "icono": "https://pelisimg.online/cover/the-avengers-2-la-era-de-ultron.jpg"
-      },
-      {
-        "name": "🍿Los Vengadores",
-        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3F/5Uf0CBqfd4u4W6m0ZBGr+vccRCw1Hf1Qv5VkTf6nhA==",
-        "icono": "https://es.web.img3.acsta.net/pictures/14/03/10/10/35/587504.jpg"
-      },
-      {
-        "name": "🍿Guardianes de la Galaxia",
-        "uri": "TQSPBT5fFAmrHLJIeXbfedujMvjUiyuSuqjvZxiR2tPzRIT/d0hbMybQBkOhA5jygXZfwKCCUBQ9rLizWt6thwESywZ8rMgVP2TnJB7NaNUHXKnavZSA4vlgSmVx4aMsEN+x1PvEhsnEAJr7rfJi58iBSnrT5TmhNoohQ+WHyoEe6yccCMXZRfqwSzJM8gH3",
-        "icono": "https://pelisimg.online/cover/guardianes-de-la-galaxia.jpg"
-      },
-      {
-        "name": "🍿Guardianes de la Galaxia vol.2",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeQUHeYtm9PnYUS1DwNXJweaNQK2S/TFtxIgzVC8uVbflk/xpDyVFpJ5Aeq7tlscr3tEEYAFbUU3YpFgHdEpNhPBQLtzkiZHHbj8L+vKPpyrS3R1faOioCjZvZo0PiW8iCFL85qI5PxZMDfpVzmc2OBce6yccCMXZRfqwSzJM8gH3",
-        "icono": "https://pelisimg.online/cover/guardianes-de-la-galaxia-vol-2.jpg"
-      },
-      {
-        "name": "🍿Guardianes de la Galaxia vol.3",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeVkqR2fI2TUH773vZKY4KQGUJdMz2xgQcUptzolCG8GTus7YMYa42nHYxSI84YFKbg==",
-        "icono": "https://pelisimg.online/cover/guardians-of-the-galaxy-volume-3-2-1683243601.jpg"
-      },
-      {
-        "name": "🍿Ant-Man: El hombre hormiga",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeQ0fHMfrxn1lsmGddgIwrr6L5Tkb6YtJjSHV25VNv+WIQQxaYeEoVCiYs/GrDNleI1hNoABvyaYC+UMQ7s+aMKOLvOCgFZP//0LXb25UYkJPn8UO7vYyn08/hky+YVP/rJ55MAJon6lOaoZOR8mhMec=",
-        "icono": "https://pelisimg.online/cover/ant-man-el-hombre-hormiga.jpg"
-      },
-      {
-        "name": "🍿Ant-Man y la  avispa",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XB1mskEobcWQrvw+Gcn3TICP5qy9UEosm3tiz+6xKB57yi0rxqt+LGssLmUbRJB51a8AQaY+2cJHuguKZgPxoAuL2hljS+AGDCr3hJOO7uDdpW6YPmla5TQrIpmRTRvWqA==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/lwmCdtTvjnJZK79JKYkzkb0MFOP.jpg"
-      },
-      {
-        "name": "🍿Spider-Man: De Regreso a Casa",
-        "uri": "TQSPBT5fFAmrHLJIeXbfea+Gd2sL0ZYHBXin/FP44wZT/R7NJMt3aTssqm8xCtiXw3A0+Asb2FCJ/o1VbcKBP7SRcBEfZ/Z3e6qZC8KvANSsGPaoBR7qbXKaeMKX1v8Cv1del2O0OgHFqVgO6+YtTrNLJG/Ujou04SCsANdWATjzQVOb81EbRVAiw01AB6qD",
-        "icono": "https://pelisimg.online/cover/spider-man-de-regreso-a-casa.jpg"
-      },
-      {
-        "name": "🍿Spider-Man: Lejos de Casa",
-        "uri": "TQSPBT5fFAmrHLJIeXbfef6WwV4/5B5SL3KxcgiDUwXJmYfFQe+pMEek/j0dzfUlvZEH2aCYYvby3cx9DPM/qEQTrNqB/MMGjx5VyHKisMp3fPBUihSllgIy0ZTXoMt667lBw1zeTNlci+4xaCV6AH/wmduVCsZpkmUUxweqSeVp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://pelisimg.online/cover/spider-man-lejos-de-casa.jpg"
-      },
-      {
-        "name": "🍿Spider-Man: Sin camino a casa",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeV1MSGSYIeknvBNQI3qr3ofbXvxLojXwXmcmohbnyl0aVkBR2BF5v+dd5sJ3EhZe4Q==",
-        "icono": "https://pelisimg.online/cover/spider-man-no-way-home-2-1639761997.jpg"
-      },
-      {
-        "name": "🍿Spider-Man: un nuevo universo",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnaRz7aJOWShJQXOI767GO7x/lBIVuHyUpguBgmZE2/n15mpzJNOeSw2zgvARIN7xu",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
-      },
-      {
-        "name": "🍿Spider-Man: A través del Spider-Verso",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnaRz7aJOWShJQXOI767GO74AtOs6CVNLTKSRQC+3C278WJhv5lIukDVx1cjoGB7jN",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
-      },
-      {
-        "name": "🍿Spider-Man: Cruzando el multiverso",
-        "uri": "nq4aPEn6cZn7VAdOVsydtBJA598+dsbWTC5IkI9zCs271dbkJ+c2K1hvhIWmQ4wOKOn4K1B0YYcR6ecs+6RBOBqXtKw9fsFHWhA9ZlvM5cyho8+Z38+pzASf5/2FC1YKLYtOGFWmZUbT+XA4i+uBj+GOaVX7nCEfaGzBNWpq9y/zQVOb81EbRVAiw01AB6qD",
-        "icono": "https://pelisimg.online/cover/spider-man-across-the-spider-se-2-1685731801.jpg"
-      },
-      {
-        "name": "🍿Doctor strange",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XOH2Q7X8dSZAT5FfYOekb3V0Yu3L4/nALL13pZlPLP87qjiMDdS9TIZJmqcnKIDHjQ==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/7WfK17BXE6szXlm4WOxfswgbdsL.jpg"
-      },
-      {
-        "name": "🍿Doctor Strange en el multiverso de la locura",
-        "uri": "TQSPBT5fFAmrHLJIeXbfedXfHcIVL2vVl+bNw0WYpqxBuGBWjhlt89d90kP+cR7sBjodCnjFuZekm+bsx+Q0BcJGIE6RbsJkyhTLcMIoJ1l6I2g3ZjNuLpme7w09WmG2aeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9VZO30aIAhQoiiP3qsRd5jd7UvQ.jpg"
-      },
-      {
-        "name": "🍿Viuda negra",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XAzp9mcgD2N5o7kbchYviYKLqaL/YzPydI8JeYshWZFk25HmH4nKs9JwehETGBIT8g==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg"
-      },
-      {
-        "name": "🍿Black panter",
-        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3EV9+qYvsHSij1jrDSv3+sjX8O0OF2fGHpIa9pMgGFppA==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg"
-      },
-      {
-        "name": "🍿Black panter: Wakanda forever",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeafhISsKNyCgUcAnNOvP5xTPNJ/99Z5AV20Vv93+xlD2RlIesAAtX0YyCs73YwCEPtKCAMfaBKu4LC0Lw4kSSHQiUn7eziizeZu2zJ98/JnVIKJAGWBnxjNDA6sKQvM/zUt86pz7DD+V9HtIQnSbiiWCoRvZb4oS6X2Yn6u/MhV4",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/mYpT2R7639KvKZ668uoQGS2QNFp.jpg"
-      },
-      {
-        "name": "🍿The marvels",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnAZrTn0g8/kDXcl/XIP/GvXmCNk8DFHeHVeIIOrPUPXR75INIOJ71kJLHSAShBVpK",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg"
-      },
-      {
-        "name": "🍿Venom 1",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnaRz7aJOWShJQXOI767GO7wHuN0VxdcPHtaRh+dK02ERp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg"
-      },
-      {
-        "name": "🍿Venom 2:Carnage",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnaRz7aJOWShJQXOI767GO78nBsO3iRNXcw2bUWYHnvVRp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg"
-      },
-      {
-        "name": "🍿X-men 1",
-        "uri": "TQSPBT5fFAmrHLJIeXbfebDX5HPQDKTPMT/vx/3kiprSzZhcNmuZUxgr56+ML89/c+ILcjxnI8piesU3v1FfIA==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/bRDAc4GogyS9ci3ow7UnInOcriN.jpg"
-      },
-      {
-        "name": "🍿X-men 2",
-        "uri": "TQSPBT5fFAmrHLJIeXbfebEaFsQOnm0+bd+BLCnjbxeTN2jd+s5F4uvhlZk5o1ixc+ILcjxnI8piesU3v1FfIA==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/rtrd4qieMAhoUshu83Vi1GazM1O.jpg"
-      },
-      {
-        "name": "🍿 X-men 3",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeRyfqCbYYwbUtg0xG+mR/ksk24W+wY1R9BxIaZ02aIDFc+ILcjxnI8piesU3v1FfIA==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg"
-      },
-      {
-        "name": "🍿X-men Wolverine",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeex8mqCGz1kOi3YGIdyNI9ovCD5++OKO7n72wBVX+jqTEQEFuMSYK5iCcrOrv3x3HXPiC3I8ZyPKYnrFN79RXyA=",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/yj8LbTju1p7CUJg7US2unSBk33s.jpg"
-      },
-      {
-        "name": "🍿X-men primera generación",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeQIfucTCZT7XFDnjTuNisWjLREDKXMIiC6MSS3GfkYsYEn7PTjGqkBAg5MGKI1dN+A==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg"
-      },
-      {
-        "name": "🍿X-men Wolverine inmortal",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeY75SHdVFuaNYTYfIXyeX9Lt4bi/PfNx2NaHpFpNJw++/ue4kszidv17u4DI04B6oA==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/p5IFVd8PQjcGk0KKaSP97jze3wP.jpg"
-      },
-      {
-        "name": "🍿X-men dias del futuro pasado",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeeMTJAlfKMbULsWgqF4lWSzEjkdud59cMK15v0hOcLTb3P66/nTpP8s6aOeMMTPgw8QsdLTKVLC7x8LyO7czxt0=",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg"
-      },
-      {
-        "name": "🍿X-men apocalipsis",
-        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3Ew+AZfmEd+y4IY0O1dU2lXzKG8W/mrYejMGxfTOWy2cA==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9rJeh8mrbJdkIZ49K2cZIdAwbEj.jpg"
-      },
-      {
-        "name": "🍿Logan",
-        "uri": "TQSPBT5fFAmrHLJIeXbfedeIUwExsickUlNYIoU85xbQom4LnIdKSC2eU4OvulFVsMTvOewNKpg9q9SA/9mev892xzr3LrfUgPXjLOaw9jdwLuZ3KJz7lbCxQno+JaRQMYrM3UmyS9sLivx5J0FTOrbc2roPjo6Aup9exa0IUyY=",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/d0ktjN9eKww26HhM8or8iUB1I68.jpg"
-      },
-      {
-        "name": "🍿X-men dark Phoenix",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XI5Ah8fgCXT6dEgwgJH/yuDJ04EBMrNdpaPvGKEBuDn5wurzpGpmz9ZU/ZxDueWHgg==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg"
-      },
-      {
-        "name": "🍿los nuevos mutantes",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeRsWOevSuxiq0DLCQo2dsHBykz66pGNS0fagP+Y/C6uhfcFsFE5FqYLyWdwKo2dlQvhPIl5WBWHIQudHjQE0CQz3InnPJwfVU9bdDNeA5pPdnsxpDk0sRxcGU6hE0n8NVEeTI9g8Drvm8hDCsmZH7uMAl8fdbWBXvFIIsqaKi9ti",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg"
-      },
-      {
-        "name": "🍿Deadpool & Wolverine",
-        "uri": "cVI+FPBxX2ASracUSyM4w1eiAuVRQ7JzGZHUyS6PeWrG/2qkeXqtt1qjxm6VDE68LIIUuHGgZoU+0jsxc0kJcgNAjO6uq7dxXHfxZ20+jpA=",
-        "icono": "https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg"
-      },
-      {
-        "name": "🍿Deadpool & Wolverine opc 2",
-        "uri": "q1izLWWq05I79vWo9I+CpJ64vBwTe7AZaWkImrvtcLXoYYTCBQOnv3Df9Hft6Fuu25777mky7JkwfwZms/w2vA==",
-        "icono": "https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg"
-      },
-      {
-        "name": "🍿Deadpool 1",
-        "uri": "CuBWRYnbVa8CVDxc2qOhORSN9T9jS0drjT1d87JvBg4RvdtnG0UWo4bGsb509j54RVTNGuv9n4cWNDdbo+jRMtG5eFbcxpQWTGV8WxqKTxhbgIB8jXhU01/PKib25Hp0IhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://image.tmdb.org/t/p/original/iFD7sEyj7ePmFEwcgFPw668ymLh.jpg"
-      },
-      {
-        "name": "🍿Deadpool 2",
-        "uri": "o6geEPqGtUuoGslFst4SoBSN9T9jS0drjT1d87JvBg5DvZmBmuuTfIDNtr/7FZweT+D22FwBTstKlZ8V8y9/akbxWT2UBZFE2eMT6ZCisbsde2kg4SqwsY5xAYZ0dPKBIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://image.tmdb.org/t/p/original/vnBDJbSgM1oTsszdfQRWC5xu9Pr.jpg"
-      },
-      {
-        "name": "🍿Los 4 Fantasticos",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeXuuNTD0Mfm/XfAmFGXeYG2Q5GiEycjOact4ypEjmVVYmxiickpqBZdBKmh1DUnxZvDWhdU2nimrpOuw/6miAJz9IpDes7qJH9woAWK8rFY9kCoN/UyC3RI4R0JgLAVq5rALzYYqeTEcslaOp69SFlN60jZPHnX4ab5+POS6S5fyCwdJt/aGkvPcIgRWOCivxw==",
-        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg"
-      },
-      {
-        "name": "🍿El Sorprendente Hombre Araña 2: La Amenaza De Electro",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnvalacJ+SM4OV4XO2R+PZRdqukRzA8y45mxzdMNEMWGQP34QYuhWCjQoTbzb5Xx+ol7nwY+bfOjQjPlRXsxtOeQ==",
-        "icono": "https://pelisimg.online/cover/el-sorprendente-hombre-arana-2-la-amenaza-de.jpg"
-      },
-      {
-        "name": "🍿El Sorprendente Hombre Araña",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnvalacJ+SM4OV4XO2R+PZRdqukRzA8y45mxzdMNEMWGQP34QYuhWCjQoTbzb5Xx+oiValyOLvlrEFO3/Hte4Ewg==",
-        "icono": "https://pelisimg.online/cover/el-sorprendente-hombre-arana.jpg"
-      },
-      {
-        "name": "🍿El Hombre Araña 2",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnvalacJ+SM4OV4XO2R+PZRdqukRzA8y45mxzdMNEMWGTKSvLCw3OvgLDZmeUBkTFyA0CM7q6rt3Fcd/FnbT6OkA==",
-        "icono": "https://pelisimg.online/cover/el-hombre-arana-2.jpg"
-      },
-      {
-        "name": "🍿El Hombre Araña 3",
-        "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnvalacJ+SM4OV4XO2R+PZRdqukRzA8y45mxzdMNEMWGTg6GqW58Z/GDWCKSnGiAn/A0CM7q6rt3Fcd/FnbT6OkA==",
-        "icono": "https://pelisimg.online/cover/el-hombre-arana-3.jpg"
-      }
-    ]
-  },
-  { 
     "name": "🎬El Mundial de Messi: el surgimiento de una leyenda (2024)",
     "samples": [
       {
@@ -304,7 +24,7 @@
       }
     ]
   },
-  {  
+  {
     "name": "🎬Ángel Di María: Romper la paredd",
     "samples": [
       {
@@ -321,7 +41,7 @@
         "name": "🎬E3 - Del carbón al oro",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ9LmuRd8sr40aPaTWpS6k4+zvnGe80Q2yOFRAGWBAZYIkvQ5IwzSuCZM6N6rbxsFEluEW/pc89DZMDnDAugT0rKArkkmAp1wbWtWnUZHxifyBs3Gk3tGOgk25tykvvWUVV7kAnrzZLYSvlvREtnBSNcmimlPhdgof+ZFBkG91ZEcJa2CcHXCiljVA6avvcLQJ3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AFT62UK94S2TutCj87B/jZI+7vC9wgRS9tjRR43vYj/F3YJ0kGG2QY78Qbcbu7I9kjlbrOK0THDqXwy8UTeoqhOrRhlzJZ1ZugDvDX/EbT1YcUM3/zsplb9j0d+oAxOVVvy7qEiVneTkRhGOObGtzndF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsP6axt-Duhg0nyShTKUdI5DZx1tIy9JkcbKv0lwaXNm3zBF2r"
-     }
+      }
     ]
   },
   {
@@ -421,7 +141,7 @@
         "name": "🎬EP.5 ",
         "uri": "khOhY5pINJeW36h26vh7H9YluOVpeA3K2IkI2bstMBAGN3hRq3X2BOEUwDICgRdX3G/WmEe4EQgVFmoYYjGOJZJN+2FhdscPF8YemttRrpgLNTnCu/btTf4WHK2OpteFado7sRywPgIgRPLEK5hr53Sm2EDHOOnhF31lydM46QUBusgEoIr0CSTu/H8B+weIplmYCRsRli7LUm97kqHy0AJn8sZQYyZhUCuA7DVQY2YNMvE3KNLhW7nzDdkvrLOFBFL6yo4ACD476SrWRuuBn8jxHM2GpfvOPvMmRkwbWSsFqVMhXlqF1bCMAs40axEVuhubYmCkeZLjuv/cg8DQE9UFT+IWWYB7IYJ3kX6qxzAg8yBLaBo7n4G8IW/zmVVGjjv+DSCVsIpMrTB4E130CZLbknP3qsoZSf2lfAmFQCXFZWXRZtKDmOYML1wPvOmts8gUFLrAtzvq0iP2uya0GpsKw8LQ2vmdUHoDzeEKL9t/I40nxb7dvdgI7zHa4G78vohjZQYExOkql5TxGpvUDQ==",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLV13qTmV7j6MDWzZECukx5W0Tx1V5fK9t0WQAI9h5kGb8YFYp"
-     }
+      }
     ]
   },
   {
@@ -471,7 +191,7 @@
         "name": "🎬EP.9 ",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XC81nXFv4eqULVIlk1Mi7BTObgRQJXi8dcLrRxZBAwE/",
         "icono": "https://www.formulatv.com/images/series/posters/1800/1812/dest_1.jpg"
-		      },
+      },
       {
         "name": "🎬EP.10 ",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XC81nXFv4eqULVIlk1Mi7BREfIMOzUIxFkG4UZ21bN9y",
@@ -529,7 +249,7 @@
       }
     ]
   },
-  { 
+  {
     "name": "🎬Margarita",
     "samples": [
       {
@@ -556,8 +276,8 @@
         "name": "🎬parte 5 ",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ+mWF0YWiIRp1Eibx8z6yjx5La5tXEuVADliCb61vYmAkvQ5IwzSuCZM6N6rbxsFEqk49GbnDO2zGMplrKHU6sEYS5PASuvQ+Tz5SyK+tWyisJWo1qsWuCao4IEaZN0EdKKLt1mI+HtikSRdmz+A/vMD6+FWmlfBCj/j46FNHnRKUrRsRkKT56OvqzDYMaDK53Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AHL78B0JPoouIOm4oJgo3Ly4D4VdzcAF1XPAPSbxwydtdAbKqC4p6XpdCnjKO32rA8A38r/S4a2TalvAQKpdsK/rdqfcwaEhfZq5kZbufQk47BNBO1Zv3j51GxgN+ZgrRUns9gwexjitowLY8uQpY3DF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
         "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"
-	    },
-      {	
+      },
+      {
         "name": "🎬parte 6 ",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ+mWF0YWiIRp1Eibx8z6yj0130XFcQvWwFDUN1mDQmsMkvQ5IwzSuCZM6N6rbxsFEvtgsWYTwuKBmKWrqGX30gXFhw6aof9yHKKEDUlsj/1iL+tO4ZwwWPle06+ivU0OlNuSzMpglyu/7r/3grK55uQx8Ul4Q4CN5HBNoB/1r/evofVO5ykjSWkVhtxrpOydYIBG+NldTFBf452V8yFZc0FrVRSnWh+Pq5jJbWUOJIz83y8zarp8gwDO7VI6x4f1s6hNXams8Y9SiXZT0s4MATQk14gBLWWlE5p07G3LEyijIMRQStALhx/kQP4SDioNgva/Cf7cEwrDtDPYxbBMYVGQCLtlXsftexEFTcwk88hKjfRf+u5AsXkC6wK1/x+MdUaBkySRH1CH5CWE5GPz7HhIw5eP0SsKGntLGBlHOjWidYgJ2CG60XfiPVLVUaKkgOFus9r1e3IA+RNQUeBn4hg==",
         "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"
@@ -575,13 +295,13 @@
       {
         "name": "🎬parte 9 ",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ+mWF0YWiIRp1Eibx8z6yj2GZ71tr/tHclzNV3hMD5fckvQ5IwzSuCZM6N6rbxsFEb9QXvTt1KRkDKoFNBqcc6QbhPYQKJO1z5xdv2AOYtcKqu+vd68JP6IjFP36VSo7bLOLI7+Im2YoexeM2NCO+kzXlh7LNcPdgX5V78qKZinA7b/HDzC4H+Ns1A6/cXDUn3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AGbTyNQa9eG0G0c5UbPVnQIuyvD3j4Ac9AwAyVQLjdaov+nfZWTWuwp9Sumz43fSG8w8tSh6DoE3Q1jFKvgE3lKadysD6FWhmSnHM2mJZDsZX+iYClZd/yayt9+guR34nj0nnyOsNEh9xQbcF5SPQdIF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
-        "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"		     
-	  },
+        "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"
+      },
       {
         "name": "🎬parte 10 ",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ+mWF0YWiIRp1Eibx8z6yj60rESmCSdJDwSr1bKYpBQskvQ5IwzSuCZM6N6rbxsFEPMS/E2ABTLyuGuCOvw7V8FYujxW6hGlcN0Frci7pAkMYRymyibNiRUJ0oSBie6Ha4trQO6rYNuyd/KKMOo5LDdM6wSwJ6ugWbgHIkhl9A3ON4JhaX7HbId7TbZuzCUMy3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AGbTyNQa9eG0G0c5UbPVnQIuyvD3j4Ac9AwAyVQLjdaov+nfZWTWuwp9Sumz43fSG8w8tSh6DoE3Q1jFKvgE3lKadysD6FWhmSnHM2mJZDsZX+iYClZd/yayt9+guR34nj0nnyOsNEh9xQbcF5SPQdIF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
         "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"
-	  },
+      },
       {
         "name": "🎬parte 11",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ+mWF0YWiIRp1Eibx8z6yj7/FW/E2MkqfT6XeV7syUDGDVWYfW3qZvSQZqz7mXZi3pfpJIU6tsUHIQX897mJpP2qxLJC/G86ZAVvBWwFfgfDGCsLwedJ2MsrPdwgheux//tOTE+qXxW+nOyncNwf00rImPSxZwstnt0e5y2J9zaAxuy4zrtl3oxX1iIbMC+088m0ydn1zaQcSkWLIgnmobRdPW7Gy83vUCEkFyaMUiLNyZgDg+bht1GTfYcgLVvFurgucACve2zizJvYCa2AfiLgh4nxAt0BApHebKDA4QhV2jJ8M3QokktkvNvVfBsqbGSxojHSjpf4BCLBr5XP1CmawHi9AyIdLBQOd7atcgYpY3s9IbHXpBBMrkEkqH6ELf28fgBPaO+IxybMF5AjmpLmIhM74MfYIqPXRfCc0XA9X47whiZOFE7IVueh3DyNspF9Xc5IH0WmrSLfZfciBM9oA4Zza3H9rKQe+EsXuHB25IVkCCcA6XI8mea8xAj5ELW19WBI0yeGowuTkIA0lNHiLqMZSf+5sDVSalLVzXfk=",
@@ -600,13 +320,13 @@
       {
         "name": "🎬parte 14",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ+mWF0YWiIRp1Eibx8z6yj+PLbgJ1pVWvvbH5vmslzSwkvQ5IwzSuCZM6N6rbxsFE/Hz/zZYC763ehBtqbqu1ZUJQRuEWXQOQoNN2lFo6dhVtxNBaZs7ZLayMKbzF+Mf/4FI0Zf0yWxh9DqVasiAD7Z9eQL3dPhKzbh3dgt1KUyOhp+Z1HBUdfKv3GGYbRc0M3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AE0LTN6FTAjjHzYM6z3xV94eeAL12Ou8NDsKEPkQMLWIM/wAQoBCDuyDvVSkisrCy3XHWI8Z66Xo62BN7v/IUxDU/9uyNlAywGp7MkUYF+oWBx3FtGg2jolHH16FRUpa5wxziVKvbaoR27ZV/QEzvpjF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
-        "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"		     
-	  },
+        "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"
+      },
       {
         "name": "🎬parte 15",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ+mWF0YWiIRp1Eibx8z6yj11mY5RYGDGogBwx1DzU8WwkvQ5IwzSuCZM6N6rbxsFEqhsMI9TPpV94ihef6/R2gJyuUXacZXC8OXZZZq5vRnUmChkxbGNZQ40nXu7CjaxTEP9XBvCc85SYd4FAcARECg8t2HX/qfs7hXNhCN9wWUVfmYsLjI8UeS5PXCjCHjVTIBG+NldTFBf452V8yFZc0FrVRSnWh+Pq5jJbWUOJIz/ZF2rJZ/FRLcqHxVArC03g4cehcCQJQ5rAho9bPBJuo3dTBiAvACmEjNLuG21YFPAgf+cD7L4lS1fS5XiDlScdxp6Eb5BTpzK3o+KSyXah4dCuSj4+Hx9eiMJDAoN/tXzlxpvolYfOSL6c6/i8h3sfUaBkySRH1CH5CWE5GPz7HhIw5eP0SsKGntLGBlHOjWidYgJ2CG60XfiPVLVUaKkgOFus9r1e3IA+RNQUeBn4hg==",
         "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"
-     }
+      }
     ]
   },
   {
@@ -651,7 +371,7 @@
         "name": "🎬EP.8 ",
         "uri": "cVI+FPBxX2ASracUSyM4w/IMxMw3LIOgzEDWyXI3wFsvivZzTDuvdafwxDKUUqA1WmnMKYGbrrWdRYBCXndeEOOiu/SUSRlaBIyEOdP0HtQ=",
         "icono": "https://pics.filmaffinity.com/Terminator_Zero_Serie_de_TV-168540123-large.jpg"
-     }
+      }
     ]
   },
   {
@@ -926,11 +646,10 @@
         "name": "🎬EP.23 ",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLxtBlvxViNDqB1oFTuEt1bdarIV2NbQ1EkyCcTNdfDq2O21t3fl26SeMZy6WvQOqmRg3DjAYT80yAMGevO/fJIrqrX/wNEIxFrMEWlkqM94rlbHSf2Pvn3gbxhe6zRPn29su8XCXzD7jB8vnypH+arzvpGz8ljoprqGUKY6sQEahdT47mid0cavxwWyyEkJTHVCtHiXTvoN9P7HjKVCjt7VG3W0ZgsFQ9Uv/vD9t5KonJp7zAk9nRvN8mFVejTEiaKlE4hbMCKG6VM5jlbz1o28UFEjaBmHJ/l0J1LiDkU1Ow==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREcao8UYKfzfCWxcczHj5DBp9CT1g3jGEthKd6DBz68TYgJFfx"
-
       }
     ]
   },
-  {  
+  {
     "name": "🎬fiesta de la salchicha (2024)",
     "samples": [
       {
@@ -957,8 +676,8 @@
         "name": "🎬parte 5 ",
         "uri": "cVI+FPBxX2ASracUSyM4w2njhKzymFdN8ty0DXRLtZHu4e9j5hpFCYdTsaqCezMyrx4LRdGSnzf1Batn8kiMfpHijATA4e/kPKwkhJFEHEe2TF/1iaUMttgU0rIQ5pxL",
         "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/7/w1280/dLndpV6k1AcDRmFlLCxuWtt3wja.jpg"
-	    },
-      {	
+      },
+      {
         "name": "🎬parte 6 ",
         "uri": "cVI+FPBxX2ASracUSyM4w2njhKzymFdN8ty0DXRLtZHu4e9j5hpFCYdTsaqCezMyrx4LRdGSnzf1Batn8kiMfpHijATA4e/kPKwkhJFEHEdrNBvfBGSdPZBRWFRGpVtp",
         "icono": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/7/w1280/dLndpV6k1AcDRmFlLCxuWtt3wja.jpg"
@@ -976,7 +695,7 @@
     ]
   },
   {
-   "name": "🎬JUJUTSU KAISEN TEMP 1",
+    "name": "🎬JUJUTSU KAISEN TEMP 1",
     "samples": [
       {
         "name": "🎬E1 - Ryomen Sukuna",
@@ -1003,7 +722,7 @@
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ4+czJBSWWCUHzVaYo6Oke5wnSmrqQ7s8bj82pIhVKqIkvQ5IwzSuCZM6N6rbxsFEZ+FxjJVOdQuVfxE1ydw6niOYET9Pogx/BSFUgbckHTEhmB7ftShXPCRjziBRRnFHgYLNiL3mcP5AtC/749FPa4f74VDNZN7JvG5TXOMxd63k0q3FIxg5wR3LtpqIAMZW3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AFT62UK94S2TutCj87B/jZI+7vC9wgRS9tjRR43vYj/F3YJ0kGG2QY78Qbcbu7I9kjlbrOK0THDqXwy8UTeoqhOrRhlzJZ1ZugDvDX/EbT1YcUM3/zsplb9j0d+oAxOVVvy7qEiVneTkRhGOObGtzndF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
         "icono": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f6/JJK_New_Key_Visual.jpg/revision/latest/scale-to-width-down/1000?cb=20200914020414&path-prefix=es"
       },
-      {	
+      {
         "name": "🎬E6 - Tras la lluvia",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ4+czJBSWWCUHzVaYo6Oke5wnSmrqQ7s8bj82pIhVKqIkvQ5IwzSuCZM6N6rbxsFEXmlL/F1HJfLWcJPdoSwHjKRrsU+P3XT17LcIwQMWEeTsvnORE/nYy2fVwGC6QsSni3nqjuRQKmkP0K7nKv04DxxMNxTGa/rERDqXgvdXeOz81H9ZZ1PIvyvzbkrO0752IBG+NldTFBf452V8yFZc0FrVRSnWh+Pq5jJbWUOJIz9E2L/BT737vlnW0CrAn4jdbT2ywrxE9UKv6oz7X2242gvR2M3sNstj2YreNAxS+RgZTCa6ZPLM5aXB7VgtsO1N/lDXDS/ORvvwSbiPfqT3ScMN8arZAulNGlF//6C1NcZmIPp97sN5KFTsutrBW9zcUaBkySRH1CH5CWE5GPz7HhIw5eP0SsKGntLGBlHOjWidYgJ2CG60XfiPVLVUaKkgOFus9r1e3IA+RNQUeBn4hg==",
         "icono": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f6/JJK_New_Key_Visual.jpg/revision/latest/scale-to-width-down/1000?cb=20200914020414&path-prefix=es"
@@ -1021,8 +740,8 @@
       {
         "name": "🎬E9 - Donnadies y castigo",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ4+czJBSWWCUHzVaYo6Oke5wnSmrqQ7s8bj82pIhVKqIkvQ5IwzSuCZM6N6rbxsFE7/4c7fNyeB8oKCwT4VBf9QTC6Jz/uQ/E8ObQ8TEuW4yswSfDPPAZdEV60dqe6pAiXsTEFUugSLF68TXtFs8PIObOB8G1povy/g9jgBzXNq6RAmRAXCfU8LkxSH6iVVrn3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AFT62UK94S2TutCj87B/jZI+7vC9wgRS9tjRR43vYj/F3YJ0kGG2QY78Qbcbu7I9kjlbrOK0THDqXwy8UTeoqhOrRhlzJZ1ZugDvDX/EbT1YcUM3/zsplb9j0d+oAxOVVvy7qEiVneTkRhGOObGtzndF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
-        "icono": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f6/JJK_New_Key_Visual.jpg/revision/latest/scale-to-width-down/1000?cb=20200914020414&path-prefix=es"		     
-	    },
+        "icono": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f6/JJK_New_Key_Visual.jpg/revision/latest/scale-to-width-down/1000?cb=20200914020414&path-prefix=es"
+      },
       {
         "name": "🎬E10 - Mutación pasiva",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ4+czJBSWWCUHzVaYo6Oke5wnSmrqQ7s8bj82pIhVKqIkvQ5IwzSuCZM6N6rbxsFEJ+u1NsR21SpyyPpy29EQQSYz3YNnnlWGj5/lhWc9EJ9PN7kgswrwHoRgJ+t9nIrZFmdrOE0b687aRJNktjOnVrCbxAspz4nYUEkXNon1KCtrqN07XfmhVvxn/75zH36sbtT3klL59z/CXhDh6TFVMoGfeSOVmvlfdlYEwzhiVhhUMIj8a62CK6sowQt/JYmd9rtsxJZ6+DHDQ1K/yR3fojrMJgmzByxCp6sTL9+oN2ZT1Mb/H7fHC/G+Tn/04jn1bhfd9JsaYo3H5dvhLwM48K4rl8IhTuRGsJD8U0ozy68OfDUEIPeT19sNvE3qx7edYCJj1Mhe62baXpoW4XnuhASbnXFE6BkmlaxPh/iQylITaDDqB4+j0ILx/ug4JPRDC/u2Ejf0qIZk75Q77x30IA==",
@@ -1867,8 +1586,8 @@
         "name": "🎬parte 5 ",
         "uri": "cVI+FPBxX2ASracUSyM4w1eiAuVRQ7JzGZHUyS6PeWrG/2qkeXqtt1qjxm6VDE68K6Odd5w1MdeoluaS4MjRIGZkcBc2twKIyoJRg8kGWVo=",
         "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg"
-	    },
-      {	
+      },
+      {
         "name": "🎬parte 6 ",
         "uri": "cVI+FPBxX2ASracUSyM4w1eiAuVRQ7JzGZHUyS6PeWrG/2qkeXqtt1qjxm6VDE68K6Odd5w1MdeoluaS4MjRICqfrO86lz9sR0meVtI0yeU=",
         "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg"
@@ -1886,13 +1605,13 @@
       {
         "name": "🎬parte 9 ",
         "uri": "cVI+FPBxX2ASracUSyM4w1eiAuVRQ7JzGZHUyS6PeWrG/2qkeXqtt1qjxm6VDE68K6Odd5w1MdeoluaS4MjRIHALQj3X/yDcNVzbE2W9RUk=",
-        "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg"		     
-	    },
+        "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg"
+      },
       {
         "name": "🎬parte 10 ",
         "uri": "cVI+FPBxX2ASracUSyM4w1eiAuVRQ7JzGZHUyS6PeWrG/2qkeXqtt1qjxm6VDE68K6Odd5w1MdeoluaS4MjRID7AqBwsB0KjxVPYqst42lk=",
         "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg"
-		      },
+      },
       {
         "name": "🎬parte 11 ",
         "uri": "cVI+FPBxX2ASracUSyM4w1eiAuVRQ7JzGZHUyS6PeWrG/2qkeXqtt1qjxm6VDE68K6Odd5w1MdeoluaS4MjRIJvpXwF+2Yd57B8pNKbVsQ4=",
@@ -1906,12 +1625,12 @@
       {
         "name": "🎬parte 13 ",
         "uri": "cVI+FPBxX2ASracUSyM4w1eiAuVRQ7JzGZHUyS6PeWrG/2qkeXqtt1qjxm6VDE68K6Odd5w1MdeoluaS4MjRIAwKUXjBhS7LvUHlwfKTmp0=",
-        "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg"		     
+        "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg"
       },
       {
         "name": "🎬parte 14 ",
         "uri": "cVI+FPBxX2ASracUSyM4w1eiAuVRQ7JzGZHUyS6PeWrG/2qkeXqtt1qjxm6VDE68K6Odd5w1MdeoluaS4MjRIL4txFrZH9I5dT1qBgdgv6M=",
-        "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg" 
+        "icono": "https://image.tmdb.org/t/p/original/w5HvVZRFnZfzVtsNyQAVAzaNccX.jpg"
       }
     ]
   }
