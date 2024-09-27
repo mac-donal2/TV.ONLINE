@@ -41,7 +41,52 @@
         "name": "🎬E3 - Del carbón al oro",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ9LmuRd8sr40aPaTWpS6k4+zvnGe80Q2yOFRAGWBAZYIkvQ5IwzSuCZM6N6rbxsFEluEW/pc89DZMDnDAugT0rKArkkmAp1wbWtWnUZHxifyBs3Gk3tGOgk25tykvvWUVV7kAnrzZLYSvlvREtnBSNcmimlPhdgof+ZFBkG91ZEcJa2CcHXCiljVA6avvcLQJ3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AFT62UK94S2TutCj87B/jZI+7vC9wgRS9tjRR43vYj/F3YJ0kGG2QY78Qbcbu7I9kjlbrOK0THDqXwy8UTeoqhOrRhlzJZ1ZugDvDX/EbT1YcUM3/zsplb9j0d+oAxOVVvy7qEiVneTkRhGOObGtzndF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsP6axt-Duhg0nyShTKUdI5DZx1tIy9JkcbKv0lwaXNm3zBF2r"
-      }
+     }
+    ]
+  },
+  {
+    "name": "🎬Negocio letal",
+    "samples": [
+      {
+        "name": "🎬parte 1 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOmlO4RItNxhJGg4EpXnoN2hTcECo2pqWIXaaYkh+bJCig==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
+      },
+      {
+        "name": "🎬parte 2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOlgwGTQ6LNk4JQYM6r3cvRTTcECo2pqWIXaaYkh+bJCig==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
+      },
+      {
+        "name": "🎬parte 3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOnTpF8k/rR43D5Pyt9MkKHgTcECo2pqWIXaaYkh+bJCig==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
+      },
+      {
+        "name": "🎬parte 4 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOnVP9t+rCJL3Anbn/zfrk4zQVL6BCPQFsq+xF2hnvclkQ==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
+      },
+      {
+        "name": "🎬parte 5 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOlvUlkXJ+8Hx5fQkhWhoUcdQVL6BCPQFsq+xF2hnvclkQ==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
+	    },
+      {	
+        "name": "🎬parte 6 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOlUUTLjlbUaqiDTE3hDDTCoTcECo2pqWIXaaYkh+bJCig==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
+      },
+      {
+        "name": "🎬parte 7 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOlE83rItXUeJBaDHSj4R5I3TcECo2pqWIXaaYkh+bJCig==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
+      },
+      {
+        "name": "🎬parte 8 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOkpjDIRi3xnJ0Rau6nRo5CNTcECo2pqWIXaaYkh+bJCig==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
+     }
     ]
   },
   {
