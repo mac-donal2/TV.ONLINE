@@ -3124,6 +3124,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQs2XoXN3loMr6UTK_y_DVpVtxWP9AxwAymBO2Hp9&s"
       },
       {
+        "name": "TELEFE CORDOBA",
+        "uri": "Z70lfg0JrhijL3+AHw63ZNEcHr94W89spdNHJSnRZYPw1G+JKd/QaZe5vK4vv1G15glR/AdPA4tLQRyFBZlxcfRv+EAPwImw8irVk4jpbtCag8Hrp+IUTgVhXDyEkvI1sz6wG6kSlPQa9oJVZo/MKQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvG1srUMpuSTH26Zzc/B71bXFnrQfp59SurWFJ+LGvbcTQZYw4jk4SHsqvEjy4vLovN198XHHI2MdyI8TkFdDkB6HHcrPLYD5Q4DL7ECvTUJLZa5JnlP5eF3cJHFa8hfCGA==",
+        "icono": "https://static.tvar.io/imagenes/telefecba.png"
+      },
+      {
         "name": "HTV",
         "uri": "nD9rBpDatMYAXfl1n08glwFtA3vf4B6N6pJgjlGvWfnvuzzeR9SAum9nxlUx0gPfy6kRnYqQJnVVBGEs/O/tJw==",
         "drm_scheme": "clearkey",
