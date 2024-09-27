@@ -339,8 +339,25 @@
         "name": "PRUEBAS",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ4xHSFTVmQyz8Aq4Z1M/Mf49wL2HD5u3HzWdSHJ3yX2+DVWYfW3qZvSQZqz7mXZi3Sk+qA1LDXsVDFX8IpB0hBelXuI+DBWh7lq1G94rw1rNR4LU3rjeFLkK5L+Z/yC8P+wLhnyN4Gc2INP6zrByqsbOunkxEu9jjXwZkPJwt7Eeb9FbWhIEwugMtKIAE0c6vyBHBigtv45q8rUc6odKDk33jmNiJBiIGUVkvmDFRp4z6+zGM4y/nbjjaBYMrkcNp9cmJAuDGUSR2DQLFRdxKntKBO85FZ7+eABy0f2oZKSpBRt2Lyu91otZ4WzMlkbqDeLfwHJ9moWfq30WnB0DRBWWvoOMei2su0A17r9jhmsevqZiliTmwmFG4M0MwS9lta5cLOf4SolS7vfx9XtSfjVyo7gd+3Dyon4yuOe2ll3uAf2LQmDkxW8i1zmK53YpcMktRALytxPSwhqoQxxuMJL1kXkr62LjLtCM05zndFTiTv72Z91V/Q97ZFGC0ufTk3NQDHdXmTB3bPpHz9/QFv/9fe45YjkhAFBirCC9f2C0=",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc4V4SMPdtPN1DLBePZT7r4EzTCA-huA6Yy1QLIkeZOnKNavUq"
-      },
-      {
+  },
+  {
+    "name": "TELEFE OPC 3",
+    "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr3zEPaPr5TkFdTJ6XVivNR4aeOQC5B3HMPhPFrje2g56Q==",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
+    "headers": {
+      "user-agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJCQxkkcz/rh4DLTCoDFfPIuTxUde2JTGmiJaDQJGByAQ=="
+    }
+  },
+  {
+    "name": "DTV",
+    "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLwxaqRevCh1bULnQg7NuseunboCBYffGTqLuVHhsQ6JYyI5fNnwQ5MLCOkY2D3wc/wYLWpT7xAhTfDHyrybMtS",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBl0suf9KNFvByOHfoQbVZUCbAruhToBzS15KfX2oqDSkFi/oezwrBTJwDtUJeZE/ddsp8Jum6w+dgle5HA2lhl9AmzdN/+R1pL2R4ldyKGqEvDPR3W68iZ4YpYsZDZgWg==",
+    "icono": "https://yt3.googleusercontent.com/vPjSedcJZggFmkyjCh8lWuqaDFeuyaLKEOio7xibiwvSs1aUZ7CeyCQenE9TUJPmtqRwHZR3cA=s900-c-k-c0x00ffffff-no-rj"
+  }
+]
   "name": "AMC",
   "uri": "gGpVxLzFk/l/Ocvd4EzM9r2VtSEQNO5A3oSC2C1gJmAulOygCajLWGhXdan8TqnE5TTVdhMC3UW5Z90w9EO1Ok+jc8/DivjH6oKzaAwCI4U=",
   "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc4V4SMPdtPN1DLBePZT7r4EzTCA-huA6Yy1QLIkeZOnKNavUq",
