@@ -3,6 +3,11 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
+        "name": "🍿,Criptoestafas (2024)",
+        "uri": "1mHdscnSaPBrhFQNZgeuvPWvFwdmgepGofjmyj5ScimRJwXAJ4NeqL0zmKiEkyv19SBOaxEDimDcBryD13Lk9w==",
+        "icono": "https://image.tmdb.org/t/p/w500//6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg"
+      },
+      {
         "name": "🍿Disco, Ibiza, Locomía (2024)",
         "uri": "cVI+FPBxX2ASracUSyM4w2njhKzymFdN8ty0DXRLtZHu4e9j5hpFCYdTsaqCezMyffKynzz+TcZmpGugWrDjs5tzTLRk85KDZuYzsiz1axc=",
         "icono": "https://image.tmdb.org/t/p/original/beLbZExOZ64LzbqJbbbjhlqbezi.jpg"
@@ -722,7 +727,12 @@
         "uri": "e3DRxA0SeYh8rk33tSVR0jmeugEZq/L4YJx3Qv3IPJC4V4Jam7NvwbgAhrATqHriO6fnhwT05kn2PqXSnDZ+Q2njkAuQdxzD4Txa43toOek=",
         "icono": "https://es.web.img3.acsta.net/pictures/21/08/18/13/34/2412029.jpg"
       },
-      { 
+      {
+        "name": "🍿Radical (2023)",
+        "uri": "1mHdscnSaPBrhFQNZgeuvEfh+B0fyyZVZ0WvYgeDynY4BH3+ZJggQoN8r2fg7EJ37hGF0LZ5iE/55Q8iK+6aKQ==",
+        "icono": "https://image.tmdb.org/t/p/w500//eSatbygYZp8ooprBHZdb6GFZxGB.jpg"
+      },
+      {
         "name": "🍿Box:Metaphor (2023)",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJdwDSSPYp9dK8s/Hb5xeoJR4AZhRvWvqOAtI+RS3leC/FbPbFDMWdtYpQ/y25rwl0XnVJteM30MUKTt2IbP/QP0WFvMeNENRsIYXcqtHBb5IV72jeisKxGVwta9xmn1Z2ASeBgnAHFvMCrINtqLYw0N4LDMyuxK3MHimMinb5zPf0cVvlybV4a2fO/nfyUtZnbtT3klL59z/CXhDh6TFVMoGfeSOVmvlfdlYEwzhiVhiL6CupIULRzk77+YAtqhHhQsGTXmxZ9bqIQwO2Y9jBiDLzJBnry9jiPjAYBm9HC3acP3EwwmQy+yU/j2VTFe3UjfcHmk+itIWOOPbvecyCAknOgleRUkwFHGAH7IuzzXf12odvJ/Y/lnMG63NjhgT8YCJj1Mhe62baXpoW4XnuhASbnXFE6BkmlaxPh/iQylITaDDqB4+j0ILx/ug4JPRDC/u2Ejf0qIZk75Q77x30IA==",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaXcnG1zI21BWf2WiNQeZ3NL60CEtE4JIDgXpEMy-05MMm_-9Z"
