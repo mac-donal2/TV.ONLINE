@@ -339,7 +339,7 @@
         "name": "prueba1",
         "uri": "pJX3CYlrUkcqZdTYZX2jDhXzxBlXGuxvWRe9cDTVbnikDxMiIgIjn895Tkyd0a+Q",
         "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/8Tng4QWveeazE2gFcrZxvbyvvl8.jpg",
-        "referent": "WTmidT/hg0htzMyZ2quor6g8wnJLBZ1tQf/z8tkDI6a0UOxW/+i5+uQeiHeiVxBa"
+        "Referer": "cIr9ibmDd6ZT58lIv7uI926z67/gHVbDOOncTPaSGcQlqkYmxt5HiV3uSy8MsmoB"
       },
       {
         "name": "PRUEBAS",
@@ -348,13 +348,13 @@
       },
       {
   "name": "AMCC",
-  "uri": "KusJ5ShfomSLrFIJxHev/jXIAcht3gt6FMFILfqq4pX5+75dY+OFUbF/hrAyUKcp5s/bCZ4dGw0niOpn8dh2NuAvk6WfIPLDAKlDYwA8DhnBzWmualXeQ1rQpP+n411V",
+  "uri": "pJX3CYlrUkcqZdTYZX2jDhXzxBlXGuxvWRe9cDTVbnjifoENAi61qQ7/fjJGgNBN",
   "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc4V4SMPdtPN1DLBePZT7r4EzTCA-huA6Yy1QLIkeZOnKNavUq",
   "drm_scheme": "clearkey",
   "drm_license_uri": "Bxiz1sRKa8YTnDJ4REA2XJdbTsdghBuUTXeWOIJ9u0SBbeIqNzeI+7rwU7gZr2jKDYxMLVDmmVr7H81sBE2UtQ==",
   "User-Agent": "v/k2L6BzeErF5iv4D2mcsWz1NZz8pee47s8CchEzaICs8B2zA9kzM01oiqajI9LflFCj7mE/GhPYItValY0+OCI1UP7+vVNodPV7KxoCLUE=",
   "origin": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
-  "referer": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=" 
+  "Referer": "pJX3CYlrUkcqZdTYZX2jDr9G8KbzheI/1H3e8S421gV1MTh5uZT+I9pGmSwa/kcV" 
       }
     ]
   }
