@@ -2983,7 +2983,7 @@
         "icono": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg"
       },
       {
-	    "name": "🍿Estación Zombie 2 (2020)",
+	"name": "🍿Estación Zombie 2 (2020)",
         "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3GryhtnDrwEaXL07EFCqtylb9XXBaO/0nSfGyh0e2HfUoDcUiu6GN1niPkNJMcxCzs=",
         "icono": "https://image.tmdb.org/t/p/w500/eeqvAzCccAZOhU3RfbvHB3s44S6.jpg"
       },
@@ -2991,6 +2991,16 @@
         "name": "🍿Soy Leyenda (2007)",
         "uri": "cVI+FPBxX2ASracUSyM4w4YvhbME5dMu7qbZ6an9uyJU+A22cDBHRO/NV2JwufjnaRz7aJOWShJQXOI767GO7ykkI66vd/K8uWM9oM6GaOs+uSRc+nYXErm9idno4tk8T6X1Jmj02YXX1CvjACPQtQ==",
         "icono": "https://es.web.img2.acsta.net/medias/nmedia/18/69/52/53/20051673.jpg"
+      },
+      {
+        "name": "🍿MexZombies (2022)",
+        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3FZTCbUcq+hhsj3RMSfhthKJcdQYljLs30qYXcV3rLsfA==",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYWUzZjBiMjMtMmFkNC00M2E3LTg0NzQtY2E3N2QzNGEwOTFlXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "🍿Zombies 3 (2022)",
+        "uri": "e3DRxA0SeYh8rk33tSVR0kWKHILgduvuCCNbDvQmO3EenDJX1SfoGLsolFa+TAv61haknlQfGR9q7movyd8LyA==",
+        "icono": "https://es.web.img2.acsta.net/pictures/22/06/24/09/49/2865083.jpg"
       }
     ]
   },
