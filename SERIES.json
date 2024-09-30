@@ -295,6 +295,41 @@
     ]
   },
   {
+    "name": "🎬Parasyte: los grises",
+    "samples": [
+      {
+        "name": "T1 Episodio 1",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeUh+OhSHf7T/se4fZrfneyNYMfbvDZh8RpWvQX64fpdGzR5poalXExTPk254AeqjVEkrcuB2icH0wWpPWWNcJx9Sc4UDVcvjakTBxbVViIufGMIY/SVD+K4mR7aBlCrQrQ==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjpJRLft0adaozi7a5BwYz4l81GaEjwwMUFqJyKfJO56YVuO7h"
+      },
+      {
+        "name": "T1 Episodio 2",
+        "uri": "TQSPBT5fFAmrHLJIeXbfebRzJiqhfYcXejBwzVRwCHD44H6GH2XvRt+2nRSfU+QZId6zFQAtbZ9QII0J4vWM8mL07SXgPMo9q5Eworc05qu8wfvh2UwrfD+HY7fKmTxNAU7GNjyzWGbGddMO9aJOUw==",
+        "icono": "https://i.ibb.co/CwHR4SD/2.jpg"
+      },
+      {
+        "name": "T1 Episodio 3",
+        "uri": "TQSPBT5fFAmrHLJIeXbfec9WIsOEAJ6CQn7rhD6AQxy8YZUmyVGkM89RBgXpwUrtbG3Gu8/BXGyQPpvspojmCTkzigQubGmIZSydKJcuyue6FaSqieJL63qYTduMjxGPjnwASO08JojPt2kQ0UtZLw==",
+        "icono": "https://i.ibb.co/NThn4NP/3.jpg"
+      },
+      {
+        "name": "T1 Episodio 4",
+        "uri": "TQSPBT5fFAmrHLJIeXbfedxFw2qBid/x0SKvFcGIa+3PQMSISp0AEz9ym9lNVzc+UvD4KI/WspADdVy6EDz4VMtMQrq6XyaWAcXkygS7T9IHEWxfpm/Z9HD7vDhaYZKFjK1A3+1lzMXAshawSMzyCg==",
+        "icono": "https://i.ibb.co/WKxzxpw/4.jpg"
+      },
+      {
+        "name": "T1 Episodio 5",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeVgL2E0f/yTWaBJDhTd+JdLvelHDiXyOPQopkd9f/mbsG73YZwbqw69tcoQOKRN5s6IsPUaIN2tO+y9sZJjsMYb7YLhajU/cKTSNXEnnth1T8El6RpZfmMupigdnOUKnOA==",
+        "icono": "https://i.ibb.co/ZWLmRGB/5.jpg"
+      },
+      {
+        "name": "T1 Episodio 6",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeaNK9tOe73FkcdnVobgGxCw3HAxsWXaP8FS3urxD6JUt5KZhlFMrMdec7wqqdKH5ejNgSOUeHr7WsoWkUduxDEChNMadLKmhbVpe+WVKdtl3tVeFJcTws5fiNz/C4mdpVg==",
+        "icono": "https://i.ibb.co/6rXvqy5/6.jpg"
+      }
+    ]
+  },
+  {
     "name": "🎬Prison Break",
     "samples": [
       {
