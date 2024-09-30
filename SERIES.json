@@ -295,6 +295,41 @@
     ]
   },
   {
+    "name": "🎬Griselda",
+    "samples": [
+      {
+        "name": "T1 La senora llega a la ciudad",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeeVplxJSr37cvkonxrl8rCzeoJqNNuM9ZSHki4qRaSH7huSe6ku7881qbdw0gZMkTArvXIL069823K91Z750z4LFwqYCfAVDWvhTza0pIvM5",
+        "icono": "https://m.blog.hu/mi/mindennapmozi/image/000griselda.jpg"
+      },
+      {
+        "name": "T1 Blancos y ricachones",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeS7jGJ6nI3LBwCAq+1nNmC0U6xMjDCUimJ0m6fJtyYiecipjqV0b46ritvGHpCPb85CqcpQNdN5WdJQo6D+3u5I8j3wR8pNcVDwj9kT1aqIU",
+        "icono": "https://i.ibb.co/SQjrbvb/2.jpg"
+      },
+      {
+        "name": "T1 El Mutiny",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeUAmj0V4CQTPEJYYr/JpfTwk6zNjKQoq9fPRxUcap41tdzpx0x4CXcZZvVpwECh5aKpqT0v+ZrF+j6+bJSFF9QOROk990SPuMmSMXLn0Ua1h",
+        "icono": "https://i.ibb.co/s59zR7W/3.jpg"
+      },
+      {
+        "name": "T1 Intermediaria",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeQUHeYtm9PnYUS1DwNXJweZa0bU8Zd+P5QzLIRkSHM8A/W9VxcASI+HD+prq2qKqAKVusD10qDh5kWRIcvgM586qNeBqWbMUqJ8ki+P6pNIl",
+        "icono": "https://i.ibb.co/89X3X72/4.jpg"
+      },
+      {
+        "name": "T1 El paraiso perdido",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeYr7vt1YK5BUqe6iNJEdb5CRuVfD0r+igwEUUXkuj3HGz11hVOzn9ZeOHUX2Rb7hP3/eqnJATTUZ8fG5y0KhTvQMj19NglT0+JVDtD8VpnTK",
+        "icono": "https://i.ibb.co/8Nfp4W8/5.jpg"
+      },
+      {
+        "name": "T1 Adios. Miami",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeaS7IAMEkRaxdZluev3PK0QEnmmirOEfv9z26vmopSQ5y8nIH87hln3Jb0EESm7ucjv26F8cfx8RsgCA43Ji/d788IPBgGbRm0r2gGoAadQc",
+        "icono": "https://i.ibb.co/tQH1RYy/6.jpg"
+      }
+    ]
+  },
+  {
     "name": "🎬Parasyte: los grises",
     "samples": [
       {
