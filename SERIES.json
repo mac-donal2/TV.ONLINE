@@ -330,6 +330,41 @@
     ]
   },
   {
+    "name": "🎬Star Wars: Historias del Imperio",
+    "samples": [
+      {
+        "name": "T1 El Camino del miedo",
+        "uri": "TQSPBT5fFAmrHLJIeXbfebyhMezb8e0y6OqALWrUJgURVFsTb9RtPTNUSltYFYQzkC+U7jrAnVHftZhsk7ke81NSIxYQPARSV1crQWDxi6uaYGRkyi3tcXVxp2iYsOom6xN6s5E9GK8OGuyNCrxe6A==",
+        "icono": "https://pics.filmaffinity.com/Star_Wars_Craonicas_del_Imperio_Miniserie_de_TV-712941996-large.jpg"
+      },
+      {
+        "name": "T1 El camino de la ira",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeVg2ciWwVFaLRAU0mcqercAJkhepdcAIzFNlkts8AKGdFkv26kjTQn7VtRU8sLs0B7WkYsXxEjDw+uDcI2b/fj7gOzScBoJHELAju7yjYVPwSj2lSIamuvsOi/Nw4RJX0Q==",
+        "icono": "https://i.ibb.co/9cL23cq/2.jpg"
+      },
+      {
+        "name": "T1 El camino del odio",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeY3t3ZSgt/FrW39Mwo3e7Hqnf+5oiTOV2hNsDvHqp+KMkX5sjr43/paDJ9k9Pol4ojVOnPa7jf/iSYgLmWfemiiAmClL7HeU3idF1MGYU4wLHoBIlc76VL90SY6L0OpIrw==",
+        "icono": "https://i.ibb.co/F4sqtnm/3.jpg"
+      },
+      {
+        "name": "T1 Dedicado",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeWbd6zrr8uVM7ajGyjF7RqC2DuY/l0JORKCYavOtLjnH140OtAmRST0YKNNa5wdJCKtFb+L57q0q+NIdXMAl78dOSJpbhZmTdVMwiVEPLR5BsW5EBvehNGGF5P7lKR6Zlw==",
+        "icono": "https://i.ibb.co/kxVyBHf/4.jpg"
+      },
+      {
+        "name": "T1 Realizacion",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeTqHJBvuFcmh/O3e13O0tqQxQBpxAstvzFjxusE5VGqVZ66rQWqtF5ZPvpt7W+qqEVmEAye1MEhkVbG7fD7AJEMbBkxUF/7UBldvgZuNsGyI+YRQSIZBi7uHm2LDMgmhAw==",
+        "icono": "https://i.ibb.co/DMC2Lsf/5.jpg"
+      },
+      {
+        "name": "T1 El camino de la salida",
+        "uri": "TQSPBT5fFAmrHLJIeXbfeYGS8iFyuD77br+MRC74bES9TLWHGX9bwqdhe9hDHIFbIGv5NZr2XAi/1msDoR87reRhJkEhX1dpZpRF5n1K8dycX7i1a9VGA56pHhF4iPkOoQInWGb1rwpt14jBStCGDw==",
+        "icono": "https://i.ibb.co/FYZcLww/6.jpg"
+      }
+    ]
+  },
+  {
     "name": "🎬Prison Break",
     "samples": [
       {
