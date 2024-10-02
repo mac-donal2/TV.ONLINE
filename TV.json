@@ -739,11 +739,11 @@
     "name": "🇦🇷 ARGENTINA",
     "samples": [
       {
-        "name": "FLOW MUSICC",
-        "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW03U+O1Lb/fPkjeXylJo3Tz5rJlCoAe9VAyd9g8emUkCtIhrVk560dFvsV4PDGjE26ITq7j/c2JX60E+RtP9MDj",
+        "name": "Por amor o por dinero 24/8",
+        "uri": "KusJ5ShfomSLrFIJxHev/jL6ooQmoIBDVod1epnlQhURz0Yc1yaaNNBESsSEf/mkr+NJpR09VZ8M9GMemFaiS+ayZQqAHvVQMnfYPHplJAp+9+1sSJIOoN6Ubtd2ruWZawLiClqMWq6PqfS5rJYfjw==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEYZ+XuvxWN9qhF3m5po9dQHqqDwtXKKE8eeeFQedXWPdJDQjsuCQ+wttEFbi5ViqESo58K3cefWIWp57kTleUtrcVXDS4g+6H2SsFnanXc7EvDPR3W68iZ4YpYsZDZgWg==",
-        "icono": "https://i.ibb.co/hB8Tgvz/flow-music-1.png"
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP1LQOThM+ZGPpgU/FNjATPDC/wVXNqla5xTGLGMqOCnWElr1mYYCWadx+MdJcH9vzMr+B7r94y4vrn3QjcJWIxxofGlzK9z+iZiaFJYNGNLZBwu/4MXv4stS4KnB13hAA==",
+        "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png"
       },
       {
         "name": "TELEFE",
@@ -1057,6 +1057,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO3WxwpgzafFwcnGpxA5ptoSEHveiwuW/L2ZFpl1Khu20HKceT6c+JJwfKihb19C5vlhq0Z/KXDNnask1j5wDO9ehzk3QEoaHSW9jjg/+2d+QGVRWqpKFp3ZSJDqqtvf3w==",
         "icono": "https://tvsamwproxy.boldmss.com/images/8687/channel/image.png"
+      },
+      {
+        "name": "FLOW MUSICC",
+        "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW03U+O1Lb/fPkjeXylJo3Tz5rJlCoAe9VAyd9g8emUkCtIhrVk560dFvsV4PDGjE26ITq7j/c2JX60E+RtP9MDj",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEYZ+XuvxWN9qhF3m5po9dQHqqDwtXKKE8eeeFQedXWPdJDQjsuCQ+wttEFbi5ViqESo58K3cefWIWp57kTleUtrcVXDS4g+6H2SsFnanXc7EvDPR3W68iZ4YpYsZDZgWg==",
+        "icono": "https://i.ibb.co/hB8Tgvz/flow-music-1.png"
       },
       {
         "name": "TEATRIX",
