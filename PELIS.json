@@ -1888,12 +1888,12 @@
         "icono": "https://pelisimg.online/cover/venganza-implacable-1608237909.jpg"
       },
       {
-        "name": "🍿B煤squeda Implacable 3 (2015)",
+        "name": "🍿Busqueda Implacable 3 (2015)",
         "uri": "CuBWRYnbVa8CVDxc2qOhORSN9T9jS0drjT1d87JvBg51gsNIgGjOOQ8iQmIXcckoT6XxmzCMeW8lvcWdpIfeKHFgWyDiYSXxzDboS+VIdWb8rjTAVGEGHiKmb3jJx4gXTrIqPHVtR+8zJZlhu3rgDQ==",
         "icono": "https://pelisimg.online/cover/busqueda-implacable-3.jpg"
       },
       {
-        "name": "🍿B煤squeda Implacable 2: Conexion Estambul (2012)",
+        "name": "🍿Busqueda Implacable 2: Conexion Estambul (2012)",
         "uri": "/x/tTwS80pNKYnP2Fo+LchSN9T9jS0drjT1d87JvBg7eLVXzOUsfoD5pUrYx9YYxmkDQJyGWJqRheEjVsidDjfrbLO1Ue4ZgbqUBW2PQsTxWB6K2SCz57NR6DkR0OZHGTrIqPHVtR+8zJZlhu3rgDQ==",
         "icono": "https://pelisimg.online/cover/busqueda-implacable-2-conexion-estambul.jpg"
       },
@@ -1948,7 +1948,7 @@
         "icono": "https://pelisimg.online/cover/doble-impacto.jpg"
       },
       {
-        "name": "🍿Muerte s煤bita (1995)",
+        "name": "🍿Muerte subita (1995)",
         "uri": "6vt4tLH6SP74Y0Z6PeTH1BSN9T9jS0drjT1d87JvBg5C1V0xMxp1Pi5FPhH7b1NOatbp30roPuQaRoFimXIK631/WmAUzDDS/okVNE4IBoMSPBNWf98tCzZqy6RHG6TATrIqPHVtR+8zJZlhu3rgDQ==",
         "icono": "https://pelisimg.online/cover/muerte-subita.jpg"
       },
@@ -3037,6 +3037,11 @@
   {
     "name": "🍿ARGENTINA",
     "samples": [
+      {
+        "name": "🍿Nueve reinas(2000)",
+        "uri": "vDs01QovHT6z6DugBfrx54crUygkAtKUIfENNRYmuebciKckCxx3aYkRWI+KcX7FZ8ojPCl/uqUb4oMgxtEoPE5SEc/1yse0fmbqYhNxvk+Pq+NWFJdzWiGY80hpxc70v+rfVOzZjh79DZ6a2kfvq7Uq1EgBgM9JQOLy/qXHfc1lvUxT0VzluF1wYb7tjHyvdAvhFI1zyyCTeQ78/vOHan6sCpcpnt3ZvRjjczsTvX+PAcggT2WnoSsW/lygGzWjAa3WFhXAXzFOtff+gsQv54EI3ofP1NpUSQo7JtLtTqs7is8XGU/q2BvwKiEAjENSfnsbd8x5QZfb01AQAuE0nv1WonYUM2TCJPLsRbkV1pgjsBYlrIDSt0cQC9L9Y/Z4pzqbF79uZYJi5owzwCtauDyqBJxZtaZ4S9YUxKeUzkI6hFZScL6Gusfysgsivoq3tXRnd5rUEVQEr7YN+HijSRpgk1EVf5xvC7L9guf3SKIs0fmQrmCtghS/kJ4LV6w+ZbAPm7igRKlQzAZOVxPvwi4TVFXCk4O9AERXozoxfbkq4jmp+506Qlp7tGfl+y+vn+OZrRT8TsFHfQxmWMlbiU+o5W83Wwr3+2LIskn4SmkoSOYYNODj9ZAMfJLBtFgIg7nS9MdfLR2T8gyXs5cjM1YOTd9I8SRqjU//zKRpvsubCrixADV79Y4+uhgluYie",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdXEbuIqtHJveqQP0FgUQyBa5-WqBDRyt09DIluZ9itXHUiml"
+      },
       {
         "name": "🍿Argentina, 1985",
         "uri": "kqXpytKyamM2zoaNht9FTtYCT0sH0I5Ryga5Kdfnam0y7RveGNFPxLKBUdiU+oNUJPuvdMIxu9BHnd6KI+lXbYHGLmP4f7TdhvbB+A1pFDA=",
