@@ -3,6 +3,11 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
+	"name": "🍿La casa de los despojos (2024)",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XCWpL2R1XA+8rqv6tyiW3M0h71kMsaBHKzkDg3zqEZ4ruMGl+okaSfmgRhvYVBAYYg==",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/ac/La_casa_de_los_despojos_-_Poster.png/revision/latest?cb=20240924152519&path-prefix=es"
+      },
+      { 
 	"name": "🍿Project Silence (2024)",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XCWpL2R1XA+8rqv6tyiW3M0Mbt6u4SinywsYtq2LibrAuMGl+okaSfmgRhvYVBAYYg==",
         "icono": "https://image.tmdb.org/t/p/original/4GzpipgKlc9XUvj5kOEr2slPjuh.jpg"
