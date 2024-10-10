@@ -3,16 +3,6 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
-	"name": "🍿La casa de los despojos (2024)",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XCWpL2R1XA+8rqv6tyiW3M0h71kMsaBHKzkDg3zqEZ4ruMGl+okaSfmgRhvYVBAYYg==",
-        "icono": "https://static.wikia.nocookie.net/doblaje/images/a/ac/La_casa_de_los_despojos_-_Poster.png/revision/latest?cb=20240924152519&path-prefix=es"
-      },
-      { 
-	"name": "🍿Project Silence (2024)",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XCWpL2R1XA+8rqv6tyiW3M0Mbt6u4SinywsYtq2LibrAuMGl+okaSfmgRhvYVBAYYg==",
-        "icono": "https://image.tmdb.org/t/p/original/4GzpipgKlc9XUvj5kOEr2slPjuh.jpg"
-      },
-      { 
 	"name": "🍿Winnie the Pooh: Miel y sangre 2 (2024)",
         "uri": "OkqPpJ3YmwhQdhjGqaU9/mtrdO2g8A4xt2wUVTljjoeIYRxILID6+JRR1CXJ58oHgXBZCd4Y0jE801Z2sxWm5kFLMnP194yy2MGWOk+EReBgTwV2++0iojwn8xazNlFz4glXPyzefzX0L7mal0ekftAoYl7G6651sjHjApzUtpOh7qeCkDR8777hexgmDqveCr8yIX0Xr+1lRoaqVN9SGC7JCOruKTCCdl6SZ+T9HJZM+6toUkpGN+/trIMSm7y2G7IBgHXDMTnrJsBAefWOTErSKQ8aXQsxSLuGhsDNn661EEq3X/RrK/IAnszv1a7aIEGkATIKMU70J92K9ZQXK3zrzKCdRsphkYG7mJ4EWtBtgoxVNE5sI+MOHgOXyk7BeAnriYeSYa9IvlMi0/2tvfGylSbHRTeAX8LGfkfaXgLfDpQs8KBf7wK26PvjODEwX7BJBoyPhylnI1w6YERIs1xvYR0e/CXq+Xp4yUn10YMxW2NWTkGKBR11oBgWcUKeEkmCHWbUtblH3lbWuZGmvdoA4Zza3H9rKQe+EsXuHB25IVkCCcA6XI8mea8xAj5ELW19WBI0yeGowuTkIA0lNHiLqMZSf+5sDVSalLVzXfk=",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSWqIs7gwwI70vIzs-Z4io7NyjRoHzvkifYXGq5OiRY-NbNzoq"
@@ -818,11 +808,6 @@
     "name": "🍿PELICULAS RECIEN AGREGADAS",
     "samples": [
       {
-        "name": "🍿El Confesionario",
-        "uri": "Bxiz1sRKa8YTnDJ4REA2XCWpL2R1XA+8rqv6tyiW3M24CQw5VGJXxK8zU3m3mx6suMGl+okaSfmgRhvYVBAYYg==",
-        "icono": "https://m.media-amazon.com/images/S/pv-target-images/dc6ed1d6624d0c2a2c232d40991e51e54a455ad19ddb9d2e36d01e8b5ab72935.jpg"
-      },
-      {
         "name": "🍿El Vengador (2009)",
         "uri": "OkqPpJ3YmwhQdhjGqaU9/mtrdO2g8A4xt2wUVTljjoeIYRxILID6+JRR1CXJ58oHgXBZCd4Y0jE801Z2sxWm5mTruy7aV1Lx1uhJKD6jZE7twKIeyn/Lm0avtdAXslMBsRru1oA+wX0uZejhjaSwwHjEAnToFDH5WKUcLclgGS5OshDI5+UjOLgXHqDLp22Gf/eNNOK4XLDseHkMF8PHB3gMFyBwcRcVfOni5VGGyUm8NQ05UQzX31vKssGWRy4aKevdKB4PWTjRFFW9emMO1IZgOTd0mSRrj5llMfchEbCrpA/TEkKXIqsvEVnbjAS24+mTxfdyKtonlIaqYWckVh1Nu/HWnALm9SnFuQZ9O9cVOnm/reTTMFRUGGeK4yG0aeBW8bZOCliZtRGxWro8iLTeF/9U8UGIAeN0FGmZZqlj+yO0KQ0TLYOICZ9Z3ZpXo/W5VdvjC0zh0vRPFdNQ10gVfVz2NXTbZpXMobWLYbar9qX86tjVMK1DK6O+gcGXC0yLrf8VRfOuFNWfqRgu+1lcqvAYJg24FIYA7yGy/19p3f4fZu9Km6t/ni2IW9Gabz82sbFuq6C1nj7PKSeE/ttt1RAsdeNi9M1yYyA3C/o=",
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/fbba94363b20412cd5b975aa93bc4d610c2aace4aa63437db24ccd3788a7707a.jpg"
@@ -836,16 +821,6 @@
         "name": "🍿Sisu",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ3MDkC9TInJh5bjNSdvqRpUFSHYq/JoXPTMcghx/aOI0kvQ5IwzSuCZM6N6rbxsFEBPaRjFfpi3raCfdKHGlcd8TMWeE2UDwZmoiq4FsPnN1eSfHKo15pfd74daHhqHzoI1iosgZhGFgTupTJMpUHl8BWK0cFsmdJblKWe7Yk9Hhs+MQfKbFfNd1UgCtpg3IaBWRxqcBSTU8Z+5yI72Uo/uUndLQg37At5fgCpAwXjNPHTRYQu1GTkuRC/y2DU/I17RLmk8qhrSAFrCz8F3ysI+fxqwYjZC1IAG/V0s5X16j2FO2+HUeWvD3eMphlHBRsSFdW73X/g1GEwJj7dMZcd0U7ZkVO1FjgU+nFNZvkgoYHyQfgcPuvD2Ak0IzF2eb0UaBkySRH1CH5CWE5GPz7HhIw5eP0SsKGntLGBlHOjWidYgJ2CG60XfiPVLVUaKkgOFus9r1e3IA+RNQUeBn4hg==",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zehhtcLHnTOE0lw9rLTIRsJeeW2.jpg"
-      },
-      {
-        "name": "🍿No Respires (2016)",
-        "uri": "INjwSj442SPM+wdawk1JDXrNC3hOruKZiap8ULWCxd+u2c6YZq0I/qnc0mLuWkiG4wKR/Q6cIy056Qb81D72YKIbL0Bd969Ye8urFxJjhCs=",
-        "icono": "https://es.web.img2.acsta.net/pictures/16/07/11/12/08/588745.jpg"
-      },
-      {
-        "name": "🍿No Respires 2 (2021)",
-        "uri": "e3DRxA0SeYh8rk33tSVR0jmeugEZq/L4YJx3Qv3IPJC4V4Jam7NvwbgAhrATqHriO6fnhwT05kn2PqXSnDZ+Q2njkAuQdxzD4Txa43toOek=",
-        "icono": "https://es.web.img3.acsta.net/pictures/21/08/18/13/34/2412029.jpg"
       },
       {
         "name": "🍿Radical (2023)",
