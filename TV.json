@@ -86,13 +86,6 @@
         "icono": "https://www.grupoisos.com/wp-content/uploads/2024/05/Imagen-TV-AZTECA.jpg"
       },
       {
-        "name": "RTVE",
-        "uri": "ejOC8mhnKkUdiM7e04joc9S9H44/OOyhFeCdEVvacGmFXLEUCNyrCooKyt4HF20cxVC2H9gH/nX6r5eDn7HicowmyyQSGlNXvYQbq2ww00E=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIfMT+GpLhhxs0cnFdCTtFDcTYNOkObyQ82VnfWF21+AMy1ynRySIIIcLvZpxzLTPiiCP6tIhE06AF0Yj9Y3cXlaZHhuQP3PmMjsApMomfWNvTHIrUV/EgtGXGChh04imA==",
-        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kbUogYAMt4zNR7yq8JAh5DfwnDLaFhXqPOVzjXwWjJBm4=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
         "name": "ANTENA 3",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJPzSaTZIrHvyXLYh2fNdkRO2Oq5NInKc19pEzGko1HY1KKKdAjzeG6/woi+ng5R83atoV1CgLgPN+nq2r25iET",
         "drm_scheme": "clearkey",
@@ -112,18 +105,6 @@
         "icono": "https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e"
       },
       {
-        "name": "Canal Sur Andalucia",
-        "uri": "GhBjKQI8EH7APDVfieR4ohexNFHisYyO+buRaD/WQOaaM8ktB1twIjG3NNt84GOR7dyMC4Tit4l11pDDDFpl75RgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_mhU2bI-iGWToJUbUJqWiP9r0z6EIEcH38m-O8UguYMVg=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "TELECINCO ESP",
-        "uri": "LGwy1csk4lpsIUQmvpOTVb5fkRc0NFhjNrZgzDX8cEqPyhEXrsm7W0ptWj76SPQfHuo5QDooMb6zF5t+Q9BfNA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZXK2W9iXsHYdehanup9KB1PMvBdYEVOe9HbFJXj9zQ/UmSgGGnT36l/qgzBcBWb5/ZfoU9ISbzf4vwDxvNqgcP5Lo48U1P5IzeSVqPmCRXcP6yQf1Ugipz1aGzu0h1w9g==",
-        "icono": "https://pbs.twimg.com/profile_images/903296444697858048/yS_V6Bk4_400x400.jpg"
-      },
-      {
         "name": "EURONEW",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLXGA1INiIu8YXTrgyhjQrV/yPCNdrQH2XIWii9DFme9FMZniPYMt0aoHCxeKtXoCc=",
         "drm_scheme": "clearkey",
@@ -141,17 +122,7 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgAk3JH-qX36AS-VvsPInZr7KKQsCw1yIq6MxS1SJRXAoih0H"
       },
       {
-        "name": "LATINA TV PERU ",
-        "uri": "e/PlmFCqvZPweGjTRx5/bJbyTVmldWipJbiphF/DpLJwC142NsRUjEL/zYHjUWUPpOuWq3DOacAV21DkHMdAV18pVTiIbb8Rt0P7V52f6a0=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
-      },
-      {
-        "name": "LATINA TV PERU OP2",
-        "uri": "+ZPA1EmQiq2UQwsFxoh+9miTjnWlCFVr6Weo1sfH8n5zpfSu1FhIbXvtnZqPI6/g6r2SUDoTwiUu0g+Sq+KsLw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
-      },
-      {
-        "name": "LATINA TV PERU OPC 3",
+        "name": "LATINA TV PERU",
         "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7JyntJZ+76swmqlqlJIyQDJ7KU6+NexZCuFyBlEkn5l5YJLIjBLuRjds4tY5eXtUjla6LQekgz8DUzpoOl4YB1IHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
       },
@@ -161,21 +132,11 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png"
       },
       {
-        "name": "América Televisión peru",
-        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCOTs6RRMTr24rmGppZmVB8Bmae7AvYP1iXCqtXjLqyztTYfPhv8iZdFVURq78erQoRg=",
-        "icono": "https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png"
-      },
-      {
         "name": "TV CHILE",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLfaXG1fL7us3ismrhhw1PSdxiVaAQ1XTn2hjNSjPzyjw3eze0RgdVRgVZ/QXPb8Ps=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKZVEZlwk5Lmqa4j8DEt++RxwgPg2XS4TIcl5tFqExhHhiSmIDplvwuuX47jmmYJ+QAb2bf0oYaZLOQajyte/qUzqYjRMpQy4GMKP2o/kB6HiKXyRXNhe+aNAWoLSxgJwg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/687px-Logo_de_TV_Chile.png"
-      },
-      {
-        "name": "Canal 5 (México)",
-        "uri": "Ltxx4/rp65hRXHPZ2s8lvabIQ7CafVPynmF+OVX5gkUTp9OYik4Zys7bSmCxfZJR14pQz/ClAHTW5pcOf+FJHf3gAE0jOqCzMYKAg8FWnmU=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png"
       },
       {
         "name": "CRONICA TV",
@@ -603,11 +564,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s"
       },
       {
-        "name": "BAND SPORTS",
-        "uri": "7YyJ0bTMMpA6ZPEd5Ozn3QcnS9oSblvO5lNPd09nqwaKfkcCVQtZynZD89KotPwgdgU5mAGtEEhOwcGqGCqdQA==",
-        "icono": "https://i.ibb.co/WWrRh4X/Band-Sports.png"
-      },
-      {
         "name": "BR NEWS SPORT",
         "uri": "Erm3VUxjWz6m3pKUx4RnAOL6S56Uzz4+nHYTwJoGJCRT2AdZd+gDT5WuFR7carrgYPk6ZmMYRJDsXInTkB7Vfgw8VNFAXxOXr+hpiOh/Fhl2BTmYAa0QSE7BwaoYKp1A",
         "icono": "https://assets.brazilianfootwear.com/brands/thumbs/md/0d6f4f49ee1c84a907d4c5062b91dcb62833386.jpg"
@@ -728,20 +684,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEbsSnzm7pJHOlNucwUI4WuF6FEZeZhEt+kgdrkwYCtkxScLLiHZ8dY3xmLTekOIJNywrua5IwkQmZmtujcyNBpN9eeOmsDbLpASu5QbtOGC9zoucmogmd+2fywR7y3TLA==",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
-      },
-      {
-        "name": "DAZN WOMENS FOOTBALL",
-        "uri": "gQDxjp4cVlfjnSUCQyxxRUxlf0B36mSKeML7TpVE9mLlPquxY9sjF2pxjNAwAhfYXWTAzA5sZ4xxY57kPd2foORS4Di3ZsiTEWvBXK0hB3Y=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJSUvy+mNCmlDnw1IRqEOFIOnsWvwjJR057sAEaOzQ9GkypIGf/9orSxb59jEH1uE19VXEZAlVswWlqDc8ZnwDOS4dFfBZImiUgtJanGnNTutUQm0TO31JwCCQ5gAWh01A==",
-        "icono": "https://i.ibb.co/vBWdVB3/combat.png"
-      },
-      {
-        "name": "DAZN FAST+",
-        "uri": "gQDxjp4cVlfjnSUCQyxxRUxlf0B36mSKeML7TpVE9mLlPquxY9sjF2pxjNAwAhfY0MzrByFvWsLk/nYgGWdV1+RS4Di3ZsiTEWvBXK0hB3Y=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJSUvy+mNCmlDnw1IRqEOFIOnsWvwjJR057sAEaOzQ9GkypIGf/9orSxb59jEH1uE19VXEZAlVswWlqDc8ZnwDOS4dFfBZImiUgtJanGnNTutUQm0TO31JwCCQ5gAWh01A==",
-        "icono": "https://i.ibb.co/vBWdVB3/combat.png"
       }
     ]
   },
@@ -1149,11 +1091,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEa7KPSyr8K2pFj9mQkrBz0s9MccUMKm5i2Ka7U0p6iLzs4KVtChwLPq1o+1DIxHQvVOyXN9W0xMa3ACrAYSrBI1k7HryQe20IOjIobqAIPSROpOak9iaUpfpNHOkTqIZQ==",
         "icono": "https://i.imgur.com/TJmzwv9.png"
-      },
-      {
-        "name": "Lapacho TV Canal 11",
-        "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyDR5q/W01trUYw9J17s5o6to045rz3w1NR2G+R7LhOLA==",
-        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_klCa25AtM10Lyt0ALiUHHNw9kkEpK9X51A1e74HrBm6Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "name": "Multivision Argentina",
