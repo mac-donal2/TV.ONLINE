@@ -117,46 +117,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgAk3JH-qX36AS-VvsPInZr7KKQsCw1yIq6MxS1SJRXAoih0H"
       },
       {
-        "name": "Cable Perú TV",
-        "uri": "2pSyn21ZWzBnfAjiTSKzII4rCT1Ua6vpE5XQ9+5ljeNKOqHEB7a1A9OqIvn830zr",
-        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_ljKdkBil060jO_j9lLzKf75QRnxpz07ajGLknEoEvT7Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "TV Perú Noticias",
-        "uri": "mVE56NMbim3ctrsycTCxiPzbMWijouFH9FJ29/0UfEPekRgP7+Uav6BYk573YSjcemdOSX79t2UNxxcHp4p38SIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTupsLEyeS8BgtBJKy8eUk5cVns5N9rV51R8A&s"
-      },
-      {
-        "name": "TV Perú Internacional",
-        "uri": "mVE56NMbim3ctrsycTCxiBdTnqjq+y0e5cB7DmWUyMx1PH+YCd0A7M5XUYyOAXs65zq4trxY1CZmisDNUuGgVCIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TvPeruInternacional.png/800px-TvPeruInternacional.png"
-      },
-      {
-        "name": "América Televisión peru",
-        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCOTs6RRMTr24rmGppZmVB8Bmae7AvYP1iXCqtXjLqyztTSIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png"
-      },
-      {
-        "name": "LATINA TV PERU",
-        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCORzpfSu1FhIbXvtnZqPI6/g6r2SUDoTwiUu0g+Sq+KsLw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
-      },
-      {
-        "name": "LATINA TV PERU OPC 2",
-        "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7JyntJZ+76swmqlqlJIyQDJ7KU6+NexZCuFyBlEkn5l5YJLIjBLuRjds4tY5eXtUjla6LQekgz8DUzpoOl4YB1IHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
-      },
-      {
-        "name": "PERU EXITOSA TV",
-        "uri": "hHw+GOU0WRKYGxlqZ6zByeEauubugv5wPgoo+Gnx0o4zCCvCnTETqU6CV8x3VFJKuM+3hkh90+lPdPGzY4cmuD13nTmTJENvXUws9HuK2JaIm4IzDla/4GfJAYYb2DcI",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png"
-      },
-      {
-        "name": "Panamericana TV peru",
-        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCORdpOVIGFPo6Z3WI8sFcRVvEKS2dvQ0uhDnvyOSSJU+5baNOOa898NTUdhvkey4Tiw=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFwDotBXDoa2uFxCGXn9k0HF-D0OW3hWr7w&s"
-      },
-      {
         "name": "TV CHILE",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLfaXG1fL7us3ismrhhw1PSdxiVaAQ1XTn2hjNSjPzyjw3eze0RgdVRgVZ/QXPb8Ps=",
         "drm_scheme": "clearkey",
@@ -3073,6 +3033,56 @@
         "name": "phoenix tv",
         "uri": "l//J2UnxHtTYbCrw2h5Y2swdLSrCwXOx7LWl9OGDkKusV74wqVEuwZDlj5w2SBlgRBWq5aifGL0+UoOUEZ8Bwg==",
         "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/300414269_562700385585873_9114388969049269022_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=b_5PdAdfmykAX9CIWny&_nc_ht=scontent.feze7-2.fna&oh=00_AfDcbHKJ3oKYUJblmWVA9HyLStu4NIp8rVbCGkyYWjzYuA&oe=65BA124A"
+      }
+    ]
+  },
+  {
+    "name": "pu PERU",
+    "samples": [
+      {
+        "name": "América Televisión peru",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCOTs6RRMTr24rmGppZmVB8Bmae7AvYP1iXCqtXjLqyztTSIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png"
+      },
+      {
+        "name": "ATV PERU",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9hyQG1yq9d370iUxEs2urWC2Hf67Psv3bPfiek1HuRM5K7fAO2E4F0Zh4FfQsZtS+w==",
+        "icono": "https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg"
+      },
+      {
+        "name": "Cable Perú TV",
+        "uri": "2pSyn21ZWzBnfAjiTSKzII4rCT1Ua6vpE5XQ9+5ljeNKOqHEB7a1A9OqIvn830zr",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_ljKdkBil060jO_j9lLzKf75QRnxpz07ajGLknEoEvT7Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "TV Perú Noticias",
+        "uri": "mVE56NMbim3ctrsycTCxiPzbMWijouFH9FJ29/0UfEPekRgP7+Uav6BYk573YSjcemdOSX79t2UNxxcHp4p38SIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTupsLEyeS8BgtBJKy8eUk5cVns5N9rV51R8A&s"
+      },
+      {
+        "name": "TV Perú Internacional",
+        "uri": "mVE56NMbim3ctrsycTCxiBdTnqjq+y0e5cB7DmWUyMx1PH+YCd0A7M5XUYyOAXs65zq4trxY1CZmisDNUuGgVCIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TvPeruInternacional.png/800px-TvPeruInternacional.png"
+      },
+      {
+        "name": "LATINA TV PERU",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCORzpfSu1FhIbXvtnZqPI6/g6r2SUDoTwiUu0g+Sq+KsLw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
+      },
+      {
+        "name": "LATINA TV PERU OPC 2",
+        "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7JyntJZ+76swmqlqlJIyQDJ7KU6+NexZCuFyBlEkn5l5YJLIjBLuRjds4tY5eXtUjla6LQekgz8DUzpoOl4YB1IHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
+      },
+      {
+        "name": "PERU EXITOSA TV",
+        "uri": "hHw+GOU0WRKYGxlqZ6zByeEauubugv5wPgoo+Gnx0o4zCCvCnTETqU6CV8x3VFJKuM+3hkh90+lPdPGzY4cmuD13nTmTJENvXUws9HuK2JaIm4IzDla/4GfJAYYb2DcI",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png"
+      },
+      {
+        "name": "Panamericana TV peru",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCORdpOVIGFPo6Z3WI8sFcRVvEKS2dvQ0uhDnvyOSSJU+5baNOOa898NTUdhvkey4Tiw=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFwDotBXDoa2uFxCGXn9k0HF-D0OW3hWr7w&s"
       }
     ]
   },
