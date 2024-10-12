@@ -1546,6 +1546,11 @@
     "name": "📺 CINE & SERIES",
     "samples": [
       {
+        "name": "MEGA CINE TV",
+        "uri": "m5vHCqngBgGTaV6+JvulO7ZWb5371CADdlLFDwfKv25HAM/AVmREcy0d2dRXO2yYhs3GxJNSfoJr1OEg7A8/jA==",
+        "icono": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffec8403b690ee3d6bb645b6e8d9e1e85070e865bc1b4ad14e8af28261e6ce1ad.png"
+      },
+      {
         "name": "GOLDEN",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTXSaTdTD8TFUZeiThL6VEqBHLjxgIV6GdERPiY9msFCF+UlPiZdDjgHCn1uteK8rk=DkUh8aAGvdVuyXAk7M2xiMalPkRFLPmwpbdax/wh69/B7qsvBDrY6FNuDM+NaqcjQ=",
         "drm_scheme": "clearkey",
