@@ -3,6 +3,16 @@
     "name": "🏆EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
+        "name": "LIGA URUGUAY",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPy+D6RTDJpaZ0xTiJe6VTYfAK/aCMVD51heOx6Mfw84A==",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+      },
+      {
+        "name": "LIGA URUGUAY NICO",
+        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPkOWGw2dlMvqTOM5SqokryTP441pX2ERvmr4l3AinznQ==",
+        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+      },
+      {
         "name": "EVENTOS PY",
         "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "drm_scheme": "clearkey",
@@ -42,21 +52,6 @@
         "name": "⚽️MLS",
         "uri": "cVI+FPBxX2ASracUSyM4wxraL/KpqG9dKAG/GVXIOSEHB7uodnZMja9/oADoNmgkAGFAII3S86RQZyqg+p9GvbrtBWzr3HpmV+n5KCxEMkM=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
-      }
-    ]
-  },
-  {
-    "name": "⚽️EVENTOS INTERNACIONALES ACTIVOS SOLO CUANDO AHI EVENTOS",
-    "samples": [
-      {
-        "name": "LIGA URUGUAY",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPy+D6RTDJpaZ0xTiJe6VTYfAK/aCMVD51heOx6Mfw84A==",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
-      },
-      {
-        "name": "LIGA URUGUAY",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPkOWGw2dlMvqTOM5SqokryTP441pX2ERvmr4l3AinznQ==",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       }
     ]
   },
