@@ -158,6 +158,338 @@
     ]
   },
   {
+    "name": " TV INTERNACIONAL ",
+    "samples": [
+      {
+    "name": "ESPN",
+    "uri": "yjneyLlxfl4PhUAoXPHm/t57S/6MaQLwnVNjgTIZ2Lyft73FKIc+BjS+S2rRn5JjnnXlOFgEBv87qFjaAxCgsD9Ajs+e23s4381i/q+f3dxrQiPo9utfK9gd/mQ2WR/05Bu/9IZZtePLAgEWzoeDoJSi0ioh4r3AwsQP/T4yyw0wm2alIo4YV4dnzmezU6L+/4jn562HHPb4s2IzYYH3Bqd3Gjwg3YsyK9OYpButNFs=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png"
+  },
+  {
+    "name": "ESPN 2",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RQiNKBAQbI4jVHocb3bWGb3VVKkn1MHcGNkkAvdSa77k=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png"
+  },
+  {
+    "name": "ESPN 3",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RQ6l0ZQue60Etz2HWwwVUXXYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png"
+  },
+  {
+    "name": "Fox Sports",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1Rj0HBTicMN7mk7cZp5lRlSXYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png"
+  },
+  {
+    "name": "Fox Sports 2",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R02ItkXuCuX5JFw14OBxZgXYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png"
+  },
+  {
+    "name": "Fox Sports 3",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RwqFWYb5pGXv0+nQPTrFZcJRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png"
+  },
+  {
+    "name": "FOX SPORTS PREMIUM",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RxhIo79Ua1Mf6UImeGj572pRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png"
+  },
+  {
+    "name": "TUDN",
+    "uri": "EIZkeSCfBgOEJGPW30u5mixj6x5LpJm3BCWngnvMrxHsLGUt991lOR6tkHQ3dP+dgj49wVQlgKFmLxevz4Fk99fnVajjAnpEEceLzehVgJJ7DcfbMzOtmSxfebLHdDMNIhPfKF2XYnN+Uq1rgzaEFw==",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png"
+  },
+  {
+    "name": "HBO HD",
+    "uri": "EIZkeSCfBgOEJGPW30u5mixj6x5LpJm3BCWngnvMrxHsLGUt991lOR6tkHQ3dP+dgj49wVQlgKFmLxevz4Fk98ht6kb8F5IgKwtrM50LTFXBli8Lrew+AYsyzB5SkHlKIhPfKF2XYnN+Uq1rgzaEFw==",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png"
+  },
+  {
+    "name": "HBO2",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R+5D/xjDdr1XeqpbxsG6KpZRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png"
+  },
+  {
+    "name": "HBO FAMILY",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RcNBjxClnJWdZQ/zGjmW4VpRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png"
+  },
+  {
+    "name": "HBO MUNDI",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RMuvHHKleouDQh0rTPd/VPXVVKkn1MHcGNkkAvdSa77k=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png"
+  },
+  {
+    "name": "HBO PLUS",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RrHUDzdRuryLXcLTVYb8LIZRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png"
+  },
+  {
+    "name": "STAR CHANNEL HD",
+    "uri": "EIZkeSCfBgOEJGPW30u5mixj6x5LpJm3BCWngnvMrxHsLGUt991lOR6tkHQ3dP+dgj49wVQlgKFmLxevz4Fk97vKIK5AMpGtyl/eVF8hfFjhveuTlgNSAA7hecUi6nxcIhPfKF2XYnN+Uq1rgzaEFw==",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88534_dark_360w_270h.png"
+  },
+  {
+    "name": "FX HD",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RbtDagqBI2xaUF38xE7o6GHYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png"
+  },
+  {
+    "name": "SONY CHANNEL",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R1fSUFn7ncPS0T0oXyseY3nYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"
+  },
+  {
+    "name": "SONY MOVIE",
+    "uri": "Ga6Vyl60RW3EPTGNwKSoTPWijG1zAlQeuayCBzDUmFnZvpooegj/3bN46z1atXHtybf3Xy3lgPQgdU+fjE+2Bg==",
+    "icono": "https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png"
+  },
+  {
+    "name": "UNIVERSAL HD",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RJ5kJFPPOLSYvSmsgXbSniJRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png"
+  },
+  {
+    "name": "STUDIO UNIVERSAL",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R0fkpTPXXTfIyshkdnY42xXYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"
+  },
+  {
+    "name": "WARNER HD",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RuE4vEMNeZw/ppZpUUNSzGnYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://img3.wikia.nocookie.net/__cb20130619050550/logopedia/images/thumb/2/27/Warner_Bros._wordless_banner.png/1157px-Warner_Bros._wordless_banner.png"
+  },
+  {
+    "name": "TNT",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RV6/t+1jSOePka7IdfhptF3YFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png"
+  },
+  {
+    "name": "TNT SERIES",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RV6/t+1jSOePka7IdfhptF3YFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png"
+  },
+  {
+    "name": "SPACE",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1Rcpiap4KXCC1bkAM6z99MkHYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png"
+  },
+  {
+    "name": "A&E",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R13RU70+Bn3tn9M5BcfpFN3YFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png"
+  },
+  {
+    "name": "AMC",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RXfWMPIDbebjxWMttaVYvEHYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png"
+  },
+  {
+    "name": "PARAMOUNT",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RyIWsRWrBqhwgIm7Wl3At6HVVKkn1MHcGNkkAvdSa77k=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png"
+  },
+  {
+    "name": "CINEMAX",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R3UV/S5FknORd/fjIUbSAPnYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png"
+  },
+  {
+    "name": "CINECANAL",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RKLGnDkFF6Y+8+EWtcfSZinYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png"
+  },
+  {
+    "name": "GOLDEN",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R13RU70+Bn3tn9M5BcfpFN3YFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png"
+  },
+  {
+    "name": "GOLDEN EDGE",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RB6WnmePv9wZ2x5UXPprKw3YFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png"
+  },
+  {
+    "name": "GOLDEN PLUS",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RWneFxFb+1T51eMtbSrTks3YFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png"
+  },
+  {
+    "name": "GOLDEN PREMIER",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R4dnULdILEc5kyROYs2tGtXYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png"
+  },
+  {
+    "name": "DE PELICULA",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RzR0woK70fP1COF7ED2uDQXYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png"
+  },
+  {
+    "name": "DE PELICULA PLUS",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RfTZPQxG5IbZZs9QibbGJIXVVKkn1MHcGNkkAvdSa77k=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74016_dark_360w_270h.png"
+  },
+  {
+
+    "name": "DISCOVERY SCIENCE",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1Rz6XaMlb9Jimxtjt0x2RZ9pRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png"
+  },
+  {
+    "name": "DISCOVERY H&H",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R5HC3/GAMplTSvItsZUpWunYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png"
+  },
+  {
+    "name": "DISCOVERY WORLD",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RejZqmqf0LPWbFEUUywpveXYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png"
+  },
+  {
+    "name": "DISCOVERY TURBO",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RBxwo6y4NBUpv8byZVdshUJRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png"
+  },
+  {
+    "name": "DISCOVERY THEATER",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RI7tU0FhosYzu65YODO++unYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png"
+  },
+  {
+    "name": "NACIONAL GEOGRAPHIC",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R8oqOJQzjVf89H8buosfAUnYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png"
+  },
+  {
+    "name": "ANIMAL PLANET",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RPQTOH5kSHgNpR1lbPxXzRnYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png"
+  },
+  {
+    "name": "HISTORY MX",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R+jxTU+J1ozxCveuLFVFWunYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png"
+  },
+  {
+    "name": "H2",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1REGta8vwm0DM1y3aXKHeUapRgGSBR6+7NLD1u67DaGCM=",
+    "icono": "https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png"
+  },
+  {
+    "name": "DISCOVERY CHANNEL",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RgzAXUTTw6HvDy3JKK9lJZnYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png"
+  },
+  {
+    "name": "HGTV",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1ROLj6tNIE8mok+AlR0mtqNHVVKkn1MHcGNkkAvdSa77k=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png"
+  },
+  {
+    "name": "DISCOVERY ID",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R4l5R7WVCXDmkKXY/Rg9lW3YFOZgBrRBITsHBqhgqnUA=",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"
+  },
+  {
+    "name": "DISCOVERY TLC",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RqT5NymmE7d3ygsACFeIGGnYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/150px-TLC_USA_logo.png"
+   },
+    {
+      "name": "TOONCAST",
+	   "url": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RXvl8vFZQT972KuKoYyJk63YFOZgBrRBITsHBqhgqnUA=",
+      "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png"
+
+    },
+    {
+      "name": "DISCOVERY KIDS",
+      "url": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RtYr7iANwTja2SuuEdVud4nYFOZgBrRBITsHBqhgqnUA=",
+	  "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png"
+    },
+    {
+      "name": "NICKELODEON",
+	  "url": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RiO6JvdS4s3SKgSYmd+GJG3YFOZgBrRBITsHBqhgqnUA=",
+      "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png"
+
+    },
+    {
+      "name": "CARTOON NETWORK",
+      "url": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RFohtaj+mgfhsxVgoqyWdhnYFOZgBrRBITsHBqhgqnUA=",
+      "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png"
+
+    },
+    {
+      "name": "DISNEY CHANNEL",
+      "url": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R/uh3VVIMiwqi3uNFPOPTJ3YFOZgBrRBITsHBqhgqnUA=",
+      "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19234_dark_360w_270h.png"
+
+  },
+  {
+      "name": "CARTOONITO",
+      "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"
+
+  },
+  {
+      "name": "BABY TV",
+      "url": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RakL/btvFwipmXh38eX9nAHYFOZgBrRBITsHBqhgqnUA=",
+      "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png"
+    },
+    {
+      "name": "NICK JR",
+      "url": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RWb5Ovjisv+1MGn8e2vZqC3YFOZgBrRBITsHBqhgqnUA=",
+      "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png"
+
+    },
+    {
+      "name": "DISNEY JR",
+	  "url": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RWb5Ovjisv+1MGn8e2vZqC3YFOZgBrRBITsHBqhgqnUA=",
+      "icono": "http://3.bp.blogspot.com/-VvbUqgHc5Pw/VJIJWAJLxfI/AAAAAAAAHi0/A0nDmO29zwk/s1600/Logo%2BDisney_Junior.png"
+    },
+    {
+    "name": "TLNOVELAS",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RlPoRopG5WunZIIyriZya1nYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "https://x.playerlatino.live/tlnovelas.png"
+  },
+  {
+    "name": "PASIONES",
+    "uri": "jCFn60lGyrpC3OASX2w9NDfAx4WTsyrFj+U9nSIAXoyWaeSUDsgZ11Mqupc7xWE3Oar3jSl8em4HNmHJyMeJnWnjkAuQdxzD4Txa43toOek=",
+    "icono": "https://imagenes.gatotv.com/logos/canales/claros/pasiones-mediano.png"
+  },
+  {
+    "name": "TELEMUNDO FLORIDA USA",
+    "uri": "dSk6XhjvJDtnt6YUY4yvtKaI6JVc5Cy4SZBxVWoMvMQK9rovixC3CkIdxn8V2aKuwalurgxj5bAgHVJcn9e/nz2v/3pFJUq1EMVBS3pDAAI=",
+    "icono": "https://btv.mx/posters/1720842845264.png"
+  },
+  {
+    "name": "TELEMUNDO",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RRLlb2QVm4qSZUCzslzy543VVKkn1MHcGNkkAvdSa77k=",
+    "icono": "https://btv.mx/posters/1720842845264.png"
+  },
+  {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "uri": "jCFn60lGyrpC3OASX2w9NDfAx4WTsyrFj+U9nSIAXoyWaeSUDsgZ11Mqupc7xWE3Bd4sXFK2bR+dlRVYZArhTGnjkAuQdxzD4Txa43toOek=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png"
+  },
+  {
+    "name": "UNICABLE",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1Rv6JhOJUSyzeFa2HuivQT63YFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png"
+  },
+  {
+    "name": "AZ CORAZÓN",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1R0pXuIYVYeNMeXdXMrloBPHYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png"
+  },
+  {
+    "name": "GLITZ",
+    "uri": "cLMpHgKEdAypCJDamc3xmoFT4fS5vnGAYafKE94C/952D/vFaqGvdkX+r48kH+ZWgLviQHsxKp+Nt2obIhdN9GOLVDYd4YEkjNwLxxaguiJjKMF3ewWweeSKCK+qch1RgtfxlLwI4Akiegey0X9a6XYFOZgBrRBITsHBqhgqnUA=",
+    "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png"
+      }
+    ]
+  },
+  {
+
     "name": "🔞VOD 1_18",
     "samples": [
       {
