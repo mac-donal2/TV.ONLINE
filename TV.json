@@ -3,6 +3,13 @@
     "name": "🏆EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
+        "name": "Real Madrid vs. Barcelona",
+        "uri": "8InZdZDixqJ0WTJd/ChheEqSx9o1lkID6Gv2aP2Sq62/3Kyr9f0SIbjruRM+hGfdtKnabK1oInLqQkIunlqNlIcs+LeDbzur29fCPJLsmHAbJ6ZdtFs7OsqMQuDDefiRLI9PrVAAWgFVIWfhSqcNoew+QNYmcPs3DHfPdJrMGug=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF76nmBhuwGfhGKN06TzZziKokpW4TPfcznf/UrOriSrktbt/lryUrf2YR8DXjm/iCjUtywEWdNxMbY9Ik5GtCwq8KFMcNT/vEa4gUXGG4tK/aX/7Bc2djrIY6QLRNAjaw==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JfoERWqFm1l586GVVuiTAZfiKAUXX6q6AQ&s"
+      },
+      {
         "name": "LaLiga: Real Madrid vs. Barcelona",
         "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPXyyWlnAwvYISqkd+hlO2Eef5ph2YwaENFonSWVlUciA==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JfoERWqFm1l586GVVuiTAZfiKAUXX6q6AQ&s"
