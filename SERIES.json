@@ -1135,6 +1135,41 @@
     ]
   },
   {
+    "name": "🎬Narcosantos (2022)",
+    "samples": [
+      {
+        "name": "🎬Narcosantos Episodio 1",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGFiPLLLsEawKSKD3/sbD+mAPRaW19ZaTBkpVMsKebp/Q=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 2",
+        "uri": "rTlcC78i6rbfd7v4mIaw1ievbq11ufXGz941aslnNfq8royb7keWF2RBlfp/WJkkHUZJglADKHUrf48pcc6nu0bRZm0oPQyW6PVH8q0K14U=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 3",
+        "uri": "rTlcC78i6rbfd7v4mIaw1ievbq11ufXGz941aslnNfq8royb7keWF2RBlfp/WJkkHUZJglADKHUrf48pcc6nuwwc5J2vR9Z/SkrzQficDa0=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 4",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGFiPLLLsEawKSKD3/sbD+mCkqKRAdWcmadwUlgr5pbzM=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 5",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGFiPLLLsEawKSKD3/sbD+mPD+EDztZtDsixT2UrfhWZ8=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 6",
+        "uri": "rTlcC78i6rbfd7v4mIaw1ievbq11ufXGz941aslnNfq8royb7keWF2RBlfp/WJkkHUZJglADKHUrf48pcc6nu7xxlGz0xpIaDTSFa0JYEbQ=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      }
+    ]
+  },
+  {
     "name": "🎬Loki (2021)",
     "samples": [
       {
