@@ -971,7 +971,7 @@
         "name": "🎬parte 30",
         "uri": "OkqPpJ3YmwhQdhjGqaU9/nQD2JMqcuPjB2Fqrvd6a+KIYRxILID6+JRR1CXJ58oHfxGDTC+rE97dNvb6rZrP2cJzwsTZg/mBRsrnF2t4t6WcGX3NWQt/0EoUiiE9dh1dpX/olen+s0iHAAzzbgf7FH+BXr6cQEXQ8HK36xtmpZaA+rL7ESaTieNfXpZLyF3ruIxXjLOSbruaB29tDuw9/XBhiC6HGwqM/x2YsyCccOH63hfhbwWTK4NhAtXuctsm4O7zBQ5yBxjx8J62YJ4UPWrxPbSDstV6gzE46oW3a+horvDNGaBgYLxJgfGj/0MvvhfIq7T8q6rZoBISRhcxp5D+O822OfONACNKdvDi5E4PTXjzm9WVMBWJlbxQOZZeYXbOFcjtnXphYh4Bp4g9zRq8QIBdT0491DXlWXMG37TuBEUOA+6FhNkp2p1vBiCDj6PZxjJVZXPMl0vml0UatvSddSzPk/E2FyJhXzDld6SreZHFmQDjZiud7Sx9z9oRrRAw0izy9lNpl5dFcuJ0ug==",
         "icono": "https://media.ambito.com/p/d238e4be74d445b3656542e9f10981a4/adjuntos/239/imagenes/041/387/0041387400/1200x675/smart/margaritawebp.png"
-  },
+      },
       {
         "name": "🎬parte 31",
         "uri": "OkqPpJ3YmwhQdhjGqaU9/nQD2JMqcuPjB2Fqrvd6a+KIYRxILID6+JRR1CXJ58oHfxGDTC+rE97dNvb6rZrP2ayA4rZPcabMObQQ/K3UsUPkehhLrpKrnKWROE2oIwnpQgqnUSgcg/2ZgpYU5DdM4rnmtmqlIKI0h6/ra7yz1XAH2fy74NeeR9SrWmRieh7PIz6hHStRXxvYXHCFnXhIeXoZc5V/yVR7vuvvN9PkWeHQcxI6mGZJf5bLmmvLFWJgbAwMNRsRhn+LwNmJuEHP0uX1gOJLtDtJlesYVOgAt3UV4wcx7UdoUnDL/qYec+jgcDkBAms0JSyIewmf8ovcpnjRm6GS1rHS5Q+vVzPjr0vyuRTdl2W9M2KQ8DgZfNnwUuJNqqxGa+UZNw+9r7JOj46Z+KHWqGXCmU8Q7KVxi80lgLjzgIeAK9tBRcD89E7xvWReSvrYuMu0IzTnOd0VOJO/vZn3VX9D3tkUYLS59OTc1AMd1eZMHds+kfP39AW//197jliOSEAUGKsIL1/YLQ==",
@@ -1132,6 +1132,56 @@
         "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+UDK0u5PK1Rs3tTui5+SWwc=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
      }
+    ]
+  },
+  {
+    "name": "🎬Gigoló por cuenta propia (2024)",
+    "samples": [
+      {
+        "name": "🎬Gigoló Amor, acción y drama",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4BbS713Wg3JdNusbUFlPr/0TU=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      },
+      {
+        "name": "🎬El fracasado",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4BbU+l9SZo9NmF19Qr4wAj0LU=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      },
+      {
+        "name": "🎬DilDesire.com",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4BbUSo2jgXJicn7SJjyw34nCE=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      },
+      {
+        "name": "🎬Bunty y Babli",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4BbZIcBGIitieB129d9E7Ev58=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      },
+      {
+        "name": "🎬La Ostra Feliz",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4BbZLh+npQu4mzRTjeN2mz7mU=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      },
+      {
+        "name": "🎬Gigoló",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4BbSaJCGocXK/A43G7hs5Tp6w=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      },
+      {
+        "name": "🎬Tiene pelotas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4Bbc1rsNJaIHNzVjZie9lA+fM=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      },
+      {
+        "name": "🎬Armados",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4Bbevy0gAWRuiEUNHmyDxs4A4=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      },
+      {
+        "name": "🎬Un evento familiar",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGIV1mvDhy9nMANOgtII4BbSERkmTjNgvPavcAcvedYVs=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAfwOC6Eh41ScTZCSKBtDcIXVaU.jpg"
+      }
     ]
   },
   {
