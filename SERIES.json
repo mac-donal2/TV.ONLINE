@@ -1065,6 +1065,71 @@
     ]
   },
   {
+    "name": "🎬Adiós, Tierra (2024)",
+    "samples": [
+      {
+        "name": "🎬Adiós, Tierra ¡Maldito fútbol",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTIvLRkMSNoODnLT+melRfxSqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬Vuelve el amor",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTMNcRVr3D+GXXWVAFLgHQmSqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬Muchos nervios",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTDIbWUl5bW6T6In+OReECmeqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬Feliz culpa",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTBippL43QqxkI3E0xpO3FviqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬La chica del gato",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTNymb47FClcgWA6TlNkRnlSqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬Mucho ruido y pocas nueces",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTDbSoBeBvZOipah7iCGHCLOqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬No os olvidamos",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTPILb7yQ8xwv7auGT9aPdlqqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬Mientras hay vida, hay esperanza",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTDlXO7D42D2HKtn+prEqdLOqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬El lado positivo",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTN90jFwDDal2IhgbOYDrQLeqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬Éxodo y eclipse",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTJClP3ORIP7Slb3aEDYkcc6Bxi5j+H+03Yb2wfgNaRQw",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬Las últimas Navidades",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTJxAuOvHpmxtjpQpE+Xwru2Bxi5j+H+03Yb2wfgNaRQw",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      },
+      {
+        "name": "🎬Adiós, Tierra",
+        "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU95c8KC7PlnIJSlmZ50tURTEH5O5apNV0yrBVzGQbAFuiBxi5j+H+03Yb2wfgNaRQw",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg"
+      }
+    ]
+  },
+  {
     "name": "🎬Furias (2024)",
     "samples": [
       {
