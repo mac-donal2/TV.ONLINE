@@ -481,10 +481,44 @@
         "name": "🎬El precio",
         "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU9ttNjCI5Tkt2aF14NWbgJSIM72Amtck4VwrabkZ8shS6Bxi5j+H+03Yb2wfgNaRQw",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOddX9xEcse5SbywRDy1gtEfLAB.jpg"
-      }
+     }
     ]
   },
   {
+    "name": "🎬Espías de la mafia (2024)",
+    "samples": [
+      {
+        "name": "🎬Espías de la mafia, El juego",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG7YEqa59g4yx80aSslsJomDmucJpn0bjgrIqLDh5kK60=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg"
+      },
+      {
+        "name": "🎬Los traidores",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG7YEqa59g4yx80aSslsJomJhHypRw01FAMl91727LikY=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg"
+      },
+      {
+        "name": "🎬La configuración",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG7YEqa59g4yx80aSslsJomLiQyEzo7aNAJtlkd921ZCk=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg"
+      },
+      {
+        "name": "🎬La acción",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG7YEqa59g4yx80aSslsJomIbwji/b87XH/nEJzEJXoyA=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg"
+      },
+      {
+        "name": "🎬El enfrentamiento",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG7YEqa59g4yx80aSslsJomGFxWU9kIYH73GUaFOHbkXQ=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg"
+      },
+      {
+        "name": "🎬Polvillo radiactivo",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG7YEqa59g4yx80aSslsJomPzkpmnAaMgoe7Dhs+m4w0w=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg"
+      }
+    ]
+  },
     "name": "🎬Negocio letal",
     "samples": [
       {
