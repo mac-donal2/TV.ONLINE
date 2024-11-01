@@ -526,6 +526,41 @@
         "name": "🎬El precio",
         "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU9ttNjCI5Tkt2aF14NWbgJSIM72Amtck4VwrabkZ8shS6Bxi5j+H+03Yb2wfgNaRQw",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOddX9xEcse5SbywRDy1gtEfLAB.jpg"
+     }
+    ]
+  },
+  {
+    "name": "🎬Narcosantos (2022)",
+    "samples": [
+      {
+        "name": "🎬Narcosantos Episodio 1",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGFiPLLLsEawKSKD3/sbD+mAPRaW19ZaTBkpVMsKebp/Q=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 2",
+        "uri": "rTlcC78i6rbfd7v4mIaw1ievbq11ufXGz941aslnNfq8royb7keWF2RBlfp/WJkkHUZJglADKHUrf48pcc6nu0bRZm0oPQyW6PVH8q0K14U=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 3",
+        "uri": "rTlcC78i6rbfd7v4mIaw1ievbq11ufXGz941aslnNfq8royb7keWF2RBlfp/WJkkHUZJglADKHUrf48pcc6nuwwc5J2vR9Z/SkrzQficDa0=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 4",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGFiPLLLsEawKSKD3/sbD+mCkqKRAdWcmadwUlgr5pbzM=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 5",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGFiPLLLsEawKSKD3/sbD+mPD+EDztZtDsixT2UrfhWZ8=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
+      },
+      {
+        "name": "🎬Episodio 6",
+        "uri": "rTlcC78i6rbfd7v4mIaw1ievbq11ufXGz941aslnNfq8royb7keWF2RBlfp/WJkkHUZJglADKHUrf48pcc6nu7xxlGz0xpIaDTSFa0JYEbQ=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
       }
     ]
   },
@@ -756,6 +791,51 @@
         "name": "🎬El misterio de las profundidades marinas",
         "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGG/BZCcSRKg2hkF9B8o8tT6BEgylyKYR/mkVEm/LR0xphCxMmmYjxrAZPsldYcAkn",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twj3DAacgdOekUXIgh5KH9kx1kz.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🍿Agencia Lockwood",
+    "samples": [
+      {
+        "name": "Nosotras seremos así",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxmJ1pporDwoIwtuFeqy/Ugw=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Suéltame",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxpSbiTmwH8xJvuydTU8oJYY=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Duda de las estrellas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxr2d+/vS5XH75t0aSjKV0gw=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Dulces sueños",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxiyrxoQVny0vUeuhuV+76rw=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Se acerca la muerte",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxvuaCLeEx8LKf9xkGYeI4Jw=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Nunca me lo pediste",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxkNprO26cdGLv9EBc2LQF20=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Hipnotizado",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxsiug3K2QG8ov3WaduFKucM=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "No es lo eterno",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxmfmGMkvz4cfGOZ2Wgxeixo=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
       }
     ]
   },
