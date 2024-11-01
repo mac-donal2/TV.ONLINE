@@ -1,6 +1,6 @@
 [
   {
-    "name": "🎬El Pingüino (2024)hhh",
+    "name": "🎬El Pingüino (2024)",
     "samples": [
       {
         "name": "🍿El Pingüino (2024)",
@@ -1506,6 +1506,41 @@
         "name": "🎬Aborto",
         "uri": "rTlcC78i6rbfd7v4mIaw1ievbq11ufXGz941aslnNfq8royb7keWF2RBlfp/WJkkCnfoCcFLNF2lLaiM5Ky63Fa9rbZfq+X5U6WthszmDkHr8tIAFkbohFDR5sg8bOAO",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLnEm8bQqQzMSOq96JFkRUI7rNd.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬Citadel: Diana",
+    "samples": [
+      {
+        "name": "🎬Diana parte 1 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Petv/hL0c9fdXyb7his6Ql1dRdVTyKMiUVSX0O8pTPHBs=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTkxZGRlNmMtMWNkOC00MmQ0LWFiZjMtNWFmODExY2M0YjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "🎬parte 2 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Petv/hL0c9fdXyb7his6Ql1Wf67ZCv0uLJEkdOR7a72wY=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTkxZGRlNmMtMWNkOC00MmQ0LWFiZjMtNWFmODExY2M0YjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "🎬parte 3 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Petv/hL0c9fdXyb7his6Ql1TnOIvGEjxjajaDINbKrp1s=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTkxZGRlNmMtMWNkOC00MmQ0LWFiZjMtNWFmODExY2M0YjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "🎬parte 4 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Petv/hL0c9fdXyb7his6Ql1YdUme7Eze1DQ1Iq8RZAQXI=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTkxZGRlNmMtMWNkOC00MmQ0LWFiZjMtNWFmODExY2M0YjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "🎬parte 5 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Petv/hL0c9fdXyb7his6Ql1VtcZ3u4a0tbG/WtAhelZjM=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTkxZGRlNmMtMWNkOC00MmQ0LWFiZjMtNWFmODExY2M0YjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": "🎬Vparte 6 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Petv/hL0c9fdXyb7his6Ql1bNsoLemRaB6ofh3KWlfPFo=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTkxZGRlNmMtMWNkOC00MmQ0LWFiZjMtNWFmODExY2M0YjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
       }
     ]
   },
