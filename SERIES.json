@@ -61,7 +61,7 @@
         "name": "🎬E3 - Del carbón al oro",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ9LmuRd8sr40aPaTWpS6k4+zvnGe80Q2yOFRAGWBAZYIkvQ5IwzSuCZM6N6rbxsFEluEW/pc89DZMDnDAugT0rKArkkmAp1wbWtWnUZHxifyBs3Gk3tGOgk25tykvvWUVV7kAnrzZLYSvlvREtnBSNcmimlPhdgof+ZFBkG91ZEcJa2CcHXCiljVA6avvcLQJ3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AFT62UK94S2TutCj87B/jZI+7vC9wgRS9tjRR43vYj/F3YJ0kGG2QY78Qbcbu7I9kjlbrOK0THDqXwy8UTeoqhOrRhlzJZ1ZugDvDX/EbT1YcUM3/zsplb9j0d+oAxOVVvy7qEiVneTkRhGOObGtzndF+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsP6axt-Duhg0nyShTKUdI5DZx1tIy9JkcbKv0lwaXNm3zBF2r"
-     }
+      }
     ]
   },
   {
@@ -109,6 +109,7 @@
       }
     ]
   },
+  {
     "name": "🎬Margarita",
     "samples": [
       {
@@ -525,7 +526,7 @@
         "name": "🎬El precio",
         "uri": "cVI+FPBxX2ASracUSyM4w+50oDJPSMj8qz28e1MRbBlgEX8LIc9Lw7ZpFhjiHvU9ttNjCI5Tkt2aF14NWbgJSIM72Amtck4VwrabkZ8shS6Bxi5j+H+03Yb2wfgNaRQw",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOddX9xEcse5SbywRDy1gtEfLAB.jpg"
-     }
+      }
     ]
   },
   {
@@ -640,7 +641,7 @@
         "name": "🎬Episodio 6",
         "uri": "rTlcC78i6rbfd7v4mIaw1ievbq11ufXGz941aslnNfq8royb7keWF2RBlfp/WJkkHUZJglADKHUrf48pcc6nu7xxlGz0xpIaDTSFa0JYEbQ=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg"
-     }
+      }
     ]
   },
   {
@@ -688,6 +689,42 @@
       }
     ]
   },
+  {
+    "name": "🎬Agentes del misterio (2024)",
+    "samples": [
+      {
+        "name": "🎬Agentes del misterio Los seguidores del maligno",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGG/BZCcSRKg2hkF9B8o8tT9kY8cK9DU+yEwlloA8sNk9hCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twj3DAacgdOekUXIgh5KH9kx1kz.jpg"
+      },
+      {
+        "name": "🎬Los seguidores del maligno",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGG/BZCcSRKg2hkF9B8o8tT+DvFse0kyxav5HS9JUu5N1hCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twj3DAacgdOekUXIgh5KH9kx1kz.jpg"
+      },
+      {
+        "name": "🎬Los seguidores del maligno",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGG/BZCcSRKg2hkF9B8o8tT7YmwF7bEen3OVgL81bhEwVhCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twj3DAacgdOekUXIgh5KH9kx1kz.jpg"
+      },
+      {
+        "name": "🎬El misterio de las profundidades marinas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGG/BZCcSRKg2hkF9B8o8tT/eoC8SmI8LbJ4uFD0GnkidhCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twj3DAacgdOekUXIgh5KH9kx1kz.jpg"
+      },
+      {
+        "name": "🎬El misterio de las profundidades marinas ",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGG/BZCcSRKg2hkF9B8o8tT1Tz1HSU2jlKvt7i/IZPT4dhCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twj3DAacgdOekUXIgh5KH9kx1kz.jpg"
+      },
+      {
+        "name": "🎬El misterio de las profundidades marinas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGG/BZCcSRKg2hkF9B8o8tT6BEgylyKYR/mkVEm/LR0xphCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/twj3DAacgdOekUXIgh5KH9kx1kz.jpg"
+      }
+    ]
+  },
+  {
     "name": "🎬Negocio letal",
     "samples": [
       {
@@ -2774,7 +2811,7 @@
         "name": "🎬EP.3X7",
         "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/Y3bmgc6uMkv9uIiVf/8zGpIE0eXv5ItM0n4lmCa8N8BfdZDdgEX94/YBkPZ7dggQ",
         "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-3"
-     }
+      }
     ]
   },
   {
