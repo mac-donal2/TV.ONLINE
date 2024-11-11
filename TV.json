@@ -1411,9 +1411,9 @@
     "samples": [
       {
         "name": "HBO",
-        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLpSufNdZ9OjLpRFBblzlkevCkrhfyviYEjNZsjJryydP9fdiVP07Zqo2e39IUIBhI=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEkRM4vtmBN54FXoEU+F09GuXl9t/fU9V/bXkV/JAAbaXHAcmK9wa0bfdX4+AuLhYpB6ntg/rQnlBRV7K3/Vh5qzVveSHuxwqjok/WdXS31LkaeOQC5B3HMPhPFrje2g56Q==",
+        "uri": "g2DSnqSz9Rf6fig8P3e7CptRbQhFvLGDQcqZsVz8mC8B7ESRsSjDT987XBC3X3suaJe3u6tuyLOIs0OvpB+SawqK7qpANfm22SVLTaKhfoQ=",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://mrpw.pt.verspective.net:443?deviceId=OTg2OGI2NzMtNmI5OS0zZDIyLTk1YzUtZGM0ZTdjMmIzMjZm",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
       },
       {
