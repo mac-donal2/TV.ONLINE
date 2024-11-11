@@ -1440,12 +1440,12 @@
     "samples": [
       {
         "name": "HBO",
-        "uri": "g2DSnqSz9Rf6fig8P3e7CptRbQhFvLGDQcqZsVz8mC8B7ESRsSjDT987XBC3X3suaJe3u6tuyLOIs0OvpB+SawqK7qpANfm22SVLTaKhfoQ=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "ZXVhsIXESYvKc82xtn7xtXGXSBg7DQMxZsqcuDiVWK4eBs0+MfnSrKtDC8ZkVEg6Ev2LcWV7edzSABc03cVGaoWfyz21wDBl1QyOr/9BWgsxE6jtlwMl1QHcpjK4wtWT",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLpSufNdZ9OjLpRFBblzlkevCkrhfyviYEjNZsjJryydP9fdiVP07Zqo2e39IUIBhI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEkRM4vtmBN54FXoEU+F09GuXl9t/fU9V/bXkV/JAAbaXHAcmK9wa0bfdX4+AuLhYpB6ntg/rQnlBRV7K3/Vh5qzVveSHuxwqjok/WdXS31LkaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
       },
-      {
+      
         "name": "HBO OPC 2",
         "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSe8fIsAwOLmRZ1jTeWTaRgpr8qHIMcCHvh2CV8qKM3KQ==",
         "drm_scheme": "clearkey",
