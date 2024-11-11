@@ -139,7 +139,14 @@
         "icono": "https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16014-1639_import.png"
       },
       {
-        "name": "AMERICA TV OPC3",
+        "name": "AMERICA TV",
+        "uri": "PiFoloK4zBxLo6GPf/bTSp//4hMA/s5vZ8ukRJ6cNlV6mJt29B/oqSANh0rphCn6vNSX784qcWXo2+DJDe7iFgbTiwAqsvHP8WuIcFMJiEJge0WxMMW18vWtOmNkCOIz",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOz+gkQBn1UH2tDZXG1U7rVUKUcxK6crXvQa/1c7qOyIig0ThhEWAVg7a6qmLQU1aFUM9J8NlcKZ4cTcxuU10kqF68n27NCERSxh8FtlNE7uOwFeVFJ1mELeTocxicKoQ==",
+        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
+      },
+      {
+        "name": "AMERICA TV OPC 2",
         "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79boVcBHpOCrFyJXKj9V57WGmXQegwFC0QKGzNWyZ64BKw==",
         "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
       },
