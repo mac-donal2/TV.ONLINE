@@ -135,22 +135,15 @@
         "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png"
       },
       {
-        "name": "EL TRECE 3",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJOS745PR9uYmE6jeSbpLmBQT49dtv3ILx1rZMJTRchjH5zjKux98h/nS/Sbm0zvK//X3YlT9O2aqNnt/SFCAYS",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIWsbqpXhLMDpJ2pvfddLS1H4oqo+qxLs9encleCugIWJKoBQC+LopXdN0KDFAC7kJkvjSrphogdthpWBGQI7ANPUhTW3g2HRRPRM9cvnCD3WKxu5YFGyOf6LQdEhqTv+w==",
-        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png"
-      },
-      {
         "name": "EL TRECE OPC 4",
         "uri": "pBKxA9HdcJVOC2gVaAGIZiTk3D1p+1rdYfq2Q3Bj2d4atj7KN+BSnEHaum6SRWbVPervWqJCZHsdR9D69xaaMg==",
         "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png"
       },
       {
         "name": "CANAL 9 ",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJcVRpNyQ1tjYXHXfgLy9MNzcGTmqc2wJtzkwnt2gQ538PUFOs0i66DZaUDqu1SYUHkUuA4t2bIkxFrwVytIQd2",
+        "uri": "g2DSnqSz9Rf6fig8P3e7CptRbQhFvLGDQcqZsVz8mC+diwW7Yke31L5MMvHYR/JiRtCx/ZfO+FSBmnsU83pwFLuF/F6juINzx8oqWEL5goI=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO6OyVQ6f9bcBu+JJCC3smQyD7AcQkMhtPwejM3DIQSUVUmWg45zeFUEBmD+LRw0m9cT+h6RrXeVPzVqC15AgFsXw1Vvb7hQHgh5OjhZ84PtXjp8WpoXHdWUSawJhIsNRw==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvL9s18ZYgfcw0dPtgWjcgEv8MVOP3+cQpGR7JcBdRhqhY2M+BejMbwQR6RwMEMdpjnLgwLVm5c2UjSt+XPSf2U2RQe0fPbinr1t73grtodzgW3vqWPYxgeylpUtBtlJIvA==",
         "icono": "https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16014-1639_import.png"
       },
       {
@@ -164,20 +157,6 @@
         "name": "CANAL 9 OPC 33",
         "uri": "SO7PaqFnX2XeJ1kRo1c/2lLubH7M5HtXe8JNuwGW79YQnAFenriLLeqTTyU5/J9LO5ng5OI3DZx3T3I9dt9BFg==",
         "icono": "https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16014-1639_import.png"
-      },
-      {
-        "name": "AMERICA TVgg",
-        "uri": "LX46EnLWmPsTQWzzE5C2pJpPoarLTZ4zKXEPaELOIRR6mJt29B/oqSANh0rphCn6vNSX784qcWXo2+DJDe7iFgbTiwAqsvHP8WuIcFMJiEJge0WxMMW18vWtOmNkCOIz",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOz+gkQBn1UH2tDZXG1U7rVUKUcxK6crXvQa/1c7qOyIig0ThhEWAVg7a6qmLQU1aFUM9J8NlcKZ4cTcxuU10kqF68n27NCERSxh8FtlNE7uOwFeVFJ1mELeTocxicKoQ==",
-        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
-      },
-      {
-        "name": "AMERICA TV OPC 2",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oS0SlnsdRNxa+NdJgfqm1MpMsgxEXi5SGKjIPTCRfIigmUPMc1ngv5xFWF+0+dRK4M=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOIajqYggHtcLpu/iNIy9Wx65Hp30xj6sy4olmVt3MjWj05iB/nIoL9vvzXveMvOAjNBTPGRMfphwPScPPdLLVA94Hmb8Eaxmobx+SuE/dRMiKXyRXNhe+aNAWoLSxgJwg==",
-        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
       },
       {
         "name": "AMERICA TV OPC3",
