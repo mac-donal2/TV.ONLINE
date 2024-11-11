@@ -768,6 +768,13 @@
         "icono": "https://www.grupoisos.com/wp-content/uploads/2024/05/Imagen-TV-AZTECA.jpg"
       },
       {
+        "name": "RTVE",
+        "uri": "ejOC8mhnKkUdiM7e04joc9S9H44/OOyhFeCdEVvacGmFXLEUCNyrCooKyt4HF20cxVC2H9gH/nX6r5eDn7HicowmyyQSGlNXvYQbq2ww00E=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIfMT+GpLhhxs0cnFdCTtFDcTYNOkObyQ82VnfWF21+AMy1ynRySIIIcLvZpxzLTPiiCP6tIhE06AF0Yj9Y3cXlaZHhuQP3PmMjsApMomfWNvTHIrUV/EgtGXGChh04imA==",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kbUogYAMt4zNR7yq8JAh5DfwnDLaFhXqPOVzjXwWjJBm4=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
         "name": "ANTENA 3",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJPzSaTZIrHvyXLYh2fNdkRO2Oq5NInKc19pEzGko1HY1KKKdAjzeG6/woi+ng5R83atoV1CgLgPN+nq2r25iET",
         "drm_scheme": "clearkey",
@@ -787,6 +794,18 @@
         "icono": "https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png?hash=dcdede14b767968b29028761f31fe79e"
       },
       {
+        "name": "Canal Sur Andalucia",
+        "uri": "GhBjKQI8EH7APDVfieR4ohexNFHisYyO+buRaD/WQOaaM8ktB1twIjG3NNt84GOR7dyMC4Tit4l11pDDDFpl75RgGSBR6+7NLD1u67DaGCM=",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_mhU2bI-iGWToJUbUJqWiP9r0z6EIEcH38m-O8UguYMVg=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "TELECINCO ESP",
+        "uri": "LGwy1csk4lpsIUQmvpOTVb5fkRc0NFhjNrZgzDX8cEqPyhEXrsm7W0ptWj76SPQfHuo5QDooMb6zF5t+Q9BfNA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZXK2W9iXsHYdehanup9KB1PMvBdYEVOe9HbFJXj9zQ/UmSgGGnT36l/qgzBcBWb5/ZfoU9ISbzf4vwDxvNqgcP5Lo48U1P5IzeSVqPmCRXcP6yQf1Ugipz1aGzu0h1w9g==",
+        "icono": "https://pbs.twimg.com/profile_images/903296444697858048/yS_V6Bk4_400x400.jpg"
+      },
+      {
         "name": "EURONEW",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLXGA1INiIu8YXTrgyhjQrV/yPCNdrQH2XIWii9DFme9FMZniPYMt0aoHCxeKtXoCc=",
         "drm_scheme": "clearkey",
@@ -804,11 +823,58 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgAk3JH-qX36AS-VvsPInZr7KKQsCw1yIq6MxS1SJRXAoih0H"
       },
       {
+        "name": "Azteca Guatemala",
+        "uri": "H4wJygHc9n0Kz/zGVuau4YfEVuvQuKOgRI/pzUvzILoGMj/RGAChwjP7Q1+cb+RM",
+        "icono": "https://tvaztecaguate.com/wp-content/uploads/2022/02/Tv-Azteca-Guate.png"
+      },
+      {
+        "name": "TVN Chile | HD | Santiago",
+        "uri": "Wf3A6FOGB3p1GJMkruYPHrp1KJRwCRJe75QIzlMKd5VM5GcjIzjYXwoD8SdhbS+2",
+        "icono": "https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-TVN-1.jpg"
+      },
+      {
+        "name": "Mega TV Arequipa",
+        "uri": "jZ8r9tmVtZkfhmtNzaB8VqDuXpMX2UMUyWfijWscozbcUH1TVlLHjdx4rPTrN46NdgU5mAGtEEhOwcGqGCqdQA==",
+        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Mega-TV-Arequipa-en-vivo-Online.png"
+      },
+      {
+        "name": "LATINA TV PERU ",
+        "uri": "e/PlmFCqvZPweGjTRx5/bJbyTVmldWipJbiphF/DpLJwC142NsRUjEL/zYHjUWUPpOuWq3DOacAV21DkHMdAV18pVTiIbb8Rt0P7V52f6a0=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
+      },
+      {
+        "name": "LATINA TV PERU OP2",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9miTjnWlCFVr6Weo1sfH8n5zpfSu1FhIbXvtnZqPI6/g6r2SUDoTwiUu0g+Sq+KsLw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
+      },
+      {
+        "name": "LATINA TV PERU OPC 3",
+        "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7JyntJZ+76swmqlqlJIyQDJ7KU6+NexZCuFyBlEkn5l5YJLIjBLuRjds4tY5eXtUjla6LQekgz8DUzpoOl4YB1IHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
+      },
+      {
+        "name": "PERU EXITOSA TV",
+        "uri": "hHw+GOU0WRKYGxlqZ6zByeEauubugv5wPgoo+Gnx0o4zCCvCnTETqU6CV8x3VFJKuM+3hkh90+lPdPGzY4cmuD13nTmTJENvXUws9HuK2JaIm4IzDla/4GfJAYYb2DcI",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png"
+      },
+      {
+        "name": "América Televisión peru",
+        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCOTs6RRMTr24rmGppZmVB8Bmae7AvYP1iXCqtXjLqyztTYfPhv8iZdFVURq78erQoRg=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNV1OFL29xGaE5OI7haPNzuCUeA/+LjNotIyZo7QpkZRFf0l6sA0TJY/KKSMw7IAcY5wvu1CHQQ/bmKTZDD3olSW3Tp3LIzeM/EpBFVfIhKG78gGH+Dz+rGTjHt7xM+yCw==",
+        "icono": "https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png"
+      },
+      {
         "name": "TV CHILE",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLfaXG1fL7us3ismrhhw1PSdxiVaAQ1XTn2hjNSjPzyjw3eze0RgdVRgVZ/QXPb8Ps=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKZVEZlwk5Lmqa4j8DEt++RxwgPg2XS4TIcl5tFqExhHhiSmIDplvwuuX47jmmYJ+QAb2bf0oYaZLOQajyte/qUzqYjRMpQy4GMKP2o/kB6HiKXyRXNhe+aNAWoLSxgJwg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/687px-Logo_de_TV_Chile.png"
+      },
+      {
+        "name": "Canal 5 (México)",
+        "uri": "Ltxx4/rp65hRXHPZ2s8lvabIQ7CafVPynmF+OVX5gkUTp9OYik4Zys7bSmCxfZJR14pQz/ClAHTW5pcOf+FJHf3gAE0jOqCzMYKAg8FWnmU=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/1200px-Canal_5_2016.svg.png"
       },
       {
         "name": "CRONICA TV",
@@ -819,42 +885,42 @@
       },
       {
         "name": "C5N",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmI3k0s7brdvQZPFAUTeEn9IJYcMEM1i03IU+Vk6RK5DsyLHotHl/IG3YB4Y0lKYSiU=",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJSC6f+6GMVc7lPD8Uo5qmZLunDgwaB5r2ksQ/V/jXrWeRS4Di3ZsiTEWvBXK0hB3Y=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSoXpJctC1/u+LAVRXMTcj0slL5iSK2Xx97BhSOhcvt7Uwazt7RYgoMjphNwA7YxWwMy+RVJgdpE3yGE1F96R5sLSSyw346Ajr+rZinotb2vS82+kou4vct3pGYIPgG9A==",
         "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
       },
       {
         "name": "TN NOTICIAS",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL6h883fMfigrYzTlhFmIXtP41r2Fy1PndkLkbBAZAGluOsYZuAPi3Hc7SG1bNTGHHnAEO9sUJQAQ20CW89JewP",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xL7PrESrjhfuLv1lXivNL0JHXzdiUgkZ17bpH50KOHdlEme0HYyO9qVQToM1O977+3LtP0BFAdt0fstTB4mVP2U",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYRYcCX4CjduqpwRuffUHWujexmFK46TFsPSMcYMmgS17TuNsfaFyMw2euXbnx/kGNHd4+T80gdBFmOhY0sX/GT5wI8TDTyme23oo0Jq9zn7yZkPyQ6PtsPEdy6c6I50g==",
         "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg"
       },
       {
         "name": "LN+ - LA NACION",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL7KHJKttrEFcsvgnFowusvP8U9gqVyChcTF73B54Cjck9+zYy8uDFTiGy4dRt86uZI0f03vYAU4XYtje5lHOuz",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLgdN5b49LwASB7WrTKIOuBZW9k3vaB6ggHQtDQpYrDmxN6BJSo+qWryJpLZEj3Z29p45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDrvYuj3fhORC+rJDM0t2lOWMEDRcDwn+TOp6bOdDcc6Felemvq59dXgkci0EmxN71eR91ALCygyFnqJU/AB2zclIQiHz4c95QOeG3zbOhWFZv0dTxnntpKPiSPqYQ4Rug==",
         "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg"
       },
       {
         "name": "A24",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIQrrqQrlvRKeHsT067l3TZBIpJJMeJN1r7qp3rQr8frVZpVdShXXo9XQ1WvW2M1JyMJsskEhpTV72EG6tsMNNB",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIVtsP4CA22m8p2Cr+2YZJVZW9k3vaB6ggHQtDQpYrDm85f8Xp34nWk6bEdEXe4x/Jp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeRQdhYmrLkisKOct45GoJiBJQULYwuUroFwUK7y8aMtkskLawVg8H58xPAq+6uXoIAvbDTEmoLVl24lIjm3WwdD37kvJ/afsigmpnD3wPCpYAJfH3W1gV7xSCLKmiovbYg==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFkUu56JhimqmnrT+H0k24r3E5ZBFDrSFScquA3PWJ/xHXufyR6lF1dskMyqA6v8sTh+5HLpz6FioiBA6A0VpuQJSTCk5ImW/DflGPt1NP2b8ZlCygNs4gu9V+i2yHALag==",
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
       },
       {
         "name": "CANAL 26",
-        "uri": "KusJ5ShfomSLrFIJxHev/jXIAcht3gt6FMFILfqq4pVmXBuqeXlq3KAdZYIwvuJQeUEDYm3/VcF/FBeH1C77Uv6w1hhAk9N1bGzR+TW9uRDu/z8QAUaM/kvaCYEISAAk",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIkw4jLgBafQBHhp/NsCDYqGZD4B8f29b4nFBkJc6MiKSkgpnuQUBEAjQc1fVwX1so=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB1GNq6beNiuucOe0WXWM1fqaZXOEMYeAWjLjNsO4muskyFRilW7Rx4IS93S3PZxJrwpvFfig2cvHjpHOSDZTYgryvIBHTECoCdNhlKrogJcQmIAUyC9wtvn4xLgeiHjMA==",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
       },
       {
         "name": "IP noticias",
-        "uri": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147CFsoU+pe2m6AlG+tL/abeDPSx/53fEWHTb/0oEIa1s7CQ0P6+Lor1UcDZ2aAkZNv+yF5Hadv27WU/IumRLKAy82jxdt0Z+Uy9DVXtAyIEbUNhoD0Xk8Ryx5qTOdUAgczA=",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJPk4E8DXxCQj32Hk2u9WypjG9MVvmmKxk0zYVVVhr2LyWHDBDNYtNyFPlZOkSuQ7N1ZqOAjqNHJz/pcNdNxxjJLNekSFG5F6vZSsiIAJI7Xw==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFJU7OeYPqpRnHXx6hX0ilnbI7gWGdNpr6z0vuDRQc8aNG1OSBi54LwMojN9vB8TgZb1fcWMT9FqIXSoGro6YY7JHny5Ept2vEPMBuRQqzUUabgy5Pi3qZYIw5F+E9C88w==",
         "icono": "https://i.ibb.co/GQ6LCnV/share.png"
