@@ -30,17 +30,17 @@
       },
       {
         "name": "LIGA URUGUAY",
-        "uri": "Riv7u0opSQq4BSIFEeSVymSU7NYpethjtBKsmWkyZQPor+p0/qlPPQeGaTQ5vkol96S9bDKGuN+mCzOgBiqxNA==",
+        "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshNgcXESvXQuKKM+XIQxc1k=",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
       },
       {
         "name": "⚽️MLS",
-        "uri": "g16wHU9pRJEtaPMztekjMRkBkTXgtOGl1rgABzUwEsg2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrg07ofG+B8mbD/CQwC2Fm5A5BAJGc4dqNv31s88q1YSXwdH7LVnzrk+6l+eVRxLjKpRgGSBR6+7NLD1u67DaGCM=",
+        "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshNgcXESvXQuKKM+XIQxc1k=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       },
       {
         "name": "⚽️MLSd",
-        "uri": "g16wHU9pRJEtaPMztekjMRkBkTXgtOGl1rgABzUwEsg2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrg07ofG+B8mbD/CQwC2Fm5A5BAJGc4dqNv31s88q1YSXwdH7LVnzrk+6l+eVRxLjKpRgGSBR6+7NLD1u67DaGCM=",
+        "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshNgcXESvXQuKKM+XIQxc1k=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       }
     ]
@@ -880,6 +880,11 @@
   {
     "name": "⚽PACK FUTBOL ARGENTINA",
     "samples": [
+      {
+        "name": "EVENTOS EN VIVO ",
+        "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshNgcXESvXQuKKM+XIQxc1k=",
+        "icono": "https://imgsvr.radiocut.site/get/crop/center/200/200/shows_logos/38/b7/38b7f1ec-4856-478b-879d-b5aa0fdd9a8c.jpg"
+      },
       {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc+BWJwadd12eITdRn3e1z4qCbexk8uxiMbYWn28FniL",
