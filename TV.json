@@ -950,6 +950,13 @@
     "name": "⚽PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "TYC SPORTS INTERNACIONAL",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSgWT07urHKv+5/wUi8laeS0XEtLyjKQKCKifr2Mp88GWxbB1B26T1ROfsyr+p3qgqGtKlGiVXzcI7MH5200XJO",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLPyG9XHk6CgtXZw/4wMip+0VNGM5IZU121Uz/sfIKLYysSebVOfHJaXqe/r2SM6803MJ8AcgluStcoSFYTyjhOmCVv8uC9/ZiPevOGNoqIMl4no0Psmi1/Mu+nuEWl1KA==,
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
+      { 
         "name": "TNT SPORT ARGENTINA HDD",
         "uri": "PiFoloK4zBxLo6GPf/bTSp//4hMA/s5vZ8ukRJ6cNlVmXBuqeXlq3KAdZYIwvuJQYnRaiNuka+uzQB7BOkwhFncYlWgENV059oYzUoz88o+940GMpgYRJyTTarhtZ3DEaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
