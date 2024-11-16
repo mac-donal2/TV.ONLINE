@@ -5,12 +5,12 @@
       {
         "name": "Mike Tyson vs. Jake Paul, 10:00",
         "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshlqIR6/D3N3zUij29NucC0=",
-        "icono": "https://media.elobservador.com.uy/p/f57007b0670495d32edddce0b5c3f7bd/adjuntos/362/imagenes/100/392/0100392250/1000x0/smart/mike-tyson-enfrentara-jake-paul.webp"   
+        "icono": "https://media.elobservador.com.uy/p/f57007b0670495d32edddce0b5c3f7bd/adjuntos/362/imagenes/100/392/0100392250/1000x0/smart/mike-tyson-enfrentara-jake-paul.webp"
       },
       {
-         "name": "Mike Tyson vs. Jake Paul, 10:00",
+        "name": "Mike Tyson vs. Jake Paul, 10:00",
         "uri": "FqN4WThG9YsY/riTlGPozYBxLJ9rhKH8DSTFCHCi9PLogVUqptVC1/FvopWaRN3Dnrq3ROTQsSLlMlE4I2oVyo0io+RWQYNAqaiD/3JoMcpp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://media.elobservador.com.uy/p/f57007b0670495d32edddce0b5c3f7bd/adjuntos/362/imagenes/100/392/0100392250/1000x0/smart/mike-tyson-enfrentara-jake-paul.webp"   
+        "icono": "https://media.elobservador.com.uy/p/f57007b0670495d32edddce0b5c3f7bd/adjuntos/362/imagenes/100/392/0100392250/1000x0/smart/mike-tyson-enfrentara-jake-paul.webp"
       },
       {
         "name": "EVENTOS PY",
@@ -102,7 +102,7 @@
       },
       {
         "name": "TELEFE OPC 2",
-        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI8O8j1Ktm6xVNrN3p8+pa0dxiVaAQ1XTn2hjNSjPzyj6ftxvpVpNg41tULsQQjQd4=,
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI8O8j1Ktm6xVNrN3p8+pa0dxiVaAQ1XTn2hjNSjPzyj6ftxvpVpNg41tULsQQjQd4=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBT5idCvhb2q+slL4fy5uI4FLCdS2pR7AiX2EuZM0UmurCxYwoZ8Oof5nJfO0x7itXsGzy7BtkMZmnIwkmFFK+5Uf5DZoGp5Oen+/muKZzBKHSAFSp7Tnsdp3XvR4L5Blw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
@@ -761,11 +761,11 @@
     "name": "🌎 NOTICIAS",
     "samples": [
       {
-         "name": "ETB Basque",
+        "name": "ETB Basque",
         "uri": "vUpSjsI3Pa50RnoqRbTb5lY+0T7P6u2hIp92zY6yz3bnEloF1DiDhiPsK9lSmx7RFRiBY6TW3I1ffIOakrjT/yzPN9alxsavnOW/i53JyfQ=",
         "icono": "https://i.ytimg.com/vi/cvRTMFIjG5A/maxresdefault.jpg"
       },
-      { 
+      {
         "name": "DW: ACTUALIDAD",
         "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2Ivte5t7NJBVAGiktqdNu7QqRCbg0CVFjja468O0Ww5q/",
         "icono": "https://www.infobae.com/new-resizer/_oR7hsVt9U6Qe8eVIHFocJ_iznQ=/992x992/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LPNB3QLSPVE7JGHYNDXJBD4GAE.jpg"
