@@ -891,9 +891,11 @@
     "name": "⚽PACK FUTBOL ARGENTINA",
     "samples": [
       {
-        "name": "EVENTOS EN VIVO ",
-        "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshNgcXESvXQuKKM+XIQxc1k=",
-        "icono": "https://imgsvr.radiocut.site/get/crop/center/200/200/shows_logos/38/b7/38b7f1ec-4856-478b-879d-b5aa0fdd9a8c.jpg"
+        "name": "TYC SPORTS INTERNACIONAL",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSgWT07urHKv+5/wUi8laeS0XEtLyjKQKCKifr2Mp88GWxbB1B26T1ROfsyr+p3qgqGtKlGiVXzcI7MH5200XJO",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLPyG9XHk6CgtXZw/4wMip+0VNGM5IZU121Uz/sfIKLYysSebVOfHJaXqe/r2SM6803MJ8AcgluStcoSFYTyjhOmCVv8uC9/ZiPevOGNoqIMl4no0Psmi1/Mu+nuEWl1KA==",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
       },
       {
         "name": "TNT SPORT ARGENTINA HD",
@@ -1010,6 +1012,13 @@
   {
     "name": "⚽ DEPORTES",
     "samples": [
+      {
+        "name": "TYC SPORTS INTERNACIONAL",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSgWT07urHKv+5/wUi8laeS0XEtLyjKQKCKifr2Mp88GWxbB1B26T1ROfsyr+p3qgqGtKlGiVXzcI7MH5200XJO",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLPyG9XHk6CgtXZw/4wMip+0VNGM5IZU121Uz/sfIKLYysSebVOfHJaXqe/r2SM6803MJ8AcgluStcoSFYTyjhOmCVv8uC9/ZiPevOGNoqIMl4no0Psmi1/Mu+nuEWl1KA==",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
       {
         "name": "Show Sports (Córdoba)",
         "uri": "PiFoloK4zBxLo6GPf/bTSqkzMwvOytGAGi5TMmNihSURz0Yc1yaaNNBESsSEf/mk4pYGqnQgvp1p8aQqQGLS8ug1c66ypqo9nLpdPsipS3ujysCvMKgfoJjSwvFYrVwz",
