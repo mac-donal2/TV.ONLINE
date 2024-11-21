@@ -1105,6 +1105,16 @@
     "name": "⚽ DEPORTES",
     "samples": [
       {
+        "name": "Independiente Rivadavia vs. River Plate NICO",
+        "uri": "5S5noNu+us3Sry47zWwa80dCvPqcXAspR5Nncr8MPmQpiRZoXjFGG9N70gKVcOz/rMoI2XH0MCW9Bn2Ujz7f/ajHAEa1IiKR3+IZTS4T6u6DQEVaEFpm2y1HhTJoBy2v",
+        "icono": "https://www.lanacion.com.ar/resizer/v2/en-el-ultimo-duelo-entre-river-plate-e-KZML5FITUZDZJGVB4PJFWYTO7I.jpg?auth=4c13567cd4db76c88fa50513447f682e68244a6b1c3e4ff83c2a743eaf5038d8&width=420&height=280&quality=70&smart=true"
+      },
+      {
+        "name": "⚽️Independiente Rivadavia vs. River Plate",
+        "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshNgcXESvXQuKKM+XIQxc1k=",
+        "icono": "https://www.lanacion.com.ar/resizer/v2/en-el-ultimo-duelo-entre-river-plate-e-KZML5FITUZDZJGVB4PJFWYTO7I.jpg?auth=4c13567cd4db76c88fa50513447f682e68244a6b1c3e4ff83c2a743eaf5038d8&width=420&height=280&quality=70&smart=true"
+      },
+      {
         "name": "Show Sports (Córdoba)w",
         "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz19gFETQnrS+qZPIyMo9NXGJYcMEM1i03IU+Vk6RK5Ds6HeykGokdAbdvKxEZmXnPHun96HcweQA8pUMJEWE8PA",
         "drm_scheme": "clearkey",
