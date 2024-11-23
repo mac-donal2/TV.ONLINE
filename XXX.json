@@ -294,14 +294,17 @@
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc4V4SMPdtPN1DLBePZT7r4EzTCA-huA6Yy1QLIkeZOnKNavUq"
       },
       {
-  "name": "AMC",
-  "uri": "g2DSnqSz9Rf6fig8P3e7CptRbQhFvLGDQcqZsVz8mC97Y5s9RpmcjXtn2pvuCt+Q1Lko2LlN1SCuMudwzTZ4C+4QCgwzucgbAA3r/vWO1DA=",
-  "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc4V4SMPdtPN1DLBePZT7r4EzTCA-huA6Yy1QLIkeZOnKNavUq",
-  "drm_scheme": "widevine",
-  "drm_license_uri": "Bxiz1sRKa8YTnDJ4REA2XJdbTsdghBuUTXeWOIJ9u0SBbeIqNzeI+7rwU7gZr2jKDYxMLVDmmVr7H81sBE2UtQ==",
-  "User-Agent": "yJeiRVi/RJiZIJKbxVcWgIO8hk8mhnbv9rZ0gzBMXpwD0IEg1+ex8r5YEh/SEjKI4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLPp0MuC4jB66E0eISgrxIuWpHJInD/kIfz2UUbBaGJjVhqe5F6FldpJIdmFviO3UlA=",
-  "origin": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
-  "Referer": "pJX3CYlrUkcqZdTYZX2jDr9G8KbzheI/1H3e8S421gV1MTh5uZT+I9pGmSwa/kcV" 
+      },
+      {
+        "name": "TELEFE",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9PnuoXPapQmGbMzcf+K9d3U1sVK8DrOOmQuAOt8nBtEPBzWmualXeQ1rQpP+n411V",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
       }
     ]
   }
