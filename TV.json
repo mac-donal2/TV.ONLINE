@@ -69,34 +69,6 @@
     "name": "🇦🇷 ARGENTINA",
     "samples": [
       {
-        "name": "Por amor o por dinero 24/7",
-        "uri": "LX46EnLWmPsTQWzzE5C2pC7KDzstvEffUMY20dHkwoRHAb4/uvgrhSXm/XH7e3ElR5dd4pFnzsHjEf7yYTNBLCWHDBDNYtNyFPlZOkSuQ7Mmj8ut5KehYZkolJIkOUwuKZFeWHi785em9E6CIgfx4Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvOEfWz0pQgxB1cKOB1cfu31jlX3/FNHSg4fQUE2pF2Ujl6Fn7cX21mUjnz3/CP/dZ6qBIglQv/1+TW8Kg8FDzFv/7q1U8Zhifj8xopgIM2pISEqUnCuhfMDEKIiYhJF5TQ==",
-        "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png"
-      },
-      {
-        "name": "CAM 2",
-        "uri": "hgyLEf1obfi7e+6+kI5AQaVcvmqvn3q5iU/sc/Bubk9QrV1AFQomYhhmq5L6kpHW1+SuK/ZkWAjJfGX5h41a8dzs9nh1JkbuRusDNa3Fi23nJ9mbbCcmBIGvmR34tQtk5FLgOLdmyJMRa8FcrSEHdg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGZ0ddZlr4cHT9ENUQklgrzh26biZUdW4DHAbv/2xKQD+S0yQmb4t+NdS7cRe4jNOWKSfBctkXT1uPajPYTpoO2jGZrNqzz9gViElxdiOtc1/aX/7Bc2djrIY6QLRNAjaw==",
-        "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png"
-      },
-      {
-        "name": "CAM 3",
-        "uri": "hgyLEf1obfi7e+6+kI5AQaVcvmqvn3q5iU/sc/Bubk9QrV1AFQomYhhmq5L6kpHW1+SuK/ZkWAjJfGX5h41a8dzs9nh1JkbuRusDNa3Fi22RVAqvvnSqwYxDnhc+qtKh5FLgOLdmyJMRa8FcrSEHdg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGRD04tNd8UqpNZQQVDBvutxzFEYU16jelonRo31Ib5E3tQ5p98CyzOoE8YoY5plBGuNra1Lr4Ca8KZME3xXl2bBhMfA4FhkPyIpEoNW2IqNy462PhEuhSoEirxyoDgNaA==",
-        "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png"
-      },
-      {
-        "name": "cam 4",
-        "uri": "hgyLEf1obfi7e+6+kI5AQaVcvmqvn3q5iU/sc/Bubk9QrV1AFQomYhhmq5L6kpHW1+SuK/ZkWAjJfGX5h41a8dzs9nh1JkbuRusDNa3Fi23LVMoFbMTlb4RGR4xaLYLj5FLgOLdmyJMRa8FcrSEHdg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP1LQOThM+ZGPpgU/FNjATPDC/wVXNqla5xTGLGMqOCnWElr1mYYCWadx+MdJcH9vzMr+B7r94y4vrn3QjcJWIxxofGlzK9z+iZiaFJYNGNLZBwu/4MXv4stS4KnB13hAA==",
-        "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png"
-      },
-      {
         "name": "TELEFE",
         "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSNmvDjY+0vaLExdTH0HadJGEPH5Gs8vOmp0DFyqsqeJzoPV2n7hcsOyGPT3dL3xovBzWmualXeQ1rQpP+n411V",
         "drm_scheme": "clearkey",
