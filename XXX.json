@@ -312,62 +312,6 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
-        "samples": [
-          {
-            "name": "COPA POTRERO",
-            "uri": "https://ythls-v3.onrender.com/channel/UCFmMw7yTuLTCuMhpZD5dVsg.m3u8",
-            "icono": "https://a3.espncdn.com/combiner/iimg=%2Fphoto%2F2024%2F1115%2Fr1415047_1296x729_16%2D9.jpg"
-          },
-          {
-            "name": "COPA POTRERO OPC 2",
-            "uri": "https://ligauruguay.onstreaming.live/live/kEigqblv1GgtlzBQkMVe3UsrVhE2/index.m3u8",
-            "icono": "https://a3.espncdn.com/combiner/iimg=%2Fphoto%2F2024%2F1115%2Fr1415047_1296x729_16%2D9.jpg"
-          },
-          {
-            "name": "EVENTOS PY",
-            "uri": "  https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": "  https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1c62a216a5fe423f959cb1ca02f62d83&key%5B%5D=54f2fdc83c1da33cd9269bf21e08218c",
-            "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
-          },
-          {
-            "name": "EVENTOS PY 2",
-            "uri": "https://sam-py-edge04.tigo.com.py/ccur-session/01_3508407031/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": " https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49b2c0e7037042b2aff9f064e0bb3311&key%5B%5D=83849e30adf85440550292693147fbf7",
-            "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
-          },
-          {
-            "name": "EVENTOS PY 3",
-            "uri": "https://sam-py-edge04.tigo.com.py/ccur-session/01_3508408953/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2245f48a5998442f835099d30f2e0305&key%5B%5D=f48f6ce816fe86d8c10587e9a7e927a3",
-            "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
-          },
-          {
-            "name": "LIGA URUGUAY NICO",
-            "uri": "https://ligauruguay.onstreaming.live/live/kEigqblv1GgtlzBQkMVe3UsrVhE2/index.m3u8",
-            "icono": "https://a.espncdn.com/combiner/iimg=/i/leaguelogos/soccer/500/1592.png"
-          },
-          {
-            "name": "LIGA URUGUAY",
-            "uri": "http://tochitv2.club/restream-daniel-garcia/tochitv-654/489266.m3u8",
-            "icono": "https://a.espncdn.com/combiner/iimg=/i/leaguelogos/soccer/500/1592.png"
-          },
-          {
-            "name": "MLS",
-            "uri": "https://magistv.onstreaming.live/live/fJywfr7kKwWrDo2q2jVyrFw0rp82/index.mpd",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
-          },
-          {
-            "name": "MLSd",
-            "uri": "https://magistv.onstreaming.live/live/fJywfr7kKwWrDo2q2jVyrFw0rp82/index.mpd",
-            "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
-          }
-        ]
-      },
-      {
         "name": "Por amor o por dinero 24/7",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJrSEDelpHiQd+hIm0qg3Q7flN6HI5mvnk5yq0qpKmxn/e6LSpjzjT6t0vGCf6OmrXwrkxvG0VaNCSvJ0Ds81hrwc1prmpV3kNa0KT/p+NdVQ==",
         "drm_scheme": "clearkey",
@@ -414,7 +358,7 @@
       },
       {
         "name": "TELEFE OPC 2",
-        "uri": "https://dsr.ride.com.ar/tvmia/an11/playlist.m3u8",
+        "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr3zEPaPr5TkFdTJ6XVivNR4aeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg"
       },
       {
