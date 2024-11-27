@@ -1002,6 +1002,13 @@
     "name": "PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "Boca Juniors vs. Vélez Sarsfield",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSgWT07urHKv+5/wUi8laeS0XEtLyjKQKCKifr2Mp88GWxbB1B26T1ROfsyr+p3qgqGtKlGiVXzcI7MH5200XJO",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLPyG9XHk6CgtXZw/4wMip+0VNGM5IZU121Uz/sfIKLYysSebVOfHJaXqe/r2SM6803MJ8AcgluStcoSFYTyjhOmCVv8uC9/ZiPevOGNoqIMl4no0Psmi1/Mu+nuEWl1KA==",
+        "icono": "https://i.ytimg.com/vi/_LZWfu-TVYo/hq720.jpg"
+      },
+      {
         "name": "TNT SPORT ARGENTINA HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwb8OK7jFQDm2ydDjcGIiI+a8yN0lwzwlrDkIzM40cuPa",
         "drm_scheme": "clearkey",
@@ -1119,6 +1126,13 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "Boca Juniors vs. Vélez Sarsfield",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSgWT07urHKv+5/wUi8laeS0XEtLyjKQKCKifr2Mp88GWxbB1B26T1ROfsyr+p3qgqGtKlGiVXzcI7MH5200XJO",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLPyG9XHk6CgtXZw/4wMip+0VNGM5IZU121Uz/sfIKLYysSebVOfHJaXqe/r2SM6803MJ8AcgluStcoSFYTyjhOmCVv8uC9/ZiPevOGNoqIMl4no0Psmi1/Mu+nuEWl1KA==",
+        "icono": "https://i.ytimg.com/vi/_LZWfu-TVYo/hq720.jpg"
+      },
+      { 
         "name": "Show Sports (Córdoba)",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJHWE27qNAgt64OOyXuzob2utiEOto87G4ar5F4IRS+RyZrpP//+ym7N3C0X1/QLVBMxl2f77bDPko8LRzpvfBP",
         "drm_scheme": "clearkey",
