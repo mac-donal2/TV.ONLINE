@@ -2264,7 +2264,7 @@
       },
       {
         "name": "Boomerang",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIyYQ1JaDs4t1RxifnyNxDqzIJ1CzMdm5Srvuu7lm9CQrhH7uNScHktwqkZMDZXYDOMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN3jFXCMLWV4o9FyyY3EN2Bnehfl5FVie2JIssXJH63pH5boFptwNCTJt2DnkSnskoySt5EDMBkSsGxGV/dknWK3HjmCuMYbEIBiegNGd+sPYYm4dnxt2hy/yNwYJhb79g==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
@@ -2273,7 +2273,7 @@
       },
       {
         "name": "DIOS TE VE",
-        "uri": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+        "uri": "YtoYruFcbeONwiMybiokl3xelLv8PZ+T+UwKX2QsIE9hGGvduXQVJbBhTYpYEYmjaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://play-lh.googleusercontent.com/-4OhvRG-BNBSloTMXVTKIax7uGElDnybRLC7qw0waJHUWafazWoprNyQbhG_n0MMRMg=w240-h480-rw"
       }
     ]
@@ -2753,7 +2753,7 @@
       },
       {
         "name": "CANELA NOVELAS",
-        "uri": "https://stream.ads.ottera.tv/playlist.m3u8network_id=1152",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGPIo+Bk/tm+P3KtPZiV3VPfFjqopvHbXFjmx5JN2GFVgw==",
         "icono": "https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/channel-canela_telenovelas-16x9.jpg"
       },
       {
@@ -2782,7 +2782,7 @@
     "samples": [
       {
         "name": "Dios Tv",
-        "uri": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+        "uri": "YtoYruFcbeONwiMybiokl3xelLv8PZ+T+UwKX2QsIE9hGGvduXQVJbBhTYpYEYmjaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://pbs.twimg.com/profile_images/598164936431443969/LKwzeOZ4_400x400.png"
       },
       {
