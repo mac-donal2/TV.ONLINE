@@ -3,9 +3,9 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
-        "name": "LIGA URUGUAY NICO",
-        "uri": "5S5noNu+us3Sry47zWwa80dCvPqcXAspR5Nncr8MPmQpiRZoXjFGG9N70gKVcOz/rMoI2XH0MCW9Bn2Ujz7f/ajHAEa1IiKR3+IZTS4T6u6DQEVaEFpm2y1HhTJoBy2v",
-        "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
+        "name": "Boca Juniors vs. Vélez Sarsfield",
+        "uri": "oKeQnP/OAnsopnzbiQjk93zY0W6fPexNaCdVdY/2Xhs4vkR3kfINEBT/9/gje6M9FoTE7FhDBpbLewKVIaG6VIoGwH4aEC+CKLxpik8W/SfQUDtBQUoj9VVJU2nsPh8w",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
       },
       {
         "name": "LIGA URUGUAY",
@@ -1125,14 +1125,10 @@
     "samples": [
       {
         "name": "Boca Juniors vs. Vélez Sarsfield",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL37QmgdiLUgU/TY/5faG5CeXv+bDJvrWp4ZCsPu9aCV1ubII0OzD5+l11GVmkzWzTBzWmualXeQ1rQpP+n411V",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvG4bbl1PHpzxPV0tQt4eLIyq9iBz8BHaFk/wSMDvIDhTqjmsJsI52V8I8GnjHIcuvEH1fJtB0R+qd7Chk7xZEZJqm6pF0n5do5NiLG+KZm2UAZQ8zCQUdBBv4r0FxjzbnA==",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+        "uri": "oKeQnP/OAnsopnzbiQjk93zY0W6fPexNaCdVdY/2Xhs4vkR3kfINEBT/9/gje6M9FoTE7FhDBpbLewKVIaG6VIoGwH4aEC+CKLxpik8W/SfQUDtBQUoj9VVJU2nsPh8w",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
       },
-      { 
+      {
         "name": "Show Sports (Córdoba)",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJHWE27qNAgt64OOyXuzob2utiEOto87G4ar5F4IRS+RyZrpP//+ym7N3C0X1/QLVBMxl2f77bDPko8LRzpvfBP",
         "drm_scheme": "clearkey",
