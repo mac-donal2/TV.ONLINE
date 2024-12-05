@@ -54,11 +54,16 @@
     "name": "ARGENTINA",
     "samples": [
       {
-        "name": "GH",
+        "name": "GH nico",
         "uri": "5S5noNu+us3Sry47zWwa80dCvPqcXAspR5Nncr8MPmQpiRZoXjFGG9N70gKVcOz/rMoI2XH0MCW9Bn2Ujz7f/ajHAEa1IiKR3+IZTS4T6u6DQEVaEFpm2y1HhTJoBy2v",
         "icono": "https://media.telebajocero.com/p/8ca46d77b015140bb36d7daf7607cbe7/adjuntos/225/imagenes/000/936/0000936200/412x232/smart/gran-hermano-2024jpg.jpg"
       },
       {   
+        "name": "GH",
+        "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshNgcXESvXQuKKM+XIQxc1k=",
+        "icono": "https://media.telebajocero.com/p/8ca46d77b015140bb36d7daf7607cbe7/adjuntos/225/imagenes/000/936/0000936200/412x232/smart/gran-hermano-2024jpg.jpg"
+      },
+      {    
         "name": "TELEFE",
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBVz1ZzaOmfr58dAcdKDqlXD3zxFnUQ5EMFlCpCx0p3If5N8kujwPdcDrooq7M1AIN7/X3YlT9O2aqNnt/SFCAYS",
         "drm_scheme": "clearkey",
