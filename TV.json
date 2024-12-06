@@ -3202,7 +3202,7 @@
       },
       {
         "name": "VTV PLUS",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJxD0E/R4mqQh0t1lR56cy/JyqVZuu9InNlt8/Oh9Wg+6In8kfk8Qh1yqRQ6Ihw/9DOsGgteCvAkIdZnB1RwmH+",
+        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLQYfmbB/EG7Z6uk/rRmp/tAJYcMEM1i03IU+Vk6RK5Ds4pF+AMTh8DffR66IW7PUEtp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvImOjcvP4Hck1g54TvyTltB2W3leKvhyLje8bgc4q78GmXTQIkHSKJlhZy20si5KBqq1SReVSwvVgB3bfAtpljolc55yygqUD21yj16n3BfQ4YJDdCRjE88FQB1ZrUemJA==",
         "icono": "https://elcascotenews.com/wp-content/uploads/2020/10/IMG-20201023-WA0080.jpg",
@@ -3471,13 +3471,10 @@
         "user_agent": "\"fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "CRONICA TV",
-        "uri": "MDiGsKvqlivHfz4GAzCSXiYOivxbJD5NOMQ6u8kzttspVIaHtx/JFGRT0KsHIvAng0BFWhBaZtstR4UyaActrw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPgpUVkJPIfYdLhHlazjK372ZlbeLwZNxiIlq/XgRaCCqCKVjlWop721LJ7jCNDA5jHf86CDpl77i4XXJrwXAjWWRuKbB8YfXf737V5Tmye9xL3D3Q2XT9ZSyjnHcBijAA==",
-        "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg",
-        "origin": "ydOdE/XHE9k/TASrwnOPetc3/LV9oo70FPbxkQAgcG4=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+        "name": "TNT",
+        "uri": "8ukvpIT8+hb9rd8d4USanZvKQO1VF8aoltDR2/NuUobXWoXlNKmmuLDR+I99Z/kH",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
+        "referer": "ydOdE/XHE9k/TASrwnOPetc3/LV9oo70FPbxkQAgcG4="
       }
     ]
   }
