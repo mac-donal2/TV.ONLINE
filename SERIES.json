@@ -1,35 +1,5 @@
 [
   {
-    "name": "🎬Como agua para chocolatee",
-    "samples": [
-      {
-        "name": "1 Torrejas de Natas",
-        "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwB0bvdyt+16eLqqKhuulK2+",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
-      },
-      {
-        "name": "🎬2 Pastel Chabela",
-        "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwDlr1TSRGUebsABl+40NiMd",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
-      },
-      {
-        "name": "🎬3 Codornices en Pétalos de Rosa",
-        "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwB8CFDAonaMUGB2thZkLhtK",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
-      },
-      {
-        "name": "🎬4 Atole",
-        "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwB8CFDAonaMUGB2thZkLhtK",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
-      },
-      {
-        "name": "🎬5 Guajolote en Mole",
-        "uri": "snfyvRwgZnO6HeM6cAvESXCCV08KP7AdEW0LxAWYpbBsexTHHKjP5iq1aSU4kBvqS6AWlm/gvqyN7TywQHI3VV5xQfJ7i7HoQu0szj9CYFLxzTaIEARyuh+njsoouWu+",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg" 
-      }
-    ]
-  },
-  {
     "name": "🎬Senna (2024)",
     "samples": [
       {
@@ -61,6 +31,41 @@
         "name": "🎬Tiempo",
         "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaQ2BFclIfFyhkkbCGEj4fsZvCqIs6YaXW14ctGvFoTgnkCB6F2F3SbbgUiUgMbc0o=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmRfKme3j8mbTf4iTJd0L8wtaQa.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬Palomas negras (2024)",
+    "samples": [
+      {
+        "name": "1. «Por el amor»",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryTgHaWDiRUS60101bSX/t/o+pDBUjt16LqI/1IpU4uOw=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
+      },
+      {
+        "name": "🎬2. «A una Paloma Negra»",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryTgHaWDiRUS60101bSX/t/kKSyyiknuib6VSyqIcCHMw=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
+      },
+      {
+        "name": "🎬3. «La noche que llega»",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryTgHaWDiRUS60101bSX/t/tX+lAott+nspONIGGWHriw=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
+      },
+      {
+        "name": "🎬4. «Empieza lo bueno»",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryTgHaWDiRUS60101bSX/t/n+2ya1797JMVuGO2VcK/sw=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
+      },
+      {
+        "name": "🎬5. «Lo que nos ha costado todo»",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryTgHaWDiRUS60101bSX/t/iDkXD7Dn1DZhPJmBrVGNHk=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
+      },
+      {
+        "name": "🎬6. «En el crudo invierno»",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryTgHaWDiRUS60101bSX/t/kvdt/7HPLJFkVRpN70de2M=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg"
       }
     ]
   },
