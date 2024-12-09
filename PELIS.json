@@ -3,6 +3,16 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
+        "name": "🍿Turno nocturno (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryQu05IM+x81pXKrPxpZpdkEnCez925MYdROza6z39uk1p45ALkHccw+E8WuN7aDnp",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFPSQLIb922GT0pRsesu3sEwN91.jpg"
+      },
+      {
+        "name": "🍿Devara: Part 1 (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVrywGygVUV2wT7mbyXaAlQCDXxfoP37C3BQmefRd7JwM30=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tceqPVsFgoKxsKKJ5JPmp6ewqIa.jpg"
+      },
+      {
         "name": "🍿El señor de los anillos: La guerra de los Rohirrim (2024)",
         "uri": "4bqMdTNtYVLG9WdDtLUnz5Nkp3kyFo2bzLags0+mKd4WFpkKaYz+wf3tg5YkD+30C8kDw1V0grOst4q4NuOkKA==",
         "icono": "https://image.tmdb.org/t/p/w500/mD2m6Lr7GtyBv85EP1s0dQHQo1X.jpg"
