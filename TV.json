@@ -1509,7 +1509,7 @@
     "name": "PACK HBO & UNIVERSAL",
     "samples": [
       {
-	"name": "HBO16",
+	"name": "HBO",
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBUnMTookIQ93YfD6Knf3ZWm3temKh3EkxYE3f/jP02oDwq+EcVpf7AZAjBbhQlcru8=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEkRM4vtmBN54FXoEU+F09GuXl9t/fU9V/bXkV/JAAbaXHAcmK9wa0bfdX4+AuLhYpB6ntg/rQnlBRV7K3/Vh5qzVveSHuxwqjok/WdXS31LkaeOQC5B3HMPhPFrje2g56Q==",
@@ -1518,8 +1518,8 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "HBO 2",
-        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTbKiMIMUbSBheX4W1qSsbD1+Kl42h+Fk7IgP9YRzcMqYwmyyQSGlNXvYQbq2ww00E=",
+        "name": "HBO 22",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI8hq9Res1bDOWczaBq94DF6nT6Hvimv06WkG3Z+aGnrJL+HCx0KpWyIT8AYNnMIt8=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAVilEZgNY/66vTADnuZubQO9iSz4GhNvShz2UyTZRorO2bFtuTQ68PwV9xOqek1d+A/trpeBfASbpqBfgtUyeZV6yii6lyPavrXm7LIag0DqL7DW+Fogpq9S2B6dlU1jw==",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
