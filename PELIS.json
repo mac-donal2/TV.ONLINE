@@ -3,6 +3,16 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
+        "name": "🍿Un regalo para papá y mamá (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryhPDQPaCgBGfj7Q5CTa4j4aMMT/wlsrjMUlwXq/sJndA3sBdaYlFcAqAdEwWG59GO",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwkiu6UQ0lf8FdcHR4N0Sx586Gz.jpg"
+      },
+      { 
+        "name": "🍿It's Christmas Again (2022)",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVryQu05IM+x81pXKrPxpZpdkEnCez925MYdROza6z39uk1p45ALkHccw+E8WuN7aDnp",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gC6lWgutIihxJ8GBOF8jKrYFBcH.jpg"
+      },
+      {
         "name": "🍿Aquella Navidad (2024)",
         "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaZR18oRZ4knMCSbf8FWVrygAPywqCeaP2AZNY57bzUzg3LMi5muDe7Rl0IUBgReApp45ALkHccw+E8WuN7aDnp",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AKxxexOLwFXU8UR41sGBNDS5gY.jpg"
