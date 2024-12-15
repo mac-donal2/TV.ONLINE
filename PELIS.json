@@ -3,6 +3,21 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
+        "name": "🍿Campamento con mamá (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqNmT690aE69DIDQglGynG2ETW4pgnJcKIREILRoUPljqBxi5j+H+03Yb2wfgNaRQw",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwGX3amQNqhM6Jj424yFBx7RlYt.jpg"
+      },
+      { 
+        "name": "🍿Heretic (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqFtIta46fmz+x+5PYAN/uSEm8CjMOu3GmktKZkN2jP55OwYQ+mwjxlOUv4nj6g4yjqjiMDdS9TIZJmqcnKIDHjQ==",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg"
+      },
+      { 
+        "name": "🍿La Navidad campestre de Bob Esponja y Arenita (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqamHTCkjGjOPz69KJeHcyhVWUxECNUAOvK3K5dJtiw2rgsryHfWaPTbjbe8Fx1uZmSY4+GUvDDVXzs6X0gOvbmA==",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/23K72zykyVx4q0dSweslGgTGJmW.jpg"
+      },
+      { 
         "name": "🍿El conde de Montecristo (2024)",
         "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGRsORtEzZQxs64o0daA2sFeKFY0mXc9eW3WW1mYQXkQd3o+Z/MP3/WwFeLaqFwY9j",
         "icono": "https://m.media-amazon.com/images/M/MV5BNTU0OTBmM2EtMGU3NS00MGUzLTlkNTAtMTUxMmVlMDZhZDRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
