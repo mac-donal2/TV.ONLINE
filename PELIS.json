@@ -3,13 +3,38 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
+        "name": "🍿Querido Santa (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqUxJWBmK8ItaRPmhBzUHc5c6JsPRgA1G6k7Gh0QKaTSFhCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/axxggOMYNyKDsNVMnyMTnvrGByX.jpg"
+      },
+      { 
+        "name": "🍿Vacaciones desastrosas (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqAnO0uOCVwYZAn7I45sdAq/Xa8zAEjG5v69AYLE8ucBU6cL6mwTqvLmtza1dXCXX6",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oO6GCEHme4A7HbdxebxYVjMaTG.jpg"
+      },
+      { 
+        "name": "🍿Equipaje de mano (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqvDjp8L8wg1Qmpx4HoygwOMCnXST9v0WkO8sufHc+QecDQIzurqu3cVx38WdtPo6Q",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQzQIrVbwft9nICAt6S6BWkthF5.jpg"
+      },
+      { 
+        "name": "🍿Kingmaker (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqpf58ZhwhWTtEouaG/bHP42QdMOI3pLoTA4CN/S4SJWc=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s02rzrzlZsFt8r8YWKDenzGukVp.jpg"
+      },
+      { 
+        "name": "🍿Ex maridos (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqrYEexyxBDrCdreZ6/SQAbkKkRhV8eP+E+VtbJOMzGiI=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2nGGJzrF5SsspMfehd2Bg4b8Y5.jpg"
+      },
+      { 
         "name": "🍿Campamento con mamá (2024)",
         "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqNmT690aE69DIDQglGynG2ETW4pgnJcKIREILRoUPljqBxi5j+H+03Yb2wfgNaRQw",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwGX3amQNqhM6Jj424yFBx7RlYt.jpg"
       },
       { 
         "name": "🍿Heretic (2024)",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqFtIta46fmz+x+5PYAN/uSEm8CjMOu3GmktKZkN2jP55OwYQ+mwjxlOUv4nj6g4yjqjiMDdS9TIZJmqcnKIDHjQ==",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqLN7RLhfkdavyGpDdDBIqqcULR5vaS0/mCVvQyqW9HeI=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg"
       },
       { 
