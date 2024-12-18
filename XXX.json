@@ -1,31 +1,36 @@
 [
   {
-    "name": "🎬Como agua para chocolate",
+    "name": "🎬Senna (2024)",
     "samples": [
       {
-        "name": "1. Torrejas de Natas",
-        "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwB0bvdyt+16eLqqKhuulK2+",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
+        "name": "Vocación",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaQ2BFclIfFyhkkbCGEj4fsZvCqIs6YaXW14ctGvFoTgocA2eXA+/ZkGRsAl1PDqCE=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmRfKme3j8mbTf4iTJd0L8wtaQa.jpg"
       },
       {
-        "name": "🎬2. Pastel Chabela",
-        "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwDlr1TSRGUebsABl+40NiMd",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
+        "name": "🎬Pertenencia",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaQ2BFclIfFyhkkbCGEj4fsZvCqIs6YaXW14ctGvFoTgiRG+j+vc7J25vy4F30forc=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmRfKme3j8mbTf4iTJd0L8wtaQa.jpg"
       },
       {
-        "name": "🎬3. Codornices en Pétalos de Rosa",
-        "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwB8CFDAonaMUGB2thZkLhtK",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
+        "name": "🎬Ambición",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaQ2BFclIfFyhkkbCGEj4fsZvCqIs6YaXW14ctGvFoTglN3jcRMXcBg0NS7UAJ5uUw=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmRfKme3j8mbTf4iTJd0L8wtaQa.jpg"
       },
       {
-        "name": "🎬4. Atole",
-        "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwB8CFDAonaMUGB2thZkLhtK",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
+        "name": "🎬Pasión",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaQ2BFclIfFyhkkbCGEj4fsZvCqIs6YaXW14ctGvFoTgt+Sp5Tkw/Q/GpYcKyI9gM8=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmRfKme3j8mbTf4iTJd0L8wtaQa.jpg"
       },
       {
-        "name": "🎬5. Guajolote en Mole",
-        "uri": "snfyvRwgZnO6HeM6cAvESXCCV08KP7AdEW0LxAWYpbBsexTHHKjP5iq1aSU4kBvqS6AWlm/gvqyN7TywQHI3VV5xQfJ7i7HoQu0szj9CYFLxzTaIEARyuh+njsoouWu+",
-        "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
+        "name": "🎬Héroe",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaQ2BFclIfFyhkkbCGEj4fsZvCqIs6YaXW14ctGvFoTglQSnYiVUrYe1MVI4/x6zUU=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmRfKme3j8mbTf4iTJd0L8wtaQa.jpg"
+      },
+      {
+        "name": "🎬Tiempo",
+        "uri": "cVI+FPBxX2ASracUSyM4wzZYWhY1KZi4YpAFfj++hVaQ2BFclIfFyhkkbCGEj4fsZvCqIs6YaXW14ctGvFoTgnkCB6F2F3SbbgUiUgMbc0o=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmRfKme3j8mbTf4iTJd0L8wtaQa.jpg"
       }
     ]
   },
