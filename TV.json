@@ -3,6 +3,11 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOSU",
     "samples": [
       {
+        "name": "Real Madrid vs Pachuca",
+        "uri": "5S5noNu+us3Sry47zWwa80dCvPqcXAspR5Nncr8MPmQpiRZoXjFGG9N70gKVcOz/rMoI2XH0MCW9Bn2Ujz7f/ajHAEa1IiKR3+IZTS4T6u6DQEVaEFpm2y1HhTJoBy2v",
+        "icono": "https://depor.com/resizer/v2/V6T5YS7W7RBD7LBOLJYHOLMAIY.jpg?auth=db1ea5b6c254463232fefbda866e0cb118be6402d528e304fd1907b96524ac6e&width=1200&height=677&quality=90&smart=true"
+      },
+      {
         "name": "LIGA URUGUAY",
         "uri": "JeZ8Dh1bDy04uctIYGvb9yfIabj1KkIZl/34VooJuPKy4IZG3amG5+5Syv65XOLePxnqbh0njUMckHEdOvLoshNgcXESvXQuKKM+XIQxc1k=",
         "icono": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png"
