@@ -347,13 +347,6 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "TV PUBLICA opc 2",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRH3VFI+a9WVdBwFdZbP4KtvY1OrOVGdluc0EqYDp/XTQVcqmxKkv8b2etfYae+WGg=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHt2t7Bpr5j4mps5QOTxPVomWntNqEDz2RqAFv0LqH16SnJik3UycG9oc4amUt1V87Eq4kHWmHUIkjO7QWT5TnCJbKqkb2XTP7zlJBRbqXBqX47ztnXvx6ELDX35TMVVDw==",
-        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg"
-      },
-      {
         "name": "C5N",
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBW9Epz41WToxJu5UCts0Xu7XWA63VW1f0NT/V3SgxAkfDSTKcKUNuTz1Y1ki/tyhB8=",
         "drm_scheme": "clearkey",
@@ -3478,11 +3471,13 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "HBO PLUS OPC 2",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oTbjg87D7huvUuo6CKSoKGBhT41bSxwtkHCStY5ArphJowmyyQSGlNXvYQbq2ww00E=",
+        "name": "TV PUBLICA opc 2",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87Ag8Hy3y3OiG6pOwDQchqEIsqFhhtLiVS9akiGnbWsZ72jF7JfLBb5L7YBw/E9QyNA=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEI88usflSNwJ+JgVBo9nunF+Ib/0wHbDcJJmqaaOVwf3rm8qpuzqeLuoQok/HaIJYdA9bZFgsxoXM/hYbP75W+7RR/SxbOKYpujqXY2HMpsLaveYJ51+jX/MYewqSDaAQ==",
-        "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png" 
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMGRyQIssn6jfwIKIkjkKy7eWKoluYdE1n1zXG2VhiKy/l//MEBDfl36WH371gThFlz2aY2gd/NcDUPXWzLSZS7bknGlBuT883S0qHc+CY7jnkorAolbpBfEGtTAQ6YRuA==",
+        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
+        "referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       }
     ]
   }
