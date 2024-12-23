@@ -3399,8 +3399,17 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFaGp2uEjWh4wWn3iLcPqTnd8tB8MAdmr5rUwNXxWTr4gfERAbHOqWC3lPMx5U2GzeqEIQ82CvFuSuN0JEVSiH0M+d9TYSaFD3kh40hWthEnexagzwXD+ulQAMgkJzSkNA==",
         "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
-        "referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
+        "origin": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "TELEFE",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oTbjg87D7huvUuo6CKSoKGBhT41bSxwtkHCStY5ArphJowmyyQSGlNXvYQbq2ww00E=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEI88usflSNwJ+JgVBo9nunF+Ib/0wHbDcJJmqaaOVwf3rm8qpuzqeLuoQok/HaIJYdA9bZFgsxoXM/hYbP75W+7RR/SxbOKYpujqXY2HMpsLaveYJ51+jX/MYewqSDaAQ==",
+        "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png"
+      },
+      {
       }
     ]
   }
