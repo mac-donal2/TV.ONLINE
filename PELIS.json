@@ -3,6 +3,11 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
+        "name": "🍿Kraven the Hunter HD (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w4CqfpGF99N+m+zgAS/OtQOYcIIWd7hcD2O+gVubZSelJ8vJiZRHrAx1h+W4+rirBjeiFM1sCqUBf64C2rXQnTQ=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_.jpg"
+      },
+      { 
         "name": "🍿Sonic 3 La Pelicula (2024)",
         "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqS9IQDJm4CotvcO8YBAF01NijioqOCTZxHW9Yf0pVImA=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/98Ug9LLA2IVIRyCpMYO71rKqyNh.jpg"
@@ -141,11 +146,6 @@
         "name": "🍿El conde de Montecristo (2024)",
         "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGlKyPV8rNh4dZy0SnP20ZANdIwAlfh4afHVDDVwbi/+gfPrBN2qpnv2W0A/Nr4Ll5",
         "icono": "https://m.media-amazon.com/images/M/MV5BNTU0OTBmM2EtMGU3NS00MGUzLTlkNTAtMTUxMmVlMDZhZDRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-      },
-      { 
-        "name": "🍿Kraven the Hunter (2024)",
-        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGrkOGG8G2qyBy34cvI4XRc8okT7yOHqtrwEESeKt6ZkpFX5l7O/HLMBd7BUVY4Nk6",
-        "icono": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_.jpg"
       },
       { 
         "name": "🍿La peor obra de navidad (2024)",
