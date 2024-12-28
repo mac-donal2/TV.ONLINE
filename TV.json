@@ -2553,11 +2553,6 @@
     "name": "NOVELAS",
     "samples": [
       {
-        "name": "Univision",
-        "uri": "kBw3N0ynAEBjbHNItdQhjH3B79moEoNnsO4m6FJCRBwGCQD5iB2O6PQU3mUuKPhHbk68eXd7CDOzkuzVYMzn35N2K7+KezDI8iSSIPc1wOpp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png"
-      },
-      {
         "name": "TL NOVELAS",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9rCSxo79HYJBfgzqvOrlSeDpKOhJZYTPigJkNPjk59nxPmCiR26PEjMCxlIPt4bfC",
         "drm_scheme": "clearkey",
@@ -2565,11 +2560,6 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "TLN opc2",
-        "uri": "mkYdbUcrYeGsa8N3BZLz0q7abiHVa2owb3uyS4hDDsNVXJRpwyeu3w+Doolr4sAW",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png"
       },
       {
         "name": "PASIONES",
@@ -2586,24 +2576,9 @@
         "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
       },
       {
-        "name": "NOVELISIMA",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGPIo+Bk/tm+P3KtPZiV3VPffndVDxNxzlf7QYS3t/Zr4g==",
-        "icono": "https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB"
-      },
-      {
         "name": "NOVELAS INOLVIDABLES",
         "uri": "ebn980AlhpZGrTE9U9jVESdn2kmMQN8orrb2JFCKHIfRVl+zfFF2U+hZ9UHPg/nRg0BFWhBaZtstR4UyaActrw==",
         "icono": "https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-inolvidables-16x9_0.jpg"
-      },
-      {
-        "name": "RCN NOVELAS",
-        "uri": "8LgC0Cxityuxf0RDNTZqOqgZYQzNUCBCP/taXeDS3SH+qfcpM24pq9eOuZEPzullaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://cdns-images.dzcdn.net/images/artist/a0b00452185e46f1fb541cf9287b9599/1900x1900-000000-80-0-0.jpg"
-      },
-      {
-        "name": "SONY NOVELAS",
-        "uri": "+cXdS7WqUIRnGi+Z9PBF8MQAIhRSF98BhZwQnAWFeCA9ysntQYuE5OjL8wBbF951IhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTGW5z_RzPO0yqZXPjOTEEJKe8ccAtkqYcDFA&s"
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
@@ -2615,18 +2590,8 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "CANELA NOVELAS",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGPIo+Bk/tm+P3KtPZiV3VPfFjqopvHbXFjmx5JN2GFVgw==",
-        "icono": "https://img.static-ottera.com/prod/cnm/video/thumbnails/widescreen/channel-canela_telenovelas-16x9.jpg"
-      },
-      {
         "name": "TELEMUNDO",
         "uri": "naesvCySKo8f+hdww3SWgDXZ+OBCBaBecy457O72dhRMs+7tLSt32CTmC50RDzKGDI0L1XqUf12VjlEWLxKoOvzKa6/o9A5UFXWVq983FPOmlbkl6rVHyjvHrtS07GNh",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
-      },
-      {
-        "name": "TELEMUNDO NOVELAS CLÁSICAS",
-        "uri": "psaYwdVcQdINxjjYiBwoBnnBUXnfGIjHniQGwBC0Z02eDwuFSpt272jKlGOejkAdO1HkS8D6jBxH0dNpthgFuyDnYD9AyNeh0zjGKt9id/RpP2F0eV3pxle7VcWt3IDD+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"
       },
       {
