@@ -1,6 +1,6 @@
 [
   {
-    "name": "🎬Operaciones Especiales: Lioness (2023)",
+    "name": "🎬Operaciones Especiales: Liones (2023)",
     "samples": [
       {
         "name": "Soldados sacrificados",
@@ -33,13 +33,53 @@
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
       },
       {
-        "name": "Deseo que la pelea desaparezca",
+        "name": "Star Wars Historias del Imperio T1 El Camino del miedo",
         "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG1nT0gc6i/rQJc3qYANN/K2qOIwN1L1MhkmapycogMeN",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
       },
       {
-        "name": "Atrás quedó la ilusión del orden",
+        "name": "Deseo que la pelea desaparezca",
         "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG7C3uOCaCqoKP7lk0nh3S0aqOIwN1L1MhkmapycogMeN",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      },
+      {
+        "name": "T2 Cuidado con el viejo soldado",
+        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      },
+      {
+        "name": "T2 Amo a mi país",
+        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      },
+      {
+        "name": "T2 La hora de la araña",
+        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      },
+      {
+        "name": "T2 500 niños",
+        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      },
+      {
+        "name": "T2 Destruir la luna",
+        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      },
+      {
+        "name": "T2 2831",
+        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      },
+      {
+        "name": "T2 El diablo tiene ases",
+        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      },
+      {
+        "name": "T2 The Compass Points Home",
+        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
       }
     ]
@@ -4006,46 +4046,6 @@
         "name": "La jugada final",
         "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7E+vy0gAWRuiEUNHmyDxs4A4=",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "T2 Cuidado con el viejo soldado",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 Amo a mi país",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 La hora de la araña",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 500 niños",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 Destruir la luna",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 2831",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 El diablo tiene ases",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 The Compass Points Home",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
       }
     ]
   }
