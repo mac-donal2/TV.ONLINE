@@ -3,84 +3,54 @@
     "name": "🎬Operaciones Especiales: Liones (2023)",
     "samples": [
       {
-        "name": "Soldados sacrificados",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG318x0djKb26k6yce8t8E2GqOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "La paliza",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG8qR7j6BZT2Crzla1KbkJxOqOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "Moratones como puños",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPGxnW14iblidwrw8xgUXobluqOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "La elección del fracaso",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG1GEnU0KLu1Mh3HAnOBRwgeqOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "La verdad es la mentira más astuta",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG+BLSkjsxO5DEB3pSQKfUO6qOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "La mentira es la verdad",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG3glMfNTW4dRbs6AwrWXLGKqOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "Star Wars Historias del Imperio T1 El Camino del miedo",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG1nT0gc6i/rQJc3qYANN/K2qOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "Deseo que la pelea desaparezca",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG7C3uOCaCqoKP7lk0nh3S0aqOIwN1L1MhkmapycogMeN",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 Cuidado con el viejo soldado",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 Amo a mi país",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 La hora de la araña",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 500 niños",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 Destruir la luna",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 2831",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 El diablo tiene ases",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
-      },
-      {
-        "name": "T2 The Compass Points Home",
-        "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+      "name": "Soldados sacrificados",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG318x0djKb26k6yce8t8E2GqOIwN1L1MhkmapycogMeN",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "La paliza",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG8qR7j6BZT2Crzla1KbkJxOqOIwN1L1MhkmapycogMeN",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "Moratones como puños",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPGxnW14iblidwrw8xgUXobluqOIwN1L1MhkmapycogMeN",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "La elección del fracaso",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG1GEnU0KLu1Mh3HAnOBRwgeqOIwN1L1MhkmapycogMeN",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "La verdad es la mentira más astuta",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG+BLSkjsxO5DEB3pSQKfUO6qOIwN1L1MhkmapycogMeN",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "La mentira es la verdad",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG3glMfNTW4dRbs6AwrWXLGKqOIwN1L1MhkmapycogMeN",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "Cuidado con el viejo soldado",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG4w8dZ33cXNytDtAagkOytnC6vOkambP1lT9nEO55YeC",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "Amo a mi país",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG+N7DfKzjOB8xtVekbHcGyawAFLPrzzqjDZVDBUlg6TnW",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "La hora de la araña",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG+NLfY4JpD/5VBmFzOOR5RcclFMeijMKz78c8UyHF1mk",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
+    },
+    {
+      "name": "Destruir la luna",
+      "uri": "cVI+FPBxX2ASracUSyM4w02wePy3vXROuszBbZyuEMQEb8wom8Mv+qCkGmdGRQ/y9QPE+2WSnzB7RBlBRpVPG+LMPDcnOkYwvIVqt3ozplGHFvAEoeWtv3Z9H0axz5E",
+      "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg"
       }
     ]
   },
