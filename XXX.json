@@ -628,5 +628,50 @@
         "icono": "https://m.media-amazon.com/images/M/MV5BNGNkYTc0ZmYtNjc2ZS00YzU5LWI3ZmMtYjBlY2VjMDM3MGU2XkEyXkFqcGc@._V1_.jpg"
       }
     ]
+  },
+  {
+    "name": "🎬Cris Miro",
+    "samples": [
+      {
+        "name": "Cris Miro - La Traicion",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+f35bKmwDhNSGR6/5sBi5Ss=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
+      },
+      {
+        "name": "E2 - Vedette",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+Q4fvjlvI2zlhjS9HCfiWbM=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
+      },
+      {
+        "name": "E3 - Quien es Cris Miro?",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+fHOwpi+V1YBfJkhFqZPcnk=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
+      },
+      {
+        "name": " E4 - Mechuda",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+QZNXAbpt77xSvocK+gc9xQ=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
+      },
+      {
+        "name": "E5 - La Feliz",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+d4DOlM+rumY+yMcj47Rylc=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
+      },
+      {
+        "name": "E6 - Que le Pasa a Cris Miro?",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+VREaK/0CveLVMpiIZRqBjY=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
+      },
+      {
+        "name": "E7 - Noche de Chicas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+YzOUCxywjeePYMcHPVvbkA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
+      },
+      {
+        "name": "E8 - Numero Final",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGILSN731IRSjElTiF5llf+UDK0u5PK1Rs3tTui5+SWwc=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Mt_7Qv1IGKAeO3ogestpEsHybhRssLuX6ueMxW0hSVrW-N7D"
+      }
+    ]
   }
 ]
