@@ -1,5 +1,90 @@
 [
   {
+    "name": "🎬El juego del calamar",
+    "samples": [
+      {
+        "name": "Luz roja, luz verde",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUaBR5YrNx0V5/sO5n8eh0pk=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Infierno",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUXBOuoHNg4dCUahVIb1Swdc=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "El hombre del paraguas",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUXNjfMgPs+PpbFTXW1TPNZo=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "El equipo es lo primero",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUakJphedtRfzL6+RFLpsiUY=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Un mundo justo",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUUQXsZZHPp7mlRB92xcH7Mo=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Gganbu",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUewUkpSyGLT3GG99lAjdN9o=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Personas importantes",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUQjCeCTPMhwrxQCXIElxAAo=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "El líder",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUSP1p2s9Xf4Oplho2FyXXQc=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Un día con suerte",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUXPEQCwwistBEB6hL9lILfA=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "TEM 2 Pan y lotería",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUfG1nVZ+PP3ewdnC2HcWckk=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Fiesta de Halloween",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUT70pi5TncVcK+/d8yjWxC4=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "001",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUcciCVg6FCavcznwQQSAHQs=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Seis piernas",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUbKF76zRHXzN/E8mqWCigYg=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Otro juego",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUUkWe9a7yf6EZ/74iGgT41I=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "O X",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUbCmsKPck7y1pGZ6ACFSWS0=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      },
+      {
+        "name": "Amigos o enemigos",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUeYyJipdCazFsW2q4Xxodlk=",
+        "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
+      }
+    ]
+  },
+  {
     "name": "🎬 Operaciones Especiales: Lioness123 (2023)",
     "samples": [
       {
@@ -69,7 +154,7 @@
       }
     ]
   },
-  { 
+  {
     "name": "🎬Senna (2024)22",
     "samples": [
       {
@@ -166,7 +251,7 @@
         "name": "EPISODIO 12",
         "uri": "chfl9gwU2yafz9xVH+taG9QqwRYpt2ubxCld4cd3XcHO53Bi08pqs62oYCHMqNa5KOp6mkkUDsudzq7Gv5oIoQNAjO6uq7dxXHfxZ20+jpA=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCw0o8KIBcdP-Z11ZXzWi8mPGSTcvzpue4-5SOSSShF1pPSsEh"
-      }
+     }
     ]
   },
   {
@@ -250,7 +335,7 @@
     ]
   },
   {
-     "name": "🎬Como agua para chocolate",
+    "name": "🎬Como agua para chocolate",
     "samples": [
       {
         "name": "Vocación",
@@ -281,7 +366,7 @@
         "name": "🎬Tiempo",
         "uri": "cVI+FPBxX2ASracUSyM4ww9GwHiRZIQN0LuP6plTCg3qlrE7lFLJPJ5Pu1yyxDCpzpx/zh1KFNTqOZ6XNLCLlCTRCI06qvfxpautCI+xFwDqL5g6XfCFLHxkyZmTGd18",
         "icono": "https://nojuzguesporlaportada.wordpress.com/wp-content/uploads/2018/02/como-agua-para-chocolate.jpg"
-      }
+    }
     ]
   },
   {
@@ -356,7 +441,7 @@
         "name": "T2 E6 - El juicio",
         "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PeKmBn3y13187NOtmEQvmwP83OTYdefWldiwgj157KpmY=",
         "icono": "https://images.justwatch.com/poster/271863174/s592/temporada-1"
-    }
+      }
     ]
   },
   {
@@ -626,7 +711,7 @@
         "name": "EP.12 ",
         "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PeNbVEpIc7tpYzIqwbhhBSFOmbBoCE3VgxOzaai0cz/DE=",
         "icono": "https://m.media-amazon.com/images/M/MV5BNGNkYTc0ZmYtNjc2ZS00YzU5LWI3ZmMtYjBlY2VjMDM3MGU2XkEyXkFqcGc@._V1_.jpg"
-      }
+    }
     ]
   },
   {
@@ -1825,41 +1910,6 @@
     ]
   },
   {
-    "name": "🎬Colin en Blanco y Negro (2021)",
-    "samples": [
-      {
-        "name": "Colin Trenzas africanas",
-        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG36ZsirE2mCh0YPsA1dZ12hGiYBkh0PcLO7QLToyMy4A=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oFDp6npK1Obi3rMhmDXVOXri6D.jpg"
-      },
-      {
-        "name": "Jugador de ataque",
-        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG36ZsirE2mCh0YPsA1dZ12i5I2hnnqtbVieJvdslnG6g=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oFDp6npK1Obi3rMhmDXVOXri6D.jpg"
-      },
-      {
-        "name": "Viaje por carretera",
-        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG36ZsirE2mCh0YPsA1dZ12pIGBZS91aOkwg11U8E8DbQ=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oFDp6npK1Obi3rMhmDXVOXri6D.jpg"
-      },
-      {
-        "name": "La decision",
-        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG36ZsirE2mCh0YPsA1dZ12pbrUyZ7p7LYWphyV/BtuZo=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oFDp6npK1Obi3rMhmDXVOXri6D.jpg"
-      },
-      {
-        "name": "Cristal",
-        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG36ZsirE2mCh0YPsA1dZ12jt1UJsG4QgFqwzzlq+kdwk=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oFDp6npK1Obi3rMhmDXVOXri6D.jpg"
-      },
-      {
-        "name": "Querido Colin",
-        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG36ZsirE2mCh0YPsA1dZ12jt1fVCiGwfunHbxyjtnfMo=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oFDp6npK1Obi3rMhmDXVOXri6D.jpg"
-      }
-    ]
-  },
-  {
     "name": "🎬Daryl Dixon",
     "samples": [
       {
@@ -2171,7 +2221,7 @@
         "name": "parte 8 ",
         "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmnH89b4U/Z2hSFAYONSZO5tcMqp1RLTPZXL0sU7ZwO83+6f6qF7gaIQzoX/wmZrOkpjDIRi3xnJ0Rau6nRo5CNTcECo2pqWIXaaYkh+bJCig==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFxY89qfnMK-OqkoYJyJfKmt5qw94Idco3RsW7UGyRCKlTBfA"
-      }
+    }
     ]
   },
   {
@@ -2206,7 +2256,7 @@
         "name": "EP.6 ",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJ+uTlN1kXItDF2JUE81qWQamcmF3n2mPcEqzqpAcTytIkvQ5IwzSuCZM6N6rbxsFElIu0cI0doQql2GJoPT7YBQXtOFuwOqjGn82dzpIOcNQccjJAjon2wtsdobTtjfmDnAutP2v9wtb3Mgj7dKjAI9lZ59u5F1EgNyjjh/5vXr+Fczh5nrr0VW43YK9LZOkVh9RheRkKCrUQMBuRM5SPPr38ZR4Zt5D8QWHxv0Ui72uLp5FxcCY9dqFAODo1qyKFxvmAi+hIcDmeFaRQurV/TlnzKj3JEcPjezGByMraFuSeRXW1JfDVwQ3AuxAxdbJjzT+qs0bmelZpRQgSPCHEcygxFP3oyz5mRvMND2tBe2A/Td1WYV8WpFRnhcg+E0sy/660EvZL7P5vY3gNPWRFD5SiJvaUUefjJqAvPitDJQPa4AsH3CtJ7MTzcK1gRsKnITsZo+fft4IYHlPZd/4lxlGgZMkkR9Qh+QlhORj8+x4SMOXj9ErChp7SxgZRzo1onWICdghutF34j1S1VGipIDhbrPa9XtyAPkTUFHgZ+IY=",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLV13qTmV7j6MDWzZECukx5W0Tx1V5fK9t0WQAI9h5kGb8YFYp"
-     }
+      }
     ]
   },
   {
@@ -2356,7 +2406,7 @@
         "name": "T1 Episodio 6",
         "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PeE4NqqHNgVIsdjiDL1hxyW4HGLmP4f7TdhvbB+A1pFDA=",
         "icono": "https://i.ibb.co/6rXvqy5/6.jpg"
-      }
+     }
     ]
   },
   {
@@ -2886,7 +2936,7 @@
         "name": "EP.10 ",
         "uri": "Bxiz1sRKa8YTnDJ4REA2XC81nXFv4eqULVIlk1Mi7BREfIMOzUIxFkG4UZ21bN9y",
         "icono": "https://www.formulatv.com/images/series/posters/1800/1812/dest_1.jpg"
-      }
+    }
     ]
   },
   {
@@ -3151,7 +3201,7 @@
         "name": "EP.10 ",
         "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFEuI3wCdFHz/taezq9mtvEABz500KsbXnqu6IYTRP25azdgRnE8Am8PoJtPbrYXDTJitO9/l8oOImQ0c/aeYYBXKbnpxn7+TIgmJFNpAwmnPId5UE6nkRJRbzF5L6xElGH3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
-      }
+    }
     ]
   },
   {
@@ -3450,8 +3500,8 @@
       {
         "name": "parte 6",
         "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe8Nut2bzsvj24ITso+I7ACKo4jA3UvUyGSZqnJyiAx40=",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5xYcUtn0hm4-HscJ0UJ5xUZOatLAQwFNry_F-T0Mn0tD6YdE"
-      }
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5xYcUtn0hm4-HscJ0UJ5xUZOatLAQwFNry_F-T0Mn0tD6YdE" 
+    }
     ]
   },
   {
@@ -3961,101 +4011,6 @@
         "name": "El buen doctor 03x10 - Amigos y familia",
         "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK2dl0AmiwPROfYRE/ux4EtA=",
         "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
-      }
-    ]
-  },
-  {
-    "name": "🎬CSI: Las Vegas (2000)",
-    "samples": [
-      {
-        "name": "CSI: El efecto CSI",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7E4HGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Cenizo",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZYP2kyARAXEtGxnwQAP6gToHGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Mala sangre",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZTrM5UnUKksJKrBBjtz0C5YHGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "El libro de las sombras",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZ1amgN8wdJPghaCOl2KPscYHGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Las chicas se desmadran",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZlZWKsAN0jykiOm+wuZ5O24HGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "La paradoja del gemelo",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZZQ6vGj14w6bZDAAXGV3tUYHGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "El camino a la recuperacion",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZ44i9T4k5skv1YvNEDCqih4HGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Homicidio plastico",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZ50dkMiFwNTrG5FDppUFR04HGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Hagamos un trato",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZJAly8S0aBgAvxR6JNjoVU4HGLmP4f7TdhvbB+A1pFDA=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Rieles muertos",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7EyOB55JAxogZqQCxt/7/Yqs=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Angulo de ataque",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7Ey713Wg3JdNusbUFlPr/0TU=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Bosques muertos",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7E0+l9SZo9NmF19Qr4wAj0LU=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "El bien comun",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7E0So2jgXJicn7SJjyw34nCE=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Mercaderes de la amenaza",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7E5IcBGIitieB129d9E7Ev58=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Heroe a cero",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7E5Lh+npQu4mzRTjeN2mz7mU=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "El ultimo viaje",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7EyaJCGocXK/A43G7hs5Tp6w=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "Bajo mi piel",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7E81rsNJaIHNzVjZie9lA+fM=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
-      },
-      {
-        "name": "La jugada final",
-        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu8ORMY0mvJhjSuHNp/Xu7tZfBXmfRgfr3jQQSsC7Y/7E+vy0gAWRuiEUNHmyDxs4A4=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5hmoRjHNWady4AtAGICTUXknKH.jpg"
       }
     ]
   }
