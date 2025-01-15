@@ -524,6 +524,11 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "CANAL U CORDOBA",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gQKQBR1HBjhc0nqrCty/f1Bm2FSVaCR4wsuPIumsFqKRg==",
+        "icono": "https://yt3.googleusercontent.com/ytc/AOPolaS6nOtptS4HASXy1O9uP2_mXS6r0gfzchQMzWeO=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
         "name": "SOMOS",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQGWUIwKcCF766tOCYbJyA6JYcMEM1i03IU+Vk6RK5Dswob9DFZFs0ly/be3HhgUvZp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
@@ -726,15 +731,6 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "SOMOS SALTA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKheoWOtp1+BE0kb+E1Jy6YSeesCGZUUTtcXENr9RcYBnCmgh58Csa+v7MiGDBVAFrxFTgNDJH2SouZYhzqHdbR",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJatlatHcjvn2MXNE7lizn0sbNQ4mwNl5BcDvO8Su042pmB9xjunIKYsJBmdf4WRBwhd68d99QoFEPDA+k34S1t1WnKSFtAeTXleA02760qp4E8dqZ8tQxZw/CDx4aGvTg==",
-        "icono": "https://i.ibb.co/qnXjFGd/somos-salta.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
         "name": "EL 8 TUCUMAN",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJf51mGg6J8Oi23gT0C8FCiBiP98WJ4jSnXrh4+9bihQKzMrVNitRzdN7cLaOE1ihfl/ojdtKlmQXv4CcptENGiaeOQC5B3HMPhPFrje2g56Q==",
         "drm_scheme": "clearkey",
@@ -825,11 +821,6 @@
         "name": "MULTIPLATAFORMA FENIX LA RIOJA",
         "uri": "8Eg+14Jus5vq0+EYuXiHLdLHA7jbpx8dUmQg/Nx1TCyTMsghjP8tB2XS1NT3tnmiFktQsy5M/Z3m8+3m9ioRWHYFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://fenix951.com.ar/Nuevo_2013/imagenes/165152_1590517102.jpg"
-      },
-      {
-        "name": "CANAL U CORDOBA",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gQKQBR1HBjhc0nqrCty/f1Bm2FSVaCR4wsuPIumsFqKRg==",
-        "icono": "https://yt3.googleusercontent.com/ytc/AOPolaS6nOtptS4HASXy1O9uP2_mXS6r0gfzchQMzWeO=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "name": "Canal 9 la Rioja",
