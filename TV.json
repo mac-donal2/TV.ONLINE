@@ -37,7 +37,7 @@
         "name": "MLSd",
         "uri": "Vk/mQv7GpoJUVg7Q3nlc4Hb9l3DdtXGkjHpyUfOV3cds8tqgvS0XsCRlWJc9Yta84nbWr6iv+K/g9fTOZstIfDSPapJEfPsF0N+A/P7s0I0=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
-    }
+      }
     ]
   },
   {
@@ -524,12 +524,119 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
-        
-        "name": "SOMOSs",
+        "name": "SOMOS",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQGWUIwKcCF766tOCYbJyA6JYcMEM1i03IU+Vk6RK5Dswob9DFZFs0ly/be3HhgUvZp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLU98DFKCZ/XwmQAu7I9RhzG1oA8soQToSWdu09PPPioKWxylzadWPtRaPWri+p+XI3PE1Y0anQS2qj3VnvA1L15eH9aBV9cMPItNow+VF003cKTOEmaPmyYn1VAu+ff4g==",
-        "icono": "https://i.ibb.co/9y1bXhZ/somos.png",
+        "icono": "https://i.ibb.co/MRxBkvZ/somos.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS MAR DEL PLATA NECOCHEA",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz06gWhGugIi1edGS9ZiP6EVKvwqPCreVEESpB3sZTQR2guf8UoukKzpYA1AEbWHNv9TL4JM3W4lCK2aZEeGOhCy",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPPsxZTvUBmvEV+1PR7j2wbb39IjCQl8rJ1cD1L3UjWCYHmIgMspKWmJGWfQkfpWntNX9W/1UdqugUC/e0pJIsoz2+pHvCCKR4UcOuRiPfS9Z50V7TawDgzrF88FOtumBQ==",
+        "icono": "https://i.ibb.co/NN7J4RQ/somos-mar-del-plata.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS LA PLATA",
+        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQxLKLogiitn36/ksdUCUUU1fauYhidu3U75SoylbpqC8jbjVN3/hwNIREjKt7TcrzTQcv0jbP3YUI9Gd+11CmZ",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLJgHFwDK7dRBjbaP/YPLuWtaJjg0PHAtLAtlgYef0RpinThNjeodd4DYvB9fNt9wGgEFMj1a9M5GYTmYDk8PNuZ2VNgQ/qdnxslMBKR8yWevf6tfl9AnPR+GbaDOtqYsg==",
+        "icono": "https://i.ibb.co/NN7J4RQ/somos-mar-del-plata.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS SANTA FÉ",
+        "uri": "hgyLEf1obfi7e+6+kI5AQeAkOUqYRSVsN5W1jJgZ/dD5WWqAnpftdJ+2Q6eKYlVWNZ1d9oN97+4AWBHmn4mfJS4Au+4QYMhktMWwkh4pGw8=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBp58n6EtQ9U0+f1BEqahBwQiNKwh9PIesToTxUOg9Rv3pnbURJn76yeV3NTUDR6k+OtDWoqpjhruRgvpYi24IPG/YhjpQIk1ceaDhH21RC+UQL9gUKhhM+xo7Ts3CbSOQ==",
+        "icono": "https://i.ibb.co/6DZZSNV/somos-santa-fe.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS ROSARIO",
+        "uri": "hgyLEf1obfi7e+6+kI5AQeAkOUqYRSVsN5W1jJgZ/dCCS/XXQqT+c6cRYE0lijJ4foMk8JyFDFMnZnHHqK43dGsboH2dmF6VY260f0ELrp+MJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGGuSki1bJF0j9LxEDE0+ftb2zRJtxTrkBIWSdMC2valo9j/3uymymppXvrNukpCJmZvratNMNbDoQkz4Zl/YewWhArpoeqZzNineIWA4Yk+2fnmZZOUwGti27pFE1Wg3w==",
+        "icono": "https://i.ibb.co/48QnX0K/somos-rosario.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS EL VALLE",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3TYpsyPxholbM4d/fO7BKawErwS9U+eo+JcNdp5jbVLE3MeHMNtMZKebkbHSDZNRD0ZRTvP33Vj6N9mHaW4+JE",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDAMuH9R6DBW6AnBBP2zmR230v6Q4cK4Oi4RoyxTX2oKxfKnxHdqzUryt5uGae1h73sqP7eZ7XpsjVbAcWPPnBj0E3txYJsoEvgOh6FjT49PPn8SyN0ZUGYJTzzwTVsdAg==",
+        "icono": "https://i.ibb.co/4TdQwxt/somos-el-valle.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS RAFAELA",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz1z8u3wBOWihzq+Nt6A4xDXE+ZllW5qBDSW4GWzQnRJpTIasu6YrwXPwoo8V4Kgj/aMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCWW6l14VSSBvxpjEl2zIrKi3R18DP3B9TMYfEvWONt85bxcpgkhni0Y1HoBEfDXoERpTmsyP2f36Act14oLjv6bm7NTWlSXUXg3wdpT2LIDL2GR130IHK2wloShtLYoTg==",
+        "icono": "https://i.ibb.co/TH7xhNg/somos-rafaela.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS SALTA-JUJUY",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz2UqnUfHquo0bmQsYrxgG/yJYcMEM1i03IU+Vk6RK5DsyMUYiTeuSvSYJEFc3KOzJxp45ALkHccw+E8WuN7aDnp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJatlatHcjvn2MXNE7lizn0sbNQ4mwNl5BcDvO8Su042pmB9xjunIKYsJBmdf4WRBwhd68d99QoFEPDA+k34S1t1WnKSFtAeTXleA02760qp4E8dqZ8tQxZw/CDx4aGvTg==",
+        "icono": "https://i.ibb.co/gJwmwvM/somos-salta.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS CORRIENTES",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3Nr4HkEzUMiHnEmhNDNPtpqtR08v0bhebZ0t5US0BpCyMZ6daKWDm8cssn1gLeI5NUTmK9ioUONCR+A0M/iilK",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO1UKa0pfChNGUu/2ygDnrojmpBQl+vltoiPjVFymWPx+ZZwqPlaub/WMTYsdCWQR6Y4YHOvJ1rI0hnHDdx60JiYbSdaVpNWTyvLkCiwlbVLbFBMBCgSp65NW+RedtY+KQ==",
+        "icono": "https://i.ibb.co/Jx8dCGg/somos-corrientes.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS BAHÍA BLANCA",
+        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLSEKh2dUVCbEvF0CBtglJMAJqZ6bgVAZJ5EjkmxJkuxI4riODvz8qKuM5y++Kk8Fjqonf7jlZq4ph7SWjWwp69i",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIKMBbALwrAnyX8XGR97hzyc/wB9HjjxJPyCe9h1Q78JIlvniOn7iTLKjs6EqsGEBPBnsk7rM/Zwtz1EMlJ8DHnuvxgaFVDqXNIwvpDTC0QfWezpROi53tZB6BhYyWo68g==",
+        "icono": "https://i.ibb.co/ww6hpxD/somos-bahia-blanca.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS CHACO",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3CLnoSeOuZ3pqtTiFgSv2mU/HkKBcXj6CMl+5t/y6+ZIeN3R1Jmt9hPAXqxb3OAMK9xEcM59NfmrKyrPQA553g",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMdaq5nonM1BKX5rA/EY9LudbyK5DIRuKzZb83H9YDQwEXDAQesEOghUsHjOKadRiOHePU29J35pkoYbFfzX5599oscOvVfoOp/51TFx+HSbwMjKG8M6JGQbiTGI5YA6qA==",
+        "icono": "https://i.ibb.co/hZtXSZH/somos-chaco.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "SOMOS RÍO CUARTO / RÍO TERCERO",
+        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz20aYz91VJ3fTvmtCJqL6LJfoMk8JyFDFMnZnHHqK43dHe+qKtubxIF3+ZG65SEFOqMJsskEhpTV72EG6tsMNNB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvADtPpo9jd7r+H10QNaq3n+XcsudMK2ClMPnRFda+1yz3LMjXt3szcfkz13mq9uTP3hFS4IGd4de2TTOPmBOSJgB7hOKjhhSFcjE37X/zm3MfZpwFs0xBRq72wGKEs0qtQ==",
+        "icono": "https://i.ibb.co/XsVQyDf/somos-rio-4to-3ro.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "CANAL UNIVERSIDAD DE LA PLATA",
+        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTRUfH3kcP6VvMiN9J0UShKf0j1ukn+gRu4tMUlyNhXx1zYRGGixjql1v7hy/yf2RLqwGnulfe7oyqeHeihfiGO",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDVEinmNhDVcVOZQQvxJ3NqzIeduTb3WnZh5usbS5dkYV4+mKAZZwCOm18pYYQIjRppN2kJ80RuF5uEzQbPElnX5U7q5k5DBfDMjnvtfg4LTceawU0xrV65Kn/B+oM/beQ==",
+        "icono": "https://i.ibb.co/9cWPwkw/canal-universidad.png",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
