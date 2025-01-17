@@ -3,15 +3,6 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
-        "name": "Peñarol vs San Lorenzo",
-        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIEZ36QJDQCgY3XaXT05ijvV3rdJTYV2PQmJ2ALqD9F89e4TuCgdn+eU+dtn8yCA7mDz7J3hLGbi5KZWW3ssAnk/192JU/TtmqjZ7f0hQgGEg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSh+Jwg6+9GSjrvdpMfxRk9saQEO8/wEamMOuCk7PhCtVBjHqjV49RfYSex7iVfV+n+Jdu+HpKbQlgmxxE8AcuJolTXGRwH0JgHoshXmF6wpsbiYUeU5D26CwGEr6Lbiw==",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
         "name": "EVENTOS PY",
         "uri": "L/5viSVQd/57F42w8Jx1k+fB2FsBtA7kYl6evdsSXOzKPLHhbuqbanFOQa9XqOA4EYoB5LB6mD3W7lZUW+w1yZqqTWqYuY/GfYAWYmrXoO1UXPTOaG/xv1jnZSoDx3/qMP1Ah/8L7qBqs0hqjJ2Vlw==",
         "drm_scheme": "clearkey",
@@ -1994,24 +1985,9 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "Filmstream",
-        "uri": "EArtWwYiFmBMqHLEuDJ1Ij1kC9322IFH3GY6G+RRPYXDJ/VxZuV2ryxiIxyn2ja8+/fNBIYZeO3AaS44sWmCpQ==",
-        "icono": "https://i.imgur.com/DTRPV6B.png"
-      },
-      {
         "name": "+Cine",
         "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SoztM34bbuRtA+iQ9b2ANwAuSdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg"
-      },
-      {
-        "name": "NARCO CINE MEXICANO",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGPIo+Bk/tm+P3KtPZiV3VPfDL/iiLxJ5ZQ0A07fO6xmiA==",
-        "icono": "https://i0.wp.com/fandompelicula.com/wp-content/uploads/2021/02/NARCOS-MEX-9.jpgfit=1719%2C2325&ssl=1"
-      },
-      {
-        "name": "Canela Horror",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvfZ5vLuZfrxK+I0Uyb1amGPIo+Bk/tm+P3KtPZiV3VPfWxEAgnaX8fIs2hvaQfhkxg==",
-        "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg"
       },
       {
         "name": "HORRORFY ",
@@ -2022,46 +1998,6 @@
         "name": "Kanal D Drama ",
         "uri": "eHkRgDAOwOjHg260FkZpTNtTfMkpED2/bMyV90L/u5G5J1WA1q7nnuEDCelFkffStbbgq05hle9rWgpTAEl1MUPU58eqfOhPFXFTN507k7AasAGdjLnTAzhSRuEtGB1em2FSVaCR4wsuPIumsFqKRg==",
         "icono": "https://i.imgur.com/WIeZMKT.png"
-      },
-      {
-        "name": "CINEMA INOLVIDABLE",
-        "uri": "TQSPBT5fFAmrHLJIeXbfeS/MupFML63lB42ivx+Tkw/i9gOxu2pij0RcZO7XRYk2nIOh2FUOjCEUoidtJpe1yM4XEjxH34oVO9fUDi22NBIVJUiv1hJOm46efVQeBLi1wrCpswKxVab/7srAqnO532njkAuQdxzD4Txa43toOek=",
-        "icono": "https://static.wikia.nocookie.net/tv-azteca/images/6/67/Azcinema.png/revision/latest?cb=20200402025656&path-prefix=es"
-      },
-      {
-        "name": "RAKUTEN ACCION",
-        "uri": "uvwLGjzV/OxHcb3YtFYWOTn6EEdtX8gqrbxq0DYe3pxuT8hGrfsa0jcitbpwov793KUwzRIoBwi0fcGpg4LhiQ==",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "RAKUTEN FAMILY",
-        "uri": "uvwLGjzV/OxHcb3YtFYWOekAw/OvYb0yjmD3S6VN1RXDJ/VxZuV2ryxiIxyn2ja8+/fNBIYZeO3AaS44sWmCpQ==",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "RAKUTEN TOPFREE",
-        "uri": "uvwLGjzV/OxHcb3YtFYWObSK72uIoAdezrq1fkY6X3mnuktettYHa39OhJ1jGcmC/eAATSM6oLMxgoCDwVaeZQ==",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "RAKUTEN MYTIMES",
-        "uri": "NfJad5691CzsH5F9vm5pxUcNGXT2WMFim0XNgwk85nBWPPwJd21283yW0JYfR0WCm4P6fkG/vzI+8VIDLQE+FQ==",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "RAKUTEN TVSHOWS",
-        "uri": "uvwLGjzV/OxHcb3YtFYWOcqjsWpT+f4ObZ5kPIbCMxWKLEG2PBvzkluIvhUPAY+Xto045rz3w1NR2G+R7LhOLA==",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "RAKUTEN ROMANCE",
-        "uri": "NcVUGPPsSrqEwGyGxVOv9leooCysysPGCaABwSJdxg3Wln6z5BgA/11G+buMYyzMgvrLeQqgis+R26ESFNtwmNB2Dhki4/OYSVV3HXbrlpvraDu3ToStXJQFKZoTRr5eaNzMYL7CzVJFkK5fp/GQYN7NFfOSvokI/uJZKiPGhXRg+v/iOpO7HKFdTtL4cmPRHCdiJxnQ16O06ifmXh5WX/v3zQSGGXjtwGkuOLFpgqU=",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "CLARO CINEMA",
-        "uri": "Y7P5Dawn1IhZOPjAmE5MOX4TFw8fVpoQCSBjpchCmT6JWuIkedLhaK0gPS09bz8M",
-        "icono": "https://i.ibb.co/ZxtLpTT/clarocinema.png"
       },
       {
         "name": "AZ CINEMA",
@@ -2079,24 +2015,9 @@
         "icono": "https://i.ibb.co/BzKsrjT/cinema.png"
       },
       {
-        "name": "TU CINE ",
-        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IH7qQWG8FjHuJIVVmJJq6J0gHSIGsx8rHe5f7p7f+Odfj94ABNIzqgszGCgIPBVp5l",
-        "icono": "https://i.ibb.co/gR2qKN0/freetv-estelar-1080x1080-02092024-0.jpg"
-      },
-      {
         "name": "FAMILIA",
         "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IHa6RkF8EbKcIKQnNkBrYOam/rIVQuXeIitMw3ol18v16bCrixADV79Y4+uhgluYie",
         "icono": "https://i.ibb.co/RPvh6kh/freetv-familia-1080x1080-02092024.jpg"
-      },
-      {
-        "name": "TOP CINE ",
-        "uri": "EAnUQ0Wd4ZqgD4nObaT4F9tTfMkpED2/bMyV90L/u5ET8gznBn5S/MDsXsjwB+IHQcEo/dx0TVJJhi5Hi+A3o7vDg3yR5jsnlmrdZ4ULWX/7980Ehhl47cBpLjixaYKl",
-        "icono": "https://i.ibb.co/pv7MN9Q/freetv-accion-1080x1080-02092024-0.jpg"
-      },
-      {
-        "name": "CINE CLÁSICO ",
-        "uri": "eHkRgDAOwOjHg260FkZpTNtTfMkpED2/bMyV90L/u5FiF5Mb19KodwirCeCJQxF1h1sUouVZnuUmh+0Gg6DEGUkG9VSI59zGMP76xddRobuttmbFVgPQOugyA1yjKY8s/eAATSM6oLMxgoCDwVaeZQ==",
-        "icono": "https://i.ibb.co/R9CMH3V/cine-clasico.jpg"
       },
       {
         "name": "CINE REAL ",
@@ -2119,29 +2040,9 @@
         "icono": "https://image.xumo.com/v1/channels/channel/99991142/600x337.webp?type=channelTile"
       },
       {
-        "name": "FLOU CHANNEL ",
-        "uri": "eHkRgDAOwOjHg260FkZpTNtTfMkpED2/bMyV90L/u5GBJld4+9HLVKZ2RBoh2lJxAKOnrHeMVJntPQzrFYuJoTIyU0Ba/sYS7ljj2FGKKOfa74rcniGfKsEPzwf2GWBrmwq4sQA1e/WOProYJbmIng==",
-        "icono": "https://i.ibb.co/RBs5CHg/flou-channel.png"
-      },
-      {
-        "name": "DE PELÍCULA",
-        "uri": "Ltxx4/rp65hRXHPZ2s8lvYdC2lkl4DuzS2JfSWr3C5gLu9W7X8YYJ0vOUzKy8D0ZKmWniHNRiFC77ReIzlj2Vv3gAE0jOqCzMYKAg8FWnmU=",
-        "icono": "https://i.ibb.co/DCxcBBw/DPel-cula-2021.png"
-      },
-      {
-        "name": "DE PELÍCULA PLUS",
-        "uri": "1TOBYmBE8hdaxWw8rCUzPO0KBEtKAVCARqBKL2kDzf6PzIBEQ1e/dgg7/GNMZsO0KmWniHNRiFC77ReIzlj2Vv3gAE0jOqCzMYKAg8FWnmU=",
-        "icono": "https://i.ibb.co/dkrqJF6/DPel-cula-Plus-2021.png"
-      },
-      {
         "name": "CINE ROMÁNTICO ",
         "uri": "Ja/StWf7OzsqLEUxdXGoERKD3LkBWRy7AOxk4/HNXv8jUf7UiXFr+L9hmquolFJ/QyhTQCQkfd5/qiWailb2h2O4emE1lsEQFVzz7/dt+gofeDgzt74+A/1TcD2/oV4c",
         "icono": "https://image.xumo.com/v1/channels/channel/99991142/600x337.webptype=channelTile"
-      },
-      {
-        "name": "FLOU CHANNEL ",
-        "uri": "eHkRgDAOwOjHg260FkZpTNtTfMkpED2/bMyV90L/u5GBJld4+9HLVKZ2RBoh2lJxAKOnrHeMVJntPQzrFYuJoTIyU0Ba/sYS7ljj2FGKKOfa74rcniGfKsEPzwf2GWBrmwq4sQA1e/WOProYJbmIng==",
-        "icono": "https://i.ibb.co/RBs5CHg/flou-channel.png"
       }
     ]
   },
@@ -2272,13 +2173,6 @@
         "icono": "https://fr.web.img6.acsta.net/img/d1/c8/d1c81873e1695f764d6a1e18076365eb.jpg"
       },
       {
-        "name": "Adult Swim",
-        "uri": "KusJ5ShfomSLrFIJxHev/tLfRy3Xhd+oME43Te40Gt56mJt29B/oqSANh0rphCn6agycfZsKmmBZEJIYW4LlJ5SwIKDOqM1amlpITvPpVaw6+Ps12v/QFWUHyxS4MxAm",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEGxaitBWEHwOrn0jngpXFTwbui+kao65owerzN19FnzTE5SX5Cw6YQaW6Wfwsyr1eo4CrRi1CPpe3aW+JlwHnEt9FAG7jcDzGihM3S8VkI4aV8lFrAokxFCmFft9qCbag==",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKx2_mKzovr22tnpKEiMQCjiGUIHTAoljiN7QHkNkxBH2qFPt127TEiRucZxnm7z8qd-9UFHcFv19VZor-4OyeMMTGnE11BoEa4YGMmJyKRUGKsM8nsyWi_tcvfbQWRhvGPA56rL1Zwk-jtp-ZeeWjAlxBU9temjFmYz0n1OXim_WTDDLnO4wmR7A-TQ/s800/Sin%20t%C3%ADtulo.jpg"
-      },
-      {
         "name": "Bob Esponja",
         "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ4VEzAuz3r6v2Mtlq8XJ/2oTbB8gIUfQHPDA0PzVtm60UNzLsUpXieXajvS6X4mNd+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
         "icono": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png"
@@ -2290,38 +2184,13 @@
       },
       {
         "name": "Futurama",
-        "uri": "jCFn60lGyrpC3OASX2w9NGjdXPyXCsETYcNtkTkZYrwn7Pzoqw2Tdc1dL+inAPQKJDWdQBb/0ZEH58jUY5NlzQ==",
-        "icono": "https://es.web.img2.acsta.net/pictures/14/03/19/13/26/032947.jpg"
-      },
-      {
-        "name": "Futurama opc 2",
         "uri": "qjrqksmEeZXss/rITggQWcFf0fK06d1wSENnJK14ZctXkQlXN1C/2os7HnKrJ/Sc80C9nR4/idMGaDUjLPcunq16FV4vByi/GTZJkvGczl8=",
         "icono": "https://es.web.img2.acsta.net/pictures/14/03/19/13/26/032947.jpg"
-      },
-      {
-        "name": "Ben 10",
-        "uri": "X+rcWM5tgvd1BdPIyq+ROCb1S2tnSqDiAQ4vlsTXJoJLjedx6gTWkq8Na4YVKpPw",
-        "icono": "https://www.abc.es/media/series/000/001/943/ben-10-2.jpg"
-      },
-      {
-        "name": "Bob Esponja",
-        "uri": "X+rcWM5tgvd1BdPIyq+ROBV09N0JRYzOvFPHMfD6Y7BHP2n0Kh+bajY9zf5m46U3",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7sPeKteaVXWrhljJH5dAGqIX7pmeheWllWcJKGYAcxgCfIO5d"
-      },
-      {
-        "name": "POCOYÓ",
-        "uri": "vQT6fs38N56ms5zBglwrcEXQsLOvSLLP8xKyvKi93F+OaMov006sXR2vf/S39TzVJv5V1uHoHIKbIWuRgfsHOQ==",
-        "icono": "https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png"
       },
       {
         "name": "Los Padrinos Mágicos",
         "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZF9W0G5VY3y/FCe7uq00srPvPX3ry0SRo4RZE6+hU349ZAQxz+RqVl4I70YHBo3zQ+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
         "icono": "https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG.png"
-      },
-      {
-        "name": "La Familia P. Luche",
-        "uri": "Ltxx4/rp65hRXHPZ2s8lvTdodDnUwoTym7aRTMxSLcQBnq4235AC8oilhn8n6BdM14pQz/ClAHTW5pcOf+FJHf3gAE0jOqCzMYKAg8FWnmU=",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnX4VS4EmS_dxtYxklOLXxPlApy6_bQhDw-2KqHDPbYVrXITS1"
       },
       {
         "name": "El Reino Infantil",
@@ -2332,36 +2201,6 @@
         "name": "Wtv",
         "uri": "aWf/jrSA9CJU7YZjCdmrjmTGJxoDrqyuKKkwQl7lEgAfLVwJB9pSK07ypLtpmmUZto045rz3w1NR2G+R7LhOLA==",
         "icono": "https://static.vecteezy.com/system/resources/previews/009/019/719/original/wtv-logo-wtv-letter-wtv-letter-logo-design-initials-wtv-logo-linked-with-circle-and-uppercase-monogram-logo-wtv-typography-for-technology-business-and-real-estate-brand-vector.jpg"
-      },
-      {
-        "name": "action",
-        "uri": "X+rcWM5tgvd1BdPIyq+ROMmGxZxL9js+TTr46tFGn1KTF4qYoBijfDkKK+t7Z6qp",
-        "icono": "https://yt3.googleusercontent.com/Sp7VWsuj5StjvAgJaLWlcq48CU6fg9bX2Jr4d255qwHfKcX5WYIiZXbIrUQ8kfEe8DzWRgxU=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "The Walking Dead",
-        "uri": "X+rcWM5tgvd1BdPIyq+ROPyrOmI+YKK7s3J3rcnwOta+OwVuokUYnxqbM5VVux3IdgU5mAGtEEhOwcGqGCqdQA==",
-        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9oH77LHc8Sa5RWLvjz_6c7_UJrd7zk3_QmnloQnOdbakUYcJp"
-      },
-      {
-        "name": "Breaking bad",
-        "uri": "X+rcWM5tgvd1BdPIyq+ROJZeNdGlmsKc1IcFTSewMdBzKRBTGskiuq4BmuTCnke9aeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg"
-      },
-      {
-        "name": "Super Campeones",
-        "uri": "X+rcWM5tgvd1BdPIyq+ROOEuLHsfotSj5Zcqb9f3awGR/cTKb4onN2ybIQi0AxyRdgU5mAGtEEhOwcGqGCqdQA==",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxKTBxb87Pi5lUKBLeWzFoF4eTbCqoHD6fQb_rMYwdirtiX1Hd"
-      },
-      {
-        "name": "Malcolm",
-        "uri": "X+rcWM5tgvd1BdPIyq+ROAnjD9gLDRQnipXPTmYNko2TF4qYoBijfDkKK+t7Z6qp",
-        "icono": "https://m.media-amazon.com/images/I/51Zg8M9ovxL._AC_UF894,1000_QL80_.jpg"
-      },
-      {
-        "name": "Mr. Bean Animado",
-        "uri": "X+rcWM5tgvd1BdPIyq+RODrUnENAgEf2AcHD8gc1oNeTF4qYoBijfDkKK+t7Z6qp",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOV_oCi_yTfusKEvSIkeWIaJh4xdQVfLTBFdPaMzsQeCOMf7O4"
       },
       {
         "name": "LOS PADRINOS MAGICOS ",
