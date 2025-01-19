@@ -3,6 +3,31 @@
     "name": "🍿PELICULAS 2024",
     "samples": [
       {
+        "name": "🍿Calendario mortal (2025)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrquBKOYED1ro77dHrtipKjrfGerDuhGiBTrfziWFWFHElHu+I5pK3Q0NDqhicWFbxf",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg"
+      },
+      {
+        "name": "🍿El jardinero (2025)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqV6y05vdu0APYYOndo0MGoWqhaf5FMRozJMC1wDOuQ61hCxMmmYjxrAZPsldYcAkn",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg"
+      },
+      {
+        "name": "🍿Pandemonium (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqcsktNuHxlx2GM9TO8mtQzWUZe3tkvYmJMa3z+CTqLHFp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKZZN3aDsg6DZNnHZUDkTXKvMiA.jpg"
+      },
+      {
+        "name": "🍿What Lurks Beneath (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrq0A4Ydkv0p5ykuBZJGbSWcrsgbKUwDTaI6nf0WWLOaDPzjvW8IllF7gy40hLRRZNwaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LFSdNB610uSUZ08Y6xN4V3p8OV.jpg"
+      },
+      {
+        "name": "🍿El río de la muerte (2024)",
+        "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqYRjqkJjZT6sIss/09HAH9bec30MkKaneNVFbnsyj+ktJjj4ZS8MNVfOzpfSA69uY",
+        "icono": "https://image.tmdb.org/t/p/w500/hUjl4T4qQb0GtIazB2fFecn1ETj.jpg"
+      },
+      {
         "name": "🍿El río de la muerte (2024)",
         "uri": "cVI+FPBxX2ASracUSyM4w3R6GBTFzMvyhJCgrBHnpu/TwVMB+DPD6FCoEUBf5wrqYRjqkJjZT6sIss/09HAH9bec30MkKaneNVFbnsyj+ktJjj4ZS8MNVfOzpfSA69uY",
         "icono": "https://image.tmdb.org/t/p/w500/hUjl4T4qQb0GtIazB2fFecn1ETj.jpg"
