@@ -1,5 +1,50 @@
 [
   {
+    "name": "🎬Los Tinelli (2025)",
+    "samples": [
+      {
+        "name": "1 Una familia llena de ilusiones",
+        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUQPQpB8ayvLnEW5P35+IJpY=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
+      },
+      {
+        "name": "🎬2 Una familia confundida",
+        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VaeOGSdfUzqmhM9Y6i272Qw=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
+      },
+      {
+        "name": "🎬3 Una familia rota",
+        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VQsCr4NFDIXgCDiCmtUae8A=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
+      },
+      {
+        "name": "🎬4 Una familia abierta al diálogo",
+        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VROaDMXTUvh8M9itetMbG+w=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
+      },
+      {
+        "name": "🎬5 Una familia incómoda",
+        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VQRD9WwtP0Fj5rkPBM/ly2M=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
+      },
+      {
+        "name": "🎬6 Una familia dentro de una familia",
+        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VcHJ+Ul+NFSdM1fVgi3X6KQ=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
+      },
+      {
+        "name": "🎬7 Una familia en una guerra fría",
+        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VeumKPX29sd5XAYZ7sTHCgs=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
+      },
+      {
+        "name": "🎬8 Una familia feliz",
+        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3Va5OBft7sVEDD3W6Uum0quk=",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
+      }
+    ]
+  },
+  {
     "name": "🎬El juego del calamar",
     "samples": [
       {
@@ -81,51 +126,6 @@
         "name": "Amigos o enemigos",
         "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUeYyJipdCazFsW2q4Xxodlk=",
         "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg"
-      }
-    ]
-  },
-  {
-    "name": "🎬Los Tinelli (2025)",
-    "samples": [
-      {
-        "name": "1 Una familia llena de ilusiones",
-        "uri": "cVI+FPBxX2ASracUSyM4w6EaDvrT/v52oHEGQ77bAkxe1cSrNItwjfbFDAHgT6ObfCi4/Zz/0TDdwjhaIBGAUQPQpB8ayvLnEW5P35+IJpY=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
-      },
-      {
-        "name": "🎬2 Una familia confundida",
-        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VaeOGSdfUzqmhM9Y6i272Qw=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
-      },
-      {
-        "name": "🎬3 Una familia rota",
-        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VQsCr4NFDIXgCDiCmtUae8A=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
-      },
-      {
-        "name": "🎬4 Una familia abierta al diálogo",
-        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VROaDMXTUvh8M9itetMbG+w=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
-      },
-      {
-        "name": "🎬5 Una familia incómoda",
-        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VQRD9WwtP0Fj5rkPBM/ly2M=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
-      },
-      {
-        "name": "🎬6 Una familia dentro de una familia",
-        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VcHJ+Ul+NFSdM1fVgi3X6KQ=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
-      },
-      {
-        "name": "🎬7 Una familia en una guerra fría",
-        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3VeumKPX29sd5XAYZ7sTHCgs=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
-      },
-      {
-        "name": "🎬8 Una familia feliz",
-        "uri": "cVI+FPBxX2ASracUSyM4wx/eXsR83QhC+zManT5OwIRLyrD1Ptbljfx7rEG+xHeqS6AWlm/gvqyN7TywQHI3Va5OBft7sVEDD3W6Uum0quk=",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg"
       }
     ]
   },
