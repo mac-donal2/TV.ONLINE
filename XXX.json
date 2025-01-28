@@ -3823,5 +3823,240 @@
         "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
       }
     ]
+  },
+  {
+    "name": "🎬The Good Doctor",
+    "samples": [
+      {
+        "name": "El buen doctor 01x01 - Comida quemada",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGA+zB7/L0/3y5rncfnYdBTao4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x02 - Monte Rushmore",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGsF+f2yfJktNXZ22UmlxeWao4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x03 - Oliver",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGwD5eJ96Kp9OUMjtBdyY8uKo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x04 - Tuberias",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGSbhseUBeyupsk/jJqMw/B6o4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x05 - Uno coma tres por ciento",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG7rkDLCtCbaAcTrZDvR9Plao4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x06 - De mentira no",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG5/BxuEGE8chn8Z9PYt9ib6o4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x07 - 22 pasos",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGLUbj7xxms6uQWSrm0PLBGqo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x08 - Manzana",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGZQ9mI+Iu+NE0nH1t+TV2nqo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x09 - Intangibles",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGvtiByi/gn83FGW2bbaQ7Ko4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x10 - Sacrificio",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGHGRC7BjfFNNQEKt7TgiKtIHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x11 - Islas: Primera parte",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGRkCVF2CmeDTiB4PDgDMaX4HGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x12 - Islas: Segunda parte",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGmG1hTCWsZjgG9nj5o3U1mIHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x13 - Siete razones",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGczGj+252vCGMrqBDiqV5I4HGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x14 - Ella",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGtyYREOxN1dEWaJfdLV4ZZIHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x15 - De corazon",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGJHgzPBXBgXpCalPChLA4/4HGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x16 - Dolor",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG0X6547p+4kpHnHX+SVzNcoHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x17 - Sonrisa",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3JR6LnV/M7nUIuIQq1Mvr4HGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x18 - Mas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGegRJ8MUfOFdgzGwNxq+EqoHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x01 - Hola",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuC713Wg3JdNusbUFlPr/0TU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x02 - Tierra media",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuE+l9SZo9NmF19Qr4wAj0LU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x03 - 36 Horas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuESo2jgXJicn7SJjyw34nCE=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x04 - Paro duro",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuJIcBGIitieB129d9E7Ev58=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x05 - Zanahorias",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuJLh+npQu4mzRTjeN2mz7mU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x06 - Dos capas (o no dos capas)",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuCaJCGocXK/A43G7hs5Tp6w=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x07 - Hubert",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuM1rsNJaIHNzVjZie9lA+fM=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x08 - Historias",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuOvy0gAWRuiEUNHmyDxs4A4=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x09 - Empatia",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuCERkmTjNgvPavcAcvedYVs=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x10 - Cuarentena",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuGdl0AmiwPROfYRE/ux4EtA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x11 - Cuarentena Parte Dos",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuIqAULZUdtbesR//fGyP3zc=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x12 - Consecuencias",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuDtPIGMREnAzhVYPrNTu4nA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x13 - Xin",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuETZOsBwY7m+AFsVu3tr6co=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x14 - Caras",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuFMjiIFkVkBJe3uOW6dO/5w=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x15 - Riesgo y Recompensa (sub)",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuHWxYzBXyqFGWZNy2+66/6E=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x16 - Creer",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuDd6Bkb0wS/58K5ccmNd0Yk=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x17 - Desglose",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuIaX1TDXTeXgCfp3FNSGMKs=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x18 - Trampolin",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuNQ0VrHkwkQkIuFWovaR3S8=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x01 - Desastre",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YKy713Wg3JdNusbUFlPr/0TU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x02 - Deudas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK0+l9SZo9NmF19Qr4wAj0LU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x03 - Claire",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK0So2jgXJicn7SJjyw34nCE=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x04 - Toma mi mano",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK5IcBGIitieB129d9E7Ev58=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x05 - Primer caso segunda base",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK5Lh+npQu4mzRTjeN2mz7mU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x06 - Angulo de 45 grados",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YKyaJCGocXK/A43G7hs5Tp6w=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x07 - SFAD",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK81rsNJaIHNzVjZie9lA+fM=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x08 - Disparo de luna",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK+vy0gAWRuiEUNHmyDxs4A4=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x09 - Incompleto",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YKyERkmTjNgvPavcAcvedYVs=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x10 - Amigos y familia",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK2dl0AmiwPROfYRE/ux4EtA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      }
+    ]
   }
 ]
