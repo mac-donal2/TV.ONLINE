@@ -3193,5 +3193,870 @@
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREcao8UYKfzfCWxcczHj5DBp9CT1g3jGEthKd6DBz68TYgJFfx"
       }
     ]
+  },
+  {
+    "name": "🎬Betty la fea, la historia continua",
+    "samples": [
+      {
+        "name": "Betty la fea EP.1 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFEQG2lP8IT8j635AKqskLWv75+E57rScvVM940IIKSpkU52aX7vN78cmnzHDHh2N1IGfIJ+lM+ptzLuX4/lfbZJV8VqoP4TbAgx3EttzqJiIHKy1fFN/iZ70SC9G5jDkD13Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.2 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFEEnUqZ3kc8KsgGSkJm9/Dbv3mVet3XAoCv4F8di6w41p6G/uuh54GJnDlTT4DOtMIzEZMhiZEmH71lC+jalDbNVCFtF9ayxoGZJfdbqeof5qai8kYZrwtOx6rk/xUtnnP3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.3 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFE5Ib9yeGInU3KmDun7zNVxsOJkvGmwowv/+P+5Vq4m8ms7pPVMw0o5SIh9rmGoQsBxesHl17Akty2TN6WvaFKE4GWtIc+VYMoG7Zt7xy+ADWWmc9LkDtAq5BAl2ROVHny3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.4 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFEIwIWCwd6yZXnjQV7sbHTiccG3joxql8KQdUDDX1jxdff1T4iCNuDOdrs/4ESaCRITScsD6VN1daRZAKm2RVULZiZABGwxj8KNJG0o5AhD+tGWCTL8EqJTOZtmyCNbRT/3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.5 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFE4PL4EvO/eeqOqQL7DYR48S5S74XLwdGC0DFPUdLg5AI41mEnl+BfWHM263k0VYcucRX/RxfYPNy0p487GRn4tgY/qP7bukr7+Yw42fTf8I0/coSXEt7qddlVEwdSZkNr3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.6 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFE5JZz+5a2GWS6iHT7g45ktQBfZtKDZM4fIrochlgui76i5Ic7tHtbKR8Hyc2mGRAf5TKg7K1kniPHJRqawX91AHj/nw7uoNClIAOrjzqF9O0uVyNHYxsIZONzbxwiGJ/H3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.7 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFEe1bllh33FgLvloGZuQ10KABJFxIAKtNOxUieLHkg4ykywJ5JEpurpAKhMNGpnkBLtHfjRnUtiV242HBVTBFou8wuYg6ZzPW+bAC6MZhhj/QRbo9a4x/PK83fGNaiRo0H3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.8 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFEZobHvHZ6nfFs9f5zk2A2COsVKnkPRoBBCW3aSiZxZv4+TA4wnGM73DCn/mp0Og1k3RBVWX0myn4UUhzScyJLki65Qib3lqXd22/7Z0DB7qlDG52SJSptMA+jtJ5D/IJXbtT3klL59z/CXhDh6TFVMoGfeSOVmvlfdlYEwzhiVhicMYgLdZMVKiPYEY9gbEjT/Auah50Ap3swFxwvnJzvOQYTwf8w2Nsj3JBCkBDYxFf4Qev/iykuCsJwybpZs3BfkBn0gLkmwgGCsBUsdviX7UsKxpOZkferK0JpfZuzEJF0mvThZxfTGcoZ10FyqN9uYCJj1Mhe62baXpoW4XnuhASbnXFE6BkmlaxPh/iQylITaDDqB4+j0ILx/ug4JPRDC/u2Ejf0qIZk75Q77x30IA==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.9 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFEMohwj/+hxyLy39mQ5ow101Yi9bCSCXidYmWGcZ+ECWM4P29Dqzaw6DpB6InDrCoxgIHtR6cHkEdRwKHWaI8jPvnXsevQpCXoFSkNPAuiwsSKyM5AvgyE6Lzf2o176kDr3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+      },
+      {
+        "name": "EP.10 ",
+        "uri": "V6C7KmqznTYslGBVxz9Z9Ce/NdUu+IElu3z1eXF5J9Z+Bo7dmzb4kph3p/3DPowJs4LGujftPckKjBzlHwR085S4uoMRobc6INngQVUEmbskvQ5IwzSuCZM6N6rbxsFEuI3wCdFHz/taezq9mtvEABz500KsbXnqu6IYTRP25azdgRnE8Am8PoJtPbrYXDTJitO9/l8oOImQ0c/aeYYBXKbnpxn7+TIgmJFNpAwmnPId5UE6nkRJRbzF5L6xElGH3Mmft0cjh1fZ7E2fGBnkbXE2sBRG8C7N4yHFFfYP1AH1kM5mPkzRuB7K950l8P1VvWAkAFkApIjH12fwK+abgmumfomLh1Q4U3QqhrWQ/+QAYGKS/DAUKYC10ddoQNfvNUp+Bbq3gfUj0RYIgbMRk75ohV+shUVnqEBifjfyrUyxcZ+ZC3AaOyq/ehsJmDk3F+8HiBRaQlq9gWzwKhk2sdn7u9iBTB0kCXjhaIgVuAJYTVygpCKbNrEzd+q85zM3UmgXBlTLTw2utlEZ0kZfew==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8MfyN5wIj7C2yQVY407gPzbCzgyDDekKv9HKeHU0_FrqDRr8g"
+    }
+    ]
+  },
+  {
+    "name": "🎬Bebe reno T1",
+    "samples": [
+      {
+        "name": "Bebe reno parte 1 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PeTamdQ+B4Ot7+1VLyEmXsygNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZs2-n83ZlwT83ZnDLH1mwVFt8hK2T8rdv1tmTcogzk-neUZF_"
+      },
+      {
+        "name": "parte 2 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Peq0smMM7ABg7edFSa5eZr+gNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZs2-n83ZlwT83ZnDLH1mwVFt8hK2T8rdv1tmTcogzk-neUZF_"
+      },
+      {
+        "name": "parte 3 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PecLIItat+wzqBFJwzcKUW2QNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZs2-n83ZlwT83ZnDLH1mwVFt8hK2T8rdv1tmTcogzk-neUZF_"
+      },
+      {
+        "name": "parte 4 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe0iH6hNW915Q+cjfsMiw0AQNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZs2-n83ZlwT83ZnDLH1mwVFt8hK2T8rdv1tmTcogzk-neUZF_"
+      },
+      {
+        "name": "parte 5 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Peq24eKnEAtdhT2UTPJ02vjgNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZs2-n83ZlwT83ZnDLH1mwVFt8hK2T8rdv1tmTcogzk-neUZF_"
+      },
+      {
+        "name": "parte 6 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PeNgohA+NmQmpq4jE0O/3xcwNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZs2-n83ZlwT83ZnDLH1mwVFt8hK2T8rdv1tmTcogzk-neUZF_"
+      },
+      {
+        "name": "parte 7 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe/lflMVOERAKhuVRA+N2ckQNAjO6uq7dxXHfxZ20+jpA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZs2-n83ZlwT83ZnDLH1mwVFt8hK2T8rdv1tmTcogzk-neUZF_"
+      }
+    ]
+  },
+  {
+    "name": "🎬ARA San Juan: El submarino que desaparecio (Serie) 2024",
+    "samples": [
+      {
+        "name": "ARA San Juan parte 1 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWB3BH3Z0q0ZXwkA4TSGdmIFHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      },
+      {
+        "name": "parte 2 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWC+ZFTZRAnqYmKhGtr+1E5LHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      },
+      {
+        "name": "parte 3 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCsHyPoNXRWWU0bscmOnefpHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      },
+      {
+        "name": "parte 4 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCuZzNMV2DqzldpojbdWA2nHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      },
+      {
+        "name": "parte 5 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCZavCRTFWaGLFa/vjyqK2BHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      },
+      {
+        "name": "parte 6 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWDW6u8qHc5hJEBlkPRqcvrHHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      },
+      {
+        "name": "parte 7 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWCmO5catBfyOOWZ+rTsrsEpHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      },
+      {
+        "name": "parte 8 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWAF/SFeGhYTfa3dUccMXEtaHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      },
+      {
+        "name": "parte 9 ",
+        "uri": "Bxiz1sRKa8YTnDJ4REA2XLsuo1H/HSW4M1Si76wbCLwg+jXEpLlNpPZFarBhVe55hKBjpbTDLK8GLS1O1YTv6cbb3YepPIRYrzvxwbXIJSzVNPW4kp1tmHH6jg4uBHi/Jt1vpiONYNIjGTvo+mVwlnHzzZZWHx88sd6IKUCCpWDZg6V2ievjca7MsXpp31XXHmieA+DvFJhO9QY0D5jdmSmJfFqlXKWGTMJkU60yThhNmcXGmExFmNttOeJ0Xy5sH+BWy6U/oUSD8H6o4t33SBG/IwFBAk6zaK4ow7KgURXlqgQfPR7VcWNyYCsWkZxTgNxSK7oY3WeI+Q0kxzELOw==",
+        "icono": "https://es.web.img3.acsta.net/c_310_420/pictures/24/02/29/09/21/5258775.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬La Casa del Dragon', temporada 2",
+    "samples": [
+      {
+        "name": "La Casa del Dragon EP.1 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frk9GTGQ301BgL3C3XSL5DYqeEFHUDexLFtiZLOhrIwFbHPR6oCWQldk6BGbWNFvVEyYR0XluevqHZ5bLZf+saBYoDAwUBUFkl6Hl3Kd4kL1oZxL1nX/PKAm46nmdbs8WJqMmNaILapRU+nXmcwaalrF",
+        "icono": "https://hips.hearstapps.com/hmg-prod/images/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg"
+      },
+      {
+        "name": "EP.2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrnsYgM0JZ2N2jxKOMt7+pITtpWXXWT9Fz08Km501ISzJhwgCzOlHsRiqWjv+JP5tUmH9mCllhBWsX7grRyo0PQwHMRv5jcddBGGxnEiYJUND+LKiW8y4CXq1oAnYUXIL6g73yxe9MtYZ80bi3TtTSuOqjiMDdS9TIZJmqcnKIDHjQ==",
+        "icono": "https://hips.hearstapps.com/hmg-prod/images/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg"
+      },
+      {
+        "name": "EP.3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frk9GTGQ301BgL3C3XSL5DYqeEFHUDexLFtiZLOhrIwFbHPR6oCWQldk6BGbWNFvVEyYR0XluevqHZ5bLZf+saBYKhvdxB7fMfXSPHemi99a5JxL1nX/PKAm46nmdbs8WJqMmNaILapRU+nXmcwaalrF",
+        "icono": "https://hips.hearstapps.com/hmg-prod/images/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg"
+      },
+      {
+        "name": "EP.4 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frk9GTGQ301BgL3C3XSL5DYqeEFHUDexLFtiZLOhrIwFbHPR6oCWQldk6BGbWNFvVEyYR0XluevqHZ5bLZf+saBYqueLnE6NirWkrw1Y7/HnWJxL1nX/PKAm46nmdbs8WJqMmNaILapRU+nXmcwaalrF",
+        "icono": "https://hips.hearstapps.com/hmg-prod/images/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg"
+      },
+      {
+        "name": "EP.5 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frk9GTGQ301BgL3C3XSL5DYqeEFHUDexLFtiZLOhrIwFbGuQCHYPj0NdqZLx80ENF6VCw33YCe6BxgRuyDM/mChtua4KNzWpadmuitse1a7fsWnjkAuQdxzD4Txa43toOek=",
+        "icono": "https://hips.hearstapps.com/hmg-prod/images/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg"
+      },
+      {
+        "name": "EP.6 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frk9GTGQ301BgL3C3XSL5DYqeEFHUDexLFtiZLOhrIwFbHPR6oCWQldk6BGbWNFvVEyYR0XluevqHZ5bLZf+saBYpJieeBXT6JgIntG9yaCCKZxL1nX/PKAm46nmdbs8WJqMmNaILapRU+nXmcwaalrF",
+        "icono": "https://hips.hearstapps.com/hmg-prod/images/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬Agencia Lockwood",
+    "samples": [
+      {
+        "name": "Nosotras seremos asi",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxmJ1pporDwoIwtuFeqy/Ugw=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Sueltame",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxpSbiTmwH8xJvuydTU8oJYY=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Duda de las estrellas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxr2d+/vS5XH75t0aSjKV0gw=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Dulces sueños",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxiyrxoQVny0vUeuhuV+76rw=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Se acerca la muerte",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxvuaCLeEx8LKf9xkGYeI4Jw=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Nunca me lo pediste",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxkNprO26cdGLv9EBc2LQF20=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "Hipnotizado",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxsiug3K2QG8ov3WaduFKucM=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      },
+      {
+        "name": "No es lo eterno",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGiHSvEUklOqL8sfUmHYtxmfmGMkvz4cfGOZ2Wgxeixo=",
+        "icono": "https://www.eltemplodelasmilpuertas.com/biblioteca/portadas/0AgenciaLockwood.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬The boys",
+    "samples": [
+      {
+        "name": "The boys EP.1 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkB7kxWEeYHvcqmHbiAtJKf2mTOafbfZzt0d1RNNaavQTOHjIBaXHFOlyCrw8S45xc=",
+        "icono": "https://i.blogs.es/d1fc5d/amazon-temporada-4-cartel/650_1200.jpeg"
+      },
+      {
+        "name": "EP.2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkB7kxWEeYHvcqmHbiAtJKf2mTOafbfZzt0d1RNNaavQQcutol2J1ORtLfyk7RoMH0=",
+        "icono": "https://i.blogs.es/d1fc5d/amazon-temporada-4-cartel/650_1200.jpeg"
+      },
+      {
+        "name": "EP.3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkB7kxWEeYHvcqmHbiAtJKf2mTOafbfZzt0d1RNNaavQZ5/CcRPoic8Qy/7iCMVAZE=",
+        "icono": "https://i.blogs.es/d1fc5d/amazon-temporada-4-cartel/650_1200.jpeg"
+      },
+      {
+        "name": "EP.4 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkB7kxWEeYHvcqmHbiAtJKf2mTOafbfZzt0d1RNNaavQQWvas1BqzEUJQsmdbMr0xozpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://i.blogs.es/d1fc5d/amazon-temporada-4-cartel/650_1200.jpeg"
+      },
+      {
+        "name": "EP.5 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrkB7kxWEeYHvcqmHbiAtJKf2mTOafbfZzt0d1RNNaavQcqTf9M1gMsGAZemzGRenI0zpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://i.blogs.es/d1fc5d/amazon-temporada-4-cartel/650_1200.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "🎬C.H.U.E.C.O.",
+    "samples": [
+      {
+        "name": "chueco parte 1 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAurpFgz235BgeZYRYdf7f4yYzpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAutp3qDQka704HeSixISpCGMzpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAunKh7zrKiJPJT87xk+hm5HAzpld6/8LcrSqFiy35TIBPmJcib7zyraw3rP+Tcq53DA==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 4 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAupV1XYNdtpS5AXqglGAnkDszpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 5 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAumidgKbc5+4bcLDhQ14uUk4zpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 6 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAuq0UhmyZXyF4yVHIUTORSUYzpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 7 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAutGUy5FlbGnaAZbrwW0rHoQzpld6/8LcrSqFiy35TIBPmJcib7zyraw3rP+Tcq53DA==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 8 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAutu83yJcHKApZ2jBbnPQsX0zpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 9 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAuoTVi6DMAdgOXcR5pRc8c2szpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 10 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAunY/D9A06Fj8HeyiU0GuLyMzpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 11 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAunN0hPvMU0Je6jqBi3IEJ6kzpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      },
+      {
+        "name": "parte 12 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2Frm/EpRH70WO4KaatianyUml9ui9EX4aF06LGnxRI5cAupAQbeqSShUR5hK2VQFtwKszpld6/8LcrSqFiy35TIBP+VrXXWj5fSOWeByptgR7Ew==",
+        "icono": "https://pbs.twimg.com/media/F0HWl4DXoAEHYs4?format=jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬Coppola, el representante",
+    "samples": [
+      {
+        "name": "Coppola parte 1 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+nnDUv4bicChr/Fk6eLpC6o4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5xYcUtn0hm4-HscJ0UJ5xUZOatLAQwFNry_F-T0Mn0tD6YdE"
+      },
+      {
+        "name": "parte 2",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PeyOozY0GvOb+eoEOXmFvaaqo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5xYcUtn0hm4-HscJ0UJ5xUZOatLAQwFNry_F-T0Mn0tD6YdE"
+      },
+      {
+        "name": "parte 3",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PezpCgYZIDyhHOKJM667rIyqo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5xYcUtn0hm4-HscJ0UJ5xUZOatLAQwFNry_F-T0Mn0tD6YdE"
+      },
+      {
+        "name": "parte 4",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PeVpWif7ZFWa0sx/qA2lfR5Ko4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5xYcUtn0hm4-HscJ0UJ5xUZOatLAQwFNry_F-T0Mn0tD6YdE"
+      },
+      {
+        "name": "parte 5",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+PeHpleHxxIEY7iazEvGsSmE6o4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5xYcUtn0hm4-HscJ0UJ5xUZOatLAQwFNry_F-T0Mn0tD6YdE"
+      },
+      {
+        "name": "parte 6",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe8Nut2bzsvj24ITso+I7ACKo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa5xYcUtn0hm4-HscJ0UJ5xUZOatLAQwFNry_F-T0Mn0tD6YdE" 
+    }
+    ]
+  },
+  {
+    "name": "🎬fallout",
+    "samples": [
+      {
+        "name": "fallou tparte 1 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmkXEUltkGdwKt6H9pQnsUIUMzwD4mBG6XnDS3MDXEmbA==",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/03/08/10/09/2380565.jpg"
+      },
+      {
+        "name": "parte 2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmkXEUltkGdwKt6H9pQnsUIBlLqtmCcxKksX4gDm1/D4A==",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/03/08/10/09/2380565.jpg"
+      },
+      {
+        "name": "parte 3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmkXEUltkGdwKt6H9pQnsUIeTju6KLUfAYOk0fzrKTmEQ==",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/03/08/10/09/2380565.jpg"
+      },
+      {
+        "name": "parte 4 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmkXEUltkGdwKt6H9pQnsUIY+2uekVEic4unVH4vnqRmA==",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/03/08/10/09/2380565.jpg"
+      },
+      {
+        "name": "parte 5 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmkXEUltkGdwKt6H9pQnsUIrn03ggjFAZNX1GrqhgUF+g==",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/03/08/10/09/2380565.jpg"
+      },
+      {
+        "name": "parte 6 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmkXEUltkGdwKt6H9pQnsUIRpZDidBvt1QJD23LMwewVw==",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/03/08/10/09/2380565.jpg"
+      },
+      {
+        "name": "parte 7 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmkXEUltkGdwKt6H9pQnsUIWZR4c5V8qjr5CquR+MN4sA==",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/03/08/10/09/2380565.jpg"
+      },
+      {
+        "name": "parte 8 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrmkXEUltkGdwKt6H9pQnsUIIYgpNSeG6b6HMgWapBuBpg==",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/03/08/10/09/2380565.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬halo 2 temporada",
+    "samples": [
+      {
+        "name": "halo 2 parte 1 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViX9+n+sAsa4Jl75n4DYZEXZX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViwu2N1HOJuep3Seyczwtc+ZX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViT4Ba96o5HAAh/crqkP6eUHVD9dZACZ7qeoZEmsBNBX6I1jcnVqKJ6SogvoIighV2",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 4 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViW9W22sgmHaSGe/ynpypFX5X03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 5 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXVil1+8H22SQB8gzD2qkmjpCZX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 6 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXVi3Dn8Lj0B72cBoJmtxc80EDDwRhJAj7MZ7DBr5gUQ40ZCrA5NCnNRNzAYpwkhUYdX",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 7 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXVi3P50V9OXbjFRt3o8d5uP/pX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      },
+      {
+        "name": "parte 8 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrntiyXghA4KyyYT+No5bXViS+FBujBwPByEbmzQyi9+gJX03Gz2wu+RLuhyVvJC94MXBRj8tKYsBuBJvj6ONrO4",
+        "icono": "https://elcomercio.pe/resizer/AVqHdronbOBCMkYdSYj4zHHM7vU=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JR4SC2WVMBDL5DX7HJ7EDT6W7Y.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬El Encargado",
+    "samples": [
+      {
+        "name": "El Encargado EP.1 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4W2VqCO2w/JV4aJS8mC96/8GQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.2 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4jRVQHOw4l/KWbRkkNL3H/MGQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.3 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4gJYl7gv5vKvdv0olxRh9PMGQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.4",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4bKwomeHvc5APSstBV+0MUcGQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.5",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4qpWrZ06VS2bObzF+BYvposGQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.6",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4FWpAee2+feAewCLCoR09fMGQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.7",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4Taa8vPhdWZz/pgEUNdeYpcGQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.8 ",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4MfGbjgNpbHqqZ+wbXVxVosGQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.9",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4c2LNDVoIOcgGAz9wxaosLsGQG8+Xg8STwLynT3o/X/I=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.10",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh4JAPydBIuf1c/KnVQEDlPDVHMPFX2AKkRcN7CnUgY2mg=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.11",
+        "uri": "cVI+FPBxX2ASracUSyM4w4Fb7yrrxTfMebtiUTWLL3CxPWv+Wqil55BNQk4Iqyh43tlkpPj+8UOepqsCYMce9lHMPFX2AKkRcN7CnUgY2mg=",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP 2X1 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/oi1L4KLqle29kdGM4XncIeCtCwJ918hpbVp/QL6pI8lBUvoEI9AWyr7EXaGe9yWR",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP 2X2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/oi1L4KLqle29kdGM4XncIQk+feswUPcD1KD9YgfOU1ZBUvoEI9AWyr7EXaGe9yWR",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP 2X3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/oi1L4KLqle29kdGM4XncIdZ1HKnVpUFtV8T/vsAJKBBBUvoEI9AWyr7EXaGe9yWR",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP 2X4",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/oi1L4KLqle29kdGM4XncIXW1pxl+VhvdpEDEE8YJBxZBUvoEI9AWyr7EXaGe9yWR",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP 2X5",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/oi1L4KLqle29kdGM4XncISEdiW52wpBDr0f6XKSYndZBUvoEI9AWyr7EXaGe9yWR",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP 2X6",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/oi1L4KLqle29kdGM4XncIcNowOcAAe/CFgdfzFB7N6FBUvoEI9AWyr7EXaGe9yWR",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP 2X7",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/oi1L4KLqle29kdGM4XncIeAUhhU0KZIt4/8Jm75Woo5BUvoEI9AWyr7EXaGe9yWR",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.3X1",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/Y3bmgc6uMkv9uIiVf/8zGpfTyPpC/++/7sSCXl+bDfhfdZDdgEX94/YBkPZ7dggQ",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-3"
+      },
+      {
+        "name": "EP.3X2 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/Y3bmgc6uMkv9uIiVf/8zGnUno1Nvce4A33/bUuYZb55fdZDdgEX94/YBkPZ7dggQ",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-3"
+      },
+      {
+        "name": "EP.3X3 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/Y3bmgc6uMkv9uIiVf/8zGkq/QRCpzxOyqbs8ZfBhZ6tfdZDdgEX94/YBkPZ7dggQ",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-3"
+      },
+      {
+        "name": "EP.3X4 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/Y3bmgc6uMkv9uIiVf/8zGmLX2JASGvjH3dZxE/CT3fZfdZDdgEX94/YBkPZ7dggQ",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-3"
+      },
+      {
+        "name": "EP.3X5 ",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/Y3bmgc6uMkv9uIiVf/8zGn9IHWAUKLAz3hsbxdHkuJ5fdZDdgEX94/YBkPZ7dggQ",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-3"
+      },
+      {
+        "name": "EP.3X6",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/Y3bmgc6uMkv9uIiVf/8zGuSytP3R2SLdpuUVR1vet7dfdZDdgEX94/YBkPZ7dggQ",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-3"
+      },
+      {
+        "name": "EP.3X7",
+        "uri": "QY/9kzfjVQDVkeD6iyv/k32yr5ZcJX7KDTzdOIy2FrlyZ5x7dgSOpLTdLvcDvR3/Y3bmgc6uMkv9uIiVf/8zGpIE0eXv5ItM0n4lmCa8N8BfdZDdgEX94/YBkPZ7dggQ",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-3"
+      }
+    ]
+  },
+  {
+    "name": "🎬Shaka Zulu (1986)",
+    "samples": [
+      {
+        "name": "Shaka Zulu Part 1",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/gdjmnoJGoajoqBDlex/r/w=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 2",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/gLO5GeIhMxrWrYqlyQhIHE=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 3",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/hNQf/tq7P6lV1UKuLPre2g=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 4",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/idX0iHj/wYqgf1IXjMCm/U=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 5",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/lcbUh0kVcKaPzr51h0ZL9s=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 6",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/udXv37YwcTBIafSRIUPTYA=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 7",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/loE84D2JsYuF8XAuknb7uI=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 8",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/mVPKLlC6bvqF8R0+hPHII4=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 9",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/kP6XEJqOVyAdVjmf8XM2c8=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      },
+      {
+        "name": "Part 10",
+        "uri": "cVI+FPBxX2ASracUSyM4w9dHogZCqpGaR7DWTvLVt5n5zg0DBO3mVrFiLmuto+Pe+fQYBWcLIUwisBwZ1ep5/luseYcaJPd6poRpG/IpjRg=",
+        "icono": "https://image.tmdb.org/t/p/original/vwd6GhTugeKYbiPI3oBPP1OUynf.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🎬The Good Doctor",
+    "samples": [
+      {
+        "name": "El buen doctor 01x01 - Comida quemada",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGA+zB7/L0/3y5rncfnYdBTao4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x02 - Monte Rushmore",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGsF+f2yfJktNXZ22UmlxeWao4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x03 - Oliver",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGwD5eJ96Kp9OUMjtBdyY8uKo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x04 - Tuberias",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGSbhseUBeyupsk/jJqMw/B6o4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x05 - Uno coma tres por ciento",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG7rkDLCtCbaAcTrZDvR9Plao4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x06 - De mentira no",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG5/BxuEGE8chn8Z9PYt9ib6o4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x07 - 22 pasos",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGLUbj7xxms6uQWSrm0PLBGqo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x08 - Manzana",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGZQ9mI+Iu+NE0nH1t+TV2nqo4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x09 - Intangibles",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGGvtiByi/gn83FGW2bbaQ7Ko4jA3UvUyGSZqnJyiAx40=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x10 - Sacrificio",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGHGRC7BjfFNNQEKt7TgiKtIHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x11 - Islas: Primera parte",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGRkCVF2CmeDTiB4PDgDMaX4HGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x12 - Islas: Segunda parte",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGmG1hTCWsZjgG9nj5o3U1mIHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x13 - Siete razones",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGczGj+252vCGMrqBDiqV5I4HGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x14 - Ella",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGtyYREOxN1dEWaJfdLV4ZZIHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x15 - De corazon",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGJHgzPBXBgXpCalPChLA4/4HGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x16 - Dolor",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG0X6547p+4kpHnHX+SVzNcoHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x17 - Sonrisa",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3JR6LnV/M7nUIuIQq1Mvr4HGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 01x18 - Mas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGegRJ8MUfOFdgzGwNxq+EqoHGLmP4f7TdhvbB+A1pFDA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x01 - Hola",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuC713Wg3JdNusbUFlPr/0TU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x02 - Tierra media",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuE+l9SZo9NmF19Qr4wAj0LU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x03 - 36 Horas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuESo2jgXJicn7SJjyw34nCE=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x04 - Paro duro",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuJIcBGIitieB129d9E7Ev58=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x05 - Zanahorias",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuJLh+npQu4mzRTjeN2mz7mU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x06 - Dos capas (o no dos capas)",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuCaJCGocXK/A43G7hs5Tp6w=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x07 - Hubert",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuM1rsNJaIHNzVjZie9lA+fM=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x08 - Historias",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuOvy0gAWRuiEUNHmyDxs4A4=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x09 - Empatia",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuCERkmTjNgvPavcAcvedYVs=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x10 - Cuarentena",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuGdl0AmiwPROfYRE/ux4EtA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x11 - Cuarentena Parte Dos",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuIqAULZUdtbesR//fGyP3zc=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x12 - Consecuencias",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuDtPIGMREnAzhVYPrNTu4nA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x13 - Xin",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuETZOsBwY7m+AFsVu3tr6co=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x14 - Caras",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuFMjiIFkVkBJe3uOW6dO/5w=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x15 - Riesgo y Recompensa (sub)",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuHWxYzBXyqFGWZNy2+66/6E=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x16 - Creer",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuDd6Bkb0wS/58K5ccmNd0Yk=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x17 - Desglose",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuIaX1TDXTeXgCfp3FNSGMKs=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 02x18 - Trampolin",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sGcnSWQfqYY1I68/qgdeDmuNQ0VrHkwkQkIuFWovaR3S8=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x01 - Desastre",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YKy713Wg3JdNusbUFlPr/0TU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x02 - Deudas",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK0+l9SZo9NmF19Qr4wAj0LU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x03 - Claire",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK0So2jgXJicn7SJjyw34nCE=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x04 - Toma mi mano",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK5IcBGIitieB129d9E7Ev58=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x05 - Primer caso segunda base",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK5Lh+npQu4mzRTjeN2mz7mU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x06 - Angulo de 45 grados",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YKyaJCGocXK/A43G7hs5Tp6w=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x07 - SFAD",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK81rsNJaIHNzVjZie9lA+fM=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x08 - Disparo de luna",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK+vy0gAWRuiEUNHmyDxs4A4=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x09 - Incompleto",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YKyERkmTjNgvPavcAcvedYVs=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      },
+      {
+        "name": "El buen doctor 03x10 - Amigos y familia",
+        "uri": "cVI+FPBxX2ASracUSyM4w4p00zzXcPOWSInLJDzM3cmHZfwxhlnO7GBuYlUmg1sG3whErLsHppkIjTPRj61YK2dl0AmiwPROfYRE/ux4EtA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZjY0ZWNkNjMtYzdkOC00MmM4LThjYzUtN2UyZWMxODk0ZjhiXkEyXkFqcGc@._V1_.jpg"
+      }
+    ]
   }
 ]
