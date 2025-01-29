@@ -3,15 +3,6 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
-         "name": "prueba",
-        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87Dk9RRm843gxOGu79gx/tcG033ctTuOHntaZhUgOu/oe+RS4Di3ZsiTEWvBXK0hB3Y=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKHga4zc9B6RT7pBNscEB4Z1cbVcjkpb2p7Z/rPSMyESYobWzL0M5VcDYdnDh84/djC5liRy/LcnqfgHPuKCXdU9JpcjIM1c1PzufxwlTXqti8l4p/AGiywu83vl7c+sWw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colores_Copa_Libertadores_de_Am%C3%A9rica_Sub-20.png",
-	"origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-     },
-      {
         "name": "Sub-20",
         "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW0NKeRJyf3K7pGwsB1u0HSq9NR8cR+xxJcWwcD+w/PnmF+auaBhkrg8ItebNaq7fOiMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
@@ -20,11 +11,6 @@
 		"origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
      },
-      {
-        "name": "Nacional vs Peñaroll",
-        "uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/f7imVZp1boqUFtTFusti55RgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQsQ94fTX74qg5PR7xOGlITJHcC4sJpdYVgmnaxBdsOmILn5HoLPjEJ0D6cZOwNQzKqikt-eKD7GpJWZDrVBT4lm6Nx5G4cj3Ag0A1XqKMsCdPJUsvnQ-r01sTarah9qKPWwOGiH2Btl1hl3z_a0yWR82mQwxM0rSRi6aGYV4NyJXxNDSbqNFXMxvs5eX1/s1600/Nacional%20X%20Pe%C3%B1arol.png"
-      },
       {
         "name": "EVENTOS PY",
         "uri": "L/5viSVQd/57F42w8Jx1k+fB2FsBtA7kYl6evdsSXOzKPLHhbuqbanFOQa9XqOA4EYoB5LB6mD3W7lZUW+w1yZqqTWqYuY/GfYAWYmrXoO1UXPTOaG/xv1jnZSoDx3/qMP1Ah/8L7qBqs0hqjJ2Vlw==",
@@ -3377,11 +3363,13 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "CANAL",
-        "uri": "fSRLihPHpiZYh+tZq26pSxDlIHsBGjZA9INeVn+3oogDo+sfdnN7M3k3qL3ceM29IhPfKF2XYnN+Uq1rgzaEFw==",
+        "name": "prueba",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87Dk9RRm843gxOGu79gx/tcG033ctTuOHntaZhUgOu/oe+RS4Di3ZsiTEWvBXK0hB3Y=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/L3HyeEyL8YnCyENm9gB53HmIlA0mE0I6dmacpvJ5Jl+pk4ptpIQPPgJwTgL0CQuA",
-        "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKHga4zc9B6RT7pBNscEB4Z1cbVcjkpb2p7Z/rPSMyESYobWzL0M5VcDYdnDh84/djC5liRy/LcnqfgHPuKCXdU9JpcjIM1c1PzufxwlTXqti8l4p/AGiywu83vl7c+sWw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colores_Copa_Libertadores_de_Am%C3%A9rica_Sub-20.png",
+	"origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       }
     ]
   }
