@@ -293,6 +293,11 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
+        "name": "AMERICA TV OPC 2",
+        "uri": "5sPvEqxpLv3Cy3/OvRUqHGoWNIPPRm6z0GwagWZap6i/qSRThJrW+QpIVtgvQIfCYrYba0SQWTzJw6SGYwW+5XYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"
+      },
+      {
         "name": "TV PUBLICA",
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBXI14gcUId9dvA55++zUdDg8Zbf/0qwk7ZA7In/FB5Wjbi88NGBa7FjJLVcgGnHU8XkUuA4t2bIkxFrwVytIQd2",
         "drm_scheme": "clearkey",
@@ -1734,6 +1739,11 @@
     "name": "CINE & SERIES",
     "samples": [
       {
+        "name": "IMAGEN UNIVERSAL TV",
+        "uri": "YmJz0tZgpPTkinHfEMpwp+TsfSck2ogKQIaH4I2dgnLS+khl6YY2hvwq4oMZG1ePto045rz3w1NR2G+R7LhOLA==",
+        "icono": "https://image.roku.com/developer_channels/prod/083ee8a7ef1943f965f756c9ba5f5217fe59156f7f97b8c9e23ea326db71c74d.png"
+      },
+      {      
         "name": "MEGA CINE TV",
         "uri": "m5vHCqngBgGTaV6+JvulO7ZWb5371CADdlLFDwfKv25HAM/AVmREcy0d2dRXO2yYhs3GxJNSfoJr1OEg7A8/jA==",
         "icono": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffec8403b690ee3d6bb645b6e8d9e1e85070e865bc1b4ad14e8af28261e6ce1ad.png"
@@ -2166,6 +2176,11 @@
         "icono": "https://www.justwatch.com/images/poster/303950866/s718/the-smurfs.jpg"
       },
       {   
+        "name": "duckTV",
+        "uri": "eGPZDGLVjiErACqEdXYWqQ8ylf64mElcmMuUH1fc3/J6vjfc0kaw5zS79WBUGUCD6Ub9lDqoOy31YX/7jitJj0To32UH3yNBtwHEOUX6t1D3A92zHxspQ1E/QWrzlVEfuejVdblUNO68rKosQGIqwGx+8NhknMtkj8fcgJupo73iYdAml9iQMdG8EtseqCvDRZ1AqbfI/wh7g5tRP81OGDyncW9Nj9hiV6KuHIz0nmnKDboDJ8Ez+VGBtBCKH52+dMVWdHfuA6LM3bCB1O/du6uoCadTRHCR/Ppq4Kt9PfxeChMs5MV81/mvkAiTaS9SAiZMBiXa/drJuteSOIU84X7JZ2h/Rva2hNkAj66THSFp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://play-lh.googleusercontent.com/QcstsCGM-pNCHrA-d6Ig2lS7NnIm9lX2Kww7jgZAV3_JJ9p-VKKwnZMmJr72sw69z944"
+      },
+      {  
         "name": "Bob Esponja",
         "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ4VEzAuz3r6v2Mtlq8XJ/2oTbB8gIUfQHPDA0PzVtm60UNzLsUpXieXajvS6X4mNd+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
         "icono": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png"
