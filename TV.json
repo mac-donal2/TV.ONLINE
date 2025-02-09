@@ -510,6 +510,11 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "AVC HD",
+        "uri": "xMH67dcrFiyqFaVoEHSZ4F1H2oKy706aHLiTs+Ff2Amk6bxnwIMZTkzGM3dc/dqyapM4SWZYKD/yRfJ0Xi6b5scEMF1e4JlL7bBSxKyWrvI=",
+        "icono": "https://th.bing.com/th/id/OIP.XEFw5qLHaMFUmvkkcCbpewHaHa?rs=1&pid=ImgDetMain"
+      },
+      {    
         "name": "CANAL U CORDOBA",
         "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gQKQBR1HBjhc0nqrCty/f1Bm2FSVaCR4wsuPIumsFqKRg==",
         "icono": "https://yt3.googleusercontent.com/ytc/AOPolaS6nOtptS4HASXy1O9uP2_mXS6r0gfzchQMzWeO=s900-c-k-c0x00ffffff-no-rj"
