@@ -1158,6 +1158,11 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "DSports",
+        "uri": "CYlQWvgrBt33TVbofiuilMifBJbCkTJsLhB4Y3GHNMDwCjwX+VxEh6zfk03Qrvj2BoIFZNUA9oGJ0YG1MNBPOkPrETChZFIqxDEXizX+T951LG6fSanfXya1F8G953OWKcokKxksGXLxfbKYpsPtYMqWCaXkFvUKrWSIIPucf94dEoATRXZP3+LIjtGYXae02LQ8jcK3XLtOzn9TTJJO/A==",
+        "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
         "name": "Show Sports (Córdoba)",
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBVzNSwpiY8o8ZH8QMPKV3hW4cmRc3FNzGKGP4gdK3pLpczBtvcx38JzacNaTtjSNF7Drd1amBAWHEXvIHEE3rHi",
         "drm_scheme": "clearkey",
@@ -1451,6 +1456,11 @@
   {
     "name": "DEPORTES BRASIL",
     "samples": [
+      {
+        "name": "DSports",
+        "uri": "CYlQWvgrBt33TVbofiuilMifBJbCkTJsLhB4Y3GHNMDwCjwX+VxEh6zfk03Qrvj2BoIFZNUA9oGJ0YG1MNBPOkPrETChZFIqxDEXizX+T951LG6fSanfXya1F8G953OWKcokKxksGXLxfbKYpsPtYMqWCaXkFvUKrWSIIPucf94dEoATRXZP3+LIjtGYXae02LQ8jcK3XLtOzn9TTJJO/A==",
+        "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain"
+      },
       {
         "name": "BAND",
         "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQSw7mZOx39XR8uoaKGcWZ+RRBWq5aifGL0+UoOUEZ8Bwg==",
