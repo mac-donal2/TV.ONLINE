@@ -2116,14 +2116,7 @@
   {
     "name": "INFANTILES",
     "samples": [
-      {
-        "name": "ZooMoo",
-        "uri": "zCUYs6wqunCy3n3+nDEDPm/zd8+qGtun0ZIGYwG4Ql7mzjFxEuSg2uY0hlTh0Rgc",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAtXG7PdTCj4fOkDWIDIFu8KVX9ZEmwtlOSM/pL3ySYle1xU3aDp2mlt2MRPanrOhEFa3qVvO0kkGRgwshpXXlpu+BeF5JY7viJ+332orM/JPV8KJD5wPq3Is8ijuBTuYg==",
-        "icono": "https://i.postimg.cc/2SFjp7Pb/zoomoo.png"
-      },
-      {
+      {{
         "name": "PAKA PAKAA",
         "icono": "https://yt3.googleusercontent.com/BiKtAopqKvmO5iH0sh347sIkao7S07nb8DAEYZbx-XGDRUBBPdCqf4M745mjRiDMVdJx3bm7iQ=s900-c-k-c0x00ffffff-no-rj",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIQLmTLIuzLpxhnqOjYVqS4KfRGfx8145jABGMZZQICPAsRoK0slxW3eDYWfZbOYH8=",
