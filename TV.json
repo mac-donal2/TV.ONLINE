@@ -1794,6 +1794,11 @@
     "name": "CINE & SERIES",
     "samples": [
       {
+        "name": "Terror TV",
+        "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png",
+        "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SozvghOZnwlhRIEyz8Frsqrc+dgU5mAGtEEhOwcGqGCqdQA=="
+      },
+      {
         "name": "MEGA CINE TV",
         "icono": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffec8403b690ee3d6bb645b6e8d9e1e85070e865bc1b4ad14e8af28261e6ce1ad.png",
         "uri": "m5vHCqngBgGTaV6+JvulO7ZWb5371CADdlLFDwfKv25HAM/AVmREcy0d2dRXO2yYhs3GxJNSfoJr1OEg7A8/jA=="
