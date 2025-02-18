@@ -1792,7 +1792,12 @@
       {
         "name": "Terror TV",
         "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png",
-        "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SozvghOZnwlhRIEyz8Frsqrc+dgU5mAGtEEhOwcGqGCqdQA=="
+        "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SozvghOZnwlhRIEyz8Frsqrc+dgU5mAGtEEhOwcGqGCqdQA=="        
+      },
+      {
+        "name": "COPS en Español",
+        "icono": "https://i.imgur.com/rUhLqaU.png",
+        "uri": "9FMGhRnkPlLLCt/cUgwMNahq2AR3BxI7roEhjT0XQqc7puYLGv/ETVIHakAyOE73O5ng5OI3DZx3T3I9dt9BFg=="
       },
       {
         "name": "MEGA CINE TV",
