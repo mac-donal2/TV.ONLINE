@@ -3,25 +3,6 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
-        "name": "Cosquín Rock Aquí",
-        "icono": "https://www.newsdigitales.com/wp-content/uploads/2024/10/cosquin-rock-2025.jpg",
-        "uri": "VVuV5WrICOZ5O+/1O1i20TAdqOrOWYhYcMoggderXQWYOiH2EiCDZmvspOvzpVfu2lcgwKQbmaLx7ftKca6uLzZpVZ/lLQGT0lICGEoGmRKg3/5Ynu+Noo5YPEZTTFA/G939S42xRGInFSz2vmGbepLHKrdGjsNwtIx3eITRlsOeAi1CN+8TNYIOCndvzUnhaAvfVOhNn1iH9Lp8kq12riqgdYGHvmenk13qjETTAr+DADNNBE7iXUL14S2Y+BqrLrrEb73xHtPQ7VfFMkaH/4NARVoQWmbbLUeFMmgHLa8="
-      },
-      {
-        "name": "Cosquín Rock Aquí",
-        "icono": "https://www.newsdigitales.com/wp-content/uploads/2024/10/cosquin-rock-2025.jpg",
-        "uri": "s6lkVIoPbziSbY2jFblHdA+DVC5ht7QitAeGetuMFquQxTYS6aAp8HWVq1PuYkwg2nbez3emo9+8U4YPrnej+ZuD+n5Bv78yPvFSAy0BPhU="
-      },
-      {
-        "name": "Sub-20",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colores_Copa_Libertadores_de_Am%C3%A9rica_Sub-20.png",
-        "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW0NKeRJyf3K7pGwsB1u0HSq9NR8cR+xxJcWwcD+w/PnmF+auaBhkrg8ItebNaq7fOiMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLI2NRk9LJZp3QAOp3DrjnKdVyLB0u5t2tAMjOui4tKcy29kTm2b4ZHpwZ1bwTmwoc9TZT9hg499TKXXK2PabHpQYD/O7J2zrot5unTfrW6dEs=",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
         "name": "EVENTOS URU",
         "icono": "https://th.bing.com/th/id/R.a6ce79ebf66a8e9c8f942ddd856d1018?rik=J5GPNxovj17QXQ&riu=http%3a%2f%2fwww.brandemia.org%2fsites%2fdefault%2ffiles%2flogotipo_campeonato_uruguayo_2.png&ehk=FTNk1LxD4g%2fE7ezKjXNgTFJyhyR9guRUvYj5zxawkKk%3d&risl=&pid=ImgRaw&r=0",
         "uri": "mzBHFZTO5OrTE1MccUc1x0TZoRzYK9USoNx9yCtM1Q09niUnQtTTPbGyw3IBb3qM9DQTRwb9mNa3fy+c2l4cIraNOOa898NTUdhvkey4Tiw="
@@ -56,11 +37,6 @@
         "uri": "L/5viSVQd/57F42w8Jx1k+fB2FsBtA7kYl6evdsSXOzvHQRBjSUMVbUmgKjmqgxIEDuIaX2rhmlECroc3KoWjbevmNZnyrmHSHZenGSkU6DLqRGdipAmdVUEYSz87+0n",
         "drm_scheme": "clearkey",
         "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIR5WvnpOMD5URRu6DWEhTi1XXTk2dPUEvWKBXN2aS/VKMWCxO4o9GHX26GHY+EN3qxvGRATrBDV+B8JJJJ97zfWwKPcE58ARX7gr9lFYxka8="
-      },
-      {
-        "name": "EVENTOS PY M3U8",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
-        "uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/VsCj5/ePyoxBqjIPAxZr9TPlfXT8/U1OL0hyxkaN3XY="
       },
       {
         "name": "MLS",
@@ -1610,7 +1586,7 @@
       {
         "name": "HBO 2",
         "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb02.png",
-        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTbKiMIMUbSBheX4W1qSsbD1+Kl42h+Fk7IgP9YRzcMqYwmyyQSGlNXvYQbq2ww00E=",
+        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI8hq9Res1bDOWczaBq94DF6nT6Hvimv06WkG3Z+aGnrJL+HCx0KpWyIT8AYNnMIt8=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLImjoag5vKKb8kEp+LLRQZERnEyDYHe6SDvlDUqa8eF0DoCOfqZX1hYnvL3NVKCoiwsL/XsIaNmAgwlidzRGIdgPr4gTMgY2AHzvNn55ZIgN8=",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
