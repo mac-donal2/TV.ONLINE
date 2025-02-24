@@ -1147,7 +1147,7 @@
         "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain",
         "uri": "CYlQWvgrBt33TVbofiuilMifBJbCkTJsLhB4Y3GHNMDwCjwX+VxEh6zfk03Qrvj2BoIFZNUA9oGJ0YG1MNBPOkPrETChZFIqxDEXizX+T951LG6fSanfXya1F8G953OWKcokKxksGXLxfbKYpsPtYMqWCaXkFvUKrWSIIPucf94dEoATRXZP3+LIjtGYXae02LQ8jcK3XLtOzn9TTJJO/A=="
       },
-      { 
+      {
         "name": "Show Sports (Córdoba)",
         "icono": "https://www.dz-techs.com/wp-content/uploads/2017/01/showsport-logo.png",
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBVzNSwpiY8o8ZH8QMPKV3hW4cmRc3FNzGKGP4gdK3pLpczBtvcx38JzacNaTtjSNF7Drd1amBAWHEXvIHEE3rHi",
@@ -1773,7 +1773,7 @@
       {
         "name": "Terror TV",
         "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png",
-        "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SozvghOZnwlhRIEyz8Frsqrc+dgU5mAGtEEhOwcGqGCqdQA=="        
+        "uri": "6L7uwyiepnXOYcZFkqv0cSSXdVdLuduC6JoOVQ7SozvghOZnwlhRIEyz8Frsqrc+dgU5mAGtEEhOwcGqGCqdQA=="
       },
       {
         "name": "COPS en Español",
@@ -3256,6 +3256,71 @@
         "name": "CHARRÚA TV",
         "icono": "https://i.ibb.co/ts4GCSf/charrua.png",
         "uri": "QyO95PVfAMWOtY+wyc5KLJhMy0/iYme5LdRLFeZ6QCs487MVCJQXmWqbbUS6rpNpRBWq5aifGL0+UoOUEZ8Bwg=="
+      }
+    ]
+  },
+  {
+    "name": "🇨🇱 CHILE",
+    "samples": [
+      {
+        "name": "MEGA",
+        "icono": "https://i.postimg.cc/bJXJChdr/megacl.png",
+        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRZf4brMk3IiceKAmiFwYhp5aV/7oFtBKStMC2eStByozGQq+XmdvD4d/ErgF3W796xBS62/Aa6CTih58McfsLKeyYkDlrGKwFMQ7MiyyBH9IA=="
+      },
+      {
+        "name": "CHILEVISIÓN",
+        "icono": "https://i.postimg.cc/63RNPxRj/chv.png",
+        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRYekh8HTIJdXAFqleY1sieMP6fBINhZ8gL0kpwX+G25bLyAgJqJmtNBUfj/idBzX8AOZWAobHdSNHUM7KB1wrzQdpN1+jirYSX2ko6hS3S8AA=="
+      },
+      {
+        "name": "CANAL 13",
+        "icono": "https://i.postimg.cc/SR6D2kYM/canal13.png",
+        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRaVPTmv2cQffTyd3bbDcQKKDLhR7mtqTNqSpylPfx9IKwkEqNQq4hg85u1voXmZTbQxqCrFNGzEkoUJFctJB/em/2h3Kj2yVuyiTEEZk5+XoQ=="
+      },
+      {
+        "name": "LA RED",
+        "icono": "https://i.postimg.cc/MTtYqvyv/laredcl.png",
+        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRbE5tnQgedHz5Ib47ST54CBcyt5aqf9G+l9zvaSXlHmswOAznIEOInGnZJ9K+KLQbUovs9WY5frA8BFWBigAg4hOYM6hW+/Fye5bgU8fFwkmQ=="
+      },
+      {
+        "name": "UCV",
+        "icono": "https://i.postimg.cc/4NcWqv83/ucv.png",
+        "uri": "8ZJw0UUv0Xe/ExtodpANuk6RyKTgqs1hzA59+rjXlN3+9HTSw4b4gK22apiygqsk4ezJduu/wFNigeD59w1h2XYFOZgBrRBITsHBqhgqnUA="
+      },
+      {
+        "name": "UCV 2",
+        "icono": "https://i.postimg.cc/rpwbB00Y/ucv2.png",
+        "uri": "8ZJw0UUv0Xe/ExtodpANuu4xTOIEWOFmz7BROJZivPr0rDyo9pe3hslIL8cKL38ZTO2QrnmARQnCYaWd7pgtescEMF1e4JlL7bBSxKyWrvI="
+      },
+      {
+        "name": "TV+",
+        "icono": "https://i.postimg.cc/jqF1GStM/tvmas.png",
+        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRZC2pCl6kaNZmz+lVTG+AxAEbFioI+Z0phNfHS9vdABb0Y0zIymEBBNmdhxLlfzkauxephuMtBFKMve/Utrs3qrNVZerS0I5GxsNzZKUxldlA=="
+      },
+      {
+        "name": "TVN",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2761/CH_LOGO/800/542/0/0/655345470739.png",
+        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRbKh6VbZCxpcU/ARHHmXVqfP6fBINhZ8gL0kpwX+G25bLyAgJqJmtNBUfj/idBzX8AOZWAobHdSNHUM7KB1wrzQdpN1+jirYSX2ko6hS3S8AA=="
+      },
+      {
+        "name": "NTV",
+        "icono": "https://i.postimg.cc/4yfXqNGf/ntv.png",
+        "uri": "Wf3A6FOGB3p1GJMkruYPHiVfuBMhlzx7xeuCRoJMR6rHBDBdXuCZS+2wUsSslq7y"
+      },
+      {
+        "name": "24 HORAS",
+        "icono": "https://i.postimg.cc/fb8sdvsC/24h.png",
+        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRbyA/Ct91ZlTAoq4/46bwCjP6fBINhZ8gL0kpwX+G25bLyAgJqJmtNBUfj/idBzX8AOZWAobHdSNHUM7KB1wrzQdpN1+jirYSX2ko6hS3S8AA=="
+      },
+      {
+        "name": "CNN CHILE",
+        "icono": "https://i.postimg.cc/ZKPr6w76/cnncl.png",
+        "uri": "/nRAlpFi6ddQyQcPN0yqZhOVzxg8vR3K0Oyb/j2gJRbz+V41X+Pnl+FcxV8201IRc1mKuEsxZgvslNVMTyi4zK1BY7SL1QmlwNIudMqfXFpg3AhGGlLi/lGGGJAjHB0nFAR8vUU41dlaA8JJvXjyyA=="
+      },
+      {
+        "name": "CHILEVISIÓN CONTIGO",
+        "icono": "https://i.postimg.cc/g2B46w5R/chv-contigo.png",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ66OI+Kidhlb8pebw3SS+pwCg3KTTInSwSoi9iSJ7yLB7FPwiRGkCbjOHF4qfT7ZF+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw=="
       }
     ]
   },
