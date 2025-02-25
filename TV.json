@@ -266,6 +266,14 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
+        "name": "EL TRECE OPC 2",
+        "icono": "https://github.com/portedev/algo/releases/download/f4rg/3l13.png",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87Cqrt5EB+6e1dOmxPEnefHsjpqatF/7SlIsA1k1fI6aM8upEZ2KkCZ1VQRhLPzv7Sc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIMjLoZFC4exdFOpdI/LGkHtWrzgmHfPAV2wfdd5j661IaEkysZ3NVd45LDlJOjuS4XwuPS1WVYCZ6EjbjUaacF2LC9cnwEtWiZ+CKC0Na+PQ=",
+        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUuwAGbm0MYvx7eIsSHXQ8k92xnrs4/7gY6P/G7vV1YBRv4k+bO3QWwhRP/1s/f7XIW0W1aS4qqXXD8emWe24QDj3Dvlr1YEHzAJor01D+gQBgSB7YUUBUkrhSFsKx//8T/YrWhXae+yRCidnA4pZjKuXyO8Z1VMIxTAvcy0wpdVldKNRpNnq4z9ks2tzXzAHVrxRSaqJAOJb0FpsdSCW37bTWwhfiyYQue4S+3MZR8i2kuTHTgmYQMvUYr0SjzPETK"
+      },
+      {
         "name": "CANAL 9",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/el9.png",
         "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTt1LUV2HBc01T2pvaTTVj/dN7orolIuiNsb95MJCKp0O8fQDdlspbHc1h8iz1H8Nc=",
@@ -2653,7 +2661,7 @@
         "uri": "u4ZWz+4IwMVIZ0G3/rGFJsoWxDFPH/+Ivx9RxmnpXJnRHndsFBd3pRJVt/zc3bKYwaZniLiFD3SDaO5yPZU63A==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIb/4R5qVphDqQuqchOoIoXqa8irgB3yNkj7sAZxmhuig7wk5ogUJj2iK1nf1MjY5OsSodPxCEaNVMlj4eEaqHDlcnPb3brOuX+tkIaQ9CkmE=",
-        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUuwAGbm0MYvx7eIsSHXQ8k91Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VeHkGqUeNecRqXmnf+X4cycoSv8lPUjPlXL5LZkh5Ogp"       
+        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUuwAGbm0MYvx7eIsSHXQ8k91Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VeHkGqUeNecRqXmnf+X4cycoSv8lPUjPlXL5LZkh5Ogp"
       },
       {
         "name": "LOVE NATUREIDIOMA ESPAÑOL ",
@@ -3570,7 +3578,7 @@
         "uri": "79FeaXt4xRaH3cn6OoqUr9ZOM5Gq0YjNgkuUYvJVgmZDlFa8OwPZpidvjNI1NGFeiE6u4/3NiV+tBPkbT/TA4w==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmJbMZXE7jlKKIZqV6j4Ctyz4bpPcFT7YXKcXjILS+5rD1/Xwciv/Btb9v/Q+WshLllawoiN3QIYebff6zyRIRGY3maMCVZvgdzvA7WBC/0ZGS272McFCmevFewjC/h2ehHnEx5qTrR/ZPWihPbFxa/vV4iHfNk/a55tWiywSpTBrZ8CUCbARfOTCAtyFlv86ks8MX5gNzrWGMKCZVqX9QmYt3VBhzpsrKtCkQZzs65D5SA+SQ0pCcIgN/7NoeMjvW/N8NgGFe4pd/+IdKCowjj8xhrUDfRI1TCzb82TZagsk2w/1w+LSs5x+m++EBEdZlBP3e/xOK42LqMHSwIJOs8mW/PdrT1Kc+Lu1Z5R9jPKG7OsTrlAzJq7/KtC49Shck",
-        "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUuwAGbm0MYvx7eIsSHXQ8k92xnrs4/7gY6P/G7vV1YBRv4k+bO3QWwhRP/1s/f7XIW0W1aS4qqXXD8emWe24QDj3Dvlr1YEHzAJor01D+gQBgSB7YUUBUkrhSFsKx//8T/YrWhXae+yRCidnA4pZjKuXyO8Z1VMIxTAvcy0wpdVldKNRpNnq4z9ks2tzXzAHVrxRSaqJAOJb0FpsdSCW37bTWwhfiyYQue4S+3MZR8i2kuTHTgmYQMvUYr0SjzPETK"
+        "drm_data": "MaK5aR6nT3VGOTJnOUMP3zehjaMrhyMEJVQD9U1yVuanOkLaamknTWOyFRbxuTKD+5QqATL4UD2UjqjdbIrUu7Ro8CGLngly822MVRTfdrWkm9hs3Dh0j+1YNTY+1lWWpfnViat0fDUmSIy3GA5RwFp3EfVroObJtP+Qj5kA7LW4im5E0G3uLuHAXniizplI"
       }
     ]
   }
