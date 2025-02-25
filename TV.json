@@ -3,6 +3,12 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
+        "name": "Barcelona vs Atletico Madrid",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSvxHLIdo1xGDnlIStePFjgXiUqiY1f35WnDrsFlMVtReLjvao50NlihBlsfjwjv9QJNDz9vF9glLVZmjVxpnkbEBDr7LAe6Cwumkqc-Y-MIful0W2nUVB_Cs50MDEJCRTdkXGG8kUIhS6yZhdMFA2x40l3M0iSXeY-PkXSDCmjmOgG4nKLb_w2Qg8xVj/s1600/Barcelona%20X%20Atletico%20Madrid.png",
+        "uri": "mzBHFZTO5OrTE1MccUc1xwlCiYjotOxmrNyI82c0SY1JR7bbKj72BUMILWTJtK5k2e9H+6PDfiC1C09Q/p4CV3YFOZgBrRBITsHBqhgqnUA=",
+        "drm_data": "mESqMy5mnUeygGRYSjLRpFelTPjMdcKB7VqsCK3Cu/9p9QGkYSzNN1seh+xItnAJopSt99n3lnRHg0GkyVgAOo/VicWTtJqG/c1uoV7Bvvqcy04278s8ESVHrCS40m6c8nziUPH7H7Y1j4Z2BoX9ClOty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIm5xymZhEwmGCAflg39DsX26lWulMNrRkxsE3zBV1f0RWULtZztA5wI/3eahEsnC4vzpXo9qghY6Km+/Ftxi6kM="
+      },
+      {
         "name": "EVENTOS URU",
         "icono": "https://th.bing.com/th/id/R.a6ce79ebf66a8e9c8f942ddd856d1018?rik=J5GPNxovj17QXQ&riu=http%3a%2f%2fwww.brandemia.org%2fsites%2fdefault%2ffiles%2flogotipo_campeonato_uruguayo_2.png&ehk=FTNk1LxD4g%2fE7ezKjXNgTFJyhyR9guRUvYj5zxawkKk%3d&risl=&pid=ImgRaw&r=0",
         "uri": "u1IRYdPRgdyUFxgorz/A1d2RAIycIrtNwVrKKULKnbp22QYClnjYCTN9ZCNBnTB2VwOLOa+dyYZwbBR81GIk/Q=="
@@ -237,7 +243,7 @@
       {
         "name": "GRAN HERMANO CAM. 3",
         "icono": "https://i.ibb.co/Rc6mwSb/165046651702354048.png",
-        "uri": "f0YMHEftxMWlMUQxJyitgESS31rQ3rvnR+E+4n7NAbRvuhmIkK7GEmjmVgOWpY8AMp0uhzqqxahiGhAnaSChoA=="
+        "uri": "gvuZ39gDgv25mT0cbuHVGrgyBrVlblpq+Tg/nReSy0TIxlaLKH9TC1dBnP62N6EVS43nceoE1pKvDWuGFSqT8A=="
       },
       {
         "name": "MIX TV",
