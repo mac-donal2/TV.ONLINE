@@ -2288,7 +2288,7 @@
     "samples": [
       {
         "name": "ALF",
-        "uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/XCq+6iRc4r+XuQK7Ll1WHHYFOZgBrRBITsHBqhgqnUA=",
+        "uri": "nainWZNQ8Iqu28VsYRPIFrDCOvvR9VCa4U8bGF1SM/TiMB4qeNCNXzy5fuwLYYnWdgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://fr.web.img6.acsta.net/img/d1/c8/d1c81873e1695f764d6a1e18076365eb.jpg"
       },
       {
@@ -2297,9 +2297,14 @@
         "icono": "https://vignette.wikia.nocookie.net/animaniacs/images/d/d9/Animaniacs_%285%29.png"
       },
       {
-        "name": "EL CHAVO DEL OCHO",
-        "uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/DYpjgX3NpKw6CW+7MadQKzUaSE45kgWPRpIsupctm7eDQEVaEFpm2y1HhTJoBy2v",
-        "icono": "https://es.web.img3.acsta.net/pictures/14/06/11/10/42/410953.jpg"
+        "name": "El Chavo del 8",
+        "uri": "nFWBwWE4toAPuFD2ogzUC0DIifeG3nQVXPP1hVVdcNxMYOxreB7hRHxo7Ad6bTaJg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/08e88050b1e2ffedd1e49ad58df3cb4cfad4aa7cd8f4b2a7373a2062ccef8d4a.jpg"
+      },
+      {
+        "name": "El Chapulin colorado",
+        "uri": "nainWZNQ8Iqu28VsYRPIFkfR6VJPbmf4KybGd+4vYlehq6BuC+gELh68synYHHaoaKmTegJthtyM7z19xpIgUg==",
+        "icono": "https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/article/2017/05/10/chapulin-colorado.jpg"
       },
       {
         "name": "Bob Esponja",
