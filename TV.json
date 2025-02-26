@@ -1160,32 +1160,32 @@
     "name": "DEPORTES",
     "samples": [
       {
-    "name": "DSports",
-    "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain",
-    "uri": "CYlQWvgrBt33TVbofiuilMifBJbCkTJsLhB4Y3GHNMDwCjwX+VxEh6zfk03Qrvj2BoIFZNUA9oGJ0YG1MNBPOkPrETChZFIqxDEXizX+T951LG6fSanfXya1F8G953OWKcokKxksGXLxfbKYpsPtYMqWCaXkFvUKrWSIIPucf94dEoATRXZP3+LIjtGYXae02LQ8jcK3XLtOzn9TTJJO/A=="
-  },
-  {
-    "name": "DIRECTV SPORTS",
-    "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
-    "uri": "CYlQWvgrBt33TVbofiuilP8n9u9NITLVubzZfsaYa2M8GrVVsotQ8mGp5mPfvD4SdaVciInx/1phtAtS2Z/AWUdoiI1hkslmpXG8phBSUdqmKrpAtev+BsP9o2vSaIqiHZEjwc3ySnuuCo2c3ctFzg==",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj66gZUdplrl9Q19Li6ddHzoBaeOQC5B3HMPhPFrje2g56Q=="
-  },
-  {
-    "name": "DIRECTV SPORTS 2",
-    "icono": "https://i.ibb.co/fq7hDfV/Direc-TV-Sports-2.png",
-    "uri": "CYlQWvgrBt33TVbofiuilP8n9u9NITLVubzZfsaYa2M8GrVVsotQ8mGp5mPfvD4SkhScXxMEr35IytsbGL131DlUyoL4Q2tWjshQS429xf39rlZPzZIU6j1gr9fHi8DX3cjTvqrXQ+6b3s4gg/aBtw==",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj65we1IBytWmKOmKgrtjGkrBaeOQC5B3HMPhPFrje2g56Q=="
-  },
-  {
-    "name": "DIRECTV SPORTS+",
-    "icono": "https://i.ibb.co/FWN7wFQ/Direc-TV-Sports-Plus.png",
-    "uri": "CYlQWvgrBt33TVbofiuilP8n9u9NITLVubzZfsaYa2M8GrVVsotQ8mGp5mPfvD4SKiuPHZAqwTrf7q6rujWg2tAC1vf42/Fs9Xb5dax4tyBJIEOK8Mgsrp2DW0goL0kP3cjTvqrXQ+6b3s4gg/aBtw==",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj65IuCWN6AUyF9IgIAMbpRYbaeOQC5B3HMPhPFrje2g56Q=="
-  },
-  {
+        "name": "DSports",
+        "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain",
+        "uri": "CYlQWvgrBt33TVbofiuilMifBJbCkTJsLhB4Y3GHNMDwCjwX+VxEh6zfk03Qrvj2BoIFZNUA9oGJ0YG1MNBPOkPrETChZFIqxDEXizX+T951LG6fSanfXya1F8G953OWKcokKxksGXLxfbKYpsPtYMqWCaXkFvUKrWSIIPucf94dEoATRXZP3+LIjtGYXae02LQ8jcK3XLtOzn9TTJJO/A=="
+      },
+      {
+        "name": "DIRECTV SPORTS",
+        "icono": "https://i.ibb.co/rp0rp5k/Direc-TV-Sports.png",
+        "uri": "CYlQWvgrBt33TVbofiuilP8n9u9NITLVubzZfsaYa2M8GrVVsotQ8mGp5mPfvD4SdaVciInx/1phtAtS2Z/AWUdoiI1hkslmpXG8phBSUdqmKrpAtev+BsP9o2vSaIqiHZEjwc3ySnuuCo2c3ctFzg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj66gZUdplrl9Q19Li6ddHzoBaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": "DIRECTV SPORTS 2",
+        "icono": "https://i.ibb.co/fq7hDfV/Direc-TV-Sports-2.png",
+        "uri": "CYlQWvgrBt33TVbofiuilP8n9u9NITLVubzZfsaYa2M8GrVVsotQ8mGp5mPfvD4SkhScXxMEr35IytsbGL131DlUyoL4Q2tWjshQS429xf39rlZPzZIU6j1gr9fHi8DX3cjTvqrXQ+6b3s4gg/aBtw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj65we1IBytWmKOmKgrtjGkrBaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": "DIRECTV SPORTS+",
+        "icono": "https://i.ibb.co/FWN7wFQ/Direc-TV-Sports-Plus.png",
+        "uri": "CYlQWvgrBt33TVbofiuilP8n9u9NITLVubzZfsaYa2M8GrVVsotQ8mGp5mPfvD4SKiuPHZAqwTrf7q6rujWg2tAC1vf42/Fs9Xb5dax4tyBJIEOK8Mgsrp2DW0goL0kP3cjTvqrXQ+6b3s4gg/aBtw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj65IuCWN6AUyF9IgIAMbpRYbaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
         "name": "Show Sports (Córdoba)",
         "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBVzNSwpiY8o8ZH8QMPKV3hW4cmRc3FNzGKGP4gdK3pLpczBtvcx38JzacNaTtjSNF7Drd1amBAWHEXvIHEE3rHi",
         "drm_scheme": "clearkey",
@@ -1806,6 +1806,48 @@
         "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
         "referer": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "GOLDEN MULTIPLEX",
+        "icono": "https://i.ibb.co/BTjfF3p/golden-multiplex.png",
+        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6jLqnDvj0h6aoTgeUAi8NZiPaZnb9POzIvHRM83jp5ZWpB74pH5wcNyJLOqXlY0gu0=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPv4W+wdjd8r9PlnvNdePpXKRA/YDjkqQRJQgvqnCAxcM6HXa4URcboiOUiaBevvfM1HdVH/UZQLKFa1ilGCZYHBmHHLLefT6bXE1w/O/fwjqJjlH0rEmS85sNQwWp23QA=="
+      },
+      {
+        "name": "GOLDEN PREMIER",
+        "icono": "https://i.ibb.co/6D60Brn/golden-premier.png",
+        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6h4FqHtwoyuCnzplzz4osY9czpZVXvNm7ZeqlGMeIosc5YqC3yz5gdfQ+UBRW8OXEo=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEuN5i1tUT+Ufm8OGql7lDPtbaLWGOX0ubYhneELHC9Bwv09BjM4VBWOOYOmHFffwcRcuRN8/zCsx+IxdkXtvoeangNcpVfuWKL9QrrRCM1ESKSJVo1J0rFtzMblU96/Cw=="
+      },
+      {
+        "name": "GOLDEN PLUS",
+        "icono": "https://i.ibb.co/NyNYXrx/golden-plus.png",
+        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6jLqnDvj0h6aoTgeUAi8NZi1LHY9DJHYQnyQyv9k1HTH8HNaa5qVd5DWtCk/6fjXVU=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPWDRVNCOWcUP8LWdeSU3/0KgY3XpsI2sJj3IswuoSUXQ3rS5tiu5KugjmaTILGGtSYN/M0raVaQh2tqrQLNM2bl4VAF9kGsYPjn8gQDJfoir0EIK4P90IXj4FM7tJDDeA=="
+      },
+      {
+        "name": "GOLDEN EDGE",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/800/542/0/0/86179590071069.png",
+        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6jfIc39YtyiXCxTwEFcL43kSRn8Yv7fxr58sNUilN91VtTeLOuaw1tUCBGYFI70QVc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYqexshP4Sb+yLYVFZLEfNHM+VT+TGgbK0WTIBgUSoMoyCGqeqGr00kxAavFRL6yPcGMMwi+GKqVsofvJDwhTz5/eUVEV1SgEftZ8eGzMJNCTbZa1xrwKGTk7fD5GGXug=="
+      },
+      {
+        "name": "DE PELÍCULA PLUS",
+        "icono": "https://i.ibb.co/dkrqJF6/DPel-cula-Plus-2021.png",
+        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6ixCigp6kzzTbEXrrFRe/oRBabZoQMi/7zYGBhgt+bD5tTeLOuaw1tUCBGYFI70QVc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK6dbJUVXWgSOEjcAEffIxdjJXhg0calVwSCDm0FCVjg+4y/4D+qAb9Ftj8rLaq7OVxjNBaOCiLUBzet+m0Ihvd0J9PxnHiHwV2HpjN8iBZaPn8SyN0ZUGYJTzzwTVsdAg=="
+      },
+      {
+        "name": "DE PELÍCULA",
+        "icono": "https://i.ibb.co/DCxcBBw/DPel-cula-2021.png",
+        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6ju2KQavrULyxCNp1zuqEqESgRlH9zi1pkbhA7dLdgYA9TeLOuaw1tUCBGYFI70QVc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBImXksfAljeUa+HE8VbtVp9x6q9IR8aYKeU/LvzAx/mPK/mUrEtU16WxtteBxbVm4T7wIcfs134Js26W8rnjwOLWfBCs5pcEvywl6VSZONkXFr1MVxm7n+zlRjwMrEWZQ=="
       },
       {
         "name": "Terror TV",
