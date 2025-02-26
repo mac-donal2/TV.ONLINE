@@ -3,18 +3,14 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
-        "name": "Sub-20",
-        "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW0NKeRJyf3K7pGwsB1u0HSq9NR8cR+xxJcWwcD+w/PnmF+auaBhkrg8ItebNaq7fOiMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj64dz6FQFNEhyCdUhnLnSiiFaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colores_Copa_Libertadores_de_Am%C3%A9rica_Sub-20.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+        "name": "EVENTOS URUGUAY",
+        "uri": "u1IRYdPRgdyUFxgorz/A1d2RAIycIrtNwVrKKULKnbp22QYClnjYCTN9ZCNBnTB2VwOLOa+dyYZwbBR81GIk/Q==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
       },
       {
-        "name": "Nacional vs Peñaroll",
-        "uri": "cVI+FPBxX2ASracUSyM4w3e+RmTj4FZ1kSMORhEz3svqIcIlq4ciD5EguOTjEA5/f7imVZp1boqUFtTFusti55RgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQsQ94fTX74qg5PR7xOGlITJHcC4sJpdYVgmnaxBdsOmILn5HoLPjEJ0D6cZOwNQzKqikt-eKD7GpJWZDrVBT4lm6Nx5G4cj3Ag0A1XqKMsCdPJUsvnQ-r01sTarah9qKPWwOGiH2Btl1hl3z_a0yWR82mQwxM0rSRi6aGYV4NyJXxNDSbqNFXMxvs5eX1/s1600/Nacional%20X%20Pe%C3%B1arol.png"
+        "name": "EVENTOS URUGUAY OPC 2",
+        "uri": "CYlQWvgrBt33TVbofiuilMifBJbCkTJsLhB4Y3GHNMDwCjwX+VxEh6zfk03Qrvj2I1hLVMwalAxd6WY5XSFkOhNrZOOkMSXPsy6ktD2r2XHmkXPucRAY1qn+faK+zaaVjbGmBnUX38qXPbDsCWiNZPaY3VlBxwBnfL1ytEXvb8aUYBkgUevuzSw9buuw2hgj",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
       },
       {
         "name": "EVENTOS PY",
