@@ -1771,6 +1771,15 @@
         "icono": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffec8403b690ee3d6bb645b6e8d9e1e85070e865bc1b4ad14e8af28261e6ce1ad.png"
       },
       {
+        "name": "ADULT SWIM",
+        "icono": "https://i.ibb.co/wrBd7Lbh/adult-swim.png",
+        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTfW1azWsW9b9z5VB9HOJPJKfRGfx8145jABGMZZQICPABRt33AnTTtdmMpSpJlBqs=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIKJGZB2n6w39TrvPCHLJkvauvNdA0R/JiAFisX91rsn1Hm8bhtwlaOFlgSqqhChIIywS4C8WzlHx4FFEPDSNtM15S+zvZJsTobMRTmqcQCj8=",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
         "name": "GOLDEN",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnTXSaTdTD8TFUZeiThL6VEqBHLjxgIV6GdERPiY9msFCF+UlPiZdDjgHCn1uteK8rk=",
         "drm_scheme": "clearkey",
