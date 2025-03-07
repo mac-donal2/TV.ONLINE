@@ -3,20 +3,6 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
-        "name": "River Plate vs Talleres",
-        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTusMIjYmmEE1Z0+w1SWGhGKfRGfx8145jABGMZZQICPHtAnN+gG7ei+/A++ufE/yI=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIa1ZMh1m8ChA9jXaLtbKECE730HtLacAZGdqzE9NWYEfT6yG7BlpRLXT4HTm4WGHHJlGWTnWS8leThsb+usuQdf7CUXpoWwdTeyv9L+ChStg=",
-        "icono": "https://www.ole.com.ar/images/2025/02/24/klisclyeI_1580x750__1.jpg",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "River Plate vs Talleres opc 2 nico",
-        "uri": "gvuZ39gDgv25mT0cbuHVGogyp/dg5tvJO3OJXNENUnPIxAAUHg0jEZ2y9bc6Q98n",
-        "icono": "https://www.ole.com.ar/images/2025/02/24/klisclyeI_1580x750__1.jpg"
-      },
-      {
         "name": "EVENTOS URUGUAY",
         "uri": "u1IRYdPRgdyUFxgorz/A1d2RAIycIrtNwVrKKULKnbp22QYClnjYCTN9ZCNBnTB2VwOLOa+dyYZwbBR81GIk/Q==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
