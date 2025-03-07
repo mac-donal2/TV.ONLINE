@@ -3555,7 +3555,7 @@
       {
         "name": "CANAL DE MUSICA 2",
         "uri": "zjglrEZRxLpazV0OZN+WkF0a34m7YP6Urhra+cDSLSt34TDlQNzTBAOpB3zk4iQWJ5ceDUbPL9gg4GxrL2CDA8upEZ2KkCZ1VQRhLPzv7Sc=",
-        "drm_scheme": "widevine",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB3Uf739SsASCG9h179pljL2m9KSxK3n/det3GOdsAzvDj/qaoLfdZTYAAw9IMRjEA9+Cr18Z2xVC9Bq9dg9TBvVJZp88DAawrJX8y0l76ODLEdHMvfPB2uiDO/hT+L/Kw==",
         "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png",
         "drm_data": "8IzLrmtGJe+VyDdhjKRygtfh2XLrkPG+t9zGwLyWx9X0C9Jl2Y6ovPMbgv5lO4cfywPFQh7QrBk5a9fsA1zwHo8UKpPq3CkjknjkY5F45nZdO82THnK/LyMdWa/DaHLgRsdW/wQjnTO6u2oV6tcw+Y4dAyA0vKaI0BGviVtBjXQJjjr2BAKc48stIvAE9wUT+gDgk7Om5d99vkgI+YHG3OE/tyFoekcHYUcND3uwBsA5l4ZxHJEmWJqVpS6fyDyzTUqyvuWVaIT/fzdNPICsJOgxSiwbhsF7YcJiH5/hbCNOkB2uAUa5SdxGBt1c/CDF"
@@ -3573,6 +3573,15 @@
         "uri": "bfsqx3vw1V1VbH3weQ2sneubL60mvy4aN5BzJJPHtsmEPISWZlcViJabOSS5azgFRjWrTNBC7/lj75VJymu1mMHNaa5qVd5DWtCk/6fjXVU=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJwy9is2IMoTTMLILrhkBLY5geHTmdgFG6DCKaRam4B3DtBgfeGCIpwzGBDcW/5WXOXJk8gmmivT38Vdyqyqb1JPARxRPvlp1kV79qW89LNhDL8SJaXG4DS6J5woDkah0w=="
+      },
+      {
+        "name": "CANAL DE MUSICA",
+        "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBVz1ZzaOmfr58dAcdKDqlXDzqd55S/lncg5MX/ad+tk7DJUU/HUV2wCnCLp7ER6vI4qCbexk8uxiMbYWn28FniL",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIEvDW3oLpiR3giSTF2N7ooYO9ASfCa1EVk5/K682zfSEejoACtjgb95xWKZwP5TwwVnpLYZBHL748RNjdGzQorcEvCpOlF8z+D6PUHkJrpck=",
+        "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       }
     ]
   }
