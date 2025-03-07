@@ -3,6 +3,11 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS",
     "samples": [
       {
+        "name": "EVENTOS URUGUAY NICO",
+        "uri": "gvuZ39gDgv25mT0cbuHVGogyp/dg5tvJO3OJXNENUnPIxAAUHg0jEZ2y9bc6Q98n",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
+      },
+      {
         "name": "EVENTOS URUGUAY",
         "uri": "u1IRYdPRgdyUFxgorz/A1d2RAIycIrtNwVrKKULKnbp22QYClnjYCTN9ZCNBnTB2VwOLOa+dyYZwbBR81GIk/Q==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
