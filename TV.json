@@ -1169,7 +1169,7 @@
     "name": "DEPORTES",
     "samples": [
       {
-          "name": "DSports",
+    "name": "DSports",
     "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain",
     "uri": "CYlQWvgrBt33TVbofiuilMifBJbCkTJsLhB4Y3GHNMDwCjwX+VxEh6zfk03Qrvj2BoIFZNUA9oGJ0YG1MNBPOkPrETChZFIqxDEXizX+T951LG6fSanfXya1F8G953OWKcokKxksGXLxfbKYpsPtYMqWCaXkFvUKrWSIIPucf94dEoATRXZP3+LIjtGYXae02LQ8jcK3XLtOzn9TTJJO/A=="
   },
@@ -1185,7 +1185,7 @@
   {
     "name": "TNT SPORT ARGENTINA HD",
     "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
-    "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBVz1ZzaOmfr58dAcdKDqlXDzqd55S/lncg5MX/ad+tk7DJUU/HUV2wCnCLp7ER6vI4qCbexk8uxiMbYWn28FniL",
+    "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmISc/TQSVAkvM7sjk6cjyyox2Z3Q5zoy6wLRE4bfFkEwb8OK7jFQDm2ydDjcGIiI+a8yN0lwzwlrDkIzM40cuPa",
     "drm_scheme": "clearkey",
     "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIEvDW3oLpiR3giSTF2N7ooYO9ASfCa1EVk5/K682zfSEejoACtjgb95xWKZwP5TwwVnpLYZBHL748RNjdGzQorcEvCpOlF8z+D6PUHkJrpck=",
     "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
@@ -1194,7 +1194,7 @@
   {
     "name": "TYC SPORTS SOLO EVENTOS",
     "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-    "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBWDADwVLoL3402uGEmy+00/M9xsYfNJ+fzGjPVE4s7qeQcJcSEtAObVPqtRpsfFvb/lYyX2YEIwwXj5kEpDAhe7",
+    "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKWgVlVvCJMMQP/gqTIJhFKFPq49dw02yBht+JAa2ihax9RBOd+FUyAeAcoEYctJZLu/z8QAUaM/kvaCYEISAAk",
     "drm_scheme": "clearkey",
     "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIa1ZMh1m8ChA9jXaLtbKECE730HtLacAZGdqzE9NWYEfT6yG7BlpRLXT4HTm4WGHHJlGWTnWS8leThsb+usuQdf7CUXpoWwdTeyv9L+ChStg=",
     "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
@@ -1203,7 +1203,7 @@
   {
     "name": "TYC SPORTS",
     "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-    "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBVNHByYB4Pqg2zcmxHdB4NBXIQwF065CR0jU5ejfRs/bGNwe24tAAwIDA+AjGrfqzquzh8udIgoqPK+KY3xEjg7",
+    "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIjYvbFq9hQfqE3YG+wLxcreXv+bDJvrWp4ZCsPu9aCV1ubII0OzD5+l11GVmkzWzTBzWmualXeQ1rQpP+n411V",
     "drm_scheme": "clearkey",
     "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIoQiNXy4yojnXcN5l1ZMn+B8oOAJxUOv7Z7SH1rNlLnWstzMjDyIu+EGUhm9vDWnxv+bO0XvwNNHpsOpzBQWaZ7dUat6yGJT9T0x5SS23oBc=",
     "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
@@ -1221,7 +1221,7 @@
   {
     "name": "FOX SPORTS 1",
     "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
-    "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBWJjOfTzhMSQUx9+XN6L4nRiG1mrDzKplz7B1UKcFTEkq6dGz2147hlhZHDHeizO0XNVsLGykDnp8ayGwYX764v",
+    "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72qFg1SDWXWnezHyZkilPJ2Vo4ZeffaLUqA3S4Agk8awiMJsskEhpTV72EG6tsMNNB",
     "drm_scheme": "clearkey",
     "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIPz+/yhV8Jkj5IhzONULoG4Lmk7lFmVuibZ/BUH783YPrVG2i4ppetTorOAovjq3Pvza4m8qpq1oG6QQ/gLGLRzDzRSkabQstNgn7NrOu/J8=",
     "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
@@ -1230,7 +1230,7 @@
   {
     "name": "FOX SPORTS 2",
     "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
-    "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBWJjOfTzhMSQUx9+XN6L4nRBMxL+y7UDP9K9vIWdg15zdBAp7ggytpcBSmCqd6YmE+MLfhZv8q+mFmQbWNkDJBs",
+    "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72eKqfQUlHPI7niWQyYV3hN66dGz2147hlhZHDHeizO0XQPoACQcWeudJ+raG9XpoC",
     "drm_scheme": "clearkey",
     "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIIjNg0vdqmdA4m6rLbQlIwd6lRio8kzHTeORsGByVlT47+V1uELOdMce4M8RJ2T7FNqfBkqqQwwEUTRYC9V3sN9zIojnfE/taOzR+VVK2Vrs=",
     "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
@@ -1246,7 +1246,7 @@
   {
     "name": "FOX SPORTS 3 ",
     "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg",
-    "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBWJjOfTzhMSQUx9+XN6L4nRsXR6qyOXogmFaaOyza+HUNBAp7ggytpcBSmCqd6YmE8TQxw0mmGl9mpGrSB85zQh",
+    "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72309xw6xvbhaJx3Bglhpbe66dGz2147hlhZHDHeizO0Vjjl4F9DsyX35+z/meTxUx",
     "drm_scheme": "clearkey",
     "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIOHd4j3tFl2TvU72L1LabdeRpMaotd7cDzG6dCUzdYzop68KkOnaayKXeQGQ0fGulanNNQDj5VKhksbbs/otGCyzOfLAOvyMNdyKJ6yI9W7M=",
     "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
@@ -1262,7 +1262,7 @@
   {
     "name": "ESPN",
     "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg",
-    "uri": "vv2MqVjRYAgej6+VjDkym6C0WvUx+ynwpqje8EMjFBWDADwVLoL3402uGEmy+00/5johxha/Wgu3bSUmCqyDfq3DS2f6D2N+wIyhAzsIIgPLqRGdipAmdVUEYSz87+0n",
+    "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtarBklMmBU6Lr1aSS1SPrIZp45ALkHccw+E8WuN7aDnp",
     "drm_scheme": "clearkey",
     "drm_license_uri": "sW5yKTByzVPyjwj1GuN6Zx7tykYwJpYYVaps8ayPJw/MQ1oPSmg0dbQp3YPLHMLIlEnAFgrbqXMc85DdLnVskLuPfwkwSwhPZWf3bJjLENIFzSla/NCg1TTlSPSn69V/J+8a61WATersMukl58i4FGNXYVcfy4IbAHHML0Rh670=",
     "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
