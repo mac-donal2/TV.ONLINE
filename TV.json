@@ -3255,13 +3255,18 @@
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
       },
       {
-        "name": "MEGA",
+        "name": "MEGA TV ",
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI7xlhpuj0wHACr6TZhYsQ3N5gw8OKnzvy/MPwhhUszaPrVQJ6kj69Y14VHHqO64OM=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPOS9jh+PLJyQr6wr504WvTmiAEDptyD8qjnhsh5G6Myp01nlHaj25pgjygJj8haIRWwYDm6GfpXHtUwSjTQu3BhInKdOEQTxOO0tizXT3a5opdFtMdtkKXoy5qCHM00YA==",
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "MEGA TV OPC 2",
+        "uri": "H7Er6lJ+mu9KNjDxokGA0O3mXdMJQXlY+9+eW/KYMfBjulEO7g3Ic3FyYIWtan2IFFNXbPRZPPgBUOStpdsfMcM/TCMA9l/U4v6tbpk4bc2KsSa25CNPgt8Qba3SpAc4xwQwXV7gmUvtsFLErJau8g==",
+        "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
       {
         "name": "PARAGUAY TV",
