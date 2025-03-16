@@ -1337,9 +1337,14 @@
     "name": "DEPORTES",
     "samples": [
       {
-        "name": "DSports",
+        "name": "DIRECTV SPORTS",
         "icono": "https://th.bing.com/th/id/OIP.FFzrqKN0KBqvnB1dbb6TZQHaHa?rs=1&pid=ImgDetMain",
         "uri": "CYlQWvgrBt33TVbofiuilMP0kjg0N3IF7A5AkgfT71+sbFgHVCrqPuST/3xvI2upFUO9R5N0+JXZipumKg4iFivNsCaYvu7UYbTtFGbb4stUloXqlo2GmFZXrWR7B3ONTsJZ4/XpYoYNLVdu9mpf1YIZOwQrslSyADpdPL/EijtFmkIzDfbygMk6Xi52oPhK"
+      },
+      {
+        "name": "DIRECTV SPORTS PLUS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DIRECTV_Sports%2B_Latin_America_%282018%29.svg/1650px-DIRECTV_Sports%2B_Latin_America_%282018%29.svg.png",
+        "uri": "9a+3OrVoQLVpaf7mTtMdnwe7wrR02rQyDGuRx5CIIPjrZM3jZB3BrvhOGX7gcGtPb2t9Ass/iBTuxF2GLiOx3FSF+nS+RFyJunBkPXuNKFERgegK3wcec9iGgWudsHySVSojNymRJsGjbE4xT3xuuKnNZC0vz1JJheA9RvkEkBJ6kqUKypE/5G+VCPZ9pW18dgU5mAGtEEhOwcGqGCqdQA=="
       },
       {
         "name": "Show Sports (Córdoba)",
