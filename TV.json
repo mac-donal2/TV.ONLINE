@@ -3222,6 +3222,11 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
+        "name": "TELEFUTURO OPC 2",
+        "uri": "N9ajkBuCLeRvNoHtrnDC6nK66zW+Kb9iNmkWB6azdiLWlXudNqe670cw4iJeaQfBsIkZlqCvr8VyEiELR2KXF0w1pqdu0TPRi4ys+biYYbIQOJT/GjI2PBBRHutjTQ1WTdPYBgc080sF/T+T+Z0laQ==",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
+      },
+      {
         "name": "RPC",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmILJY3plgsj/sbBcCCa1B16Nax8BtIxs644Ae7NEnLoU4NWgRALzTXXl6Kx1xIWQr8=",
         "drm_scheme": "clearkey",
@@ -3231,6 +3236,11 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
+        "name": "RPC OPC 2",
+        "uri": "2KSbLO6KxOEMcfxfsyOmpNKamGajZd/agbNJnKphTcvaBH8oCSdMD02h6/jvH+GUd4gCZ9rc8W1xut8FznQLUPuOgFN6bwdt9+JDarRv+VTft/cJmMQwufNzKCrQnuu9",
+        "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
+      },
+      {
         "name": "UNICANAL",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLYzA6Jiv8qXUtpXqQyJPJnN6k7cemlWyjzovQMtEwkhIJIa3B6MCN7R+1OpZWG+t20QKVmwQqQKkSK/nhxynf6",
         "drm_scheme": "clearkey",
@@ -3238,6 +3248,11 @@
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "UNICANAL OPC 2",
+        "uri": "x5fH52382EY5XRDPIOQaahFL7LCw3ceuAtU5f7nfzhGwxhUpYRh2bfNhKY1IyLq5yKS/5Dz+Bh+ydz7TsHtHfccEMF1e4JlL7bBSxKyWrvI=",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
       },
       {
         "name": "MEGA",
