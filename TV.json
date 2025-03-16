@@ -64,7 +64,7 @@
     ]
   },
   {
-    "name": "NOTICIAS",
+    "name": "🌎 NOTICIAS",
     "samples": [
       {
         "name": "DW: ACTUALIDAD",
@@ -237,7 +237,7 @@
     ]
   },
   {
-    "name": "ARGENTINA",
+    "name": "(🇦🇷) ARGENTINA",
     "samples": [
       {
         "name": "GH",
@@ -1172,7 +1172,7 @@
     ]
   },
   {
-    "name": "PACK FUTBOL ARGENTINA",
+    "name": "⚽ PACK FUTBOL ARGENTINA",
     "samples": [
       {
         "name": "EN VIVO: Premier Padel 2025",
@@ -1339,7 +1339,7 @@
     ]
   },
   {
-    "name": "DEPORTES",
+    "name": "⚽ DEPORTES",
     "samples": [
       {
         "name": "DIRECTV SPORTS",
@@ -1651,7 +1651,7 @@
     ]
   },
   {
-    "name": "DEPORTES BRASIL",
+    "name": "⚽ DEPORTES BRASIL",
     "samples": [
       {
         "name": "BAND",
@@ -1725,7 +1725,7 @@
     "name": "DAZN",
     "samples": [
       {
-        "name": "LALIGA",
+        "name": "⚽ LALIGA",
         "icono": "https://i.ibb.co/Jq8BrD8/daznlaliga.png",
         "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDtKnabK1oInLqQkIunlqNlIcs+LeDbzur29fCPJLsmHAbJ6ZdtFs7OsqMQuDDefiRLI9PrVAAWgFVIWfhSqcNoew+QNYmcPs3DHfPdJrMGug=",
         "drm_scheme": "clearkey",
@@ -1783,7 +1783,7 @@
     ]
   },
   {
-    "name": "PACK HBO & UNIVERSAL",
+    "name": "🍿 PACK HBO & UNIVERSAL",
     "samples": [
       {
         "name": "HBO",
@@ -1888,7 +1888,7 @@
     ]
   },
   {
-    "name": "PACK UNIVERSALL",
+    "name": "🎥 PACK UNIVERSALL",
     "samples": [
       {
         "name": "UNIVERSAL TV",
@@ -1965,7 +1965,7 @@
     ]
   },
   {
-    "name": "CINE & SERIES",
+    "name": "🎥 CINE & SERIES",
     "samples": [
       {
         "name": "MEGA CINE TV",
@@ -2349,7 +2349,7 @@
     ]
   },
   {
-    "name": "INFANTILES",
+    "name": "👨‍👩‍👦 INFANTILES",
     "samples": [
       {
         "name": "ZooMoo",
@@ -2477,7 +2477,7 @@
     ]
   },
   {
-    "name": "SERIES ANIMADAS 24/7",
+    "name": "👨‍👩‍👦 SERIES ANIMADAS 24/7",
     "samples": [
       {
         "name": "LOS PITUFOS",
@@ -2662,7 +2662,7 @@
     ]
   },
   {
-    "name": "CULTURA",
+    "name": "🐢 CULTURA",
     "samples": [
       {
         "name": "HISTORY",
@@ -2843,7 +2843,7 @@
     ]
   },
   {
-    "name": "NOVELAS",
+    "name": "📺 NOVELAS",
     "samples": [
       {
         "name": "TL NOVELAS",
@@ -2904,7 +2904,7 @@
     ]
   },
   {
-    "name": "CANALES CRISTIANOS",
+    "name": "🙏🏻 CANALES CRISTIANOS",
     "samples": [
       {
         "name": "Dios Tv",
@@ -2976,7 +2976,7 @@
     ]
   },
   {
-    "name": "PLUTO",
+    "name": "🍿 PLUTO",
     "samples": [
       {
         "name": "Guía de canales",
@@ -3401,7 +3401,7 @@
     ]
   },
   {
-    "name": "URUGUAY",
+    "name": "🇺🇾 URUGUAY",
     "samples": [
       {
         "name": "VTV",
@@ -3578,7 +3578,7 @@
     ]
   },
   {
-    "name": "BRASIL",
+    "name": "🇧🇷 BRASIL",
     "samples": [
       {
         "name": "TV GLOBO",
@@ -3660,7 +3660,7 @@
     ]
   },
   {
-    "name": "PERU",
+    "name": "🇵🇪 PERU",
     "samples": [
       {
         "name": "América Televisión peru",
@@ -3710,7 +3710,7 @@
     ]
   },
   {
-    "name": "BOLIVIA",
+    "name": "🇧🇴 BOLIVIA",
     "samples": [
       {
         "name": "RedADvenir Bolivia",
@@ -3735,7 +3735,7 @@
     ]
   },
   {
-    "name": "MUSICA & RADIOS",
+    "name": "🎵 MUSICA & RADIOS",
     "samples": [
       {
         "name": "FLOW MUSIC",
