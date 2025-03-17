@@ -67,6 +67,14 @@
     "name": "🌎 NOTICIAS",
     "samples": [
       {
+        "name": "CARAS TV ",
+        "icono": "https://i.postimg.cc/4xB7XF5h/6437e3e2-ea4f-4c04-88d1-4a2899004b09.png",
+        "uri": "76DGB0IgoqtoJze5On82khoqnmZWYF/Z3p47NKJjjSI5VRnPDlhUoHFM2+zrfGlTfOKykGtfd2k5uJ+yP5PCJxzxC1aKKOVtee9GsbBR+3c=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "4tuggFGGz9hjdSOjQI03Vi/21kUC+U+iuArfMuwspbg6LIUiF1Lrvon9t7jeVuwa",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
         "name": "DW: ACTUALIDAD",
         "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2Ivte5t7NJBVAGiktqdNu7QqyJvd4mKOM7GWbys6k55n/",
         "icono": "https://www.infobae.com/new-resizer/_oR7hsVt9U6Qe8eVIHFocJ_iznQ=/992x992/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LPNB3QLSPVE7JGHYNDXJBD4GAE.jpg"
