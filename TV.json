@@ -532,16 +532,6 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
-        "name": "EL 8 SAN JUAN",
-        "icono": "https://i.ibb.co/p6L8PgKQ/AIdro-kl-Ca25-At-M10-Lyt0-ALi-UHHNw9kk-Ep-K9-X51-A1e74-Hr-Bm6-Q-s900-c-k-c0x00ffffff-no-rj.jpg",
-        "uri": "ePgB3XLxxk+y+PbxGKDF4qpFG13LJKh4esF27JhttXoJzuKOOIqo6itMi9fF1lybnA5JDWkINYQXEf5dk8FpnyN6WqtZ8bcz7lDacP61ufBTaIpx0903uJuae9VlEk79CgHmw7sRuef9CcRUJI+yL074jPvh0/j2aiOoCLq/wTBhG5ph3AHwKCO8yyPsUsxVJcRtGQIixB1ccOYEx1pWvkpBazal8IsA4eZMIy/7eWUZaKeeb9x05CfBjmwC2DK6JuwLa0D3gxkHYUYmlxZ8Lx2UImfUb/yBJ1RfIdUn9dKi4UrfGd3kYEZdKiAqffjWKG8ZfOjwZCN9xu9R9v9C0f/VHd7uB81Fq8aUMAHu2q3Co7gYaFtw+TqWhlH++5929fxX8RF3M+iYk/ddOIeH5OcZWUauonINOo7Bgxua7TmAvNFtN4klc35r+OEGRcMMIRjtQsd3on2kkRd0xbdoqo/8Wm9tY7/bvGzB0lO8hsXuqxP8KoTt1+AMgeXzwvOUFJEbvIMNZMYbcG1n4MXwRWHEzA5ZB2avrDLbaT+z1io5QpI/XfgKLvc2VG6lIl4jHJgjc8ZLnP0z7mgm9yuQM5T9oDdFlYfYAfgLv3F6wCPU1x+kUGJfy+cJHD4UcYcoO3+xx/6pKW9VnqfrHGAtWmvuXgsVrHkUMY++G2lmJZnrIcQnKKtaU1YnVOdr/Fp3g4YD+A8WBma7TTlhDoWTZZOIDHJSlDNGAXjIbtvgSBfBlCC7zSz4+gJ/+9tOwCBFnfnnH9cOTlZXy8+WAh9MevCq6y0wrAYo7H817kWgQaYhKwyZVkbYp7wFLaVn7a2dF2Z2ZLt9bk4Nm8kV51AZtXO/g0ju1HtsSjJP4K0WAwPszq782S5bSq2BSbqowhgroqQw0OlqV+orJgysAZ+120X8ZfOJNJ9/2SLlskSOmyEnL2m3w3ublnUPCROV+16GpTiDQVzMvoloRJ0Iqzv/YIuh2lT7CjYJUTwxjN4D8peVkPu5rQOIJ8ocC2j+mfmVFmjdDjw58FC41NDyBfaP+0oP2YCbKX0aglupleZOv9jPidrJCBPAtyRJFDtaHhH/9AWaPgOCQD1kn9rEIYrfr7wIUDf6s+SzWgXOEXFtWjdLjedx6gTWkq8Na4YVKpPw"
-      },
-      {
-        "name": "AVC HD",
-        "icono": "https://th.bing.com/th/id/OIP.XEFw5qLHaMFUmvkkcCbpewHaHa?rs=1&pid=ImgDetMain",
-        "uri": "ePgB3XLxxk+y+PbxGKDF4qpFG13LJKh4esF27JhttXoJzuKOOIqo6itMi9fF1lybnA5JDWkINYQXEf5dk8FpnxmXjsuHLf6H7zcr4JgaEtSPZpwmJxnR9px+RhLoFHuoRQrmN211gX7Nx5umGFM0edAzUCxS78Hjl89EF7WZLiu9uwLYlN4nSy8QmHaPCkgbVTHelwOe8SrMuo10y/r21WdLmNA3iN58H9hFjClKwSvaNGTJCSlV+pHZtftxMl10zlffJuKWtrwJ3DZKf8tB8gYTmmbX9U1VGqzE0Im358AS9suF8xN3hRROngKguYczw59OZ/eyzl9tzqXMpz/BLoasN8mXGdLRPvwLkejHyyRWPAjQyNft3EfzLmk7XklXxxpjEy9+GSBqPDPlcVyN02XiJd7MjQuZ70QAgf6FDYuIUmvQ2C0h05TBIy4IlJqV1Eo9ik8w4ez+HwH+SRGO3uJjb5FqmAnE3EExOcKc4SOLW1XaEsGF98KWVQOhZzW16sqdhiX38T37FfnjDL7a98BjxKQ8dBMvM033B7d4pBH9Bnr+hJFGctsu618N2BlziJDGgCePUH9mwdllacd5dNJ0aBPDiW0yzuZwXc3Nx/ay+f2XitaBQ/qLXC9MUltUhSIDjS2mWNnRcuxK1qDKnGZh7feq0SBVX9ishaKU1wnnNcbcwAVjDIzSEpfw0yH/lr2jdjukFpWw9AytPmPVgcHhp2XuFFv8nScBuHSj4PuMeOI8jhe0c+9xBN4ONLqqm9Q095/r5JFR721Z+h/x9D7QKF4a9MnTc6fCPEQLvr2fyv1Pd7ERLU3hnYYX9EOUxcolk3+ItDjXLnDgXxl68WGc4KcrIw/EzzIxYal0SszaZmIAyIuWACeZ4AOAr2hIwAzseB3KcFvmDRwAumeLDY6Zzw/Li8/laQbszVWzge5F/GXziTSff9ki5bJEjpshJy9pt8N7m5Z1DwkTlftehqU4g0FczL6JaESdCKs7/2Cc9937MM1AVoY+8WtOgkmQ/eZyOJT1F/th2kx8FrspM24eEZ1ZbzRMHCjG2c8DXVWD56glU1KAoc93FIf4zoCXI7tv6DyUuYgIqmzjChj17Qx3LFD8T/WVAgxKWpnZN6HkdFIoykc4H8Z/ZYAzNU07aKmTegJthtyM7z19xpIgUg=="
-      },
-      {
         "name": "Lapacho Canal 11",
         "icono": "https://i.ibb.co/p6L8PgKQ/AIdro-kl-Ca25-At-M10-Lyt0-ALi-UHHNw9kk-Ep-K9-X51-A1e74-Hr-Bm6-Q-s900-c-k-c0x00ffffff-no-rj.jpg",
         "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyDR5q/W01trUYw9J17s5o6to045rz3w1NR2G+R7LhOLA=="
