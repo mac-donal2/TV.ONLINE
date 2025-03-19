@@ -532,6 +532,11 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": EL 8 SAN JUAN",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_(Logo_2018).png",
+        "uri": "ePgB3XLxxk+y+PbxGKDF4qpFG13LJKh4esF27JhttXoJzuKOOIqo6itMi9fF1lybnA5JDWkINYQXEf5dk8FpnyN6WqtZ8bcz7lDacP61ufBTaIpx0903uJuae9VlEk79CgHmw7sRuef9CcRUJI+yL074jPvh0/j2aiOoCLq/wTBhG5ph3AHwKCO8yyPsUsxVJcRtGQIixB1ccOYEx1pWvkpBazal8IsA4eZMIy/7eWUZaKeeb9x05CfBjmwC2DK6JuwLa0D3gxkHYUYmlxZ8Lx2UImfUb/yBJ1RfIdUn9dKi4UrfGd3kYEZdKiAqffjWKG8ZfOjwZCN9xu9R9v9C0f/VHd7uB81Fq8aUMAHu2q3Co7gYaFtw+TqWhlH++5929fxX8RF3M+iYk/ddOIeH5OcZWUauonINOo7Bgxua7TmAvNFtN4klc35r+OEGRcMMIRjtQsd3on2kkRd0xbdoqo/8Wm9tY7/bvGzB0lO8hsXuqxP8KoTt1+AMgeXzwvOUFJEbvIMNZMYbcG1n4MXwRWHEzA5ZB2avrDLbaT+z1io5QpI/XfgKLvc2VG6lIl4jHJgjc8ZLnP0z7mgm9yuQM5T9oDdFlYfYAfgLv3F6wCPU1x+kUGJfy+cJHD4UcYcoO3+xx/6pKW9VnqfrHGAtWmvuXgsVrHkUMY++G2lmJZnrIcQnKKtaU1YnVOdr/Fp3g4YD+A8WBma7TTlhDoWTZZOIDHJSlDNGAXjIbtvgSBfBlCC7zSz4+gJ/+9tOwCBFnfnnH9cOTlZXy8+WAh9MevCq6y0wrAYo7H817kWgQaYhKwyZVkbYp7wFLaVn7a2dF2Z2ZLt9bk4Nm8kV51AZtXO/g0ju1HtsSjJP4K0WAwPszq782S5bSq2BSbqowhgroqQw0OlqV+orJgysAZ+120X8ZfOJNJ9/2SLlskSOmyEnL2m3w3ublnUPCROV+16GpTiDQVzMvoloRJ0Iqzv/YIuh2lT7CjYJUTwxjN4D8peVkPu5rQOIJ8ocC2j+mfmVFmjdDjw58FC41NDyBfaP+0oP2YCbKX0aglupleZOv9jPidrJCBPAtyRJFDtaHhH/9AWaPgOCQD1kn9rEIYrfr7wIUDf6s+SzWgXOEXFtWjdLjedx6gTWkq8Na4YVKpPw"
+      },
+      {  
         "name": "Lapacho Canal 11",
         "icono": "https://i.ibb.co/p6L8PgKQ/AIdro-kl-Ca25-At-M10-Lyt0-ALi-UHHNw9kk-Ep-K9-X51-A1e74-Hr-Bm6-Q-s900-c-k-c0x00ffffff-no-rj.jpg",
         "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyDR5q/W01trUYw9J17s5o6to045rz3w1NR2G+R7LhOLA=="
@@ -540,6 +545,11 @@
         "name": "AVC HD",
         "icono": "https://th.bing.com/th/id/OIP.XEFw5qLHaMFUmvkkcCbpewHaHa?rs=1&pid=ImgDetMain",
         "uri": "xMH67dcrFiyqFaVoEHSZ4F1H2oKy706aHLiTs+Ff2Amk6bxnwIMZTkzGM3dc/dqyapM4SWZYKD/yRfJ0Xi6b5scEMF1e4JlL7bBSxKyWrvI="
+      },
+      {
+        "name": "CANAL 4 SAN JUAN",
+        "icono": "https://heroeip.github.io/logo/C4SJuan.png",
+        "uri": "eLN3lNSHxYoRNUW39GkjzhlOBn8A3LdgoQh5DIDlBwwRyRgDHX2qoI4ITg/KW2gdklv8Pnt2Ugits1ycNwQOVA=="
       },
       {
         "name": "CANAL U CORDOBA",
@@ -691,11 +701,6 @@
         "icono": "https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "name": "Canal 10 roca",
-        "uri": "e4BhnnaTNmnl73dzCNh9z5CCNDj2pB3v92iDCNHwWuS7bPx8pnKGo0/bfzLE7hnRnPsavr7DHnBP+pi0ywsA+psKuLEANXv1jj66GCW5iJ4=",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest/scale-to-width-down/250cb=20210823130814&path-prefix=es"
-      },
-      {
         "name": "Canal 6 ERTV",
         "uri": "yC5Ho3svNM9trJ+yDmsnmIGB9V+qz46W+kv+RasHp+s=",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/9/93/C6ERTV_2018_2.png/revision/latest/scale-to-width-down/801cb=20230723175732&path-prefix=es"
@@ -715,11 +720,6 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "America Tucuman OPC2",
-        "uri": "bJQa8KiQqfpZHkZ+kOyvWtLvSmGks+2iRGjUeivBw2oo28VSL4uJoXyk/p3eUI+cIKlomLfer6lWujzAndfU7Q==",
-        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-tucuman.png"
-      },
-      {
         "name": "Multivision Argentina",
         "uri": "e4BhnnaTNmnl73dzCNh9zz/MkHQc0UWf6sxHz4PF9PBld2elysc5W68OoMpgil6WsnpgvpMov6BRa9vsBfVmzA==",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/93afff6e61610492622e115373367f15.webp"
@@ -736,7 +736,7 @@
       },
       {
         "name": "Canal Nueve Multivision (AR)",
-        "uri": "e4BhnnaTNmnl73dzCNh9zz/MkHQc0UWf6sxHz4PF9PBld2elysc5W68OoMpgil6WsnpgvpMov6BRa9vsBfVmzA==",
+        "uri": "ePgB3XLxxk+y+PbxGKDF4qpFG13LJKh4esF27JhttXoJzuKOOIqo6itMi9fF1lybykhch7zPDH1NXSbrB9iY4QhBekzoqbZJEEoxjlkyvE2H/SZhVG8vxzbubOiYDvUms9ji8N9Fv9I4AAp+hfR205np5KAqUMUEPIZbuCrDd1BiLoNWOCPfC6H7mwh6w80CpvnBwr/23MiGp3sGIkyPpNSa8fbAjjscg0Y11AuO7FKhwSjaem6eIo9u14ZXMGMH4aGcFPTpmJL8UQcIZkkl2Ng17Pov/FMxW4oX2I6hWssCo9+MuR98MG867xswHBWsCoZeZbITVX2qTz0SaA8fT3R4kUPHOu0YkMIBrQ2i5ailhV5Pcbbvb7dR7mHuoplGj4cbZWuWKlBRrY92TfRAXzGdWjS15/m2l3/3zMpmSVx4rUcBfxJFIgH3TnvCWr29qkUbXcskqHh6wXbsmG21epc63+VIrn2gyPpTesnETi7JSKFqNaMXi0dISgTIrop32gIcfQkgUduVFW+pjhz48ZRk7k34siPf7vloPghdp+vPQI0+2Lnxt8AxlVZNInpORC1TnOgc6lGOPv/MTr0qMuXjCXh2dODcfnKGXqCTf+GztA+sr+2NqI8MSY2P9Jkf45nIJ2Y1O8hSzHllbzAchOTsfa6YJxl8TKuiXEVR10uTuMO0Fod5WFPeoY2WhvOijiXz8kJctRM/7ojqlyR1pofhGXyAR+l0YfopT2rK+k1uBCJqOtKwqFsuhpjv5m6kR4Ou8STlFZ+vzrp9eOOnf0U2Hi1IlB3zRp1JZ7lyi1FhVb760zgFjhuh48cH0nZW4am1hJ5SZTQS+y+ZmysOIydWxtASjU7H4kNbHswUrqLUhT2kSlE/ut47vj9OvV3/xH/q1wPj1tZKvjKLK7XN294abcfkYax2JX1QdNAZmI6pUyqTe6j4jpAUjz4kA3TmgPFKzHObjio2Zs9KsB9fNrCNzyOCPhifhrLRcqLrHgMNoTpUu4HmjYmDQ/0sP+OV4nNxHeSOSPpqNJVH4SJ8UQI7Egu3ACvdvI4aWA2XXQNTYKJx/K3lSx9WYCM5mypxsTNFzwkHQGygnuKyHdPWUFxaXob+J1mbE4LdQ9G93o8X59BifMxUJvc57bvKA44eAHW2ASmPTajuR1Y3NqH18pev1yO9yKnoN2a2jw8OyzxvwjIBEmnSY3JWhH0nLjMC0CHDyZmcPh1Nhzkl1S3NanKjS2LSJSr0TRTG8b8sL0ZYK3uvAb7Ucq5gELyy3Y6cxN874pUu8ZNyG8fYi+eLdnrtxu3bp/PjgeN52v4MECpun4IKrWD/cdBhg8Tm0KFIOTqHXPOp3U9AGOXg6KVaY2qAeF5xWa20rzWvUkTHXYMelbbdHQ1XOEWUTC5asGR6HyooxrCCNSi/mSK4pGYZQmidVJPlJgPtrjkkRiknPK67iVEff7jaHVlvhNENnis89tE+0dovhHHf7CCj9eqW7qz1XqahhnkxzAr7lvyh7PXx1HMyrJQJyjOuRq05FoMvXVgGpWk0gdCb8zQTj0VFdGnjkAuQdxzD4Txa43toOek=",
         "icono": "https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI"
       },
       {
@@ -824,6 +824,11 @@
         "name": "CHAMAME TV CORRIENTES",
         "uri": "3v9JL2E/406Wq0crWfq0HlELwUN8EZ1LaMEO+S+c2pK7dEP/BJRPIASo5lZw8jI6snpgvpMov6BRa9vsBfVmzA==",
         "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
+      },
+      {
+        "name": "CANAL 7 SALTA",
+        "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KzBXIy+4XDpYsVLw4pCFX3XeX1KYXNRO7tEWWqYI4SvkA==",
+        "icono": "https://canal7salta.com/wp-content/uploads/2018/09/cropped-logo-7-1-192x192.png"
       },
       {
         "name": "CANAL 7 JUJUY",
