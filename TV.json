@@ -2503,6 +2503,11 @@
         "icono": "https://www.telemundo.com/sites/nbcutelemundo/files/images/promo/article/2017/05/10/chapulin-colorado.jpg"
       },
       {
+        "name": "Dragon Ball",
+        "uri": "uHMiJ1zTiKJwo012PSph7nGTS3S6yUOqM9Yf/TkBLSt4uXNza7QBxFRsfrl/LWJNg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://i.ibb.co/Z1KMwdmy/R.jpg"
+      },
+      {
         "name": "La Pantera Rosa",
         "uri": "sIR/3bgfPKrSvivDX9FRqjBAoivkM4zkGecjGrdPeVMXcDRD5GD8SZv+qJAmq9u1eSS8S/cITDDBCgUwsNupe/3gAE0jOqCzMYKAg8FWnmU=",
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/c1076d1034157bf2bdc32bb9052cfa8f3beacd4f0a9bd199c12b537ec134b234.jpg"
@@ -2674,7 +2679,7 @@
     "samples": [
       {
         "name": "HISTORY",
-        "icono": "https://yt3.googleusercontent.com/0MpmmKlHqG0BdWXx0TiipcSABbIrPZKkF113gC8o-CPcX58Y2yL8WgnykcVAePa2kh_2p1TaZg=s900-c-k-c0x00ffffff-no-rj",
+        "icono": "https://uploads.dailydot.com/2020/05/history_channel_logo.jpg",
         "uri": "hgyLEf1obfi7e+6+kI5AQbwUdREYZArH4PwL1nSbyW3UeG4xLekCBg9DKfr6fo4ald28G1JdNAY1/SpE/08pqw0pPkaWnqNTiqoObfdjF/A=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLzNbLc/ZQy1RVEqwr4CsEXv5E/huCQ2n7m7BrgPsNUw9iN1xoA1+XiGHhuLCk6W0SNyaGwVZQZnhI+lHriUmcQc+zf/+hnzEjSvoFeieSr8shSAOv8Ci2yVtrn+zAJCug==",
