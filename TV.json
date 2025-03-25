@@ -154,13 +154,6 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "TV PUBLICA opc 2",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRH3VFI+a9WVdBwFdZbP4KtvY1OrOVGdluc0EqYDp/XTQVcqmxKkv8b2etfYae+WGg=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHt2t7Bpr5j4mps5QOTxPVomWntNqEDz2RqAFv0LqH16SnJik3UycG9oc4amUt1V87Eq4kHWmHUIkjO7QWT5TnCJbKqkb2XTP7zlJBRbqXBqX47ztnXvx6ELDX35TMVVDw==",
-        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg"
-      },
-      {
         "name": "C5N",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmI3k0s7brdvQZPFAUTeEn9IJYcMEM1i03IU+Vk6RK5DsyLHotHl/IG3YB4Y0lKYSiU=",
         "drm_scheme": "clearkey",
@@ -679,11 +672,6 @@
         "icono": "https://yt3.googleusercontent.com/_9yutyVeH4OQBrZaSd_Ry4VHnw3_pshLGkwzhb4SbqbpCuT5h6OWHkJCHAE3ZuxuzPw6irrLKg=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "name": "Canal 4 Eldorado",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvLdFUPLasoo5sPW7YXc0J9myvHcJd/EBNb+YFvHzs0wZsKuLEANXv1jj66GCW5iJ4=",
-        "icono": "https://www.canal4eldorado.com/wp-content/uploads/2016/10/canal4-330x250.png"
-      },
-      {
         "name": "CANAL PROVINCIAL",
         "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSc1q+lHN/7Yn4TtynHYtZ9fdthGBoux2G6ZWte+aiXl6rPwPrdwL0DBTdJ+NPn3QQ=",
         "drm_scheme": "clearkey",
@@ -728,11 +716,6 @@
         "name": "Canal 12 de puerto madryn (AR)",
         "uri": "M7YiOVFd8/MYQpGbRQULNirQyzWh8LC1A1/+5jxagqFEEL4Ujfji3prxczeY+F+eYywsh+SI7C90Pt5o7gyaQ5RgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcSW63eB5ZDEXztbvvQzqdVBZkulxCiALOy5lzQ47dE7nQ&s"
-      },
-      {
-        "name": "Canal Nueve Multivision (AR)",
-        "uri": "ePgB3XLxxk+y+PbxGKDF4qpFG13LJKh4esF27JhttXoJzuKOOIqo6itMi9fF1lybykhch7zPDH1NXSbrB9iY4QhBekzoqbZJEEoxjlkyvE2H/SZhVG8vxzbubOiYDvUms9ji8N9Fv9I4AAp+hfR205np5KAqUMUEPIZbuCrDd1BiLoNWOCPfC6H7mwh6w80CpvnBwr/23MiGp3sGIkyPpNSa8fbAjjscg0Y11AuO7FKhwSjaem6eIo9u14ZXMGMH4aGcFPTpmJL8UQcIZkkl2Ng17Pov/FMxW4oX2I6hWssCo9+MuR98MG867xswHBWsCoZeZbITVX2qTz0SaA8fT3R4kUPHOu0YkMIBrQ2i5ailhV5Pcbbvb7dR7mHuoplGj4cbZWuWKlBRrY92TfRAXzGdWjS15/m2l3/3zMpmSVx4rUcBfxJFIgH3TnvCWr29qkUbXcskqHh6wXbsmG21epc63+VIrn2gyPpTesnETi7JSKFqNaMXi0dISgTIrop32gIcfQkgUduVFW+pjhz48ZRk7k34siPf7vloPghdp+vPQI0+2Lnxt8AxlVZNInpORC1TnOgc6lGOPv/MTr0qMuXjCXh2dODcfnKGXqCTf+GztA+sr+2NqI8MSY2P9Jkf45nIJ2Y1O8hSzHllbzAchOTsfa6YJxl8TKuiXEVR10uTuMO0Fod5WFPeoY2WhvOijiXz8kJctRM/7ojqlyR1pofhGXyAR+l0YfopT2rK+k1uBCJqOtKwqFsuhpjv5m6kR4Ou8STlFZ+vzrp9eOOnf0U2Hi1IlB3zRp1JZ7lyi1FhVb760zgFjhuh48cH0nZW4am1hJ5SZTQS+y+ZmysOIydWxtASjU7H4kNbHswUrqLUhT2kSlE/ut47vj9OvV3/xH/q1wPj1tZKvjKLK7XN294abcfkYax2JX1QdNAZmI6pUyqTe6j4jpAUjz4kA3TmgPFKzHObjio2Zs9KsB9fNrCNzyOCPhifhrLRcqLrHgMNoTpUu4HmjYmDQ/0sP+OV4nNxHeSOSPpqNJVH4SJ8UQI7Egu3ACvdvI4aWA2XXQNTYKJx/K3lSx9WYCM5mypxsTNFzwkHQGygnuKyHdPWUFxaXob+J1mbE4LdQ9G93o8X59BifMxUJvc57bvKA44eAHW2ASmPTajuR1Y3NqH18pev1yO9yKnoN2a2jw8OyzxvwjIBEmnSY3JWhH0nLjMC0CHDyZmcPh1Nhzkl1S3NanKjS2LSJSr0TRTG8b8sL0ZYK3uvAb7Ucq5gELyy3Y6cxN874pUu8ZNyG8fYi+eLdnrtxu3bp/PjgeN52v4MECpun4IKrWD/cdBhg8Tm0KFIOTqHXPOp3U9AGOXg6KVaY2qAeF5xWa20rzWvUkTHXYMelbbdHQ1XOEWUTC5asGR6HyooxrCCNSi/mSK4pGYZQmidVJPlJgPtrjkkRiknPK67iVEff7jaHVlvhNENnis89tE+0dovhHHf7CCj9eqW7qz1XqahhnkxzAr7lvyh7PXx1HMyrJQJyjOuRq05FoMvXVgGpWk0gdCb8zQTj0VFdGnjkAuQdxzD4Txa43toOek=",
-        "icono": "https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI"
       },
       {
         "name": "CANAL 12 MISIONES",
@@ -837,7 +820,7 @@
       },
       {
         "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-        "uri": "8Eg+14Jus5vq0+EYuXiHLdLHA7jbpx8dUmQg/Nx1TCyTMsghjP8tB2XS1NT3tnmiFktQsy5M/Z3m8+3m9ioRWHYFOZgBrRBITsHBqhgqnUA=",
+        "uri": "btyAr/eMm0nYpwvbphkIB+6dSQHHDviGPiqPgHLvcyyGddtzipLSuAeykg9qRihTID58dYT4afscBgxgev6P4W84MUIcB01OC1aKskxyKDQ=",
         "icono": "https://fenix951.com.ar/Nuevo_2013/imagenes/165152_1590517102.jpg"
       },
       {
@@ -871,7 +854,7 @@
       },
       {
         "name": "Catamarca TV ",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvi2bc/evevids0ixbAI1OjhoAbdKUD85a8JuwoYCRnbYYMhj9XL3TuDijk3OB6dXmogrFGCJS+9qak5XElnGI0",
+        "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvi2bc/evevids0ixbAI1OjhoAbdKUD85a8JuwoYCRnbXHFbZiU2idwkphvZ4beZ80nSk6Cu+ljZVnR7umEo1xZML5InQ+BNjPoBzTmlDFmOQ==",
         "icono": "https://i.imgur.com/CEuPoqG.png"
       },
       {
@@ -881,7 +864,7 @@
       },
       {
         "name": " Canal 22 Buenos Aires",
-        "uri": "M7YiOVFd8/MYQpGbRQULNirQyzWh8LC1A1/+5jxagqES9njjBczgc6Ppi/WyyRUZbSe2ighM20fM2b0eCFxgMiXYsI7gxQb6nmEvL4N/UbAM+U7xGzJxdOsHxHL/Rk1O",
+        "uri": "M7YiOVFd8/MYQpGbRQULNirQyzWh8LC1A1/+5jxagqG63f19fGPuy+TaZd4sMVxAs7GgYvZs3M3i0XraEAtBA4fPhv8iZdFVURq78erQoRg=",
         "icono": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latestcb=20230606194222&path-prefix=es"
       },
       {
