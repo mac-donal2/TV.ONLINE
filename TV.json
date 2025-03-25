@@ -1627,13 +1627,8 @@
     "samples": [
       {
         "name": "BAND",
-        "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQSw7mZOx39XR8uoaKGcWZ+RRBWq5aifGL0+UoOUEZ8Bwg==",
+        "uri": "SG+MH9ar4TEVcDAaEZkT2B7jXlg3i5FM1a5zNCZ5WYGNeCcLG8j1rxKJYSdkz/rzbtuGvxemIdbY6iODFjrYJ50ApmF5+WmFpgd10hGHGEw=",
         "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTphqiHY96AUznO3T9HES858PcRGhgh-l9IEA&s"
-      },
-      {
-        "name": "BR NEWS SPORT",
-        "uri": "Erm3VUxjWz6m3pKUx4RnAOL6S56Uzz4+nHYTwJoGJCRT2AdZd+gDT5WuFR7carrgYPk6ZmMYRJDsXInTkB7Vfgw8VNFAXxOXr+hpiOh/Fhl2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://assets.brazilianfootwear.com/brands/thumbs/md/0d6f4f49ee1c84a907d4c5062b91dcb62833386.jpg"
       },
       {
         "name": "PREMIERE  CLUBES",
@@ -1849,13 +1844,6 @@
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEkmNoozjMWx/9IdekSu9YYfyQiMHmuf4AFlmFjDNLrJAGXecAPG926RTAi5Aqlam1VHEjV3FXqnwZWdmItGzZH4b6MM8HEQMUZSEpDFB311yaeOQC5B3HMPhPFrje2g56Q==",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "HBO POP OPC 2",
-        "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oS7uX9M6lG1UQfyoVuvUcMjbZv/HCYnsTAa9ZEaCKCBfgFVAMaSlvCvhol+ILNajqg=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKeQ8iamb908a8iThHE1Fq1GplnMIFE6lvkXC/dKGkl1Mt5m4G9eLyoazKnYZVXs3nAexASNLpiJfS6en703wNdYaOAwMW7hmofDA0pwkrOfUIiiJbHFIpyIVdBO88LR4g=="
       }
     ]
   },
@@ -3817,9 +3805,9 @@
       {
         "name": "nba1",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/800/542/0/0/29332619071250.png",
-        "uri": "iElHGfJ3J07zFkPynVajf5gnfXhHsXrTv54Y8p+SOb4viq9HTKtW08ChRCFqy+ns6KcOIG2R69kCiXlwWPE65+Zpmm3Iv9ccCKIHHbO5h91p45ALkHccw+E8WuN7aDnp",
+        "uri": "zCUYs6wqunCy3n3+nDEDPl5yIYoUgYZcfbzDvHkx9sPmzjFxEuSg2uY0hlTh0Rgc",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj65Hcub8kO8bGCDUnuWhKdH9aeOQC5B3HMPhPFrje2g56Q=="
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvKeQ8iamb908a8iThHE1Fq1GplnMIFE6lvkXC/dKGkl1Mt5m4G9eLyoazKnYZVXs3nAexASNLpiJfS6en703wNdYaOAwMW7hmofDA0pwkrOfUIiiJbHFIpyIVdBO88LR4g=="
       }
     ]
   }
