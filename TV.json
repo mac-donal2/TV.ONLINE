@@ -1120,7 +1120,7 @@
     "name": "⚽ DISNEY + 1",
     "samples": [
       {
-    "name": "DISNEY+ 1",
+        "name": "DISNEY+ 1",
         "icono": "https://i.ibb.co/6RCH2Gbd/disney-plus-logo-1.png",
         "uri": "9a+3OrVoQLVpaf7mTtMdnwe7wrR02rQyDGuRx5CIIPjrZM3jZB3BrvhOGX7gcGtPb2t9Ass/iBTuxF2GLiOx3FSF+nS+RFyJunBkPXuNKFHp8IdrkME/McLHNg2r8z1PbWqIG4YIqGTKn/BM8JwJB4uyUae+ZPDaUoDMsZ0wKJ5sVZbBDw0KKQSB+rGnNf1PdgU5mAGtEEhOwcGqGCqdQA==",
         "drm_scheme": "clearkey",
@@ -3911,7 +3911,6 @@
         "name": "LU5",
         "uri": "UD2Pd1/GLDWrS/KXfCUcelndqkQo5h8N/ZsK8RC0vBTpIDkzucpE+jV0Lx7L5KWQ",
         "icono": "https://lu5am.com/wp-content/uploads/2022/05/logo4-1.png"
-
       }
     ]
   }
