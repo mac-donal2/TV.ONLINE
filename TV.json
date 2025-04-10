@@ -52,6 +52,13 @@
       },
       {
         "name": "MLS",
+        "uri": "cHbMSlPwMiADiT/59ISa/y/Ua+eKsosHkjgPeFXnJaVnWgLRsEAo/VUkx1nXD8ozkQ3hZuU1gBlOvSXaP1nkQP/u3ephMtr1KxuZ7OZ6Wfq4Dc8YbA/BzoZnE7IP6BWX",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEHBz9C1r72HkJV34PnAiTgCYsb9+1ihfkSfX60DPB3gnNplyCOM03owef2lF8ZPH7mVxY8xDnUx0LQVJMH3i3brxpigMxUqvbNwpBTYkunwoAA1pb0v1bXSld8vaHH32w==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
+      },
+      {
+        "name": "MLS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "uri": "m+hKUd7YMNNkrP64Q8CDXH8mn6VNfJvKhLs+m9/0EBo2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrq6zGRJOgX/uZ6exjXTVKcC/gYqJpTOcEMxkMhyJYk73dqscnBvIUdEjfKS/M/4vM5RgGSBR6+7NLD1u67DaGCM=",
         "referer": "EnUrgM7TboMF+ENKrfUUy+abRGZgxR/P+W6l74fn57Y=",
