@@ -278,7 +278,7 @@
       {
         "name": "TELEFE  OP3",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr3zEPaPr5TkFdTJ6XVivNR4aeOQC5B3HMPhPFrje2g56Q=="
+        "uri": "rVVnlsC44NlXc2ywKa3NkQQtZccRBUzHrIZO+tdEp/k5NbcAf2lWax3i9Hg8AvMf"
       },
       {
         "name": "EL TRECE",
@@ -297,7 +297,7 @@
       {
         "name": "EL TREC OPC 3",
         "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
-        "uri": "pBKxA9HdcJVOC2gVaAGIZiTk3D1p+1rdYfq2Q3Bj2d5bcpejmqushWENlhYkWCvwm4P6fkG/vzI+8VIDLQE+FQ=="
+        "uri": "XDWhPJI8MBhc0GxTnlpkOl5HDjRJeE6UqnesUOsp3XQ68vOAaVNiLpb+5w/1BCnKaeOQC5B3HMPhPFrje2g56Q=="
       },
       {
         "name": "CANAL 9",
@@ -311,7 +311,7 @@
       {
         "name": "EL NUEVE OPC 2",
         "icono": "https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16014-1639_import.png",
-        "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr1v3iGQCGIjPUbVG6g8J/AZaeOQC5B3HMPhPFrje2g56Q=="
+        "uri": "9w2YZ5fzjPHgJXch+GFZiWXXAvLL4/MOr59XHN6MpokUQvoMlC6CD4nYFvaHSr5pgzkjqWpTzG+K0R3x2/xdxQ=="
       },
       {
         "name": "AMERICA TV",
@@ -325,7 +325,7 @@
       {
         "name": "AMERICA TV OPC 2",
         "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg",
-        "uri": "u5YEICSd2gZJCyNsh/UszR0mqnPQ12OntLAnuQ5Fsr0TRbAsaLiuwhRvFUVhFOAMaeOQC5B3HMPhPFrje2g56Q=="
+        "uri": "5sPvEqxpLv3Cy3/OvRUqHGoWNIPPRm6z0GwagWZap6i/qSRThJrW+QpIVtgvQIfCYrYba0SQWTzJw6SGYwW+5XYFOZgBrRBITsHBqhgqnUA="
       },
       {
         "name": "TV PUBLICA",
@@ -619,6 +619,11 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "Ciudad Mágica Tv",
+        "uri": "TvEhvcyWEtmSkNSOYtg2ehIHQDhpzHBTTq6dXSXmoE+bSE8X2fjDxLm9SQrMDYU8gvTEj4Nnl0N1vd8MZxvxTg==",
+        "icono": "https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg"
+      },
+      { 
         "name": "Canal Retro TV Palmares",
         "uri": "xMH67dcrFiyqFaVoEHSZ4F1H2oKy706aHLiTs+Ff2Amk6bxnwIMZTkzGM3dc/dqyEaolyxgiR79MyTCbC034ukhMkfK6qGgmYc/k7+TqyPmDQEVaEFpm2y1HhTJoBy2v",
         "icono": "https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo.jpg"
