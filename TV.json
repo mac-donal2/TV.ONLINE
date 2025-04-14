@@ -623,12 +623,12 @@
         "uri": "TvEhvcyWEtmSkNSOYtg2ehIHQDhpzHBTTq6dXSXmoE+bSE8X2fjDxLm9SQrMDYU8gvTEj4Nnl0N1vd8MZxvxTg==",
         "icono": "https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg"
       },
-      { 
+      {
         "name": "Canal Retro TV Palmares",
         "uri": "xMH67dcrFiyqFaVoEHSZ4F1H2oKy706aHLiTs+Ff2Amk6bxnwIMZTkzGM3dc/dqyEaolyxgiR79MyTCbC034ukhMkfK6qGgmYc/k7+TqyPmDQEVaEFpm2y1HhTJoBy2v",
         "icono": "https://serenotv.com/cargas/2022/01/Canal-retro-tv-palmares-en-vivo.jpg"
       },
-      { 
+      {
         "name": "CANAL U CORDOBA",
         "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gQKQBR1HBjhc0nqrCty/f1Bm2FSVaCR4wsuPIumsFqKRg==",
         "icono": "https://yt3.googleusercontent.com/ytc/AOPolaS6nOtptS4HASXy1O9uP2_mXS6r0gfzchQMzWeO=s900-c-k-c0x00ffffff-no-rj"
@@ -1725,6 +1725,24 @@
   {
     "name": "DEPORTES BRASIL",
     "samples": [
+      {
+        "name": "sportv",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "uri": "LbSOXHkmyRTdCktd6LrjAR0/HZGaa93PJZVqNrKz4xE+IiP2Qz/9O8yjh1OwqsXc",
+        "drm_data": "Kb7NqAD52TWQSzh3AVTD8ZaHJDojAL4kAfinT1d6nvNwRIoboeFvy9I3msCe5upjwxon+nF0FiJQzCaoZ5HiyQ=="
+      },
+      {
+        "name": "sportv 2",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "uri": "LbSOXHkmyRTdCktd6LrjAb6bBU/3eubyy34PD21VrCxq2WxytBQPjON31xOedF/q",
+        "drm_data": "Kb7NqAD52TWQSzh3AVTD8ZaHJDojAL4kAfinT1d6nvNwRIoboeFvy9I3msCe5upjwxon+nF0FiJQzCaoZ5HiyQ=="
+      },
+      {
+        "name": "sportv 3",
+        "icono": "https://i.postimg.cc/YqQQ2nbc/Sportv-nova-logo.jpg",
+        "uri": "LbSOXHkmyRTdCktd6LrjASxHaoR4gf5UZM5BltTY+zJq2WxytBQPjON31xOedF/q",
+        "drm_data": "Kb7NqAD52TWQSzh3AVTD8ZaHJDojAL4kAfinT1d6nvNwRIoboeFvy9I3msCe5upjwxon+nF0FiJQzCaoZ5HiyQ=="
+      },
       {
         "name": "BAND",
         "uri": "wisu88x5hrOXK3Os38U4RCGWh0NhHseKok/XQMauqQSw7mZOx39XR8uoaKGcWZ+RRBWq5aifGL0+UoOUEZ8Bwg==",
@@ -3658,7 +3676,7 @@
         "name": "phoenix tv",
         "uri": "l//J2UnxHtTYbCrw2h5Y2swdLSrCwXOx7LWl9OGDkKusV74wqVEuwZDlj5w2SBlgRBWq5aifGL0+UoOUEZ8Bwg==",
         "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/300414269_562700385585873_9114388969049269022_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=b_5PdAdfmykAX9CIWny&_nc_ht=scontent.feze7-2.fna&oh=00_AfDcbHKJ3oKYUJblmWVA9HyLStu4NIp8rVbCGkyYWjzYuA&oe=65BA124A"
-     }
+      }
     ]
   },
   {
