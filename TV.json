@@ -3,55 +3,13 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS2",
     "samples": [
       {
-        "name": "Barcelona vs Real Madrid",
-        "icono": "https://www.ole.com.ar/images/2025/04/25/HpCNuxvML_1290x760__2.jpg",
-        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTusMIjYmmEE1Z0+w1SWGhGKfRGfx8145jABGMZZQICPHtAnN+gG7ei+/A++ufE/yI=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFXB0OTaoy/UN0Gzt2eXXrKHYuyEAp7SIpq/76Am+vsAMGsUoDMgniPH0yYZAjD1ail3aQMEmPZPVq1RTkpk2QYaHa8cii6Uf3CusC71q7TM8AJOqeF613gM/YAE6ITgXQ==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Barcelona vs Real Madrid",
-        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCOTs6RRMTr24rmGppZmVB8Bmae7AvYP1iXCqtXjLqyztTSIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://www.ole.com.ar/images/2025/04/25/HpCNuxvML_1290x760__2.jpg"
-      },
-      {
-        "name": "Barcelona vs Real Madrid opc 2",
-        "icono": "https://www.ole.com.ar/images/2025/04/25/HpCNuxvML_1290x760__2.jpg",
-        "uri": "+ZPA1EmQiq2UQwsFxoh+9vSY28/Z9fPQMEEF5AXnCOTs6RRMTr24rmGppZmVB8Bmae7AvYP1iXCqtXjLqyztTSIT3yhdl2JzflKta4M2hBc=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO31r8UKAJvsd0wr+E66ZbDBi/Z11REJOVm2fbtbqBzlmgJj4aI3MV4H5TTuE5+CC/c2jNNtCU002qOVbAIKYzJBCZrSmGf2kLOJHQBvbKlonwXqvGcB02NlNd8JjrleeQ==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Barcelona vs Real Madrid opc 3",
-        "icono": "https://www.ole.com.ar/images/2025/04/25/HpCNuxvML_1290x760__2.jpg",
-        "uri": "5ItA6nqU6wicsoLV9xVvu6ik9Ba1PusYr+eekYRJgvb3549pWYTrO6wlArHPD1xCTTPQ92Y8tkaVbvwSAHQG/8+w9dyGv54qbpuTXfQdH5DjFTzaJERN9f+HyLgmQuq3",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvF2fEnOC7oV4IWRfU+9bo1YKjn8x+pxvTiVjiCGM4OXpDkb0o727nDu1WA8t0I4s7AV40cccvTXcZfaIOOGzpPZtuVZ1O+l3ONsptG1XlocpQOCoBE9GMCVafWlLRbkTdQ==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Barcelona vs Real Madrid opc 4",
-        "icono": "https://www.ole.com.ar/images/2025/04/25/HpCNuxvML_1290x760__2.jpg",
-        "uri": "XQgmK5hg0lLM/3qrbNd1atlynYIGqdkxj8bIbaBjo9i9BP4mjnUp2RMxp+Hs/7dZHx/L8+Q6wKNKS1FVwaU1l5BS60IcZ7hF6BaJ5OCWpLjLqRGdipAmdVUEYSz87+0n",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCf8Gut7Efeiztn2jhcTPtySsMNcRxmQEiGqeluFKt3wrdH0JkxMOdTQPisqEZIllRKIgKzqVQKhOy31MTTF+ujxtMdRz4Qwv+i1OlE9b14tnwXqvGcB02NlNd8JjrleeQ==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-       "name": "prueba",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/L0ve.N4tur3.png",
-        "uri": "mzBHFZTO5OrTE1MccUc1xzr2rHjAmaAhmNZ4hmtBvpVJR7bbKj72BUMILWTJtK5k2e9H+6PDfiC1C09Q/p4CV3YFOZgBrRBITsHBqhgqnUA=",
-        "drm_data": "zLPMNmUhieA2RDmsPwDi8IYtdttRsI4MrFP0D5qjsz5VzRFfzyhQy9pBNuFspV0wrCbhqFsZALlZOGs/3KZW8w=="
-      },
-      {
         "name": "EVENTOS URUGUAY NICO",
         "uri": "tLrZgufFc0c4CpUdyTPdykzeiruxtMmwpN3l74YAlRQxgTH3UnzVrIYTJSV3TVAeg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
+      },
+      {
+         "name": "EVENTOS URUGUAY",
+        "uri": "j/60n9yTVzBPcXvckSKqqjFHRrmn1nDmE2g7jxJf16IyzAwIR4GCd5b7LsuiJ6wsto045rz3w1NR2G+R7LhOLA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
       },
       {
