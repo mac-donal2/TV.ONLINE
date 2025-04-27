@@ -3,43 +3,6 @@
     "name": "EVENTOS EN VIVO ACTIVOS SOLO CUANDO AHI EVENTOS2",
     "samples": [
       {
-        "name": "River Plate vs Boca Juniors",
-        "icono": "https://i.ytimg.com/vi/drVXOjDJXrU/hq720.jpg?v=680dd04c&sqp=CLCyucAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrWTm90ifDaA8o7tRhOq-yknKl2Q",
-        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQ3HPrTa+sTZt5ExG6zTFmRt5p8LV1uOuzDb7jD0M0sbiymnf7fJ/x/f6W2xxJ2BcCMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj67gJYnCLpLjLGDIxYBLedsmaeOQC5B3HMPhPFrje2g56Q==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "River Plate vs Boca Juniors OPC 2",
-        "icono": "https://i.ytimg.com/vi/drVXOjDJXrU/hq720.jpg?v=680dd04c&sqp=CLCyucAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrWTm90ifDaA8o7tRhOq-yknKl2Q",
-        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIEZ36QJDQCgY3XaXT05ijvV3rdJTYV2PQmJ2ALqD9F89e4TuCgdn+eU+dtn8yCA7mDz7J3hLGbi5KZWW3ssAnk/192JU/TtmqjZ7f0hQgGEg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNSh+Jwg6+9GSjrvdpMfxRk9saQEO8/wEamMOuCk7PhCtVBjHqjV49RfYSex7iVfV+n+Jdu+HpKbQlgmxxE8AcuJolTXGRwH0JgHoshXmF6wpsbiYUeU5D26CwGEr6Lbiw==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "River Plate vs Boca Juniors OPC 3",
-        "icono": "https://i.ytimg.com/vi/drVXOjDJXrU/hq720.jpg?v=680dd04c&sqp=CLCyucAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrWTm90ifDaA8o7tRhOq-yknKl2Q",
-        "uri": "2qQxu0ntq5ATxpoFsfZyGIGMMcVTjeYe4vFgKKkaK6ju59d40FYNn+HoLnel35MKEUB6b3GY7b4o0gSlIKadNdTeLOuaw1tUCBGYFI70QVc=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHOGZX5Hq5GZVXN4jdFv34aWbGTtRme6YC9if6uXvnX8G+u7e2/5xPE6gtoDUsTbhlLmEDruPF0aai17sZl9wGri/JcJNDKDwybhAQe0nWCpCbSVe39Q23HY5dwTT78BEg==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "River Plate vs Boca Juniors OPC 4",
-        "uri": "mzBHFZTO5OrTE1MccUc1x07Zdz5aJgTIG68EeuI27xtJR7bbKj72BUMILWTJtK5k2e9H+6PDfiC1C09Q/p4CV3YFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://i.ytimg.com/vi/drVXOjDJXrU/hq720.jpg?v=680dd04c&sqp=CLCyucAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrWTm90ifDaA8o7tRhOq-yknKl2Q"
-      },
-      {
-        "name": "River Plate vs Boca Juniors OPC 5",
-        "uri": "lCkkcFR4/GtPAh7ha8HjdPq02rPXSTu58sXjiZaJkX82TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrkzJzSqrgc2vb2UaM5srIlOSc7qsQB0SDBJ5NXZ6leXdZwECVPyfFAqeHhF5r5EzH5RgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://i.ytimg.com/vi/drVXOjDJXrU/hq720.jpg?v=680dd04c&sqp=CLCyucAG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrWTm90ifDaA8o7tRhOq-yknKl2Q"
-      },
-      {
         "name": "EVENTOS URUGUAY NICO",
         "uri": "gvuZ39gDgv25mT0cbuHVGnJUXNhJCCzThZnIXapXzDgWsRWsZAudSCsyjzQQkZNo",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
