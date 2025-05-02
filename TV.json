@@ -100,6 +100,15 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
+        "name": "FOX NEWS",
+        "icono": "http://78.47.174.211/logos/foxnews.png",
+        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnRB6G7I3YtmODoqBo2w959w7X0o7rtomcSp/cVkKQQ3dutVZrYZsKMYMxN1686FHnA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIQHw8E6flHTFLWizJC6AhF4rAa2SOEaFMh6yaSYrptHIkeVSdK1Z2zlf6z/PYUxqOfuLD99OZgtal/kvpo6Kqt+r+RUGMV/aVwp5ku4P4kyKR0qVq5Zj6v4gglcl5tucQ==",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
         "name": "TV Azteca",
         "uri": "H4wJygHc9n0Kz/zGVuau4YfEVuvQuKOgRI/pzUvzILoGMj/RGAChwjP7Q1+cb+RM",
         "icono": "https://www.grupoisos.com/wp-content/uploads/2024/05/Imagen-TV-AZTECA.jpg"
@@ -1305,15 +1314,6 @@
         "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJf2G9IYoCFtiZHBCv7zqtjKfRGfx8145jABGMZZQICPLAz2DLsT6DCq5YdE2DoV90=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvP+N09AcDD/GT9MJaSGsUG0cMobMhLw7OJPkiM2F2zqrRIk7ctL8wx7i+D9LShL4B8TqZ9HK8hL+NZIiusyzSmK9eTkSXX4XGpf0mr1QOalan4lRacEI6uR8Hnx9lhuNtA==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "FOX NEWS",
-        "icono": "http://78.47.174.211/logos/foxnews.png",
-        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnRB6G7I3YtmODoqBo2w959w7X0o7rtomcSp/cVkKQQ3dutVZrYZsKMYMxN1686FHnA=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIQHw8E6flHTFLWizJC6AhF4rAa2SOEaFMh6yaSYrptHIkeVSdK1Z2zlf6z/PYUxqOfuLD99OZgtal/kvpo6Kqt+r+RUGMV/aVwp5ku4P4kyKR0qVq5Zj6v4gglcl5tucQ==",
         "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
