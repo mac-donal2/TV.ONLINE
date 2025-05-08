@@ -1,84 +1,71 @@
 [
   {
-    "name": "(⚽ EVENTOS EN VIVO ACTIVOS SOLO CUANDO HAY EVENTOS 🔥)",
+    "name": "⚽ CANALES EN VIVO (Solo cuando hay partidos)",
     "samples": [
       {
-        "name": "(🇺🇾 EVENTOS URUGUAY 🔥)",
-        "uri": "gvuZ39gDgv25mT0cbuHVGu2AMHO7KsKz/UIiJNC/sgh0PqMsC8Rs9b44Sedz/Bb+",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
-      },
-      {
-        "name": "(🇺🇾 EVENTOS URUGUAY OPC 2 🔥)",
+        "name": " EVENTOS URUGUAY OPC 2  🇺🇾",
         "uri": "tLrZgufFc0c4CpUdyTPdykzeiruxtMmwpN3l74YAlRQxgTH3UnzVrIYTJSV3TVAeg0BFWhBaZtstR4UyaActrw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
       },
       {
-        "name": "(🇺🇾 EVENTOS URUGUAY OPC 3 🔥)",
+        "name": "EVENTOS URUGUAY OPC 2",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/0b6aa3172f181d41d2176c85c61bcedd9e6db2db1b9725cf9cef0443c1b3d440.jpg",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PygjSfQbteZ/5X0GvU89gX9BU4NjcpyHs/duBLpbHNqmmXImgub9BsCzqwPqfvSlLf+VzaDjFKWj+mQnSauwTgOEbdl1ATdLQmZ3ugsiuz27I9uJtHKE/6uvIjtfM+7ILhproBufIU4IGHH5rWETMEDVIeV5pGGRyLyFxRCB0cz4NdU0SUH4sN8A+DxlYQhrlb4n00Fj+qkQETXTOnhBpKYAobCqBsSUCIl+s7qplCSwmoi+gss+lCRXsPnnIMg5PM=",
+        "drm_data": "1gwchRkLEVbXQAh0hPQziRDwg82pCiOjj5xWdI2D9mxhM4JbNo+appQTXlYJwdOAqUnZzjACzeNUlxBs93inbes6PRJ9Tq/2s3RTMXWczkeSZOYQReNg4fUtpnxtmxeW4wGrHKGlqYQLCathEybwGevAFge51PZaoyir6NI6NzuXIJsV6vrDLIot9Z8bO17yRg+rY2gSU1Mx48E0a22P92ljZy/hMXhkhpV3nd+LM7FLunEM3euTEg++eU6p/all+fGGGo6rLMLi9LHssjbvwEf5rYkhDCn/UPYPVpSnIhktE0xGUANTiWYymu+8jaKMHR4g9uIgKN+SHms7ficvpdanELyv1U5/FLykCgvLKaxKlYAizAiszelMyEhq45698nXsiL2wwF+xOW/SeXIoB25PnbwH/8nTdWjJ1UmrN0Q9bDoR8DnVKFdPS2fzssjgkzceu1YhlPQ8aHtGpdh3voTJgwrzX19MhDuY4N+BZcm0NcCheAsOVeqIHc+kLv9J"
+      },
+      {
+        "name": " EVENTOS URUGUAY OPC 3 🇺🇾",
         "uri": "tLrZgufFc0c4CpUdyTPdykzeiruxtMmwpN3l74YAlRQxgTH3UnzVrIYTJSV3TVAeg0BFWhBaZtstR4UyaActrw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png"
       },
       {
-        "name": "(🇵🇾 ÑANDEPORTETEPE TV🔥)",
-        "uri": "mVE56NMbim3ctrsycTCxiD+iw1wL6dESaAm57L29A3vrfYScLkJ5axnme7b9ucGy",
-        "icono": "https://i.ibb.co/pBJYhZbq/IMG-20250221-WA0037.jpg"
-      },
-      {
-        "name": "(🇬🇹 Tigo Sports (Guatemala) 🔥)",
+        "name": " Tigo Sports (Guatemala) 🇬🇹 ",
         "uri": "VlEb1jIn877klm0DSmhB5mFQc4P/7OPhjZPPqHWz2VQN1L8AzBazuPz2k9SDfuxwg0BFWhBaZtstR4UyaActrw==",
         "icono": "https://i.ibb.co/Q3S4NkL9/230x0w.webp"
       },
       {
-        "name": "(py EVENTOS PY 24/7 🔥)",
-        "uri": "gvuZ39gDgv25mT0cbuHVGu2AMHO7KsKz/UIiJNC/sgh0PqMsC8Rs9b44Sedz/Bb+",
-        "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
+        "name": " ÑANDEPORTETEPE TV 🇵🇾",
+        "uri": "mVE56NMbim3ctrsycTCxiD+iw1wL6dESaAm57L29A3vrfYScLkJ5axnme7b9ucGy",
+        "icono": "https://i.ibb.co/pBJYhZbq/IMG-20250221-WA0037.jpg"
       },
       {
-        "name": "(py EVENTOS PY 1 🔥)",
+        "name": " EVENTOS PY 1 🇵🇾",
         "uri": "L/5viSVQd/57F42w8Jx1k5husTg7WpBiYsLlO+WKNhYiIuZe7N90KUaKo2xvhBc40JH3FoYDHlk0ffy0hDgCbblJn0cDJjhlKV1LSOJ+sqGwzNt7vO7EsQ4kL7HnfML6VZz9k/pFlM9sHUj4l5f50y0RZozrqcVLart2ElmAdYhYiHlctUZLVsTaUGntAanYymlxUXGD9VrEe++QQJjzb7W3u7ySWGflMQUeBcx1Bkfxq0ITjrEbsoIKvGoyBcYxLySLXrTxww5ga4szZZQDvg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-        "name": "(py EVENTOS PY 2 🔥)",
+        "name": "ÑANDEPORTETEPE TV 🇵🇾",
         "uri": "L/5viSVQd/57F42w8Jx1k5husTg7WpBiYsLlO+WKNhYiIuZe7N90KUaKo2xvhBc40JH3FoYDHlk0ffy0hDgCbblJn0cDJjhlKV1LSOJ+sqGwzNt7vO7EsQ4kL7HnfML6VZz9k/pFlM9sHUj4l5f50y0RZozrqcVLart2ElmAdYhYiHlctUZLVsTaUGntAanYPKjdT1xBKrH7PiJcBuYwuZA9vnpcA1hWt55vFMCLtuWtjQcEP4eu7SjD9/pjSo0RLySLXrTxww5ga4szZZQDvg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEj7PAMdqqV8OZX7AjfT0fenuUw2eFDnhmRK4n9csTXS/FpjHSvX5nWJ6Xm5mPQFJcKGir2H0kStwsr4Jo5OSJVbY5j10bSEskquAtAy+mE+2aeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-        "name": "(py EVENTOS PY 3 🔥)",
+        "name": " EVENTOS PY 3 🇵🇾",
         "uri": "L/5viSVQd/57F42w8Jx1k5husTg7WpBiYsLlO+WKNhYiIuZe7N90KUaKo2xvhBc40JH3FoYDHlk0ffy0hDgCbblJn0cDJjhlKV1LSOJ+sqGwzNt7vO7EsQ4kL7HnfML6VZz9k/pFlM9sHUj4l5f50y0RZozrqcVLart2ElmAdYhYiHlctUZLVsTaUGntAanY4F7QeC9Czw2UnrKHCbIMhL5o8llIOKcPmgo3jIpwx1DtxxrNJHLgOJAstX1VfPDJLySLXrTxww5ga4szZZQDvg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIElFV3EW9lCZ+rtIEHs24FYl76FQE5lSUgsmVxUY3Nq0gg0MKl0251rBIK8+TsW8KnNJ+sUlS0ePAblt8mOjNZx3Zwlp2mVVoEdGkPmRX9zlWaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg"
       },
       {
-        "name": "(🇺🇸 MLS 🔥)",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtarBklMmBU6Lr1aSS1SPrIZp45ALkHccw+E8WuN7aDnp",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEBs+hrZq9jIsnP8jkwsuili0rrfchksnTvqYRmHjaKhw2DghBQyLpsCf6esBCRDXZmvNMH7kRQ0TR7aZbJ/yri5cxcw3KlKQspfL/TFPefCMESFQDBJFybL/91IAmO8RQ==",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "(🇺🇸 MLS 2 🔥)",
-        "uri": "EDEeFm3dazq/RS2LBn+nb3BkEAA11SzYdGOS6u1nGHg2TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrq+TQWtA5yU3MMD2lm9lCTVDBCt2oxi7jhfl65OphN9Pl/2LkIxXcoI8zZRYLedWq5RgGSBR6+7NLD1u67DaGCM=",
+        "name": " MLS 🇺🇸",
+        "uri": "lCkkcFR4/GtPAh7ha8HjdPq02rPXSTu58sXjiZaJkX82TurXojsv2pnpB3XQLDhecggr5nDhg6h0F07e8MHLrkzJzSqrgc2vb2UaM5srIlOSc7qsQB0SDBJ5NXZ6leXdZwECVPyfFAqeHhF5r5EzH5RgGSBR6+7NLD1u67DaGCM=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMCvrzioZtVBw8d8qG8KlWEnABVN9mMphRdvDqcfzCI1VASigQKyG6mPicFTq49rDcRkytHTM66AT87LGbJnOVM5Ehw0eBYXxvHfrbII/flTabgy5Pi3qZYIw5F+E9C88w==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png"
       },
       {
-        "name": "(🇺🇸 MLS 3 🔥)",
-        "uri": "dsJxENGsrJ7yOGYagbJ2Rc3g7ssd3u/7las0EOoBkXqIR9y3EE05nnkcT2FqZknNKlUiYoes1EvfUmqjtVoB/dpV07cdNbSo8Fn5tyU33P0=",
+        "name": " MLS 2 🇺🇸",
+        "uri": "mzBHFZTO5OrTE1MccUc1xzb9hiCQUhmbrHw0uKALsL9JR7bbKj72BUMILWTJtK5k2e9H+6PDfiC1C09Q/p4CV3YFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "vAWtvT/8bhAkz5DBeHe/umgfG5811rBvmeqSjZdpdr75FuOLS/0TXjsqYKs09UhV"
       }
     ]
   },
   {
-    "name": "(🌎 NOTICIAS 🔥)",
+    "name": "🌎 CANALES DE NOTICIAS",
     "samples": [
       {
         "name": "ETB Basque",
@@ -265,7 +252,7 @@
     ]
   },
   {
-    "name": "(🇦🇷 ARGENTINA 🔥)",
+    "name": "🇦🇷 CANALES DE ARGENTINA",
     "samples": [
       {
         "name": "GH",
@@ -628,7 +615,7 @@
     ]
   },
   {
-    "name": "(🇦🇷 INTERIOR DE ARGENTINA 🔥)",
+    "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
         "name": "EL 10 TV",
@@ -1134,7 +1121,7 @@
     ]
   },
   {
-    "name": "(🇦🇷 ⚽ PACK FUTBOL ARGENTINA 🔥)",
+    "name": "🇦🇷 PACK FUTBOL DE ARGENTINA",
     "samples": [
       {
         "name": "FOX DEPORTES TUBI 1",
@@ -1312,7 +1299,7 @@
     ]
   },
   {
-    "name": "(🇦🇷 ⚽ DEPORTES 🔥)",
+    "name": "🇦🇷 DEPORTES DE ARGENTINA",
     "samples": [
       {
         "name": "Show Sports (Córdoba)",
@@ -1626,7 +1613,7 @@
     ]
   },
   {
-    "name": "(🇧🇷 ⚽ DEPORTES BRASIL 🔥)",
+    "name": "🇧🇷 DEPORTES DE BRASIL",
     "samples": [
       {
         "name": "BAND",
@@ -1697,7 +1684,7 @@
     ]
   },
   {
-    "name": "(⚽ DAZN 🔥)",
+    "name": "⚽ DEPORTES DE DAZN",
     "samples": [
       {
         "name": "DAZN  LIGA ESPAÑOLA",
@@ -1767,7 +1754,7 @@
     ]
   },
   {
-    "name": "(🍿 PACK HBO & UNIVERSAL 🔥)",
+    "name": "🎥 PACK PREMIUM HBO",
     "samples": [
       {
         "name": "HBO",
@@ -1879,7 +1866,7 @@
     ]
   },
   {
-    "name": "(🎥 PACK UNIVERSALLL 🔥)",
+    "name": "📽️ PACK PREMIUM UNIVERSAL",
     "samples": [
       {
         "name": "UNIVERSAL TV",
@@ -1956,7 +1943,7 @@
     ]
   },
   {
-    "name": "(🎥 CINE & SERIES 🔥)",
+    "name": "🎬 CANALES DE CINE & SERIES",
     "samples": [
       {
         "name": "Imagen Televisión",
@@ -2344,7 +2331,7 @@
     ]
   },
   {
-    "name": "(👨‍👩‍👦 INFANTILES 🔥)",
+    "name": "👫 CANALES INFANTILES",
     "samples": [
       {
         "name": "ZooMoo",
@@ -2472,7 +2459,7 @@
     ]
   },
   {
-    "name": "(👨‍👩‍👦 SERIES ANIMADAS 24/7 🔥)",
+    "name": "👫 SERIES ANIMADAS",
     "samples": [
       {
         "name": "LOS PITUFOS",
@@ -2672,7 +2659,7 @@
     ]
   },
   {
-    "name": "(🐢 CULTURA 🔥)",
+    "name": "🐢 CANALES CULTURALES",
     "samples": [
       {
         "name": "Más Chic",
@@ -2880,7 +2867,7 @@
     ]
   },
   {
-    "name": "(🎥 NOVELAS 🔥)",
+    "name": "🎞️ CANALES DE NOVELAS",
     "samples": [
       {
         "name": "TL NOVELAS",
@@ -2941,7 +2928,7 @@
     ]
   },
   {
-    "name": "(🙏 CANALES CRISTIANOS 🔥)",
+    "name": "🙏 CANALES CRISTIANOS",
     "samples": [
       {
         "name": "Canal Cine Dios",
@@ -3023,7 +3010,7 @@
     ]
   },
   {
-    "name": "(🎥 PLUTO 🔥)",
+    "name": "📷 CANALES DE PLUTO TV",
     "samples": [
       {
         "name": "Guía de canales",
@@ -3243,7 +3230,7 @@
     ]
   },
   {
-    "name": "(🇵🇾 PARAGUAY 🔥)",
+    "name": "🇵🇾 CANALES DE PARAGUAY",
     "samples": [
       {
         "name": "SNT (🇵🇾)",
@@ -3481,7 +3468,7 @@
     ]
   },
   {
-    "name": "(🇺🇾 CANALES DE URUGUAY 🔥)",
+    "name": "🇺🇾 CANALES DE URUGUAY",
     "samples": [
       {
         "name": "VTV",
@@ -3554,7 +3541,7 @@
     ]
   },
   {
-    "name": "(🇧🇷 CANALES DE BRASIL 🔥)",
+    "name": "🇧🇷 CANALES DE BRASIL",
     "samples": [
       {
         "name": "GLOBO TV",
@@ -3639,7 +3626,7 @@
     ]
   },
   {
-    "name": "(🇨🇱 CANALES DE CHILE 🔥)",
+    "name": "🇨🇱 CANALES DE CHILE",
     "samples": [
       {
         "name": "MEGA",
@@ -3689,7 +3676,7 @@
     ]
   },
   {
-    "name": "(🇵🇪 CANALES DE PERÙ 🔥)",
+    "name": "🇵🇪 CANALES DE PERU",
     "samples": [
       {
         "name": "América Televisión peru",
@@ -3739,7 +3726,7 @@
     ]
   },
   {
-    "name": "(🇧🇴 CANALES DE BOLIVIA 🔥)",
+    "name": "🇧🇴 CANALES DE BOLIVIA",
     "samples": [
       {
         "name": "RedADvenir Bolivia",
@@ -3764,7 +3751,7 @@
     ]
   },
   {
-    "name": "(🔊 MUSICA & RADIOS 🔥)",
+    "name": "🎵 CANALES DE MUSICA & RADIOS",
     "samples": [
       {
         "name": "FLOW MUSIC",
