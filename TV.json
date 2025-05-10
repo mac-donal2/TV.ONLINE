@@ -1301,6 +1301,11 @@
     "name": "🇦🇷 DEPORTES DE ARGENTINA",
     "samples": [
       {
+        "name": "DIRECTV SPORTS",
+        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
+        "uri": "gvuZ39gDgv25mT0cbuHVGnShyKm8XGeV0jWgMVacxVH27LQk814rOCaRtXhmbGRD"
+      },
+      {
         "name": "Show Sports (Córdoba)",
         "icono": "https://www.dz-techs.com/wp-content/uploads/2017/01/showsport-logo.png",
         "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz19gFETQnrS+qZPIyMo9NXGJYcMEM1i03IU+Vk6RK5Ds4uOYRLHrbcAgR4kCWSxDrZp45ALkHccw+E8WuN7aDnp",
