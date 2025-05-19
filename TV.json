@@ -1615,6 +1615,41 @@
     ]
   },
   {
+    "name": "DAZN",
+    "samples": [
+      {
+        "name": "DAZN 1",
+        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDrCyLgJj+fa0FjbYhpzp1bXnTWbo3xzYqA8fUUgj9DB8awo78LqG5ODxKYqSJWWVOJwrxhMjsB1hsPEKcsRk3vyr6lcaO4fL/ls++79ljfMI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEuTeFarInhrBPO//Bh/UBH2GxhVDIfyCOOxt06cuvyUDGeTShtfrZId0Yppqgo7rBUVhJnXPT/ouJSN0tsGrHd0s28Xm96pvY96J+rUv+1XsaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "DAZN  2",
+        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnDBQZ/EDgaJvHa/SMl+Y6czU5GTboG1mL46YJSlDq/g95xOi1RllIrOqryDstn1Y4dUOyRi4MUc/Rik94yUmFFdir6lcaO4fL/ls++79ljfMI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEpUwwNG/Vg43l+mlg1Ga2RsBolYFPkWdkOjyeid5IITxfdpvBdi49sEjsd74WiFG5miTRiS6wifF7L9y75Qa0XDoPqiSsbnMJNgiLwK9SGYXaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+
+        "name": "DAZN FORMULA 1",
+        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnD/7zNP/WfkKfSFk5ucysYQghxwhm+G0Vts4Fs4T32wzLyzPFtjLiQT4ebEoXTtK2+xou5xpBf1dgoBIGGIpcjaSr6lcaO4fL/ls++79ljfMI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEv5Y6zNKondZtCJmfIIf9ME4foosBcicRJyHwtxm8Zd0nF7yd4QrY5Q+VXhNI2XkvogRa+ohoUEQ2VfwIH5AS0pF8oPB409MvsewsGq45oncaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+
+        "name": "DAZN FORMULA 1 OPC 2",
+        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHdQiiLsaFTzOiGP7pXB/OnD/7zNP/WfkKfSFk5ucysYQghxwhm+G0Vts4Fs4T32wzLyzPFtjLiQT4ebEoXTtK2+xou5xpBf1dgoBIGGIpcjaSr6lcaO4fL/ls++79ljfMI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEv5Y6zNKondZtCJmfIIf9ME4foosBcicRJyHwtxm8Zd0nF7yd4QrY5Q+VXhNI2XkvogRa+ohoUEQ2VfwIH5AS0pF8oPB409MvsewsGq45oncaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+     }
+    ]
+   },
+  {
     "name": "🇧🇷 DEPORTES DE BRASIL",
     "samples": [
       {
