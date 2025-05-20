@@ -1651,6 +1651,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEv5Y6zNKondZtCJmfIIf9ME4foosBcicRJyHwtxm8Zd0nF7yd4QrY5Q+VXhNI2XkvogRa+ohoUEQ2VfwIH5AS0pF8oPB409MvsewsGq45oncaeOQC5B3HMPhPFrje2g56Q==",
         "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
+        "name": "DAZN LA LIGA PRUEBA",
+        "uri": "F9yutVMOgRhgqM2SFN/bekxlf0B36mSKeML7TpVE9mLlPquxY9sjF2pxjNAwAhfY0MzrByFvWsLk/nYgGWdV1+RS4Di3ZsiTEWvBXK0hB3Y=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEsMQxrxIfCiwUvv5AO8AyV9fRq6W91+mkLaBwsZrHedquALOnBGrhN4dNoGm/L14gxdcDJjSX2Nn8GdUVSqfEzXZJg9a1obB53R4NFyyG7TdaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
      }
     ]
    },
