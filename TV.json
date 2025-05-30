@@ -565,510 +565,510 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
-        "name": "EL 10 TV",
-        "uri": "8T1szyWCpVgXJKJfbuClqcqCboYOMUIAogzx0Tcb7i+fYXY4rqXUsTyv+K3v9XZ1UZevaCVTHQwxi6tyNoWnuPdOtBx0zvpurs7gyuvzC4A=",
-        "icono": "https://i.ibb.co/7tNTG2kR/453323020-946089544222824-1530310228896506613-n.png"
-      },
-      {    
-        "name": "Teveocho La Rioja",
-        "uri": "OdGo7Ac5zFXj0BsxEleoJe7XCKpdxnio4p7CiYlx/hmVsdIUAFG3V8zIBHtxMQLqmwq4sQA1e/WOProYJbmIng==",
-        "icono": "https://telearg.weebly.com/uploads/1/3/1/2/131240845/teveocho_1.png"
-      },
-      {
-        "name": "EL 8 SAN JUAN",
-        "uri": "+ptRzxZRQr8SEZ6sOBFvG706XEEaKtgeYwo3HYlzBxrQXBCzSrm2LhScqHMahETjX2k8ORT/GYJGduDOdG5jUERWJJpl9pCmUnHXDIzKeauyemC+kyi/oFFr2+wF9WbM",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png"
-      },
-      {
-        "name": "CANAL NUEVE TELEVIDA",
-        "uri": "8ZJw0UUv0Xe/ExtodpANut5dEn7jOfIhnHrizW1L3mLHltgREYntZiiRqwc6tNQIdNhWd6sm2aB9QKrxUBmbs7J6YL6TKL+gUWvb7AX1Zsw=",
-        "icono": "https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-9-Televida-en-vivo-Online-696x392.png"
-      },
-      {
-        "name": "CIUDAD MÁGICA TV",
-        "uri": "TvEhvcyWEtmSkNSOYtg2ehIHQDhpzHBTTq6dXSXmoE+bSE8X2fjDxLm9SQrMDYU8gvTEj4Nnl0N1vd8MZxvxTg==",
-        "icono": "https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg"
-      },
-      {
-        "name": "CANAL U CORDOBA",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gQKQBR1HBjhc0nqrCty/f1Bm2FSVaCR4wsuPIumsFqKRg==",
-        "icono": "https://yt3.googleusercontent.com/ytc/AOPolaS6nOtptS4HASXy1O9uP2_mXS6r0gfzchQMzWeO=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "SOMOS",
-        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQGWUIwKcCF766tOCYbJyA6JYcMEM1i03IU+Vk6RK5Dswob9DFZFs0ly/be3HhgUvZp45ALkHccw+E8WuN7aDnp",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLU98DFKCZ/XwmQAu7I9RhzG1oA8soQToSWdu09PPPioKWxylzadWPtRaPWri+p+XI3PE1Y0anQS2qj3VnvA1L15eH9aBV9cMPItNow+VF003cKTOEmaPmyYn1VAu+ff4g==",
-        "icono": "https://i.ibb.co/MRxBkvZ/somos.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS MAR DEL PLATA NECOCHEA",
-        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz06gWhGugIi1edGS9ZiP6EVKvwqPCreVEESpB3sZTQR2guf8UoukKzpYA1AEbWHNv9TL4JM3W4lCK2aZEeGOhCy",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPPsxZTvUBmvEV+1PR7j2wbb39IjCQl8rJ1cD1L3UjWCYHmIgMspKWmJGWfQkfpWntNX9W/1UdqugUC/e0pJIsoz2+pHvCCKR4UcOuRiPfS9Z50V7TawDgzrF88FOtumBQ==",
-        "icono": "https://i.ibb.co/NN7J4RQ/somos-mar-del-plata.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS LA PLATA",
-        "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQxLKLogiitn36/ksdUCUUU1fauYhidu3U75SoylbpqC8jbjVN3/hwNIREjKt7TcrzTQcv0jbP3YUI9Gd+11CmZ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLJgHFwDK7dRBjbaP/YPLuWtaJjg0PHAtLAtlgYef0RpinThNjeodd4DYvB9fNt9wGgEFMj1a9M5GYTmYDk8PNuZ2VNgQ/qdnxslMBKR8yWevf6tfl9AnPR+GbaDOtqYsg==",
-        "icono": "https://i.ibb.co/NN7J4RQ/somos-mar-del-plata.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS SANTA FÉ",
-        "uri": "hgyLEf1obfi7e+6+kI5AQeAkOUqYRSVsN5W1jJgZ/dD5WWqAnpftdJ+2Q6eKYlVWNZ1d9oN97+4AWBHmn4mfJS4Au+4QYMhktMWwkh4pGw8=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBp58n6EtQ9U0+f1BEqahBwQiNKwh9PIesToTxUOg9Rv3pnbURJn76yeV3NTUDR6k+OtDWoqpjhruRgvpYi24IPG/YhjpQIk1ceaDhH21RC+UQL9gUKhhM+xo7Ts3CbSOQ==",
-        "icono": "https://i.ibb.co/6DZZSNV/somos-santa-fe.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS ROSARIO",
-        "uri": "hgyLEf1obfi7e+6+kI5AQeAkOUqYRSVsN5W1jJgZ/dCCS/XXQqT+c6cRYE0lijJ4foMk8JyFDFMnZnHHqK43dGsboH2dmF6VY260f0ELrp+MJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGGuSki1bJF0j9LxEDE0+ftb2zRJtxTrkBIWSdMC2valo9j/3uymymppXvrNukpCJmZvratNMNbDoQkz4Zl/YewWhArpoeqZzNineIWA4Yk+2fnmZZOUwGti27pFE1Wg3w==",
-        "icono": "https://i.ibb.co/48QnX0K/somos-rosario.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS EL VALLE",
-        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3TYpsyPxholbM4d/fO7BKawErwS9U+eo+JcNdp5jbVLE3MeHMNtMZKebkbHSDZNRD0ZRTvP33Vj6N9mHaW4+JE",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDAMuH9R6DBW6AnBBP2zmR230v6Q4cK4Oi4RoyxTX2oKxfKnxHdqzUryt5uGae1h73sqP7eZ7XpsjVbAcWPPnBj0E3txYJsoEvgOh6FjT49PPn8SyN0ZUGYJTzzwTVsdAg==",
-        "icono": "https://i.ibb.co/4TdQwxt/somos-el-valle.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS RAFAELA",
-        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz1z8u3wBOWihzq+Nt6A4xDXE+ZllW5qBDSW4GWzQnRJpTIasu6YrwXPwoo8V4Kgj/aMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCWW6l14VSSBvxpjEl2zIrKi3R18DP3B9TMYfEvWONt85bxcpgkhni0Y1HoBEfDXoERpTmsyP2f36Act14oLjv6bm7NTWlSXUXg3wdpT2LIDL2GR130IHK2wloShtLYoTg==",
-        "icono": "https://i.ibb.co/TH7xhNg/somos-rafaela.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS SALTA-JUJUY",
-        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz2UqnUfHquo0bmQsYrxgG/yJYcMEM1i03IU+Vk6RK5DsyMUYiTeuSvSYJEFc3KOzJxp45ALkHccw+E8WuN7aDnp",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJatlatHcjvn2MXNE7lizn0sbNQ4mwNl5BcDvO8Su042pmB9xjunIKYsJBmdf4WRBwhd68d99QoFEPDA+k34S1t1WnKSFtAeTXleA02760qp4E8dqZ8tQxZw/CDx4aGvTg==",
-        "icono": "https://i.ibb.co/gJwmwvM/somos-salta.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS CORRIENTES",
-        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3Nr4HkEzUMiHnEmhNDNPtpqtR08v0bhebZ0t5US0BpCyMZ6daKWDm8cssn1gLeI5NUTmK9ioUONCR+A0M/iilK",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO1UKa0pfChNGUu/2ygDnrojmpBQl+vltoiPjVFymWPx+ZZwqPlaub/WMTYsdCWQR6Y4YHOvJ1rI0hnHDdx60JiYbSdaVpNWTyvLkCiwlbVLbFBMBCgSp65NW+RedtY+KQ==",
-        "icono": "https://i.ibb.co/Jx8dCGg/somos-corrientes.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS BAHÍA BLANCA",
-        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLSEKh2dUVCbEvF0CBtglJMAJqZ6bgVAZJ5EjkmxJkuxI4riODvz8qKuM5y++Kk8Fjqonf7jlZq4ph7SWjWwp69i",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIKMBbALwrAnyX8XGR97hzyc/wB9HjjxJPyCe9h1Q78JIlvniOn7iTLKjs6EqsGEBPBnsk7rM/Zwtz1EMlJ8DHnuvxgaFVDqXNIwvpDTC0QfWezpROi53tZB6BhYyWo68g==",
-        "icono": "https://i.ibb.co/ww6hpxD/somos-bahia-blanca.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS CHACO",
-        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3CLnoSeOuZ3pqtTiFgSv2mU/HkKBcXj6CMl+5t/y6+ZIeN3R1Jmt9hPAXqxb3OAMK9xEcM59NfmrKyrPQA553g",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMdaq5nonM1BKX5rA/EY9LudbyK5DIRuKzZb83H9YDQwEXDAQesEOghUsHjOKadRiOHePU29J35pkoYbFfzX5599oscOvVfoOp/51TFx+HSbwMjKG8M6JGQbiTGI5YA6qA==",
-        "icono": "https://i.ibb.co/hZtXSZH/somos-chaco.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SOMOS RÍO CUARTO / RÍO TERCERO",
-        "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz20aYz91VJ3fTvmtCJqL6LJfoMk8JyFDFMnZnHHqK43dHe+qKtubxIF3+ZG65SEFOqMJsskEhpTV72EG6tsMNNB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvADtPpo9jd7r+H10QNaq3n+XcsudMK2ClMPnRFda+1yz3LMjXt3szcfkz13mq9uTP3hFS4IGd4de2TTOPmBOSJgB7hOKjhhSFcjE37X/zm3MfZpwFs0xBRq72wGKEs0qtQ==",
-        "icono": "https://i.ibb.co/XsVQyDf/somos-rio-4to-3ro.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "CANAL UNIVERSIDAD DE LA PLATA",
-        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTRUfH3kcP6VvMiN9J0UShKf0j1ukn+gRu4tMUlyNhXx1zYRGGixjql1v7hy/yf2RLqwGnulfe7oyqeHeihfiGO",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDVEinmNhDVcVOZQQvxJ3NqzIeduTb3WnZh5usbS5dkYV4+mKAZZwCOm18pYYQIjRppN2kJ80RuF5uEzQbPElnX5U7q5k5DBfDMjnvtfg4LTceawU0xrV65Kn/B+oM/beQ==",
-        "icono": "https://i.ibb.co/9cWPwkw/canal-universidad.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Norte Visión Satelital - Canal 10",
-        "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyPF73IIGbZCQZzpmOFDrPEdzZnJuvVOUAjLW/lGskR1Q==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXYvBfPlKPVwQpJqdQJEZNBzUVdQIaABoX5w&s"
-      },
-      {
-        "name": "Aire de Santa Fe",
-        "uri": "8ZJw0UUv0Xe/ExtodpANumJ93vhHcVXcUFVrhh+95S3fNGYNlJu35LV/Y/pk78frps7HMw8tPgqJxRlCN+YWzEJ1TVrqRrWRPvmBKVD51kD94ABNIzqgszGCgIPBVp5l",
-        "icono": "https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/70/ea/70ea0606-45c6-4b67-95e2-8dce1ba727c8.png"
-      },
-      {
-        "name": "canal 2 salta",
-        "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KxTi9sK2AqxRAddoVaRat2Jxhgg6E27GFTkXfcbNprzFw==",
-        "icono": "https://altoremix.com.ar/site/images/thumbnails/mod_minifrontpage/77_156.jpg"
-      },
-      {
-        "name": "Canal 4 Eldorado",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvLdFUPLasoo5sPW7YXc0J9myvHcJd/EBNb+YFvHzs0wZsKuLEANXv1jj66GCW5iJ4=",
-        "icono": "https://www.canal4eldorado.com/wp-content/uploads/2016/10/canal4-330x250.png"
-      },
-      {
-        "name": "CANAL PROVINCIAL",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSc1q+lHN/7Yn4TtynHYtZ9fdthGBoux2G6ZWte+aiXl6rPwPrdwL0DBTdJ+NPn3QQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIElFV3EW9lCZ+rtIEHs24FYl76FQE5lSUgsmVxUY3Nq0gg0MKl0251rBIK8+TsW8KnNJ+sUlS0ePAblt8mOjNZx3Zwlp2mVVoEdGkPmRX9zlWaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://yt3.googleusercontent.com/th9FIjwWfxyjC5WnmRj0xlBISa5FYZR4MKHwBGr6fI0y8OXmncctu72Oeao7rPYUOrkI0ZZ_2g=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "San Luis +",
-        "uri": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awqVIuvMDpOXrAiL6PwKGGJqQ==",
-        "icono": "https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "Canal 10 roca",
-        "uri": "e4BhnnaTNmnl73dzCNh9z5CCNDj2pB3v92iDCNHwWuS7bPx8pnKGo0/bfzLE7hnRnPsavr7DHnBP+pi0ywsA+psKuLEANXv1jj66GCW5iJ4=",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest/scale-to-width-down/250cb=20210823130814&path-prefix=es"
-      },
-      {
-        "name": "Canal 6 ERTV",
-        "uri": "yC5Ho3svNM9trJ+yDmsnmIGB9V+qz46W+kv+RasHp+s=",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/9/93/C6ERTV_2018_2.png/revision/latest/scale-to-width-down/801cb=20230723175732&path-prefix=es"
-      },
-      {
-        "name": "CANAL 3 TV Pública Pampeana",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvcbIST1xsL8MhDizsot7tta6NSMkSiQud9vBXgFGuMpmhll36AwW7dM5WpVM64AYEPv3zQSGGXjtwGkuOLFpgqU=",
-        "icono": "https://static.wixstatic.com/media/4e4f43_4ebd7771d0b847dd8c2679e2d396b38e~mv2.jpg/v1/fill/w_980,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4e4f43_4ebd7771d0b847dd8c2679e2d396b38e~mv2.jpg"
-      },
-      {
-        "name": "América Tucumán",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIQrrqQrlvRKeHsT067l3TZZUeX7DY8GFbGibt9gJgMrYEbO9TwfkHIrAlo5MV81HyjUQtkPCDLCcBClQHrHDSSaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEa7KPSyr8K2pFj9mQkrBz0s9MccUMKm5i2Ka7U0p6iLzs4KVtChwLPq1o+1DIxHQvVOyXN9W0xMa3ACrAYSrBI1k7HryQe20IOjIobqAIPSROpOak9iaUpfpNHOkTqIZQ==",
-        "icono": "https://i.imgur.com/TJmzwv9.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Multivision SALTA ",
-        "uri": "e4BhnnaTNmnl73dzCNh9z6YoIhG34PWzqPfZUE1R+xV14FtuSGAwuyUrPGRR6zcyaeOQC5B3HMPhPFrje2g56Q==",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/93afff6e61610492622e115373367f15.webp"
-      },
-      {
-        "name": "MULTICABLE",
-        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwezWfYGRUrsbZLsJ7bbn5aAWhtYHoBa43q4hx6dmtPHZhEV3q8odioHEYcDW7fHPDwciE98oXZdic35SrWuDNoQX",
-        "icono": "https://multivisioncable.com.ar/imagenes/logo.jpg"
-      },
-      {
-        "name": "Canal 3 Arroyito",
-        "uri": "TWValaOyJM95IxEQT0n25Emp5X2NM8tfPnNkBG6ISV6YVVEckWze8ykY2tmHB+Q2hFaG/gfrnjnN58/vGeSeEg==",
-        "icono": "https://cespalarroyito.coop/iconos/canal3.png"
-      },
-      {
-        "name": "Canal 12 de puerto madryn (AR)",
-        "uri": "M7YiOVFd8/MYQpGbRQULNirQyzWh8LC1A1/+5jxagqFEEL4Ujfji3prxczeY+F+eYywsh+SI7C90Pt5o7gyaQ5RgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcSW63eB5ZDEXztbvvQzqdVBZkulxCiALOy5lzQ47dE7nQ&s"
-      },
-      {
-        "name": "CANAL 12 MISIONES",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJVf6YLXMIU0mYjbwmxB3F//6VkQzaG45M6wS+l0lpvuhSH1LT7XSvNSIsooW14DVDdYUWVPndDS4ZoSESTo+Ty",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYQC2JLqqKC0mZAVU9ndDEP5Q7YagD9GbwNFDxjrHvFDMqF0nnj5pHKhh/R3YVQShUgVVMRABQ3hoAfxy6X8LbE2f24JLxx6Jm8w3699ODmKuzzKLCkosJ9MnhHegF+pQ==",
-        "icono": "https://play-lh.googleusercontent.com/-PKExuOlYu5MTFNI6avFdwDyAkU58ipz2NSp3U6w7Ii1RWmahAybkwgddctHeZFk2Q",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "EL 8 TUCUMAN",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJf51mGg6J8Oi23gT0C8FCiBiP98WJ4jSnXrh4+9bihQKzMrVNitRzdN7cLaOE1ihfl/ojdtKlmQXv4CcptENGiaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOetugAAnoDk2N6xVXAP/og3NkzPLQ3whKRnQlZXrsvrHiRwvKUVJuCxS/qFNIEeYWSZK26DVLeCEev8Kb+PzCBjGoQ/o+GXTvjoOqKhNe1+1fQsER/XkijDJpgClZ0Xw==",
-        "icono": "https://www.elocho.tv/resources/logos/og-image-1200x630.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Canal 13 La Rioja",
-        "uri": "PRzQhyPcFasYPGJOfLKPNnFLcqiFfU4yAgGiDTQHauT94ABNIzqgszGCgIPBVp5l",
-        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcSK8c1BXf1RmTif9OfqOvpI7OIKBI6cvWadbQ&s"
-      },
-      {
-        "name": "BRAGADO TV",
-        "uri": "316j/y2RP6Og5zHG/Bmxs7uxEg4aebxu26HMullBQmh1qdvo4gsOrS058FkZLMOEsnpgvpMov6BRa9vsBfVmzA==",
-        "icono": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg"
-      },
-      {
-        "name": "Telemax",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9Y0mcSqkAsog/4X3nMFiyFYhFx30FVcNdat8tVDUEx5tp45ALkHccw+E8WuN7aDnp",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK9OvgOcnN5HBf/8Ru28/Pn3UyFpjBhL/HHqS6IBEJ0RAtqPfIIo6ZB90Q8XALCpOQ5WC9abIFltLW+ubkyDFclGO4T/5v4MX/xXbPln9kLaaBUt41jthyH4b4brRDpChg==",
-        "icono": "https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Telemax OPC 2",
-        "uri": "fb2Z2wGR2eEW8pNa/EueLflv+cuy0uPCH2OOQ7+5C10EICiAVRGiZN0b1Mli1Oz3NgKJu3S1c7mGw5IQ6PaH/5RgGSBR6+7NLD1u67DaGCM=",
-        "icono": "https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg"
-      },
-      {
-        "name": "Multivision Cable",
-        "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwezWfYGRUrsbZLsJ7bbn5aAWhtYHoBa43q4hx6dmtPHZhEV3q8odioHEYcDW7fHPDwciE98oXZdic35SrWuDNoQX",
-        "icono": "https://multivisioncable.com.ar/imagenes/logo.jpg"
-      },
-      {
-        "name": "CPEtv",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvRDJgcVmEzF/XsQcdaB7+fCkcWsl4IUWcwi2B4H14P7Y+/fNBIYZeO3AaS44sWmCpQ==",
-        "icono": "https://i.imgur.com/zFgbobO.png"
-      },
-      {
-        "name": "Chilecito TV (480p)",
-        "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8Kwz8GIU3/9s0yoaAL+dYAmpsNSRhrGAhkY6aakZWbU42A==",
-        "icono": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg"
-      },
-      {
-        "name": "SPTV SAN PEDRO",
-        "uri": "3v9JL2E/406Wq0crWfq0HoiXui123DOwx9l7Q1v4C54jtHVMxl7Hr0iSlUvWXmu4to045rz3w1NR2G+R7LhOLA==",
-        "icono": "http://static.tvar.io/imagenes/sptv32.png"
-      },
-      {
-        "name": "GEN TV",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIC18C6gB2zRpZHUOdA+5QmhTqguyKZKszObANHx0JHuP+NH6YWqhrphFu5JLfiGNk=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGTXwKoauD87QKHajOUNK6RHihkM41doG1VQVdsoOpArGIuUC6SA6csBURz5boQKXveCCucRzkgvj3yd6bBJhzOq4xXjnopEEIkCqtt0ninEuxayEcWORN4TkqcU0thvag==",
-        "icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "STREAM MAX JUJUY",
-        "uri": "UsJXdJnucjTY8aoakU+dh88pwLcQ/Qjs+M4uEy0vP3+QXFCn2ZWS1CXWEifSlj4h+/fNBIYZeO3AaS44sWmCpQ==",
-        "icono": "https://static.tvar.io/imagenes/streammax.png"
-      },
-      {
-        "name": "CHAMAME TV CORRIENTES",
-        "uri": "3v9JL2E/406Wq0crWfq0HlELwUN8EZ1LaMEO+S+c2pK7dEP/BJRPIASo5lZw8jI6snpgvpMov6BRa9vsBfVmzA==",
-        "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
-      },
-      {
-        "name": "CANAL 7 JUJUY",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gSmPyB0aRkZ9Wod/KWcfbfQPxtUjCXei1qOTac2LJLSa/v3zQSGGXjtwGkuOLFpgqU=",
-        "icono": "https://i.ibb.co/ZGSTNsG/canal7jujuy.png"
-      },
-      {
-        "name": "CANAL 11 MACHAGAY CHACO",
-        "uri": "3v9JL2E/406Wq0crWfq0HuQ/bd4uyIJYOdB7ZodSMQVOELQAVWxLRryRFIybFqUa+/fNBIYZeO3AaS44sWmCpQ==",
-        "icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png"
-      },
-      {
-        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-        "uri": "8Eg+14Jus5vq0+EYuXiHLdLHA7jbpx8dUmQg/Nx1TCyTMsghjP8tB2XS1NT3tnmiFktQsy5M/Z3m8+3m9ioRWHYFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://fenix951.com.ar/Nuevo_2013/imagenes/165152_1590517102.jpg"
-      },
-      {
-        "name": "Canal 9 la Rioja",
-        "uri": "316j/y2RP6Og5zHG/Bmxs7uxEg4aebxu26HMullBQmjTrSsVPksujPtlhO1gaf8hsnpgvpMov6BRa9vsBfVmzA==",
-        "icono": "https://static.tvar.io/imagenes/canal9larioja.png"
-      },
-      {
-        "name": "CANAL 6 POSADAS",
-        "uri": "Kglj+e1yArBoI6BJi9rWt4K11XqmjZ3FtnFAG6N8Q8hSCwxckWHh+TgPFnG9oiFxxwQwXV7gmUvtsFLErJau8g==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png"
-      },
-      {
-        "name": "CANAL 12 CÓRDOBA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHXAblwMCaG5rhkv9uaCGUQurlIqxezW5+eG9oEBl0vz+bVXpGm/jL4UqWeRExTBdf",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvL/Z477H58+uBiKYYUwyln4M9LIn9YfRONGaGeajWBNb0Ik1WyfleSLIE92oT9qVN7tqlUgOeyKr2NwBF5+HKi2UKmggUaaWJSOoFpat+KnAAv+qvFI/UhH2cGi+v9ZqDw==",
-        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Canal 7 Neuquén",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvfoi/zoblcmTk1LJGKC78Kl/06qBpMAwHlTzBD5SZjfqz0UqA2G1g7vQTyhbk9OIrJ5lDW5QTfR0ZVsCHdeEgAt2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/2/20/Telefe_Neuqu%C3%A9n_2001.png/revision/latestcb=20200304143345"
-      },
-      {
-        "name": "CANAL 4 JUJUY",
-        "uri": "5tQn0qO4lqOvTpcynZBBuOG4XjmDqedyIsOFhdcZJP7PEs6/DsDUzfaFMwRNaFGIMR+q5At7xtVu/iOyK3f7gP3gAE0jOqCzMYKAg8FWnmU=",
-        "icono": "https://static-c4-1.s3.amazonaws.com/assets/img/logos/elcuatro-logo-500x353.png"
-      },
-      {
-        "name": "Catamarca TV ",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvi2bc/evevids0ixbAI1OjhoAbdKUD85a8JuwoYCRnbYYMhj9XL3TuDijk3OB6dXmogrFGCJS+9qak5XElnGI0",
-        "icono": "https://i.imgur.com/CEuPoqG.png"
-      },
-      {
-        "name": "RTV Neuquen",
-        "uri": "yA3HcaMetE7o41mb+k8fzLS7mfK3HlC6ARVBgGjjTu+0l3D3RMxz8dJaaKD3+LJmmwq4sQA1e/WOProYJbmIng==",
-        "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
-      },
-      {
-        "name": " Lapacho Canal 11",
-        "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyDR5q/W01trUYw9J17s5o6to045rz3w1NR2G+R7LhOLA==",
-        "icono": "https://lapachocanal11.com.ar/wp-content/uploads/2024/07/LOGO2.png"
-      },
-      {
-        "name": "TELEFE CORDOBA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxH0OYC4d6S/ZSWCt03pWp66gyBaQXWwKQoXhNupfOHVppiUbYNG9yWsKQZR5r4xIGy",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCZ7Jvs4w1o3lPNyvADmKlcUtrZ9iSnbin8WyVa8HIFnhM0xVaomO9RXfsJhAJDmSMbHTcPG6L3E/KQsvfaA7r+JlEk4asuX5BybY6A8CqSLHSAFSp7Tnsdp3XvR4L5Blw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "CANAL 10 CORDOBA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGVZWZ8Fr/7NRBkGPFYy5iJ3Te6K6JSLojbG/eTCQiqdAob+7rFBu+oNkpr0ErNKkT",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvH6dWGoA5sOH8qf7XOl/LVGpDuDCCuUF+R/jcGm9Pe0pmem1DiMxZPlbcSXK0ZZsUZlXkr/O4ZlK2GgGfVPKUJky9LWxjqNjCN6hdrc0DvghZBwu/4MXv4stS4KnB13hAA==",
-        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.pngresize=696%2C392&ssl=1",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "TELEFE SALTA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJaJU93sW0swfCGCnzOllhZo0OakwScX+x7e7SjfhP0S5Q+gpK7yTwlxW5pjghePG36mJvYtsJbMqgCWdlYLirH",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB3KkA7Gi0mdFCi0yYOlvO4uN785NEU5Qo0L5ogTl3plRhMdT2TQz7sdnWQS67vZklEwOWk8rsyCuUv2F4nmGeIsazxXH5QmGZDha62b0OfN6q/iFGnxPdwRyYb/13uL8g==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "TELEFE NEUQUEN",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJaJU93sW0swfCGCnzOllhZSUA88xEJXh80geQzoxopFan1J8uVwe8n7F+hT9ceDWjXa+4aBvfnkILsUREjeK5B",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIdzRK/lr29U/BT4rOSJPqBDlPCHApcSwR/CcDP77pr6GUASWpOt0wrV5PncmWYl1vQwmmzzxBpi9hSzrsTN+iPlNHdWHHc0xXzFby87neNCQapq3rnPGSNCVJwX+If3eQ==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "TELEFE CORDOBA",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxH0OYC4d6S/ZSWCt03pWp66gyBaQXWwKQoXhNupfOHVppiUbYNG9yWsKQZR5r4xIGy",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCZ7Jvs4w1o3lPNyvADmKlcUtrZ9iSnbin8WyVa8HIFnhM0xVaomO9RXfsJhAJDmSMbHTcPG6L3E/KQsvfaA7r+JlEk4asuX5BybY6A8CqSLHSAFSp7Tnsdp3XvR4L5Blw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "TELEFE BAHIA BLANCAa",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJcVRpNyQ1tjYXHXfgLy9MNGbhtgdelo3OV8sgW216w4CWHDBDNYtNyFPlZOkSuQ7PQ+ZdjeC9NdTUTie9OvwTwC2o6PURgokT9Rq5okwq8uA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO/qkJnSYOC4UFjkvnJlOMRzfow11BbwkWthxMuk83QDyGksB713O3RdaBlb+qi7iHh9ZIdNUrybZAzIyZ+i48In73xjr+0fSmfNXG68xM7k8BDa9sg2BsXSmbGxnomjvA==",
-        "icono": "https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "TELEFE ROSARIO",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGCIHhyFN5oqED7O5TDoM4H6zMrVNitRzdN7cLaOE1ihfu+2F+1gEBWwjBVeEWl0riaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvApwQ+25vILJXC0BL3rTYpo1EDNj3vWvVBAGXdxbagh9ygKl6ZtQIA9r2FerOkjMXVS9idqki4x5eGfMfTrYEH5uIEQxLxJxyJ53noTlftRUXhV5ot4rW191aZGlwq6zWA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/800px-Telefe_Rosario_%282018%29.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "SANTAFE CANAL",
-        "uri": "zDHHGNxDnEgTHK6vTo0oda+n6v3n3IBI/IBP4dfsOzggfP/SFX2OlfoBSMv78yWE4uMquXJNmiYS2F7mxYealQ2xNLbuLfzqaPaV5O5EbJ8=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"
-      },
-      {
-        "name": "Canal 7 Santiago del Estero",
-        "uri": "ilOZEuHGYrlxc4gD7mvcvd9QaqaEc2/7sG5297lCpDfFmobUkL2dQe2lnug/XcYTsnpgvpMov6BRa9vsBfVmzA==",
-        "icono": "https://4.bp.blogspot.com/-6HfJdVSoY6c/VpvBVOLh5VI/AAAAAAAAApg/4i-7-4KOyL0/s1600/c7-castv-2015.png"
-      },
-      {
-        "name": "La Voz de Tucumán",
-        "uri": "xdWTmZoBK7zXb2o4hI/6dXZtj0tQ0aRnNCoOGf9ZdaEkdPvnWJKuJAl/IH/VlyX2aTFlpNfzJmxb2R/w1Qgzcvv3zQSGGXjtwGkuOLFpgqU=",
-        "icono": "https://i.imgur.com/k2r7IeQ.png"
-      },
-      {
-        "name": "Chaco TV (720p)",
-        "uri": "kL+KOO+fJ/0FD/ErnhwAKhTS6iKflSQCxNXT7ysfWP9j8OMhw3RU5y+wJ1+nUwqPm4P6fkG/vzI+8VIDLQE+FQ==",
-        "icono": "https://barranquerasonline.com.ar/wp-content/uploads/2018/05/unnamed.jpg"
-      },
-      {
-        "name": "Televisión Santafesina",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHDYYIdMVl6rkIKup0/9Bx1OrlIqxezW5+eG9oEBl0vz+ZpxBaVqBwoEV1zkG2e+z5",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIE2B9fCHbfirQTB23s88sYLJtY4HcYz31cBdnoE0T2ek9CL2Zbz2fMHkprUZCOz4ieh5W8/m2ueXGEjzwV1BLyKRlSi71SPU9896SpB0jblQGVRWqpKFp3ZSJDqqtvf3w==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/2/21/RTS_Nuevo_Logo.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Canal 34 San juan",
-        "uri": "kJtK2G1R3X8kO61WTxyI0TrOo6nZcqHZIuUa2gK1G1hVqAWaQ1FefR7GYg/3J1ky/eAATSM6oLMxgoCDwVaeZQ==",
-        "icono": "https://static.tvar.io/imagenes/34sanjuan.png"
-      },
-      {
-        "name": "SANTAFE CANAL",
-        "uri": "zDHHGNxDnEgTHK6vTo0oda+n6v3n3IBI/IBP4dfsOzggfP/SFX2OlfoBSMv78yWE4uMquXJNmiYS2F7mxYealQ2xNLbuLfzqaPaV5O5EbJ8=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"
-      },
-      {
-        "name": "CANAL 10 TUCUMAN",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLzXrTCtRa8dImOV+rdKK0D6mDVcUlENc9Lmmq+ufzj7w4MRt05y7B2G/Oc0hRkgKAHMsD5czMpcKsdUoSwQquD",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPWnGBViHuLndzhWzRgGlF+8jadsU12IqbTLF7780Zz+JIxNoYOg5s16rDUMuACR3PX6CebZil7JllP7ZeZ3QRZ1j/EpKpLc9RO2fbk6tPqlAAjpHqrtXy60XMXQlwBzsg==",
-        "icono": "https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "Canal 9 Litoral",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHvs8c1nnhDDMkP0Ui7ikCLHTe6K6JSLojbG/eTCQiqdC33T7XDDOexdYLRaeVqRh1",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN63A7dTIjzbgEvKzuRvuFacdjgsgLgyfU9sAu5yZzrVeWajX6Zdf48YIVHboUOfa+sOAgrALoENDLeqDH6DP38l9y0naI+xAN7vPqZBLCjkCOGxCXknCUF3wgCeouwJsg==",
-        "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-1.pngresize=696%2C392&ssl=1",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "CANAL 3 ROSARI0O",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJcVRpNyQ1tjYXHXfgLy9MNlIbH9aTWR+kiHB+Hk9da0KzMrVNitRzdN7cLaOE1ihdJgj9oYJlduRcAw85uaLooaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvASQydc985hG5Rw0jKnngOSyhvj2xhyN3v3tlpFdSzJ78+MSdv4QlWG7W3fDtwH9yRhPjgy+UWvp0IL/C0QPVbbgq2zmUN9jGTj5qMPJbE5gqJjlH0rEmS85sNQwWp23QA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/800px-Telefe_Rosario_%282018%29.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "13 Max Televisión",
-        "uri": "+Z2+hWd52l8tnz3QKAcg7oiquukL+UoG2vvlrwS9SRXjOcQCB9igvtbqf61wD3b4DQvAylxtLq9WmO/Y2bwqG/SVVOlopzWB6ZAw3w8eURU=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"
-      },
-      {
-        "name": "Canal Siete Bahía Blanca",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJcVRpNyQ1tjYXHXfgLy9MNpiPI2JvekRxk3nF5sj6fgyWHDBDNYtNyFPlZOkSuQ7O136i/qCqwoNAkYYck3f4GC2o6PURgokT9Rq5okwq8uA==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGqi1aduPSGEDKzFq+ZuB1wmUgStI4qyK8IBLtL2TOb3dDpPekzorm8ExMg9aBjNcsdYiwhd0DfrujpdbuhepbxZWw8BWQwnp28I2r8LXKItD5UFBITqjkuwXbDHVcXS6A==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png",
-        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
-        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+    "name": "EL 10 TV",
+    "icono": "https://i.ibb.co/7tNTG2kR/453323020-946089544222824-1530310228896506613-n.png",
+    "uri": "8T1szyWCpVgXJKJfbuClqcqCboYOMUIAogzx0Tcb7i+fYXY4rqXUsTyv+K3v9XZ1UZevaCVTHQwxi6tyNoWnuPdOtBx0zvpurs7gyuvzC4A="
+  },
+  {
+    "name": "Teveocho La Rioja",
+    "icono": "https://telearg.weebly.com/uploads/1/3/1/2/131240845/teveocho_1.png",
+    "uri": "OdGo7Ac5zFXj0BsxEleoJe7XCKpdxnio4p7CiYlx/hmVsdIUAFG3V8zIBHtxMQLqmwq4sQA1e/WOProYJbmIng=="
+  },
+  {
+    "name": "EL 8 SAN JUAN",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png",
+    "uri": "+ptRzxZRQr8SEZ6sOBFvG706XEEaKtgeYwo3HYlzBxrQXBCzSrm2LhScqHMahETjX2k8ORT/GYJGduDOdG5jUERWJJpl9pCmUnHXDIzKeauyemC+kyi/oFFr2+wF9WbM"
+  },
+  {
+    "name": "CANAL NUEVE TELEVIDA",
+    "icono": "https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-9-Televida-en-vivo-Online-696x392.png",
+    "uri": "8ZJw0UUv0Xe/ExtodpANut5dEn7jOfIhnHrizW1L3mLHltgREYntZiiRqwc6tNQIdNhWd6sm2aB9QKrxUBmbs7J6YL6TKL+gUWvb7AX1Zsw="
+  },
+  {
+    "name": "CIUDAD MÁGICA TV",
+    "icono": "https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg",
+    "uri": "TvEhvcyWEtmSkNSOYtg2ehIHQDhpzHBTTq6dXSXmoE+bSE8X2fjDxLm9SQrMDYU8gvTEj4Nnl0N1vd8MZxvxTg=="
+  },
+  {
+    "name": "CANAL U CORDOBA",
+    "icono": "https://yt3.googleusercontent.com/ytc/AOPolaS6nOtptS4HASXy1O9uP2_mXS6r0gfzchQMzWeO=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gQKQBR1HBjhc0nqrCty/f1Bm2FSVaCR4wsuPIumsFqKRg=="
+  },
+  {
+    "name": "SOMOS",
+    "icono": "https://i.ibb.co/MRxBkvZ/somos.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQGWUIwKcCF766tOCYbJyA6JYcMEM1i03IU+Vk6RK5Dswob9DFZFs0ly/be3HhgUvZp45ALkHccw+E8WuN7aDnp",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLU98DFKCZ/XwmQAu7I9RhzG1oA8soQToSWdu09PPPioKWxylzadWPtRaPWri+p+XI3PE1Y0anQS2qj3VnvA1L15eH9aBV9cMPItNow+VF003cKTOEmaPmyYn1VAu+ff4g==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS MAR DEL PLATA NECOCHEA",
+    "icono": "https://i.ibb.co/NN7J4RQ/somos-mar-del-plata.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz06gWhGugIi1edGS9ZiP6EVKvwqPCreVEESpB3sZTQR2guf8UoukKzpYA1AEbWHNv9TL4JM3W4lCK2aZEeGOhCy",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPPsxZTvUBmvEV+1PR7j2wbb39IjCQl8rJ1cD1L3UjWCYHmIgMspKWmJGWfQkfpWntNX9W/1UdqugUC/e0pJIsoz2+pHvCCKR4UcOuRiPfS9Z50V7TawDgzrF88FOtumBQ==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS LA PLATA",
+    "icono": "https://i.ibb.co/NN7J4RQ/somos-mar-del-plata.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQxLKLogiitn36/ksdUCUUU1fauYhidu3U75SoylbpqC8jbjVN3/hwNIREjKt7TcrzTQcv0jbP3YUI9Gd+11CmZ",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLJgHFwDK7dRBjbaP/YPLuWtaJjg0PHAtLAtlgYef0RpinThNjeodd4DYvB9fNt9wGgEFMj1a9M5GYTmYDk8PNuZ2VNgQ/qdnxslMBKR8yWevf6tfl9AnPR+GbaDOtqYsg==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS SANTA FÉ",
+    "icono": "https://i.ibb.co/6DZZSNV/somos-santa-fe.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQeAkOUqYRSVsN5W1jJgZ/dD5WWqAnpftdJ+2Q6eKYlVWNZ1d9oN97+4AWBHmn4mfJS4Au+4QYMhktMWwkh4pGw8=",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvBp58n6EtQ9U0+f1BEqahBwQiNKwh9PIesToTxUOg9Rv3pnbURJn76yeV3NTUDR6k+OtDWoqpjhruRgvpYi24IPG/YhjpQIk1ceaDhH21RC+UQL9gUKhhM+xo7Ts3CbSOQ==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS ROSARIO",
+    "icono": "https://i.ibb.co/48QnX0K/somos-rosario.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQeAkOUqYRSVsN5W1jJgZ/dCCS/XXQqT+c6cRYE0lijJ4foMk8JyFDFMnZnHHqK43dGsboH2dmF6VY260f0ELrp+MJsskEhpTV72EG6tsMNNB",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGGuSki1bJF0j9LxEDE0+ftb2zRJtxTrkBIWSdMC2valo9j/3uymymppXvrNukpCJmZvratNMNbDoQkz4Zl/YewWhArpoeqZzNineIWA4Yk+2fnmZZOUwGti27pFE1Wg3w==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS EL VALLE",
+    "icono": "https://i.ibb.co/4TdQwxt/somos-el-valle.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3TYpsyPxholbM4d/fO7BKawErwS9U+eo+JcNdp5jbVLE3MeHMNtMZKebkbHSDZNRD0ZRTvP33Vj6N9mHaW4+JE",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDAMuH9R6DBW6AnBBP2zmR230v6Q4cK4Oi4RoyxTX2oKxfKnxHdqzUryt5uGae1h73sqP7eZ7XpsjVbAcWPPnBj0E3txYJsoEvgOh6FjT49PPn8SyN0ZUGYJTzzwTVsdAg==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS RAFAELA",
+    "icono": "https://i.ibb.co/TH7xhNg/somos-rafaela.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz1z8u3wBOWihzq+Nt6A4xDXE+ZllW5qBDSW4GWzQnRJpTIasu6YrwXPwoo8V4Kgj/aMJsskEhpTV72EG6tsMNNB",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCWW6l14VSSBvxpjEl2zIrKi3R18DP3B9TMYfEvWONt85bxcpgkhni0Y1HoBEfDXoERpTmsyP2f36Act14oLjv6bm7NTWlSXUXg3wdpT2LIDL2GR130IHK2wloShtLYoTg==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS SALTA-JUJUY",
+    "icono": "https://i.ibb.co/gJwmwvM/somos-salta.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz2UqnUfHquo0bmQsYrxgG/yJYcMEM1i03IU+Vk6RK5DsyMUYiTeuSvSYJEFc3KOzJxp45ALkHccw+E8WuN7aDnp",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJatlatHcjvn2MXNE7lizn0sbNQ4mwNl5BcDvO8Su042pmB9xjunIKYsJBmdf4WRBwhd68d99QoFEPDA+k34S1t1WnKSFtAeTXleA02760qp4E8dqZ8tQxZw/CDx4aGvTg==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS CORRIENTES",
+    "icono": "https://i.ibb.co/Jx8dCGg/somos-corrientes.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3Nr4HkEzUMiHnEmhNDNPtpqtR08v0bhebZ0t5US0BpCyMZ6daKWDm8cssn1gLeI5NUTmK9ioUONCR+A0M/iilK",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO1UKa0pfChNGUu/2ygDnrojmpBQl+vltoiPjVFymWPx+ZZwqPlaub/WMTYsdCWQR6Y4YHOvJ1rI0hnHDdx60JiYbSdaVpNWTyvLkCiwlbVLbFBMBCgSp65NW+RedtY+KQ==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS BAHÍA BLANCA",
+    "icono": "https://i.ibb.co/ww6hpxD/somos-bahia-blanca.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLSEKh2dUVCbEvF0CBtglJMAJqZ6bgVAZJ5EjkmxJkuxI4riODvz8qKuM5y++Kk8Fjqonf7jlZq4ph7SWjWwp69i",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIKMBbALwrAnyX8XGR97hzyc/wB9HjjxJPyCe9h1Q78JIlvniOn7iTLKjs6EqsGEBPBnsk7rM/Zwtz1EMlJ8DHnuvxgaFVDqXNIwvpDTC0QfWezpROi53tZB6BhYyWo68g==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS CHACO",
+    "icono": "https://i.ibb.co/hZtXSZH/somos-chaco.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz3CLnoSeOuZ3pqtTiFgSv2mU/HkKBcXj6CMl+5t/y6+ZIeN3R1Jmt9hPAXqxb3OAMK9xEcM59NfmrKyrPQA553g",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvMdaq5nonM1BKX5rA/EY9LudbyK5DIRuKzZb83H9YDQwEXDAQesEOghUsHjOKadRiOHePU29J35pkoYbFfzX5599oscOvVfoOp/51TFx+HSbwMjKG8M6JGQbiTGI5YA6qA==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SOMOS RÍO CUARTO / RÍO TERCERO",
+    "icono": "https://i.ibb.co/XsVQyDf/somos-rio-4to-3ro.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQXpNamYVy6ynelbGkCMqVz20aYz91VJ3fTvmtCJqL6LJfoMk8JyFDFMnZnHHqK43dHe+qKtubxIF3+ZG65SEFOqMJsskEhpTV72EG6tsMNNB",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvADtPpo9jd7r+H10QNaq3n+XcsudMK2ClMPnRFda+1yz3LMjXt3szcfkz13mq9uTP3hFS4IGd4de2TTOPmBOSJgB7hOKjhhSFcjE37X/zm3MfZpwFs0xBRq72wGKEs0qtQ==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "CANAL UNIVERSIDAD DE LA PLATA",
+    "icono": "https://i.ibb.co/9cWPwkw/canal-universidad.png",
+    "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLTRUfH3kcP6VvMiN9J0UShKf0j1ukn+gRu4tMUlyNhXx1zYRGGixjql1v7hy/yf2RLqwGnulfe7oyqeHeihfiGO",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDVEinmNhDVcVOZQQvxJ3NqzIeduTb3WnZh5usbS5dkYV4+mKAZZwCOm18pYYQIjRppN2kJ80RuF5uEzQbPElnX5U7q5k5DBfDMjnvtfg4LTceawU0xrV65Kn/B+oM/beQ==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "Norte Visión Satelital - Canal 10",
+    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXYvBfPlKPVwQpJqdQJEZNBzUVdQIaABoX5w&s",
+    "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyPF73IIGbZCQZzpmOFDrPEdzZnJuvVOUAjLW/lGskR1Q=="
+  },
+  {
+    "name": "Aire de Santa Fe",
+    "icono": "https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/70/ea/70ea0606-45c6-4b67-95e2-8dce1ba727c8.png",
+    "uri": "8ZJw0UUv0Xe/ExtodpANumJ93vhHcVXcUFVrhh+95S3fNGYNlJu35LV/Y/pk78frps7HMw8tPgqJxRlCN+YWzEJ1TVrqRrWRPvmBKVD51kD94ABNIzqgszGCgIPBVp5l"
+  },
+  {
+    "name": "canal 2 salta",
+    "icono": "https://altoremix.com.ar/site/images/thumbnails/mod_minifrontpage/77_156.jpg",
+    "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KxTi9sK2AqxRAddoVaRat2Jxhgg6E27GFTkXfcbNprzFw=="
+  },
+  {
+    "name": "Canal 4 Eldorado",
+    "icono": "https://www.canal4eldorado.com/wp-content/uploads/2016/10/canal4-330x250.png",
+    "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvLdFUPLasoo5sPW7YXc0J9myvHcJd/EBNb+YFvHzs0wZsKuLEANXv1jj66GCW5iJ4="
+  },
+  {
+    "name": "CANAL PROVINCIAL",
+    "icono": "https://yt3.googleusercontent.com/th9FIjwWfxyjC5WnmRj0xlBISa5FYZR4MKHwBGr6fI0y8OXmncctu72Oeao7rPYUOrkI0ZZ_2g=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSc1q+lHN/7Yn4TtynHYtZ9fdthGBoux2G6ZWte+aiXl6rPwPrdwL0DBTdJ+NPn3QQ=",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIElFV3EW9lCZ+rtIEHs24FYl76FQE5lSUgsmVxUY3Nq0gg0MKl0251rBIK8+TsW8KnNJ+sUlS0ePAblt8mOjNZx3Zwlp2mVVoEdGkPmRX9zlWaeOQC5B3HMPhPFrje2g56Q=="
+  },
+  {
+    "name": "San Luis +",
+    "icono": "https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awqVIuvMDpOXrAiL6PwKGGJqQ=="
+  },
+  {
+    "name": "Canal 10 roca",
+    "icono": "https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest/scale-to-width-down/250cb=20210823130814&path-prefix=es",
+    "uri": "e4BhnnaTNmnl73dzCNh9z5CCNDj2pB3v92iDCNHwWuS7bPx8pnKGo0/bfzLE7hnRnPsavr7DHnBP+pi0ywsA+psKuLEANXv1jj66GCW5iJ4="
+  },
+  {
+    "name": "Canal 6 ERTV",
+    "icono": "https://static.wikia.nocookie.net/logopedia/images/9/93/C6ERTV_2018_2.png/revision/latest/scale-to-width-down/801cb=20230723175732&path-prefix=es",
+    "uri": "yC5Ho3svNM9trJ+yDmsnmIGB9V+qz46W+kv+RasHp+s="
+  },
+  {
+    "name": "CANAL 3 TV Pública Pampeana",
+    "icono": "https://static.wixstatic.com/media/4e4f43_4ebd7771d0b847dd8c2679e2d396b38e~mv2.jpg/v1/fill/w_980,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4e4f43_4ebd7771d0b847dd8c2679e2d396b38e~mv2.jpg",
+    "uri": "ilOZEuHGYrlxc4gD7mvcvcbIST1xsL8MhDizsot7tta6NSMkSiQud9vBXgFGuMpmhll36AwW7dM5WpVM64AYEPv3zQSGGXjtwGkuOLFpgqU="
+  },
+  {
+    "name": "América Tucumán",
+    "icono": "https://i.imgur.com/TJmzwv9.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJtZdKWbF5XkSXH+JPqmMY76evlwlei5bh9+HcBppiHu/AXRpIBb9TH9XvZOyZnPslbAfGQtQfM6KC/HLsv/Y95",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEa7KPSyr8K2pFj9mQkrBz0s9MccUMKm5i2Ka7U0p6iLzs4KVtChwLPq1o+1DIxHQvVOyXN9W0xMa3ACrAYSrBI1k7HryQe20IOjIobqAIPSROpOak9iaUpfpNHOkTqIZQ==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "Multivision SALTA ",
+    "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/93afff6e61610492622e115373367f15.webp",
+    "uri": "e4BhnnaTNmnl73dzCNh9z6YoIhG34PWzqPfZUE1R+xV14FtuSGAwuyUrPGRR6zcyaeOQC5B3HMPhPFrje2g56Q=="
+  },
+  {
+    "name": "MULTICABLE",
+    "icono": "https://multivisioncable.com.ar/imagenes/logo.jpg",
+    "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwezWfYGRUrsbZLsJ7bbn5aAWhtYHoBa43q4hx6dmtPHZhEV3q8odioHEYcDW7fHPDwciE98oXZdic35SrWuDNoQX"
+  },
+  {
+    "name": "Canal 3 Arroyito",
+    "icono": "https://cespalarroyito.coop/iconos/canal3.png",
+    "uri": "TWValaOyJM95IxEQT0n25Emp5X2NM8tfPnNkBG6ISV6YVVEckWze8ykY2tmHB+Q2hFaG/gfrnjnN58/vGeSeEg=="
+  },
+  {
+    "name": "Canal 12 de puerto madryn (AR)",
+    "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcSW63eB5ZDEXztbvvQzqdVBZkulxCiALOy5lzQ47dE7nQ&s",
+    "uri": "M7YiOVFd8/MYQpGbRQULNirQyzWh8LC1A1/+5jxagqFEEL4Ujfji3prxczeY+F+eYywsh+SI7C90Pt5o7gyaQ5RgGSBR6+7NLD1u67DaGCM="
+  },
+  {
+    "name": "CANAL 12 MISIONES",
+    "icono": "https://play-lh.googleusercontent.com/-PKExuOlYu5MTFNI6avFdwDyAkU58ipz2NSp3U6w7Ii1RWmahAybkwgddctHeZFk2Q",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xKeYY+djgpkD7qXudtr/6ynyi5pKKg5cWdEIfkol9twaSOvhbGJN9j0PHXyfY75ttvPzWazH3Ygs4wjo1+6z8wT",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHYQC2JLqqKC0mZAVU9ndDEP5Q7YagD9GbwNFDxjrHvFDMqF0nnj5pHKhh/R3YVQShUgVVMRABQ3hoAfxy6X8LbE2f24JLxx6Jm8w3699ODmKuzzKLCkosJ9MnhHegF+pQ==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "EL 8 TUCUMAN",
+    "icono": "https://www.elocho.tv/resources/logos/og-image-1200x630.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xK0bJZPaadoonjjwY62HHdW6evlwlei5bh9+HcBppiHuwB/Hn2exm1Tl2ChfgKJ3FpbAfGQtQfM6KC/HLsv/Y95",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNOetugAAnoDk2N6xVXAP/og3NkzPLQ3whKRnQlZXrsvrHiRwvKUVJuCxS/qFNIEeYWSZK26DVLeCEev8Kb+PzCBjGoQ/o+GXTvjoOqKhNe1+1fQsER/XkijDJpgClZ0Xw==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "Canal 13 La Rioja",
+    "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcSK8c1BXf1RmTif9OfqOvpI7OIKBI6cvWadbQ&s",
+    "uri": "PRzQhyPcFasYPGJOfLKPNnFLcqiFfU4yAgGiDTQHauT94ABNIzqgszGCgIPBVp5l"
+  },
+  {
+    "name": "BRAGADO TV",
+    "icono": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg",
+    "uri": "316j/y2RP6Og5zHG/Bmxs7uxEg4aebxu26HMullBQmh1qdvo4gsOrS058FkZLMOEsnpgvpMov6BRa9vsBfVmzA=="
+  },
+  {
+    "name": "Telemax",
+    "icono": "https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI/Dt/3OaYyteJQ70Ri/VchNZFA5ovie2vQD8Fw3E2yqKu+0Uclx1hAj/jujDRduIE=",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvK9OvgOcnN5HBf/8Ru28/Pn3UyFpjBhL/HHqS6IBEJ0RAtqPfIIo6ZB90Q8XALCpOQ5WC9abIFltLW+ubkyDFclGO4T/5v4MX/xXbPln9kLaaBUt41jthyH4b4brRDpChg==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "Telemax OPC 2",
+    "icono": "https://pbs.twimg.com/profile_images/928235234625228801/PrGLNPSS_400x400.jpg",
+    "uri": "fb2Z2wGR2eEW8pNa/EueLflv+cuy0uPCH2OOQ7+5C10EICiAVRGiZN0b1Mli1Oz3NgKJu3S1c7mGw5IQ6PaH/5RgGSBR6+7NLD1u67DaGCM="
+  },
+  {
+    "name": "Multivision Cable",
+    "icono": "https://multivisioncable.com.ar/imagenes/logo.jpg",
+    "uri": "BwCt2YL2jA0p6g5tNuk+JI8gp8UyG5/4mFWQAmiZwezWfYGRUrsbZLsJ7bbn5aAWhtYHoBa43q4hx6dmtPHZhEV3q8odioHEYcDW7fHPDwciE98oXZdic35SrWuDNoQX"
+  },
+  {
+    "name": "CPEtv",
+    "icono": "https://i.imgur.com/zFgbobO.png",
+    "uri": "ilOZEuHGYrlxc4gD7mvcvRDJgcVmEzF/XsQcdaB7+fCkcWsl4IUWcwi2B4H14P7Y+/fNBIYZeO3AaS44sWmCpQ=="
+  },
+  {
+    "name": "Chilecito TV (480p)",
+    "icono": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg",
+    "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8Kwz8GIU3/9s0yoaAL+dYAmpsNSRhrGAhkY6aakZWbU42A=="
+  },
+  {
+    "name": "SPTV SAN PEDRO",
+    "icono": "http://static.tvar.io/imagenes/sptv32.png",
+    "uri": "3v9JL2E/406Wq0crWfq0HoiXui123DOwx9l7Q1v4C54jtHVMxl7Hr0iSlUvWXmu4to045rz3w1NR2G+R7LhOLA=="
+  },
+  {
+    "name": "GEN TV",
+    "icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJJkvEwmmZXjxHzV++h8BzDoas8Z0VyU06kwywJLJypCup1hhvj2oMFj+DmD8KQa/U=",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGTXwKoauD87QKHajOUNK6RHihkM41doG1VQVdsoOpArGIuUC6SA6csBURz5boQKXveCCucRzkgvj3yd6bBJhzOq4xXjnopEEIkCqtt0ninEuxayEcWORN4TkqcU0thvag==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "STREAM MAX JUJUY",
+    "icono": "https://static.tvar.io/imagenes/streammax.png",
+    "uri": "UsJXdJnucjTY8aoakU+dh88pwLcQ/Qjs+M4uEy0vP3+QXFCn2ZWS1CXWEifSlj4h+/fNBIYZeO3AaS44sWmCpQ=="
+  },
+  {
+    "name": "CHAMAME TV CORRIENTES",
+    "icono": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png",
+    "uri": "3v9JL2E/406Wq0crWfq0HlELwUN8EZ1LaMEO+S+c2pK7dEP/BJRPIASo5lZw8jI6snpgvpMov6BRa9vsBfVmzA=="
+  },
+  {
+    "name": "CANAL 7 JUJUY",
+    "icono": "https://i.ibb.co/ZGSTNsG/canal7jujuy.png",
+    "uri": "ilOZEuHGYrlxc4gD7mvcvZ0UYoNbYkgC9tG9ehal0gSmPyB0aRkZ9Wod/KWcfbfQPxtUjCXei1qOTac2LJLSa/v3zQSGGXjtwGkuOLFpgqU="
+  },
+  {
+    "name": "CANAL 11 MACHAGAY CHACO",
+    "icono": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png",
+    "uri": "3v9JL2E/406Wq0crWfq0HuQ/bd4uyIJYOdB7ZodSMQVOELQAVWxLRryRFIybFqUa+/fNBIYZeO3AaS44sWmCpQ=="
+  },
+  {
+    "name": "MULTIPLATAFORMA FENIX LA RIOJA",
+    "icono": "https://fenix951.com.ar/Nuevo_2013/imagenes/165152_1590517102.jpg",
+    "uri": "8Eg+14Jus5vq0+EYuXiHLdLHA7jbpx8dUmQg/Nx1TCyTMsghjP8tB2XS1NT3tnmiFktQsy5M/Z3m8+3m9ioRWHYFOZgBrRBITsHBqhgqnUA="
+  },
+  {
+    "name": "Canal 9 la Rioja",
+    "icono": "https://static.tvar.io/imagenes/canal9larioja.png",
+    "uri": "316j/y2RP6Og5zHG/Bmxs7uxEg4aebxu26HMullBQmjTrSsVPksujPtlhO1gaf8hsnpgvpMov6BRa9vsBfVmzA=="
+  },
+  {
+    "name": "CANAL 6 POSADAS",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png",
+    "uri": "Kglj+e1yArBoI6BJi9rWt4K11XqmjZ3FtnFAG6N8Q8hSCwxckWHh+TgPFnG9oiFxxwQwXV7gmUvtsFLErJau8g=="
+  },
+  {
+    "name": "CANAL 12 CÓRDOBA",
+    "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJri/6w9d0rlDORLdghjVjpHU/bvB6t9c0+Oa3ntiv2QQgDPjpivUeXYSFPWFCeAe7LqRGdipAmdVUEYSz87+0n",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvL/Z477H58+uBiKYYUwyln4M9LIn9YfRONGaGeajWBNb0Ik1WyfleSLIE92oT9qVN7tqlUgOeyKr2NwBF5+HKi2UKmggUaaWJSOoFpat+KnAAv+qvFI/UhH2cGi+v9ZqDw==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "Canal 7 Neuquén",
+    "icono": "https://static.wikia.nocookie.net/logopedia/images/2/20/Telefe_Neuqu%C3%A9n_2001.png/revision/latestcb=20200304143345",
+    "uri": "ilOZEuHGYrlxc4gD7mvcvfoi/zoblcmTk1LJGKC78Kl/06qBpMAwHlTzBD5SZjfqz0UqA2G1g7vQTyhbk9OIrJ5lDW5QTfR0ZVsCHdeEgAt2BTmYAa0QSE7BwaoYKp1A"
+  },
+  {
+    "name": "CANAL 4 JUJUY",
+    "icono": "https://static-c4-1.s3.amazonaws.com/assets/img/logos/elcuatro-logo-500x353.png",
+    "uri": "5tQn0qO4lqOvTpcynZBBuOG4XjmDqedyIsOFhdcZJP7PEs6/DsDUzfaFMwRNaFGIMR+q5At7xtVu/iOyK3f7gP3gAE0jOqCzMYKAg8FWnmU="
+  },
+  {
+    "name": "Catamarca TV ",
+    "icono": "https://i.imgur.com/CEuPoqG.png",
+    "uri": "ilOZEuHGYrlxc4gD7mvcvbxhxN9McH8MNIAQTiR/UEvi2bc/evevids0ixbAI1OjhoAbdKUD85a8JuwoYCRnbYYMhj9XL3TuDijk3OB6dXmogrFGCJS+9qak5XElnGI0"
+  },
+  {
+    "name": "RTV Neuquen",
+    "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg",
+    "uri": "yA3HcaMetE7o41mb+k8fzLS7mfK3HlC6ARVBgGjjTu+0l3D3RMxz8dJaaKD3+LJmmwq4sQA1e/WOProYJbmIng=="
+  },
+  {
+    "name": " Lapacho Canal 11",
+    "icono": "https://lapachocanal11.com.ar/wp-content/uploads/2024/07/LOGO2.png",
+    "uri": "bak6bVcZjlSIPvXt5mEKlDYQDg99z4fZsqdUtw2e8KyDR5q/W01trUYw9J17s5o6to045rz3w1NR2G+R7LhOLA=="
+  },
+  {
+    "name": "TELEFE CORDOBA",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLi5fLEZ+usGSJed1yfW5B65rJlCoAe9VAyd9g8emUkCvEg5lBTSPjrc6RfuS6yi5nkUuA4t2bIkxFrwVytIQd2",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCZ7Jvs4w1o3lPNyvADmKlcUtrZ9iSnbin8WyVa8HIFnhM0xVaomO9RXfsJhAJDmSMbHTcPG6L3E/KQsvfaA7r+JlEk4asuX5BybY6A8CqSLHSAFSp7Tnsdp3XvR4L5Blw==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "CANAL 10 CORDOBA",
+    "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.pngresize=696%2C392&ssl=1",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLARwFz8YSvfk9OF70wUthMvJFPjGPrlirhYx6nD9Ca53E41BztaEMyrwYv5a3QKGQNuPNOMeUKefnG+plOojGm",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvH6dWGoA5sOH8qf7XOl/LVGpDuDCCuUF+R/jcGm9Pe0pmem1DiMxZPlbcSXK0ZZsUZlXkr/O4ZlK2GgGfVPKUJky9LWxjqNjCN6hdrc0DvghZBwu/4MXv4stS4KnB13hAA==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "TELEFE SALTA",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIQBoYG30yUrZxi7VdWIyZuE+ZllW5qBDSW4GWzQnRJpdyo7nxsaiHMXCrdEvjewSzLqRGdipAmdVUEYSz87+0n",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB3KkA7Gi0mdFCi0yYOlvO4uN785NEU5Qo0L5ogTl3plRhMdT2TQz7sdnWQS67vZklEwOWk8rsyCuUv2F4nmGeIsazxXH5QmGZDha62b0OfN6q/iFGnxPdwRyYb/13uL8g==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "TELEFE NEUQUEN",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xIoKb+b79fjs47384ilDgXGbPHS4dyjacNMZg5Ogt05a95DvCFbQNzMj1ye/GpmzwrLAAmR2SnIVoVYg2P/f8ea",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIdzRK/lr29U/BT4rOSJPqBDlPCHApcSwR/CcDP77pr6GUASWpOt0wrV5PncmWYl1vQwmmzzxBpi9hSzrsTN+iPlNHdWHHc0xXzFby87neNCQapq3rnPGSNCVJwX+If3eQ==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "TELEFE CORDOBA",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLi5fLEZ+usGSJed1yfW5B65rJlCoAe9VAyd9g8emUkCvEg5lBTSPjrc6RfuS6yi5nkUuA4t2bIkxFrwVytIQd2",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCZ7Jvs4w1o3lPNyvADmKlcUtrZ9iSnbin8WyVa8HIFnhM0xVaomO9RXfsJhAJDmSMbHTcPG6L3E/KQsvfaA7r+JlEk4asuX5BybY6A8CqSLHSAFSp7Tnsdp3XvR4L5Blw==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "TELEFE BAHIA BLANCAa",
+    "icono": "https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLa7MWs1MrMY3v0YKxE40pM4tBTTGn3gDWziyAQV7jEpUc5tWqooC6nMbp7Bfc+UHocJFspM1Cfwk39dDvMujYb5FLgOLdmyJMRa8FcrSEHdg==",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvO/qkJnSYOC4UFjkvnJlOMRzfow11BbwkWthxMuk83QDyGksB713O3RdaBlb+qi7iHh9ZIdNUrybZAzIyZ+i48In73xjr+0fSmfNXG68xM7k8BDa9sg2BsXSmbGxnomjvA==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "TELEFE ROSARIO",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/800px-Telefe_Rosario_%282018%29.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJN5qEmv9hZJbFXys3bpz/B2PN8cGwT23f1t8b8/scIHUkFwwfhwoPtt90FQUDe3ecyXdGAkAbxW8sQFc6v2CeK",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvApwQ+25vILJXC0BL3rTYpo1EDNj3vWvVBAGXdxbagh9ygKl6ZtQIA9r2FerOkjMXVS9idqki4x5eGfMfTrYEH5uIEQxLxJxyJ53noTlftRUXhV5ot4rW191aZGlwq6zWA==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "SANTAFE CANAL",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png",
+    "uri": "zDHHGNxDnEgTHK6vTo0oda+n6v3n3IBI/IBP4dfsOzggfP/SFX2OlfoBSMv78yWE4uMquXJNmiYS2F7mxYealQ2xNLbuLfzqaPaV5O5EbJ8="
+  },
+  {
+    "name": "Canal 7 Santiago del Estero",
+    "icono": "https://4.bp.blogspot.com/-6HfJdVSoY6c/VpvBVOLh5VI/AAAAAAAAApg/4i-7-4KOyL0/s1600/c7-castv-2015.png",
+    "uri": "ilOZEuHGYrlxc4gD7mvcvd9QaqaEc2/7sG5297lCpDfFmobUkL2dQe2lnug/XcYTsnpgvpMov6BRa9vsBfVmzA=="
+  },
+  {
+    "name": "La Voz de Tucumán",
+    "icono": "https://i.imgur.com/k2r7IeQ.png",
+    "uri": "xdWTmZoBK7zXb2o4hI/6dXZtj0tQ0aRnNCoOGf9ZdaEkdPvnWJKuJAl/IH/VlyX2aTFlpNfzJmxb2R/w1Qgzcvv3zQSGGXjtwGkuOLFpgqU="
+  },
+  {
+    "name": "Chaco TV (720p)",
+    "icono": "https://barranquerasonline.com.ar/wp-content/uploads/2018/05/unnamed.jpg",
+    "uri": "kL+KOO+fJ/0FD/ErnhwAKhTS6iKflSQCxNXT7ysfWP9j8OMhw3RU5y+wJ1+nUwqPm4P6fkG/vzI+8VIDLQE+FQ=="
+  },
+  {
+    "name": "Televisión Santafesina",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/2/21/RTS_Nuevo_Logo.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLtMiiFYG6lNHU3cP53ULamM7ztbydU07psL76Y+BWbEUQ/WVhnDKDs+zCvZeptl0fLqRGdipAmdVUEYSz87+0n",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIE2B9fCHbfirQTB23s88sYLJtY4HcYz31cBdnoE0T2ek9CL2Zbz2fMHkprUZCOz4ieh5W8/m2ueXGEjzwV1BLyKRlSi71SPU9896SpB0jblQGVRWqpKFp3ZSJDqqtvf3w==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "Canal 34 San juan",
+    "icono": "https://static.tvar.io/imagenes/34sanjuan.png",
+    "uri": "kJtK2G1R3X8kO61WTxyI0TrOo6nZcqHZIuUa2gK1G1hVqAWaQ1FefR7GYg/3J1ky/eAATSM6oLMxgoCDwVaeZQ=="
+  },
+  {
+    "name": "SANTAFE CANAL",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png",
+    "uri": "zDHHGNxDnEgTHK6vTo0oda+n6v3n3IBI/IBP4dfsOzggfP/SFX2OlfoBSMv78yWE4uMquXJNmiYS2F7mxYealQ2xNLbuLfzqaPaV5O5EbJ8="
+  },
+  {
+    "name": "CANAL 10 TUCUMAN",
+    "icono": "https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xLvQonrU75gZ3LUdYmXQg7ealPkRFLPmwpbdax/wh69/BpEJfkfiBlBYPmktIQTKhfLqRGdipAmdVUEYSz87+0n",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPWnGBViHuLndzhWzRgGlF+8jadsU12IqbTLF7780Zz+JIxNoYOg5s16rDUMuACR3PX6CebZil7JllP7ZeZ3QRZ1j/EpKpLc9RO2fbk6tPqlAAjpHqrtXy60XMXQlwBzsg==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "Canal 9 Litoral",
+    "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/09/Canal-9-Litoral-en-vivo-Online-1.pngresize=696%2C392&ssl=1",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xKj1W88l23GGCmQY3jKm6Rhdy1gdBV6DY8u/Gr+/sWMtnK4Y4ZZWN/DQ2eEn4vMQmbZX/xyNpfAN9q+LD+RRZZu",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN63A7dTIjzbgEvKzuRvuFacdjgsgLgyfU9sAu5yZzrVeWajX6Zdf48YIVHboUOfa+sOAgrALoENDLeqDH6DP38l9y0naI+xAN7vPqZBLCjkCOGxCXknCUF3wgCeouwJsg==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "CANAL 3 ROSARI0O",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/800px-Telefe_Rosario_%282018%29.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xJn0OF5Ru/lCFGYxlDrrRVq2PN8cGwT23f1t8b8/scIHW4aakiGMlDsJow/8+fuHMoyXdGAkAbxW8sQFc6v2CeK",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvASQydc985hG5Rw0jKnngOSyhvj2xhyN3v3tlpFdSzJ78+MSdv4QlWG7W3fDtwH9yRhPjgy+UWvp0IL/C0QPVbbgq2zmUN9jGTj5qMPJbE5gqJjlH0rEmS85sNQwWp23QA==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+  },
+  {
+    "name": "13 Max Televisión",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png",
+    "uri": "+Z2+hWd52l8tnz3QKAcg7oiquukL+UoG2vvlrwS9SRXjOcQCB9igvtbqf61wD3b4DQvAylxtLq9WmO/Y2bwqG/SVVOlopzWB6ZAw3w8eURU="
+  },
+  {
+    "name": "Canal Siete Bahía Blanca",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png",
+    "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xKAAHYNzYX0d2pDokXERbUL4tBTTGn3gDWziyAQV7jEpSpFpVrd7wlTiSjjLi0pMQkcJFspM1Cfwk39dDvMujYb5FLgOLdmyJMRa8FcrSEHdg==",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGqi1aduPSGEDKzFq+ZuB1wmUgStI4qyK8IBLtL2TOb3dDpPekzorm8ExMg9aBjNcsdYiwhd0DfrujpdbuhepbxZWw8BWQwnp28I2r8LXKItD5UFBITqjkuwXbDHVcXS6A==",
+    "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+    "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       }
     ]
   },
