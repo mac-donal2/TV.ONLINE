@@ -3093,6 +3093,11 @@
     "name": "🇵🇾 CANALES DE PARAGUAY",
     "samples": [
       {
+        "name": "NEXT HD",
+        "uri": "9n6KnizKL2gZ97Ny4tQWcPCkr70IjstiOnWU9e89XRF57oKBTrQiUWFG02BWvaJQaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXOZFT5G2ICdrV5CMkf7cBYzfsux2TNjWihA&s"
+      },
+      {
         "name": "SNT (🇵🇾)",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJhyuF/fitifa+L7Z6a8zofNax8BtIxs644Ae7NEnLoUwsn/L4BUktC41Xz5jpyMNA=",
         "drm_scheme": "clearkey",
