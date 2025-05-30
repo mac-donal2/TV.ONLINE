@@ -1083,11 +1083,6 @@
     "name": "🇦🇷 PACK FUTBOL DE ARGENTINA",
     "samples": [
       {
-        "name": "FOX DEPORTES TUBI 1",
-        "icono": "https://i.ibb.co/prrfTrpm/480746611-1271010521277446-1402937230727640874-n.jpg",
-        "uri": "rcBww9YoTq3j3JZNy5JFKKOZOHdwkSoJ+Q6JppIfTPA6ySMpFlm+y/S/uM5mYZouVWyWgwdHXihrIpUEE5/acwocrqwihLbVEKS6duhyD8ebCrixADV79Y4+uhgluYie"
-      },
-      {
         "name": "FOX DEPORTES TUBI 2",
         "icono": "https://i.ibb.co/prrfTrpm/480746611-1271010521277446-1402937230727640874-n.jpg",
         "uri": "uQmapV8sdI/G07Nw8MBL4Qniv3n9QyxqkN0ij+Dy5+ACVJkqPZGhE8Od98Q7zL029G13qlMgsy5q97WjRZ80Lz01S72qGWfw1z6SCMvznGaLpjdQRNj4eEIyT2XVYkwn5Yua36pzx+dXJhxSzokZNQ=="
@@ -1166,6 +1161,15 @@
       },
       {
         "name": "TNT SPORT ARGENTINA HD OPC 2",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSOq6huy6HWpKquzuZ7prc0MP41NBQMl+KrxrNYq96GYbpSCHkbi3oBqhaJUDlkOaVIR1je2hfWT0w2ul4E/w2N",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEsaQc+Owqs7vHvgLKfReAreTtSdm/fYSA+ewiWJ2+EDPCgo2EQjjbx1/hvzQB7hoTih82zHCP4CP9L6LNMYJWu0ViXH5Pj7Db4R4sg566PrsaeOQC5B3HMPhPFrje2g56Q==",
+        "origin": "/HXjH/A35K6km7Dp/0va7p2/H9Yt4pgD9yqJZtPDMZM=",
+        "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
+      },
+      {
+        "name": "TNT SPORT ARGENTINA HD OPC 3",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
         "uri": "hgyLEf1obfi7e+6+kI5AQQaAYi2Y9Xnhr4accAf2TnQ3HPrTa+sTZt5ExG6zTFmRt5p8LV1uOuzDb7jD0M0sbiymnf7fJ/x/f6W2xxJ2BcCMJsskEhpTV72EG6tsMNNB",
         "drm_scheme": "clearkey",
