@@ -290,9 +290,9 @@
       {
         "name": "TELEFE OPC 2",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "uri": "U1ycPLA1pcLKVrSu0YZypdnFANRjQfJEsYdEVx3lk/Cy2QOacsZwzT07sG/AON036YRZCzQnBsb2aAJw52fIyg==",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oSNmvDjY+0vaLExdTH0HadJ/FSpaflLxqoZbV2BFiv6eM+5vt7jxRVkfoWxfTl0ZsxyXivqasdX0jEiDZzdS1sp",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN579TZRuqjoeCJI//koBttWtk5GmKtaDnAQQDmAUREi8/p792WLqn/tm2qIHWrKG+NeezyeduUTVY1I9Tf271VoQBkMxCn6ieXYvWTrgg0VOFprsLg+fG4JZXNCdnFEyw=="
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEuKMWX0o2VeLQ1YunrHZ5G8V4UU9j5X745tdjNWj677irfqmj/TRYco8Y3k7wKe7DlqiyZP1wv4YZJXxJWYqSWJka7BYAsMoCNY7uokQEg3zaeOQC5B3HMPhPFrje2g56Q=="
       },
       {
         "name": "TELEFE  OP3",
@@ -3805,12 +3805,12 @@
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
       },
       {
-        "name": "TELEFE",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "uri": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xI8O8j1Ktm6xVNrN3p8+pa0dxiVaAQ1XTn2hjNSjPzyj6ftxvpVpNg41tULsQQjQd4=",
+        "name": "LOVE NATURE ESPAÑOL",
+        "icono": "https://i.ibb.co/FbZRY3Hz/eldestape.png",
+        "uri": "u4ZWz+4IwMVIZ0G3/rGFJsoWxDFPH/+Ivx9RxmnpXJnRHndsFBd3pRJVt/zc3bKYwaZniLiFD3SDaO5yPZU63A==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
-        "drm_data": "seu6+pLhroUhXCTL4XcqTVC5KNRcqQQPCaqLMqRu+J1zU4UsaS/Z1Fduwqc6d5f0JV2bnvtLw7f+E/hwscbwmJ7CCCw2KEUf1pdDp5Eb+EBzU4UsaS/Z1Fduwqc6d5f0SGfu5h9kx58DjNos93Wym7BzQsIu3r1zPN1m39M7WxWYWvEGPx51y9EBw8JLau5RJCvwvsIDX2bxFdHKMqD/U4WvWOioPwysKU7unuU8pmu/aqZjgeFyO78DqbmDUeuAQ9lqOroDk1hrrdpU7DqmxrdZ/o+sbUItaqAcy8GV1o3D7eNPL7z8TIPezDYkT5kfMJIdaeDc6z0w0okPxxhwoQ=="
+        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeRHd/4iIjWo3tCHvAM3/zgKATm//SkK5r/SPMnYgKGXN/GmlXIdxaxQsmr7G8QyGjvikui7KHcWT+Dh7Vt/Gxl5G0uEC4wc5IE8rZ0oVFZC+sFMguF9xc+N/8waF77XeQh4hkF0qQOO+gNGnd8LuKkc=",
+        "drm_data": "JJLvL01q6P7GOKhlCzG5PXXzCYGOzKGfM0vruPpt1MEi17l/THD+K3pR7wqIr29ocmJk8FIU69nLJNzST2gxbkfzuhpn+oAS8CNatpwzEEcm9zEcQ9AnHQN+8tDj/mHOkNQRlDlgVI3cCc31tgag2O3fanVq8g4P23dqhYytDpDbMtUqGOwmH46ZkkRbW2egwSWxCYtEIOEA1lmHyEw/lNkH3kHoKdp0pfXpwAvk44r3WQDk6mrnnYtdvXorsh1+7d1TqD0oIHij9EXH4WfTbU0PBpyjtyJIEhdWukzpKHKx0Cfd+4iO7QxJmpbS/tNQr4InVtafOAcxVb/pmnBxmtQHsvDbd7kWfSusBFNHgGPrCcTdciPDyIB8/9141F94YnQeLj7pSungYxCsVMGtmqLP5n9SdSwDBuf6bYMzVwI+rQH+iuZ1c6c2PE2m2kYhrCbhqFsZALlZOGs/3KZW8w=="
       },
       {
         "name": "DRAGON BALL SUPERRR",
