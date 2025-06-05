@@ -3,6 +3,13 @@
     "name": "⚽ EVENTOS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
+        "name": "Chile vs Argentina",
+        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
+        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRH3VFI+a9WVdBwFdZbP4Kt0XEtLyjKQKCKifr2Mp88GZlmbDRNptUMEFfqB7GUEdlruOUJTg4FWT+cZR3/MYeD",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEaTcCSGI/mLMD/CqSYZZGSl8fg0g2BzZxKVHKVUXZEhOTQVPhr6udX4J0YpuCjisqjIOdiFDyuNxOW7+5RPc9Ra/3eOWTLdMj+kGWlgUvHLWqGE33QtxOuJbba2Um45ZA=="
+      },
+      {
         "name": " MLS 2 🇺🇸",
         "uri": "+ptRzxZRQr8SEZ6sOBFvG3rhUCOGASSM4ULriDr3bBM+vRKPvB+7W2ivUQ29UX2g8eql34JP0Q9KWIjG8wQFOWhsTg+N3/xdq5LjUpf6wBw=",
         "icono": "https://media.ambito.com/p/25eb4a280ba70d93e6190e2d082e2095/adjuntos/239/imagenes/042/451/0042451876/final-huracan-platensepng.png",
@@ -294,7 +301,7 @@
       },
       {
        "name": "TELEFE OPC 2",
-       "uri": "+OLhs850KUCS/jVMLF03NXsK9iBvb978OmnHCy8K2LZz8CyqS6bFXcrplcljmX8VcUMuOZgAAAARL3Fn/kbTSA==",
+       "uri": "U1ycPLA1pcLKVrSu0YZypdnFANRjQfJEsYdEVx3lk/Cy2QOacsZwzT07sG/AON036YRZCzQnBsb2aAJw52fIyg==",
        "drm_scheme": "clearkey",
        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeZML4VpIxSu8YziYEhkHjnsdkHr9xwlS+qVvsow7WLOEhuv9NmRLn9r1MOvF3mYXjxzpoU8tXFQSDQxcBDGq4P4bPAddYGr+9LdljE9peb0b3tVKfIB5typmAqK5bT703mnjkAuQdxzD4Txa43toOek=",
        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
