@@ -60,14 +60,6 @@
     "name": "🌎 CANALES DE NOTICIAS",
     "samples": [
       {
-       "name": "TEST",
-       "uri": "u4ZWz+4IwMVIZ0G3/rGFJlCIjl+7vlKwo9k82FSothsyOSwlduHhV9NpfL+GG7eyINFqhGOfnHpmMpWJAHMdXA==",
-       "drm_scheme": "clearkey",
-       "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCy8CtxKDPaoRrsVASukCd48YSwagaC8nGJsQKR3JKyjV4Xt3YtLhZr+E2CpXdpKs59hugltgzEertEHaHklfm4NR6heZTdc67IQxnafdJXTdQoXj0PjfR42WL81xniLhw==",
-       "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-       "drm_data": "L3ZQfP1HVXBAPjIT0Yvq28bMCrDz+LE+Q82TWraMZgSKRvbz3dkfQNBDJf7n2pUupu6er1nMNXQJKRUDHVwYQ4Fh+ANRGNv4Nwy/lNZdZaPFQCOBLUrjvXlCzgPwBt9zRTUDDGYPmjNF4rpQIuWfj07ywcaROQWdtEDAeo0fSY1qR1M0bQf8aIdVBeyaKhUuREm4viza+lQbfhSggl1nnEY0O7Zlh+DfoJQgcgT32C6rLFY/S1JuXLjZL873jRMFhyQu7V0j7EZoaXpo1YUCos7c0a7qqTmmyrZ9NxtPj4SEg3MHguuX1moGECYXgKvwJeLwOdrqQ1YO/xPnRYVMa1jObnEN/h8t+NG38VewxIM="
-      },
-      {
         "name": "ETB Basque",
         "uri": "vUpSjsI3Pa50RnoqRbTb5lY+0T7P6u2hIp92zY6yz3bnEloF1DiDhiPsK9lSmx7RFRiBY6TW3I1ffIOakrjT/yzPN9alxsavnOW/i53JyfQ=",
         "icono": "https://i.ytimg.com/vi/cvRTMFIjG5A/maxresdefault.jpg"
@@ -1167,16 +1159,6 @@
   {
     "name": "🇦🇷 PACK FUTBOL DE ARGENTINA",
     "samples": [
-      {
-        "name": "FOX DEPORTES TUBI 1",
-        "icono": "https://i.ibb.co/prrfTrpm/480746611-1271010521277446-1402937230727640874-n.jpg",
-        "uri": "rcBww9YoTq3j3JZNy5JFKKOZOHdwkSoJ+Q6JppIfTPA6ySMpFlm+y/S/uM5mYZouVWyWgwdHXihrIpUEE5/acwocrqwihLbVEKS6duhyD8ebCrixADV79Y4+uhgluYie"
-      },
-      {
-        "name": "FOX DEPORTES TUBI 2",
-        "icono": "https://i.ibb.co/prrfTrpm/480746611-1271010521277446-1402937230727640874-n.jpg",
-        "uri": "uQmapV8sdI/G07Nw8MBL4Qniv3n9QyxqkN0ij+Dy5+ACVJkqPZGhE8Od98Q7zL029G13qlMgsy5q97WjRZ80Lz01S72qGWfw1z6SCMvznGaLpjdQRNj4eEIyT2XVYkwn5Yua36pzx+dXJhxSzokZNQ=="
-      },
       {
         "name": "EVENTOS 1 FLOW .AR",
         "icono": "https://i.ibb.co/ZpZfYTTJ/Fl0w.png",
@@ -3876,20 +3858,6 @@
         "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png",
         "origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
         "user_agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLZcqqA7nMvbUspVnYK2/fTuTxUde2JTGmiJaDQJGByAQ=="
-      },
-      {
-        "name": "espn1",
-        "icono": "https://i.ibb.co/FbZRY3Hz/eldestape.png",
-        "uri": "ww4WalZcgFaP2DCaYawE/ozZwLISOIwaA+2rYb5y+oRfp4p5ZMrFE24ZCpsF801UqDyq0rKosNkTMj94UCqTG3o1IpXjeSc7x0zD8eUO/Wk=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "4E2eGVZ6BGE1lryATf+eHfMxkuphbN//HdmWl9OFj67frLsvWHfDWbbFPjI2ZaZiaeOQC5B3HMPhPFrje2g56Q==",
-        "drm_data": "JJLvL01q6P7GOKhlCzG5PXXzCYGOzKGfM0vruPpt1MEi17l/THD+K3pR7wqIr29ocmJk8FIU69nLJNzST2gxbkfzuhpn+oAS8CNatpwzEEcm9zEcQ9AnHQN+8tDj/mHOkNQRlDlgVI3cCc31tgag2O3fanVq8g4P23dqhYytDpDbMtUqGOwmH46ZkkRbW2egwSWxCYtEIOEA1lmHyEw/lNkH3kHoKdp0pfXpwAvk44r3WQDk6mrnnYtdvXorsh1+7d1TqD0oIHij9EXH4WfTbU0PBpyjtyJIEhdWukzpKHKx0Cfd+4iO7QxJmpbS/tNQr4InVtafOAcxVb/pmnBxmtQHsvDbd7kWfSusBFNHgGPrCcTdciPDyIB8/9141F94YnQeLj7pSungYxCsVMGtmqLP5n9SdSwDBuf6bYMzVwI+rQH+iuZ1c6c2PE2m2kYhrCbhqFsZALlZOGs/3KZW8w=="
-      },
-      {
-        "name": "DRAGON BALL SUPERRR",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png",
-        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEivF1HQ/8vj0dAdP5iZwM4ejGPzFS1BSBYPXa56PewwAuYETQYD95LcSLF4N/YALkVVA/q+TShage3UG3ixztHnRkEsD2Bhv6fIpPJsby8KKdkM3t1BMIdYX6EUTYr1tPI=",
-        "drm_data": "OBggq5HP+HpvKbgVZOzPo2vPZmDs7CMn/oCjeFmit6rWQLhBR16xb45oNOPlVcwkrhKHnpGEazxZ99wNKm/mMF7Hpaf2XOTMeSVA84DjVvSm4BnNbRnc8B9ZKS/kjUFH4h7W5u1AF9H0PySePDo35O98o0eqf/qmxEbbx0v36QIuKMdRvjmwkj5cZ+/Y9OxdtGLRgpKobAdnzyWOkzM+9u6l0lFKcx9Sg7L71biznBcCUuPylKLm7SHxXc7SdoYeU9ASeBa32zqDjZweqrP7J8Eyub7EHUP7yTIerzQAWTwxYC7LLn0aGEPS+nLDG2Tkgvxq0eOxMeDryoOp6+HsZAoqq3KBlc74sZM2zWs886jnQiTJoWcAxeOMDq4jLO4nYk+n/XluOma1mSnW0R7cm2kB5BXhrO0DNLM2b6FTA0WF8Viv3EqE+e97KSfOiX0LtWZ5cJnUcfgLW2toWvUslA=="
       }
     ]
   }
