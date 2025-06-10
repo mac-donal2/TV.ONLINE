@@ -814,20 +814,12 @@
     "samples": [
       {
         "name": "DIRECTV SPORTS",
-        "uri": "S3dxHnW+daMdXEt1FucLtJgnfXhHsXrTv54Y8p+SOb6R3zk5MbXrClPuRD8JwDDZzPEg1yuuc62eVaLXWJJ7wgmBhHsaDaOKEzK/WahVeiMedx//vO/ei3O7GnbvbzddDvfkub+zFGZnREdwGG8J6I/68lxTcm8FBe0sq4VF871gTnToNTLxqjsIH/NcuB2ik15KjBKhHsh8K8BBOzDffge2bYe0t7M7b4I7IDzBBhxYiadgz+gN/FfwA+fwNHkgMDtvYRbMGbK88B1HU8oJZ3Nrw0NLbT1DUAqeAW8cE0rHbQha4LRnnnUwEJibND5BMr5qHBvpzmFhV5AwoTvx88LVxFlN3jKS6SydxJCq7Ud7gOW4el6+P8axg3rtvZZR9XDeV44sMyS6ejwBMUV9iGVxDsMIo2/7nApohL3AE4PNnHqOeeDImocPZZBhhMZT7AjY4wfw5/qN1D0lXzPk0ISswoL53aIdAP1s+I80zjqM9I3I/0UF/I0qBGkn6f4BPuMxz9UKVmh5VHjrzfcxoyuAcitykkZxbZLhxCJOIhJZwxzN2IKAyl1SU1Skwwqb2t40gmp0suTklQ2P0NNjqC9ULf0XaaLcm8aPQkRnBQLk6/YmSlu+Pj86zJDZtf590K1GocW9360LjmmbOjCc4N8lRw96ZA5ktXAuxPzpHBg=",
-        "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAVilEZgNY/66vTADnuZubRrOihPxKu15dHeOvxm13lyM9PKRQFcY4HLYHnSpeLCZSeJh0fVXq4oLk0t09AsOM+ZcY+CdG3xSCGpIACCSD1ZUQL9gUKhhM+xo7Ts3CbSOQ==",
-        "drm_data": "seu6+pLhroUhXCTL4XcqTVC5KNRcqQQPCaqLMqRu+J2qnVPlHs8xKpYVVLX46rWt9D5LjBGLUJMEgXpgYJBRPjqp/IiVvuEZ7EiFlAovDSOL3+pj5Mu/98NZNONNT3tIsobyHTiapyuUwhDLRQ2RF82d7pJuJ/26awfAgaHPy6qXg08If7BUKpF8IWSaPhO184lwwQclhESOjZLyUxwbrc+Aprk83T43qLHyGyFzq9u61oUGJIcf6T/eIqTSRo5Qca96Ps6S/xSIdgkrmz8Jqg2rlYmtLmOXjS7XLOXtYbk5Ab6GrKrpnB5d4CaavlGYdc0Z3WR/sZE4+c4XorWSTg=="
-      },
-      {
-        "name": "DIRECTV SPORTS OPC 2",
         "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PzZPPSrE9GVC6YVfZQAliBTRnMBZwIb2kC0dL7N8aAp6KRgjdcLeH9kzxwIhDMJHW73eckS2bj+lCXEoqVyW3U2DfiWUnCMOf4MxrUbhBVdjEoY3PtlAkKEOBu9eCkIoKMF79rOuFIzVRhkP0gPupRnAGRK4zat0uH9Kn3h1Qd1zyar46+dWeo1VFPw2Hpi/wGyaqBkH7dztQFWayPouBPVtoAuinp+EXVIf0d9Q3IeWyIT3yhdl2JzflKta4M2hBc=",
         "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
         "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4ZO5jBO4x8bHNvNJGMvsN3A91szkChsHbsguC7vHP/3A6CeVkYUYOhysAxZrTvnkgP1jqP4eunU7cxLCMqWf5Mylfvr5H1nvZgDDZ0Blrm0Ph0FrIX/HN0hZZONSuJfKtSOHLJhIUDjNMFAaBpIUM2AloNyGqebRkKuOO9bvMq0G1HeFmxmlf9nnFIQyy4SCmB56z7ndZq9Hx3R0p6LhUkZPm9gcp0TX6AxMtMfxJY+GV/bJPDyzunC7zbxBIeAPUfT+E2zmrEowKyASlHShYIvjDdPepLlU8COgZnlFhV3KNRCJzLkcNy0ApyD66Z9DQ8ycMi9QMO0miujKT5DYjB7F2LGCArC6iZFe1zKyfDV+XdZu4InWNtQ9LzgLptfbnxGsNxFn3ifRhSL4MK3b//nmnMRzV7zntnR4kgv9S0ruYDwSM4TcnRdq7rZ54CSmtpuP/m1EayKFRtk9PWtnQ/ls3+S89HsTHOGc1V8O1nhP3MDgBx5beRS6wIto7rBTEmwGsgYUC85O/H1FAW60onIarnbkMa6sSvltCW7w3zHf5KyAIAnhCdZ+2/pTbYF0OV7w+rfFW1M7lVJhHkNWX1ymyDeYLtMYYZVkngdpdwSSP5IXjSveJyoYPLzzwSZdqh/9NQvz82wHhJ7IngzgBf444fVRIRRz/GsFjSbJ9IavGPnz4ox4p78I1EWC70Hvd9orfA8eMYIttBnnBTjQo4Ce2qcKvD+bAht+LyRYzL4eA=="
       },
       {
-        "name": "DIRECTV SPORTS 3",
+        "name": "DIRECTV SPORTS OPC 2",
         "uri": "KB8QXgLxuDdVVy5C6lwWiB/RtbjP9Q/J5IA6DTujO5puBU2Bnvhtke3vE+jLWD0d",
         "icono": "https://sumarium.info/wp-content/uploads/2022/02/DirecTV-Sports.jpg",
         "drm_data": "LJEVQH72M5r0lfDyMP9/xkqeDr9WlD4VKMAtqrv7lS4I7Skd7djmEYaQpjoJ5LnYVSAxKKxdVmIeXig241jjUr5NchKHepBNYkfu5WpGx4YXaIzrQmMgi8EEmnUpTGN9rf/XhKXLV+x4eZaWeFiPjoT1gjaRmgzXaBASCJtdTs3+YapjvrfBDpc5w9fKrHbbi9GXfVBGVbYyQqbKLkO6mn1E4E5OTbxZrWqr2hM/55xrsyu5Kd+vKHLmJNi8WVtNSEiizTG0YEYfstcy0UZJjKOSXHHo5riE3zNWdMzvkdvG4AOwicDCJI3Bg/W1LrNH0oQR+gDmgRqbig9w+CsfW+KkSeVQvbbQ0dixhcOwlC3uP1KNuN+c4a5WAkrjsbFc1IliVJIUo18Xy4XLo5NQqKIQWMDRZuiqTrRleWviuowPhjXUPfBLferjYXS3Tzg9Ls5W9fVpwPUXefwKevYBTU0GWYwqSK0+9ipgORH0OPR4vxUHh8mPmRRbNo9miVs7OyshWT5DEwnmnOv2d8Dszw5bellrB7Uf1KFjw0+4vsx7B0U3pkxRnQa44mx4L9qJxnRAPd4g04Dzdc8lDPn3JF597cobakdKrDQsnVqXTa2/kSonX/kELX9bI0eTCKPjz/44HgRx1XePOEEZmSXfqfaEXCQUUyPLxRuG24/i5YRC/Q5f94bASrX2EgaAo0jGh/liv880BPc3DGJza1e3LQIYHL9rOT4GlLMAgdpjKcUMbI8MnykVv5ck8Fgyg3nWYA2Hok1XZLYtSfaX+Twm7N4Ry/smOzClSXuW9iqNz7edFdnIO12wWKGdMziQt7mojaX8dFIpi8EI05wEHxfwGA=="
