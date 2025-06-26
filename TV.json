@@ -1275,8 +1275,8 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNieshfYjOdDLw7Bne1JP8lJJRBD4ILAlEbMaSgNjxH9ZVK46oExX0uXqFpO2bAtOMhlxozsMUN3MiyR4Lpk35jGra1ftRp7saMYKoEYIztX6cIveN/jmbOtvH57dwWvPw=="
       },
-      {"
-        "name": "Sportv",
+      {
+        "\n        \"name": "Sportv",
         "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfrvIjr8D3pry9rx5YVnvJRsIEaabpwAewg971HbDvooE7tov2neLuvmAVStNhNlEjYPEo+kQStM7bbTs4VOnGAFCkc28BJChMcWjY17w3coCr6lcaO4fL/ls++79ljfMI=",
         "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg",
         "drm_scheme": "clearkey",
