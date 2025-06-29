@@ -523,7 +523,7 @@
       },
       {
         "name": "SOMOS BAHÍA BLANCA",
-        "uri": "hgyLEf1obfi7e+6+kI5AQaxOXVMZEWPu63kQb/frwLSEKh2dUVCbEvF0CBtglJMAJqZ6bgVAZJ5EjkmxJkuxI4riODvz8qKuM5y++Kk8Fjqonf7jlZq4ph7SWjWwp69i",
+        "uri": "va+jX61qYtVSMRrQur1RJ6JPb6R+ltmCDdkxNmUH0l/ROfwobdDpPXGrEiIe/C/x6DC5tvSLZntbefY7sDYzC2njkAuQdxzD4Txa43toOek=",
         "icono": "https://i.ibb.co/ww6hpxD/somos-bahia-blanca.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvIKMBbALwrAnyX8XGR97hzyc/wB9HjjxJPyCe9h1Q78JIlvniOn7iTLKjs6EqsGEBPBnsk7rM/Zwtz1EMlJ8DHnuvxgaFVDqXNIwvpDTC0QfWezpROi53tZB6BhYyWo68g==",
@@ -752,6 +752,14 @@
         "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNmZe7Nrf+CREt0p3bufkyh8SCLslP479wnIAamBatZzUcElsQmLRCDhANZZh8hMP5QsClSLG4D+997EYysGjBEETNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aV55b/o+64eAUi3nAERE3q6Q=="
       },
       {
+        "name": "TELEFE SANTA FE",
+        "uri": "fky6l6E0VjhzlOmKgW+Egzk7ciZC9ZOWv+NeOMvXxPJDaxYgXussg5rJztIduo61DXS4Mx5b4ee9QSaBEN/Jx0QVquWonxi9PlKDlBGfAcI=",
+        "icono": "https://tse2.mm.bing.net/th/id/OIP.RIBDYqY7R-ayQz-MWkkKXQHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvB3KkA7Gi0mdFCi0yYOlvO4uN785NEU5Qo0L5ogTl3plRhMdT2TQz7sdnWQS67vZklEwOWk8rsyCuUv2F4nmGeIsazxXH5QmGZDha62b0OfN6q/iFGnxPdwRyYb/13uL8g==",
+        "drm_data": "Ki+of7iEOKK35PY8eYd/ptfF/mkFECZd4F8oFdtBbNmZe7Nrf+CREt0p3bufkyh8SCLslP479wnIAamBatZzUcElsQmLRCDhANZZh8hMP5QsClSLG4D+997EYysGjBEETNJTo676FwxfF0GcteYdWP5nVx8cISVnm93svPz8L+rGfl6LSI83laCnzzLLXU+oKA+2FbKvSeJDr2GEeRgQUsz20m12Wl9LPOK/q3xzeQ/GVAGtAqLVglVPZbo2P7FnaC6+/NANt6F/FHyqhzJdVdKEBixG3vKii45zclB++0r04w/+iLv7qRLvuI1Aj8aV55b/o+64eAUi3nAERE3q6Q=="
+      },
+      {
         "name": "TELEFE SALTA",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJaJU93sW0swfCGCnzOllhZo0OakwScX+x7e7SjfhP0S5Q+gpK7yTwlxW5pjghePG36mJvYtsJbMqgCWdlYLirH",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png",
@@ -842,7 +850,7 @@
       },
       {
         "name": "CANAL 3 ROSARI0O",
-        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJcVRpNyQ1tjYXHXfgLy9MNlIbH9aTWR+kiHB+Hk9da0KzMrVNitRzdN7cLaOE1ihdJgj9oYJlduRcAw85uaLooaeOQC5B3HMPhPFrje2g56Q==",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXCd9Z8xvcSyxBJXb7iEGfKlUD7WN286/y+Qm6TvOH5rIsnpgvpMov6BRa9vsBfVmzA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/800px-Telefe_Rosario_%282018%29.png",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvASQydc985hG5Rw0jKnngOSyhvj2xhyN3v3tlpFdSzJ78+MSdv4QlWG7W3fDtwH9yRhPjgy+UWvp0IL/C0QPVbbgq2zmUN9jGTj5qMPJbE5gqJjlH0rEmS85sNQwWp23QA==",
