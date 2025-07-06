@@ -1503,12 +1503,6 @@
         "icono": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffec8403b690ee3d6bb645b6e8d9e1e85070e865bc1b4ad14e8af28261e6ce1ad.png"
       },
       {
-        "name": "CINE EN CASA",
-        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9G9iMAnSzIrJPI+abGUXG+D",
-        "icono": "https://elperiodicodevillena.com/wp-content/uploads/2020/09/2.jpg",
-        "drm_data": "8HOqGKVaxfTfY2kRwcbBx0XKzFXPQjWVQNqcPZ3iFK+lfeQ8DyJpbwNfNj+N91VrKQc+e8U2vSA7pl8cYXCHwDgYjQUsRTbiEzf9+kkjF2F14bPKLoBZs0Rysjuvcq5uKSh8G1J/Q0itO9cMaJCH5HJNGzOzYam6DD1mS619WbOAmqwOoNYuj7QzZMJIGOv6ukffHyM9JawOjqVf03Ar7np07a4cbfPOEbVNxL7nTPmnpNYDxpr46BMRuiLOPHkYDi6FpqjTSW49S8yJL9w5pCtd8saVnuE/2J7HXL9EP7LzAvH/f12pyhkWAR74hkKIGo9oNjvH7Rs/e8NUD3oeKtcKT8x4isok+H8bb0BamIrXo483Bhzk3EZuCW4nARRLmQ1OcY10gze94XSN3rkXeNTN8umCTYlUlTKebNbPCx6/tszrXn1RebP95YhVxA5uKHe0RkLg1rkHvUfylqp0fYk1rAEOFkSgMSIprReM8Vj5LDEzpknHZ+wXbh/26kgWtu8jlusG53G0slrwsLj6s6n9Ks216lpm8Em0ltDQ+ykfP5rOwULAd1C5tI+2tXpMX8qLcsDYKfvLaDmy6hL/qMTmkmuueA6lwUEuIxFmHYWHa4Kj8tQl856xB+PXhTjf+LeRsC9BbFQ/nAuitwzp54ljdthiMYfJMwuYvuP1PlEBQO2x91La9HO1Lpf94sHwqr/4F+tPOJGRLlKuU0YmQF0un8JqiKte17RJouLTUkB/U53n7VY7GISYqLQb4JG5xtop+3RQ9rjhEYHwOt9ulGcIcsxvaOs9+gv6NtM+8rg="
-      },
-      {
         "name": "USA",
         "uri": "RDixR6ElLESoxrgQUzciyEaUnNkYPbCZ3+s/PmPpDwt50TmH7+AdI3vm49NaLeJxF+l0Ya9rp0QbXLuEEg/ulB/QyXbPRhHKRua458f49xfLqRGdipAmdVUEYSz87+0n",
         "icono": "https://static.flow.com.ar/images/9497/CH_LOGO/350/500/0/0/49781180078327.png",
@@ -1860,25 +1854,7 @@
         "uri": "nainWZNQ8Iqu28VsYRPIFpyg9l4Bfrk50HpgVo9ENTJLD9D+vCv5X4tb2Pz8sr4ddgU5mAGtEEhOwcGqGCqdQA==",
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/c00a4556acf7d79c206d2e5049e81e5cf21690ad695d2960e69aeef695a701d9._SX1080_FMjpg_.jpg",
         "drm_data": "JB4+4SwCrnS5jkxa+YxWhN9TLyEbalIvToeIPUvYcbDjprYrFM/1Bhi6pYQTdQSKJfFX0cu86AMVwVDP+EuBZmWoy5Ewc+91IZS8NqgS3ag4CHOooQBruQEVjKsSBc4RGA7q2EA6uwxrEt1IsiytHppcckV4sw9YI6BfEnaz527MIM55gKy5aT0B743LKGZ/5b1TdqwxRt7bEV6Mwh6By9K2orSC6l7I9Z7TXfq473IeVXB6IJsjGIpQhhmF8LnDIhOWGKfwUnfJXyaPKaze5MquTHTKLWNHVw0RUkobsKjqftyaCyXlczEbLIvJWQEBVDaRqKZwm+wFvlRVlO/JYWUApK9upGl+FCO7m+m518k="
-      },
-      {
-        "name": "MARATÓN EL CHAVO DEL 8",
-        "uri": "cVI+FPBxX2ASracUSyM4w4nMdPY34kp+la4LYNCXmRLISeLWkRcRHJbNniib7TwlRYkcxQManVAW7vgfq8kybFcDizmvncmGcGwUfNRiJP0=",
-        "icono": "https://raw.githubusercontent.com/portedev/algo/2847ba407fd552d6da740a35ef239c16f1332404/chavodel8.jpg"
-      },
-      {
-        "name": "EL CHAPULÍN COLORADO",
-        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9GwaQNXs9EL82c2gzlcKcV2",
-        "icono": "https://m.media-amazon.com/images/S/pv-target-images/7398332bb1251226a6cc1de19c16c07e122f08772f1ab53e506c33e28249633e.jpg",
-        "drm_data": "8HOqGKVaxfTfY2kRwcbBx0XKzFXPQjWVQNqcPZ3iFK+lfeQ8DyJpbwNfNj+N91VrKQc+e8U2vSA7pl8cYXCHwOXBGNKipgvDm9eUFhP+6o5Q4nlrlU1OiuaDLiTT9iBBP/wwg5HuOn9sYrEnUvxLA3JYMzODyymmopsGttIezBrIXJxEsoSSXuNGSgH39HpqJeLycaKmOluolWiWGZeKWZcF4ZgnkJuFEmHSH62oyOlMRGKcUZGo54LWa1Mu8GWrGxf4CLLjCA7BEGic94mwDwiJnGKy44MJMJVNYqAchR5H1TfujoZsNKylsS/hjQAxM5UN6iKxJ4WLdUZIhcE05pzw8lEu+Vr9cVEpxbI8ABH2rQbNqdrZpoMA6bJQGxTCBI02Hv36Q5NXXc/k33PZkfIakeFu9wqE5TjoIPq8RtUSnazr0OTrB4UGR+nuARo0R5/ojSwzn583fr5YOsk/NxoWfHSr3HmUml7WyTZi6z7LWRCFKI7+eRvgh/37hV0uUOxMsKa4c2Z0BT0f95jqvaBACwjKB+sKlpETZ9B4RA+bX6owLG63RRh3mr2hrrBVReV2GumIk6horgoV7ICPJmUmN/44K2srWam0FBK/lh6AoZIrWt3WTy9cv8R6TiGL5uHH0d/q/BjKoocBjywM1mbwI5eEc/mu2eOMjccRr7H15OhsrYeQ/1l77cZ98MvM8A2+AWf9kvmuKdCoNPC6ws9yIRXTuWFyIFwKoKrao9UAxB/Pd6dl9Rbfj54bb6Ja8ingfZOo+BpPm+vhRJkyHmcIcsxvaOs9+gv6NtM+8rg="
-      },
-      {
-        "name": "CHESPIRITO",
-        "uri": "B2RVJu0iUQxnFTKYr9heAKV+/FcUQQWQs+Qe9pPRw9Hb5Fl4QSwaQi9u/XHoYJc6",
-        "icono": "https://m.media-amazon.com/images/S/pv-target-images/0b6aa3172f181d41d2176c85c61bcedd9e6db2db1b9725cf9cef0443c1b3d440.jpg",
-        "drm_data": "8HOqGKVaxfTfY2kRwcbBx0XKzFXPQjWVQNqcPZ3iFK+lfeQ8DyJpbwNfNj+N91VrKQc+e8U2vSA7pl8cYXCHwOXBGNKipgvDm9eUFhP+6o5Q4nlrlU1OiuaDLiTT9iBBP/wwg5HuOn9sYrEnUvxLA3JYMzODyymmopsGttIezBrIXJxEsoSSXuNGSgH39HpqJeLycaKmOluolWiWGZeKWZcF4ZgnkJuFEmHSH62oyOlMRGKcUZGo54LWa1Mu8GWrGxf4CLLjCA7BEGic94mwDwiJnGKy44MJMJVNYqAchR5H1TfujoZsNKylsS/hjQAxM5UN6iKxJ4WLdUZIhcE05pzw8lEu+Vr9cVEpxbI8ABH2rQbNqdrZpoMA6bJQGxTCBI02Hv36Q5NXXc/k33PZkfIakeFu9wqE5TjoIPq8RtUSnazr0OTrB4UGR+nuARo0R5/ojSwzn583fr5YOsk/NxoWfHSr3HmUml7WyTZi6z7LWRCFKI7+eRvgh/37hV0uUOxMsKa4c2Z0BT0f95jqvaBACwjKB+sKlpETZ9B4RA+bX6owLG63RRh3mr2hrrBVReV2GumIk6horgoV7ICPJmUmN/44K2srWam0FBK/lh6AoZIrWt3WTy9cv8R6TiGL5uHH0d/q/BjKoocBjywM1mbwI5eEc/mu2eOMjccRr7H15OhsrYeQ/1l77cZ98MvM8A2+AWf9kvmuKdCoNPC6ws9yIRXTuWFyIFwKoKrao9UAxB/Pd6dl9Rbfj54bb6Ja8ingfZOo+BpPm+vhRJkyHmcIcsxvaOs9+gv6NtM+8rg="
-      },
-      {
+
         "name": "LA PANTERA ROSA",
         "uri": "swcUCHlSYn+xcbFZQL/Jke6mk3M00nqH49ASFQ/6kWjLSdejRSdGMPp8bdahztAO",
         "icono": "https://m.media-amazon.com/images/S/pv-target-images/c1076d1034157bf2bdc32bb9052cfa8f3beacd4f0a9bd199c12b537ec134b234.jpg"
