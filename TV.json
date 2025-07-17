@@ -923,13 +923,14 @@
     "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "off",
-        "uri": "vjI7JtiDeGHChEJlj99ZNMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzbHpBx7wZot+SZAONxCc5PiIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://media.tycsports.com/files/2025/03/22/824508/olimpia-nacional-p-resultado-goles-y-resumen-del-partido_862x485.webp",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+        "name": "COPA PARAGUAY 🇵🇾",
+        "uri": "9n6KnizKL2gZ97Ny4tQWcFTsbbXOLK8bmY1U7GGzKaFGsnHo/LhoQ6f633pgxJrn",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
       },
       {
-        "name": "COPA PARAGUAY 🇵🇾",
+        "name": "24/7 🇵🇾",
         "uri": "wXotTG+wbGSE0Cnm9E1M9mavuuPpW69lC02091HU7qUNPUxIZhPFmGJM3brYyYfwTe6Tk+XYNJ1JB8ystR/Kv4/D3fb7JwypDpGL39J9xStjNc7t304NejSSojCk2nKTX3GoTCrCxM0y8LoI4vssEE9XcL1piKHgu+dLAS/q61t636t3IYGsoxHiFRawQ7CaWe7ceOQFYtfWbtZ86KR0Pw==",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
         "drm_scheme": "clearkey",
