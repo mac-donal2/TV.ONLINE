@@ -890,49 +890,19 @@
     ]
   },
   {
-    "name": "⚽ MUNDIAL DE CLUBES1",
+    "name": "⚽ EVENTOS ESPECIALES",
     "samples": [
       {
-        "name": "EVENTO 1",
-        "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6FrBxzwZdGlk85hGeaipyp++Qnr/PhJf63DY0OEzbMGOx6Z4JW5BQTyzdFLCW6Ig2hO0lCEn4R23AuX1qF8wHNN",
-        "icono": "https://i.ibb.co/b42MYm2/MUNDIALDECLUBES.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvAr2vc0YSEgPps6GIzsqHnKy+ckKP7XLnBFHFXba9x0nUDKFtN7tDf8Uoprx+LxpSMPSUHH6HKeKQwvy58tJLwikI6D02PA07uy5+lq2i1ABAv+qvFI/UhH2cGi+v9ZqDw==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
-      },
-      {
-        "name": "EVENTO 2",
-        "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6Hb04uOPC1fSGV3KbjwXVuf5rJlCoAe9VAyd9g8emUkCpnBUO7UNCY9z9Yoyhk8d9Q=",
-        "icono": "https://i.ibb.co/b42MYm2/MUNDIALDECLUBES.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
-      },
-      {
-        "name": "EVENTO 3",
-        "uri": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
-        "icono": "https://i.ibb.co/b42MYm2/MUNDIALDECLUBES.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEj7PAMdqqV8OZX7AjfT0fenuUw2eFDnhmRK4n9csTXS/FpjHSvX5nWJ6Xm5mPQFJcKGir2H0kStwsr4Jo5OSJVbY5j10bSEskquAtAy+mE+2aeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": "EVENTO 4",
-        "uri": "O+0EFfg/3liYjnYX4xHVOfJP919wGjGgflZxoWRpDHfrvIjr8D3pry9rx5YVnvJRtKnabK1oInLqQkIunlqNlKJ7wdEef1lNrwBYaxDYXQ+xtzGb/SVtXDapdOckNXSkv7ygsfQzUNfBvMCXyKTWx8s/bR/My91yOIYvSUAo7rU=",
-        "icono": "https://i.ibb.co/b42MYm2/MUNDIALDECLUBES.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNieshfYjOdDLw7Bne1JP8lJJRBD4ILAlEbMaSgNjxH9ZVK46oExX0uXqFpO2bAtOMhlxozsMUN3MiyR4Lpk35jGra1ftRp7saMYKoEYIztX6cIveN/jmbOtvH57dwWvPw=="
+        "name": "Manny Pacquiao vs. Mario Barrios ",
+        "uri": "sxXEGQzshLzQJ3R1CX75CNWeU1oR5BjG3rtoMJt/TZgnDJ/dX8KqEZScWKfZd3rW1P+6rq8bGYsbsYzqTqrVqYNARVoQWmbbLUeFMmgHLa8=",
+        "icono": "https://www.record.com.mx/sites/default/files/articulos/2025/07/17/manny-pacquiao-vs-mario-barrios-todo-lo-que-debes-sabe-sobre-la-pelea-del-pac-man.jpg",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       }
     ]
   },
   {
     "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
-      {
-        "name": "off",
-        "uri": "vjI7JtiDeGHChEJlj99ZNMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzbHpBx7wZot+SZAONxCc5PiIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://media.tycsports.com/files/2025/03/22/824508/olimpia-nacional-p-resultado-goles-y-resumen-del-partido_862x485.webp",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
       {
         "name": "COPA PARAGUAY 🇵🇾",
         "uri": "9n6KnizKL2gZ97Ny4tQWcFTsbbXOLK8bmY1U7GGzKaFGsnHo/LhoQ6f633pgxJrn",
