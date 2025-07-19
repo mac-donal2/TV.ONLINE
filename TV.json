@@ -974,6 +974,12 @@
     "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
+         "name": "MSL",
+        "uri": "wk7ZEbGYC5AuKImgrp9oBsmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzy87zQ1o8MbbuDQ9O0XT3HyIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+      },
+      {
         "name": "EVENTOS URUGUAY OPC  🇺🇾",
         "uri": "vjI7JtiDeGHChEJlj99ZNMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzbHpBx7wZot+SZAONxCc5PiIT3yhdl2JzflKta4M2hBc=",
         "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
@@ -993,12 +999,6 @@
         "name": "EVENTOS URUGUAY OPC 4 🇺🇾",
         "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
         "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
-      },
-      {
-        "name": "MSL",
-        "uri": "mvvbTCJoKrs3C7iaDp3ylx1zwM0V/A2dEr2Ex0dl8Nah2IdRZbcIqefi942E/8jkIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       }
     ]
   },
