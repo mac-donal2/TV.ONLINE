@@ -2600,6 +2600,12 @@
     "name": "🇨🇱 CANALES DE CHILE",
     "samples": [
       {
+        "name": "MEGA",
+        "uri": "Vcp+Ll3k92ppQu9R1R+6WPSCgRhN41uqpZiJESm1FEiNEfxInPhFv+Pr+bcRtUYEc+uw1Me6WldsQznCjsJO4vg96zbYM/YCtvyak74TWtyQtqhU10a4ADxaxzL3mNO4",
+        "icono": "https://i.ibb.co/kgdYmTbh/R-2.png",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSbvhYgLXcwb7+Mj/KzAM3dhPLvQb2e4x/c34N+UN4Cm2B/RrWGQmm8LvVYOOYpA7TzttkFZ9f2IkGh3TPuc3uiHo5dsFTPRjboHrE50BUxhKZ+tNvsu4zY9lEeMHvk/5GorCbhqFsZALlZOGs/3KZW8w=="
+      },
+      { 
         "name": "TVN 3",
         "uri": "MPyTvcd0a4RldnJzh5NdlJ8x85SIiM/MJHN12NdG7taH+rrFKGFE0iIgwjXrvZvAPa3rwOXqFzDzefkXSLOLWbaNOOa898NTUdhvkey4Tiw=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png"
