@@ -836,160 +836,6 @@
     ]
   },
   {
-    "name": "🌎 CANALES DE NOTICIAS INTERNACIONALES",
-    "samples": [
-      {
-        "name": "ETB BASQUE",
-        "uri": "vUpSjsI3Pa50RnoqRbTb5lY+0T7P6u2hIp92zY6yz3bnEloF1DiDhiPsK9lSmx7RFRiBY6TW3I1ffIOakrjT/yzPN9alxsavnOW/i53JyfQ=",
-        "icono": "https://i.ytimg.com/vi/cvRTMFIjG5A/maxresdefault.jpg"
-      },
-      {
-        "name": "DW: ACTUALIDAD",
-        "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2Ivte5t7NJBVAGiktqdNu7QqyJvd4mKOM7GWbys6k55n/",
-        "icono": "https://www.infobae.com/new-resizer/_oR7hsVt9U6Qe8eVIHFocJ_iznQ=/992x992/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LPNB3QLSPVE7JGHYNDXJBD4GAE.jpg"
-      },
-      {
-        "name": "TV ESPAÑA",
-        "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6E8Z0hWt5lba5bHHMufGakBE+ZllW5qBDSW4GWzQnRJpX5DxzjInKLCd9L6Zajp3LRp45ALkHccw+E8WuN7aDnp",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGTUpDQIWM4id40UFHpn+yqaAHxeJx7H9i5GDCT6EYjd9cZ5ErsJoNAzVMibfOe50HANv67STwJi9q0KEmvym09LbjhWLi3685Pzd/qM2C/3UoUopTzvYZTo/taKk+v6Ag==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
-      },
-      {
-        "name": "TV Azteca",
-        "uri": "H4wJygHc9n0Kz/zGVuau4YfEVuvQuKOgRI/pzUvzILoGMj/RGAChwjP7Q1+cb+RM",
-        "icono": "https://www.grupoisos.com/wp-content/uploads/2024/05/Imagen-TV-AZTECA.jpg"
-      },
-      {
-        "name": "ANTENA 3",
-        "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6HvWLavkTjm7l0EmbRCVw9H5rJlCoAe9VAyd9g8emUkCtVsnGZbmESb/ghA1wun05Q=",
-        "icono": "https://static.epg.best/es/Antena3.es.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvG2YSWGgedWsKcjdgMcM8WlMBLANxWPL3GU4xol0I2H8qWxDL5Ta/J3tC6mVlXoF33/JjbSXEYXuiOXGDUAQjSioGhFYGEzqlwhlZPwO+rvVQmIAUyC9wtvn4xLgeiHjMA==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
-      },
-      {
-        "name": "CNN ESP",
-        "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6H7cP8SC7yBheMQcExP/WKGyOcmo5+/RgbcHagAps6NKA363gOLkU5UYORLlnbeGEd/CRorrcssFZIUqGvONOE2",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/640px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN6QJGfZvhdFEPWev8SPLkivNaLDZT/qjKmeZy+w97vVaaJkUNhJ+XbZS7c03eX7MNmZ8c4MI0k6NT67LAnhc6lPA01aEaSk7nuodKzO76QmqsS5kWZsuIgWLDLpUrTfIg==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
-      },
-      {
-        "name": "TELEMADRID",
-        "uri": "Dfpe5q0/FTfuRT4s3k6RrRnD8tqs82SPo/YcD8ybO8VpiXvrdb1vHp5fwgMczYCKnQYbrc6i6qFrCnQ6KcQzAw==",
-        "icono": "https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.pnghash=dcdede14b767968b29028761f31fe79e"
-      },
-      {
-        "name": "DNEWS",
-        "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2IqUFHiMdbRWuvqrsxEq+EAA=",
-        "icono": "https://m.media-amazon.com/images/M/MV5BOTYxMGNjNTQtNjg1OC00OTUwLWI0ZDgtMmUwNGI1MGFmNzRiXkEyXkFqcGdeQXVyNTM4MjQ4MA@@._V1_FMjpg_UY5000_.jpg"
-      },
-      {
-        "name": " Chilevision Contigo",
-        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ66OI+Kidhlb8pebw3SS+pwCg3KTTInSwSoi9iSJ7yLB7FPwiRGkCbjOHF4qfT7ZF+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
-        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTEgAk3JH-qX36AS-VvsPInZr7KKQsCw1yIq6MxS1SJRXAoih0H"
-      }
-    ]
-  },
-  {
-    "name": "⚽ EVENTOS ESPECIALES",
-    "samples": [
-      {
-        "name": "Manny Pacquiao vs. Mario Barrios ",
-        "uri": "sxXEGQzshLzQJ3R1CX75CNWeU1oR5BjG3rtoMJt/TZgnDJ/dX8KqEZScWKfZd3rW1P+6rq8bGYsbsYzqTqrVqYNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://www.record.com.mx/sites/default/files/articulos/2025/07/17/manny-pacquiao-vs-mario-barrios-todo-lo-que-debes-sabe-sobre-la-pelea-del-pac-man.jpg",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      }
-    ]
-  },
-  {
-    "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
-    "samples": [
-      {
-        "name": "Olimpia vs Cerro Porteño",
-        "uri": "VPuXzghCAjwZwZjN02wP7smxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzt8J6asZnkGk0+5Xm+ef1CyIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
-        "name": "Olimpia vs Cerro Porteño opc 2",
-        "uri": "VPuXzghCAjwZwZjN02wP7smxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzt8J6asZnkGk0+5Xm+ef1CyIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
-        "name": "COPA PARAGUAY 🇵🇾",
-        "uri": "9n6KnizKL2gZ97Ny4tQWcFTsbbXOLK8bmY1U7GGzKaFGsnHo/LhoQ6f633pgxJrn",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": "TIGO 24/ 🇵🇾",
-        "uri": "wXotTG+wbGSE0Cnm9E1M9mavuuPpW69lC02091HU7qUNPUxIZhPFmGJM3brYyYfwTe6Tk+XYNJ1JB8ystR/Kv3GzJMKg27fJqef92qyg9vpXIpOKrQq/uTBsjQ9QSw9nukISkBmKJXi4YgAkKI54rcVteA2qMQhdKeDTUMKv2VbGXH0I5MGSSACBgGm4m4mdq4cpAjoZL5AwZJ8YfuzVlA==",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": " EVENTOS PY 1 🇵🇾",
-        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": " EVENTOS PY 2 🇵🇾",
-        "uri": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEj7PAMdqqV8OZX7AjfT0fenuUw2eFDnhmRK4n9csTXS/FpjHSvX5nWJ6Xm5mPQFJcKGir2H0kStwsr4Jo5OSJVbY5j10bSEskquAtAy+mE+2aeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": " EVENTOS PY 3 🇵🇾",
-        "uri": "wXotTG+wbGSE0Cnm9E1M9mavuuPpW69lC02091HU7qXVMrtqQv5B6CyQ+9nDS6SWQFe1HnEO7PVHZgmjeOwcZpm9+hDS4Zbf/xpKUZwIMCZEnZJGIgOpBegZLja3+Ye1u0mk9zZAMsCj51hFS7GnqF386XketX5ElkeNxKzzS6906EPLDXoQ/gwI5ghleMPar+r7Byr6AFejaxvnP6n6Qg==",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIElFV3EW9lCZ+rtIEHs24FYl76FQE5lSUgsmVxUY3Nq0gg0MKl0251rBIK8+TsW8KnNJ+sUlS0ePAblt8mOjNZx3Zwlp2mVVoEdGkPmRX9zlWaeOQC5B3HMPhPFrje2g56Q=="
-      }
-    ]
-  },
-  {
-    "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
-    "samples": [
-      {
-        "name": "MSL",
-        "uri": "wk7ZEbGYC5AuKImgrp9oBsmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKz83WyaiEdSLeK6Bq43Lv1hnYFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
-        "name": "EVENTOS URUGUAY OPC  🇺🇾",
-        "uri": "vjI7JtiDeGHChEJlj99ZNMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzbHpBx7wZot+SZAONxCc5PiIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
-        "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
-        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
-      },
-      {
-        "name": "EVENTOS URUGUAY OPC 3 🇺🇾",
-        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
-      },
-      {
-        "name": "EVENTOS URUGUAY OPC 4 🇺🇾",
-        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
-      }
-    ]
-  },
-  {
     "name": "🇦🇷 DEPORTES DE ARGENTINA",
     "samples": [
       {
@@ -1318,6 +1164,149 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvH/HZ/WjQL5c8KKptQUvf0+iH3Qha5l5WGEPJPK1yuJ03X+BFY0hgTBO6rfDwjKHggXqE2Z7vvFH3DSxgSfx2j/vGg2IivcsBKxgFZR5eIQiZBgfJdCxP9V8b+exn88uzg==",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+      }
+    ]
+  },
+  {
+    "name": "🌎 CANALES DE NOTICIAS INTERNACIONALES",
+    "samples": [
+      {
+        "name": "ETB BASQUE",
+        "uri": "vUpSjsI3Pa50RnoqRbTb5lY+0T7P6u2hIp92zY6yz3bnEloF1DiDhiPsK9lSmx7RFRiBY6TW3I1ffIOakrjT/yzPN9alxsavnOW/i53JyfQ=",
+        "icono": "https://i.ytimg.com/vi/cvRTMFIjG5A/maxresdefault.jpg"
+      },
+      {
+        "name": "DW: ACTUALIDAD",
+        "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2Ivte5t7NJBVAGiktqdNu7QqyJvd4mKOM7GWbys6k55n/",
+        "icono": "https://www.infobae.com/new-resizer/_oR7hsVt9U6Qe8eVIHFocJ_iznQ=/992x992/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/LPNB3QLSPVE7JGHYNDXJBD4GAE.jpg"
+      },
+      {
+        "name": "TV ESPAÑA",
+        "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6E8Z0hWt5lba5bHHMufGakBE+ZllW5qBDSW4GWzQnRJpX5DxzjInKLCd9L6Zajp3LRp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/800px-TVE.svg.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGTUpDQIWM4id40UFHpn+yqaAHxeJx7H9i5GDCT6EYjd9cZ5ErsJoNAzVMibfOe50HANv67STwJi9q0KEmvym09LbjhWLi3685Pzd/qM2C/3UoUopTzvYZTo/taKk+v6Ag==",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+      },
+      {
+        "name": "TV Azteca",
+        "uri": "H4wJygHc9n0Kz/zGVuau4YfEVuvQuKOgRI/pzUvzILoGMj/RGAChwjP7Q1+cb+RM",
+        "icono": "https://www.grupoisos.com/wp-content/uploads/2024/05/Imagen-TV-AZTECA.jpg"
+      },
+      {
+        "name": "ANTENA 3",
+        "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6HvWLavkTjm7l0EmbRCVw9H5rJlCoAe9VAyd9g8emUkCtVsnGZbmESb/ghA1wun05Q=",
+        "icono": "https://static.epg.best/es/Antena3.es.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvG2YSWGgedWsKcjdgMcM8WlMBLANxWPL3GU4xol0I2H8qWxDL5Ta/J3tC6mVlXoF33/JjbSXEYXuiOXGDUAQjSioGhFYGEzqlwhlZPwO+rvVQmIAUyC9wtvn4xLgeiHjMA==",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+      },
+      {
+        "name": "CNN ESP",
+        "uri": "wwWb9ZnQPZ9gBT4oLdFCJ0CgJG+u975B+2DWRannD6H7cP8SC7yBheMQcExP/WKGyOcmo5+/RgbcHagAps6NKA363gOLkU5UYORLlnbeGEd/CRorrcssFZIUqGvONOE2",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/640px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN6QJGfZvhdFEPWev8SPLkivNaLDZT/qjKmeZy+w97vVaaJkUNhJ+XbZS7c03eX7MNmZ8c4MI0k6NT67LAnhc6lPA01aEaSk7nuodKzO76QmqsS5kWZsuIgWLDLpUrTfIg==",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+      },
+      {
+        "name": "TELEMADRID",
+        "uri": "Dfpe5q0/FTfuRT4s3k6RrRnD8tqs82SPo/YcD8ybO8VpiXvrdb1vHp5fwgMczYCKnQYbrc6i6qFrCnQ6KcQzAw==",
+        "icono": "https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.pnghash=dcdede14b767968b29028761f31fe79e"
+      },
+      {
+        "name": "DNEWS",
+        "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2IqUFHiMdbRWuvqrsxEq+EAA=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BOTYxMGNjNTQtNjg1OC00OTUwLWI0ZDgtMmUwNGI1MGFmNzRiXkEyXkFqcGdeQXVyNTM4MjQ4MA@@._V1_FMjpg_UY5000_.jpg"
+      },
+      {
+        "name": " Chilevision Contigo",
+        "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ66OI+Kidhlb8pebw3SS+pwCg3KTTInSwSoi9iSJ7yLB7FPwiRGkCbjOHF4qfT7ZF+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
+        "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTEgAk3JH-qX36AS-VvsPInZr7KKQsCw1yIq6MxS1SJRXAoih0H"
+      }
+    ]
+  },
+  {
+    "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
+    "samples": [
+      {
+        "name": "Olimpia vs Cerro Porteño",
+        "uri": "VPuXzghCAjwZwZjN02wP7smxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzt8J6asZnkGk0+5Xm+ef1CyIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+      },
+      {
+        "name": "Olimpia vs Cerro Porteño opc 2",
+        "uri": "VPuXzghCAjwZwZjN02wP7smxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzt8J6asZnkGk0+5Xm+ef1CyIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+      },
+      {
+        "name": "COPA PARAGUAY 🇵🇾",
+        "uri": "9n6KnizKL2gZ97Ny4tQWcFTsbbXOLK8bmY1U7GGzKaFGsnHo/LhoQ6f633pgxJrn",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": "TIGO 24/ 🇵🇾",
+        "uri": "wXotTG+wbGSE0Cnm9E1M9mavuuPpW69lC02091HU7qUNPUxIZhPFmGJM3brYyYfwTe6Tk+XYNJ1JB8ystR/Kv3GzJMKg27fJqef92qyg9vpXIpOKrQq/uTBsjQ9QSw9nukISkBmKJXi4YgAkKI54rcVteA2qMQhdKeDTUMKv2VbGXH0I5MGSSACBgGm4m4mdq4cpAjoZL5AwZJ8YfuzVlA==",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": " EVENTOS PY 1 🇵🇾",
+        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": " EVENTOS PY 2 🇵🇾",
+        "uri": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEj7PAMdqqV8OZX7AjfT0fenuUw2eFDnhmRK4n9csTXS/FpjHSvX5nWJ6Xm5mPQFJcKGir2H0kStwsr4Jo5OSJVbY5j10bSEskquAtAy+mE+2aeOQC5B3HMPhPFrje2g56Q=="
+      },
+      {
+        "name": " EVENTOS PY 3 🇵🇾",
+        "uri": "wXotTG+wbGSE0Cnm9E1M9mavuuPpW69lC02091HU7qXVMrtqQv5B6CyQ+9nDS6SWQFe1HnEO7PVHZgmjeOwcZpm9+hDS4Zbf/xpKUZwIMCZEnZJGIgOpBegZLja3+Ye1u0mk9zZAMsCj51hFS7GnqF386XketX5ElkeNxKzzS6906EPLDXoQ/gwI5ghleMPar+r7Byr6AFejaxvnP6n6Qg==",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIElFV3EW9lCZ+rtIEHs24FYl76FQE5lSUgsmVxUY3Nq0gg0MKl0251rBIK8+TsW8KnNJ+sUlS0ePAblt8mOjNZx3Zwlp2mVVoEdGkPmRX9zlWaeOQC5B3HMPhPFrje2g56Q=="
+      }
+    ]
+  },
+  {
+    "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
+    "samples": [
+      {
+        "name": "MSL",
+        "uri": "wk7ZEbGYC5AuKImgrp9oBsmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKz83WyaiEdSLeK6Bq43Lv1hnYFOZgBrRBITsHBqhgqnUA=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC  🇺🇾",
+        "uri": "vjI7JtiDeGHChEJlj99ZNMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzbHpBx7wZot+SZAONxCc5PiIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
+        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC 3 🇺🇾",
+        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC 4 🇺🇾",
+        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
+        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
       }
     ]
   },
@@ -1938,7 +1927,7 @@
         "uri": "O9mvHaBn77bDxLa/1WE4HWRXaQKjcIfZx7zxWyhBcd9Ki01fbWMWVIEyRqSt8F5XHOtk7k32r58lh6nERfpQAVYZJTxwdd4eu8f2ATeOtIAvs8cSsjxxeFU92Ix7uK/r2pnjOke3SVs3aGO0qzQNojXhauv6Tu6DcCYdxwgP2P0=",
         "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/800px-Peppa_Pig_logo.svg.png"
       },
-      { 
+      {
         "name": "LOS PITUFOS",
         "uri": "Bd8xwwcdSMEPoMYitgWvPpPYJKQMfZiSWQid6Stq0/B6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck0733wKgvgwNVX8h/zFN1N9tvmsRM731DeE45eP184Q6pRgGSBR6+7NLD1u67DaGCM=",
         "icono": "https://www.justwatch.com/images/poster/303950866/s718/the-smurfs.jpg"
@@ -2604,7 +2593,7 @@
         "icono": "https://i.ibb.co/kgdYmTbh/R-2.png",
         "drm_data": "t7oEDObBFtUpMRrG11kSfU4APpqQWIS4w66YiKhsbGm8ejm7BQy799cBjXN2sLEixkvyZZxNullSO6J9dMl5TyAq9vYI6uEUfKrtE/GXlkFG9E4lGMOr1GaW71QfPc0bcjA2lZd1zaDAPwgnXoagBGr88WZm3ZKh2nEgo5SO08BDLcxko2Oux3sXjmZeUjT6WV3uAo54D59DUd9almmEiSJFju/aOWEkjj2HjSPyLKBPyf8cW86W5W5ptl/IDZKVdVihK927oZByHCuNe2hi6JQqnFJl8ufzqngftGYG/CYbXsxZStj8KSPXtZRG1NSbvhYgLXcwb7+Mj/KzAM3dhPLvQb2e4x/c34N+UN4Cm2B/RrWGQmm8LvVYOOYpA7TzttkFZ9f2IkGh3TPuc3uiHo5dsFTPRjboHrE50BUxhKZ+tNvsu4zY9lEeMHvk/5GorCbhqFsZALlZOGs/3KZW8w=="
       },
-      { 
+      {
         "name": "TVN 3",
         "uri": "MPyTvcd0a4RldnJzh5NdlJ8x85SIiM/MJHN12NdG7taH+rrFKGFE0iIgwjXrvZvAPa3rwOXqFzDzefkXSLOLWbaNOOa898NTUdhvkey4Tiw=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png"
