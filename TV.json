@@ -1237,6 +1237,12 @@
     "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
+        "name": "Olimpia vs Cerro Porteño",
+        "uri": "VPuXzghCAjwZwZjN02wP7smxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzt8J6asZnkGk0+5Xm+ef1CyIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
+      },
+      {
         "name": "COPA PARAGUAY 🇵🇾",
         "uri": "9n6KnizKL2gZ97Ny4tQWcGI/KmJbHo6xpp3k83MpxQBGsnHo/LhoQ6f633pgxJrn",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
@@ -1285,7 +1291,7 @@
     "samples": [
       {
         "name": "MSL1",
-        "uri": "bMkheFqNGe7TewmgM/gPYsmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzBGINjuPhG5/07b1XYawbciIT3yhdl2JzflKta4M2hBc=",
+        "uri": "VPuXzghCAjwZwZjN02wP7smxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzt8J6asZnkGk0+5Xm+ef1CyIT3yhdl2JzflKta4M2hBc=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
