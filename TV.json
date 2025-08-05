@@ -1345,6 +1345,13 @@
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJFf/jb8yjYqez9A8is3A64LDuo3wZU5ul+iHAJ0zlVHDUURGq2HgDLW4h0unm65oIadLcPLbGb+9AUj4boqA/I9KF7CS9DIfRALbIgZn22rQ7JaWCrE2BaPdl4Jvteycw=="
       },
       {
+        "name": "DAZN COMBAT",
+        "uri": "WP7+OZX+xlBKRAR95YV+dbh9ZScYCdlDX4XtWh3kjwvCg4Y2faMBwN7fCjA+oetOtLFFw6SQczBetu+YbJqsNpbkZ691H93vOugjXD1ucY0KQJyJ0R1B69gTSWWkURp9to045rz3w1NR2G+R7LhOLA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKOb0geSdixdyA0xxtmbZfQYrkMaaVjuyxFg9baFJ+WtzB5qyiW8U6pLroe7ezkiyHnGByrqeBtbGT7JX5kwoV8goET85KblhuMnx4BCq60V6Y/ZI9mri72vXzA2RZDIxh",
+        "icono": "https://i.ibb.co/3kJG4tH/dazn.png"
+      },
+      {
         "name": "FORMULA 1 DAZN",
         "uri": "gB9PS4+bZVwwmGQVnF6KSkkrr6tg7JgbJbfCZ7a2NCyHf6flfcsp08thmP0cyJuoor4wyNID7NIoKEbrj61DQw==",
         "drm_scheme": "clearkey",
