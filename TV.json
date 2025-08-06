@@ -25,7 +25,7 @@
       },
       {
         "name": "TELEFE",
-        "uri": "3b7m4aSW72FwDoiWYN73KYHu187ZPRTDeWVI/WwrtPpR8N6NrecQurSyRTsOVbjOqfUny5XB7yfsX6FP1x4NaH5QRneF4Qjo0Sb/2vDwuxg=",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9PnuoXPapQmGbMzcf+K9d3U1sVK8DrOOmQuAOt8nBtEPBzWmualXeQ1rQpP+n411V",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHvog55R7efG+Y3JUfRdAkMyRSdbLwaUtq++PwNnQqDF/5XTuseg/1NGWwcgAa1wbz7nE5t2Ipsv4zSpvjw74AXoJbR6JjD+qxAsWu9czz4cvTHIrUV/EgtGXGChh04imA==",
@@ -1246,25 +1246,6 @@
   {
     "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
-      {
-        "name": "Olimpia vs Cerro Porteño",
-        "uri": "i4uzS/kl8AHF1SLzkGkflKt8Scy0cG4IcyBY+/rlKiM/++ynTWI9Nl3hssqqVkh+K7Ji9HH0c9JQwTQueLSloWOvu3vPYGuCLuFPp+QFbeS0c4XMwZR3mv44/ycch+ClNZSMTDbbeDMoR7L600dIccOI6v3OJjaz9qWFSyQPdQUzPOt82xygPIca37ca515+AuQxw++kLe/Wl/iyeqmBAgZ7nHUyib5aBcDgcMYdys884B1nsoi9HTjg5ok0P/bdMo9EACZQTPICqhom9RI/Y9t/33Jv7O6WhCJ9SAQ6k+IHyhOXHFAfjYbSo5hKHl2LVf8xK5b6DdvGDlNj6LnVf8WEl5vGmSY3aok8V5MZYmH+hfgdwdBVXMdq+8VcOuU8",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
-        "name": "Olimpia vs Cerro Porteño opc 2",
-        "uri": "VPuXzghCAjwZwZjN02wP7smxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzt8J6asZnkGk0+5Xm+ef1CyIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
-        "name": "COPA PARAGUAY 🇵🇾",
-        "uri": "9n6KnizKL2gZ97Ny4tQWcGI/KmJbHo6xpp3k83MpxQBGsnHo/LhoQ6f633pgxJrn",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
-      },
       {
         "name": "TIGO 24/ 🇵🇾",
         "uri": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolC+ObasdSLS/cQpUrG4+rO/XVq1wJ2j7qDS+PsR1ux+dAebEu9McpRthBojMVXRvbP9xHmlx7MwZ1xStH2UX9YDgFVZP0gBGnkgRD3MlyDAhO/ryWuxmVTD56JJBFmG568MND2nkS5RUKQl+edlQiEVGmmtpj/qT1QbsCYjj57AOQ==",
