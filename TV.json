@@ -2346,7 +2346,7 @@
       },
       {
         "name": "SNT OPC 2",
-        "uri": "kACRGPW5VSAZd6J1KThEaVkh52bfSLsAn1IC4cD4ZvnhULW2YPfYLgXxbq2eUxQato045rz3w1NR2G+R7LhOLA==",
+        "uri": "qTs0Qzmcbc8eu+657xpysBybvj6tIwxhonbPmfDRg/08C+kJpdQJUPy79a9Hb8k2qBdnFG+vjTeEJmPVlKFbJnYFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJHMLCIcUoKAyByTqxBsmZNXbifkI5DWh+YZpMYOb8tL5I9xERaeI7SOXFPbZvV0+SQIN13Tle2jM2TlI9pGTZMLfAhD/x+2ilEP/Q8CSFkuabgy5Pi3qZYIw5F+E9C88w=="
@@ -2487,6 +2487,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvDmrDKLpY107vOtL9WbcD9gNoeeAOn+DY3DJqf+wtkqkhM00Ne7VKPh2iOYpy8xoiSFyvlux/T9FflBFnPg++ZdiyQ2j5LvoigZ2hU4jilkFAv+qvFI/UhH2cGi+v9ZqDw==",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+      },
+      {
+        "name": "C9N OPC 2",
+        "uri": "y+4t2uFffM6UhrjxKIaNja/nfiFaeVlm5aKqO8nSsEFH8AA30rYQ9N0BnHnUQEgKaeOQC5B3HMPhPFrje2g56Q==",
+        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
       },
       {
         "name": "GEN TV ",
