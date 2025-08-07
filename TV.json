@@ -376,6 +376,11 @@
     "name": "🇦🇷 INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "CANAL 12 TUCUMAN",
+        "uri": "dLHSjKFJPraj/8hJ/ATi18GbtgQ638PSASIG84WgIBWK8P6zes0X9A5vCJsTwSX7jHTJ8XDWwzenG+uL2GoKTxMB5Arm0cJYgYD00gBtlpRn8o7Z3B2l+HY6II9xhB5H",
+        "icono": "https://m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png"
+      },
+      {
         "name": "San Luis Mas",
         "uri": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awq6x0kf+iridwFCMUMm+C9kHYFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2NF5MnOWuOJLdCI1sLihT73-Ply-SUcHxA&s"
