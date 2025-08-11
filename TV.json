@@ -1209,6 +1209,56 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvA4qxqUHgoulEc0UPg8J6BOOHLmSq5gA1IhlhAB2fndaBqHuoCPXJwWRoZySWtsIr7xN3rpFNnBx4REIPhVH/EA2KQAsgg3ovAqSqM2PxucY8BDa9sg2BsXSmbGxnomjvA==",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
+    }
+    ]
+  },
+  {
+    "name": "⚽ Juegos Panamericanos Junior de 2025",
+    "samples": [
+      {
+        "name": "EVENTO 1",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd+2BK8rYhwPy5kPMXtnNccUPZ+cT3RsP0b1j+AaGj8fJw==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754734995067.png"
+      },
+      {
+        "name": "EVENTO 2",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd+vEMDeLgqCBqoFKRnISW2QiEPNJf3oO4UxZHbhLFOCyg==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754736199572.png"
+      },
+      {
+        "name": "EVENTO 3",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd9ZVz48whVX++vzLYEErU78KeZcMeMsc/BJ4XR7TgVr6w==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754736600137.png"
+      },
+      {
+        "name": "EVENTO 4",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd8M8nbjQsy88luuPWPvDGam79FO/JoOk2ua5I8x011V5w==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754737027538.png"
+      },
+      {
+        "name": "EVENTO 5",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd88n/2fwwD/3FYX3K0PqhVxs2l2hxO+giTJfxeZ1H/YlQ==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754737342437.png"
+      },
+      {
+        "name": "EVENTO 6",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd/XAnvpwHUbsOYS9rsG126Dy+ZI00wuZo7hyiyJ0TQRRQ==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754737727907.png"
+      },
+      {
+        "name": "EVENTO 7",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd+zzPpLlXq4oCC/5ZDC9E6XEJjSgazjB0bYGpTDJmf6zg==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754738130793.png"
+      },
+      {
+        "name": "EVENTO 9",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd8gyNCi4slhiefGyjacI8lkfVt0K45lkIkqeAmcfy+LPg==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754739894033.png"
+      },
+      {
+        "name": "EVENTO 9",
+        "uri": "CY9j7d7poLQhlEeqcSmTJwCxHDV3FwlHD9IJZoJyjd8QzvOD/plIMP7nrXu8OGypG/KMiFbiE6Jk71gdN6Rewg==",
+        "icono": "https://img.streann.com/streann-img/5fc01321e4b0612f786b31c1/image/1754740118472.png"
       }
     ]
   },
