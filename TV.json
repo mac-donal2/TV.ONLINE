@@ -1235,7 +1235,7 @@
         "name": " Chilevision Contigo",
         "uri": "fqTGDGRZcd/9yGvTALw7tTpqKnzyVzkoEPexe674sc2jqBXkJhK0wnmtxzOLVtDZ66OI+Kidhlb8pebw3SS+pwCg3KTTInSwSoi9iSJ7yLB7FPwiRGkCbjOHF4qfT7ZF+1KB8iaj04DOyojG+9/fsQXg803VJb73HGMrpuSPgZlXOrzKU8ao5QcAX9qQ4+N6HYTMQKR7syunF3wj+JzYK1TJHGzRpn2Wl5Dmny9yc9MXKy+nF+CQAXLsDvjU7w0d9Yx3ZyJk8HT0DCbLIEDySry+uklLCdxGpp5Ec0ZWvRd6SOVu7p3AbVu+GLUPLF+ToakVXP+itCw88vAVkGhEUqP+rtF6hrD7I+uRUmax67p15cSsvS6TSIig3r5b4x5s46usemf+yOcD9xHHoLBLP3ixEjMlGvEA6T2qgpmj++UPnoOz3a45CkABe0g6hwgpR5qECRYd/IHoJjgVYg7BuXkxiLS4W6dIjIYJf1qSzqlEnhnmx9BVqDHJS7eunajVAq9inzxMWnTPTd/fiPbUG+cHuri1KxlhyjmBh6AQnc8odLrebRR0BsU+dQ4Qx1iNpsk21TREqp2BpDuOTqLgUw==",
         "icono": "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTEgAk3JH-qX36AS-VvsPInZr7KKQsCw1yIq6MxS1SJRXAoih0H"
-      }
+     }
     ]
   },
   {
@@ -1244,6 +1244,11 @@
       {
         "name": "TIGO COPA 🇵🇾",
         "uri": "9n6KnizKL2gZ97Ny4tQWcCbck28duh2SLN3PdSZ7MyRpvgjTwtiCUuBgYP9i8kzG",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
+      },
+      {
+        "name": "TIGO test 🇵🇾",
+        "uri": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolC+ObasdSLS/cQpUrG4+rO/mHdVM9pRe+nxCGBejnXTg9nU8mfxkPeBMq+mAqGPW5v9xHmlx7MwZ1xStH2UX9YDgFVZP0gBGnkgRD3MlyDAhO/ryWuxmVTD56JJBFmG568MND2nkS5RUKQl+edlQiEVGmmtpj/qT1QbsCYjj57AOQ==",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
       },
       {
@@ -1262,7 +1267,7 @@
       },
       {
         "name": " EVENTOS PY 3 🇵🇾",
-        "uri": "L/5viSVQd/57F42w8Jx1k2JeVO0daZMObR/djhDV+j3cjuocF368nck+HMFnO+0Rl4bhMr1rRD42grAfPCeZxeqdSGSYMN1s5UjTNdP7gf8tSnPM3TQFpGUVngRNSBunVZz9k/pFlM9sHUj4l5f5050jL5s83ipG5r6Xt7Kp5sTSNMpAg5b4TKVNplB0H1PLGQzQgPLh7uO+pdoWV6TaSL5o8llIOKcPmgo3jIpwx1DtxxrNJHLgOJAstX1VfPDJLySLXrTxww5ga4szZZQDvg==",
+        "uri": "sk9vSh5Vq453ypMB+//16SivYW1zu/BaD2f8UOpYemBZVDDyxuC0fPrfsyLOKkqP",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIElFV3EW9lCZ+rtIEHs24FYl76FQE5lSUgsmVxUY3Nq0gg0MKl0251rBIK8+TsW8KnNJ+sUlS0ePAblt8mOjNZx3Zwlp2mVVoEdGkPmRX9zlWaeOQC5B3HMPhPFrje2g56Q=="
