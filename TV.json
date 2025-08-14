@@ -1367,43 +1367,25 @@
     "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "MSL2",
-        "uri": "Hzm9mL0MtTx2HdBpC2fLLqCOA7P0yjqFjfwC/eqyPKrQElxamLV2TiwxzT09tkFbWZxyZxzD5kZdcKjhMjwZaw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVhel1jKITWwDKVGHXcqnvVTgpQ0vlnJLUxZMjWW2YoXkI7fEeHljSq27jUb1eaA1FFoSPIu/650/dCmU2lx5oR//nYx02Xp+9tm9LV3P0Qy2A==",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
-      },
-      {
-        "name": "MSL 2",
-        "uri": "lQU/7VFSnQ75Hk1PgQ+XMMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzn6WjeiLTe4IG9u7bPD7DKnYFOZgBrRBITsHBqhgqnUA=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
-        "name": "MSL 3",
+        "name": "MSL",
         "uri": "lQU/7VFSnQ75Hk1PgQ+XMMmxozi/o5zS9CCA9O6tjdZ6vRPun/cuCcT+R9McytKzn6WjeiLTe4IG9u7bPD7DKnYFOZgBrRBITsHBqhgqnUA=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYqbjOUg7fqbiYxqwzALbSlUI4LzZh4mUB8w5X0pcS+bL1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
       },
       {
         "name": "EVENTOS URUGUAY OPC1  🇺🇾",
+        "uri": "nainWZNQ8Iqu28VsYRPIFn/yDy3d4Q9BKl+Bn01mTDW2jTjmvPfDU1HYb5HsuE4s",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/969px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
+        "drm_data": "t7oEDObBFtUpMRrG11kSfUDmZBXnA+7qU8qkWAjpxwegu+dBYIGegMm5oktP1AmtsmoGAlmvRrtycBketK5P2mepkYwzGzTqPJaMhLS8EBpSeOJG0CsnO5cR1kiqbNovAwYRTtL774hUIKLRGP/AaI/sNyEhM+ImC+sA2qhdWPsoY5gFu5hpr1des+CG3zKs/NejpJI0M+CT80+3DUDlynpAVdGYIZJqb9+3ObpeT8JC1L0gbl5JZCG4Tkjcpzwf/XwlVn5N0qjdx8zQlIgJtMS5ErlsiR7AG7T12qcMfM9Ty6O/8R1kai3axhjWiaW7uhL084S9bzCU+js0ASb68MCTN4o88A+yRm9VjV674TtqL4J+vCSvXJIYsmmr2xZ/I0EYFK3qCAojrTEHzFpYPO5OL+sK8NFguhVrQAgRERHop8Dv1U1Kk2qlwmNgrWUpLr4rnp8YPAdxlMm2cg8TOSTxae1ftztDBCeYIs41nDnUvHUxeix0qH75IFFRcUTRQC9DDTuPlGlvqYHNEOypu8Ls6je3WukSMaT0Uq24cTVQNFcdPo9yjKGMUI0g7Z30YPHQ/f6SuLX2Xd+P40SsfMJpFEuvHGDuFXXb/qVoAjuQwpmF4ZgwtWNYAp3jwWo8U61tq4Hm8CfYzxgfPB2xbw/wqKJFtgpXI8ZHvNVlEgROk69JRKxtAqKqcYNh4qctYWi52uKKiilM9+wWcobBg4Li+DKnFFqWghef+yEsPF2AdXusoCw4ortL6ptcHogl6Ku8/EATCbOxTD/rjbWjo88LC//b2uwpUqjDyT4y1lwdyGh875PN5p2A5GLkcniUMNguMpl9K4C8jcoO9Y6SDw=="
+      },
+      {
+        "name": "EVENTOS URUGUAY OPC2  🇺🇾",
         "uri": "1YUji6iWTIcVx7/68dNvs4HYxDJ91BGCK77IA/smGQDdQ96/0/j089qgCFX4X04DBnTOTlC9HKZSxOZMn2tcOg==",
         "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png",
         "drm_data": "Dm3D/BgLhdQsy/rh01bMezvtRufLYddGnAAg3DoN7UF490rGRTH7T3Q8Mm2YD9E6aAtXfJ0X8F0wX+oKfFKC56tnoIFVtbiDgWdMRR/W9tMcfS9fAmuXLm3RfDPG/kKihvh6UL4C4WrsRtN6eORT6ONFykzDvNjIqkaElb8j7QSlam39UF2Cxsx+wjSZ3HB+5Ig/2zywNgmxo6kSBenFjyKtONpkhhEkDH6BITIsxj44bnBG1sr9LElggxOvL5MdzAE/2YpHjtv4L+Dm+Jbu4RVAAzVRyXwHcAGL31bRD86Wx3A15zbKAKjAUmZWOMm6TLngwaMSehTLuokU+90u4R0LSlHUdyCCLBAZo1D+gsoBb1YWQjAGgCxYg2yM9FApY+8GlG89kvgasu/V9XDZK3DKpAH48004e3lwMbaYhk6x7UUqDHOJB6S74pvN9wmstUIQSlgFGwHd4wsC+rZ7GNIYQ0VxbR+m2aoZSyvNkDNkpd8CAPSiWJKCfG7jcXKFoMa3BiVKpmh1jZLoe2URF3ViGrLVYckcsQ0YO0CGZaA1Agvz1VDY5O07g+P/cxyNyLJk0xDP5+j+IUmtU+xz4ERk48hJKeS3dy6/HnVe2kBfFY/UnZu65wZd1u3asJYRNCoUlKhgif87XrcW1VaUFN3muXD7Ru7mXNH8uw+TcnG1J21v8s9d4Wk8RAbF924A/LbSmQrqtI+uedqak3sUQKf4F1ZtL6y2A1fAEqSRS51z62PFc9UCqHA027Fvm9xzwSbmewuJW2njDwHIGD4QoTYoQdhm5bmURtvahJrpuFp5z0GOrt87vWP82eZd8GX5z+dyxXcPQSaKXK01GlPI6q6f29XJz6N42YipaIsjUeCZXdFr/JSos1QhoSpwoYvDa89mYOzsIyf+gKN4WaK3qhSFbGkuanZGiYluVSh4iZA="
       },
       {
-        "name": "EVENTOS URUGUAY OPC 2 🇺🇾",
-        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
-      },
-      {
         "name": "EVENTOS URUGUAY OPC 3 🇺🇾",
-        "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
-      },
-      {
-        "name": "EVENTOS URUGUAY OPC 4 🇺🇾",
         "uri": "uB70IHG6NEasFUpEs/UD26OVyS8SPTd5KJtJtg4YktRzACfPOHAsMM6R9cTJQNAcIhPfKF2XYnN+Uq1rgzaEFw==",
         "icono": "https://i.ibb.co/1YRyBrLq/eventosdeurugyay.png"
       }
