@@ -1483,8 +1483,10 @@
       },
       {
         "name": "SPORTV 2",
-        "uri": "XXVUrlZPpI8XOEdMzhdL6S3NlIRi+84I2eazpnP5keukfNhsTTXqGtxSNBjUWC4RUU84N73Q80+5d4hz0ZnUKESm87FD68CrQOQyVSrX7xCsbzhQeu0ZpgXEy7WmT4ZTsObFg5vmRJULnMvgrXkO4cwtLCotLEbubFc5VTLxaA2Okq2Ntx78otZ3OGesXFPzYHUQihi5CPzvgo2htIGdd6lbTQltnT5+2fghRu8W7jI=",
-        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg"
+        "uri": "GGdWt+LZT1BER1Ph+qdMJAXrWIrDy9C9tY4bSP9AM+ARBrw6vbkJG2i3PVRPdGNhipH/LhfCkOdBpNmKYIjd9gQaAYAv9T9n6lsDCEBS7CMWqqTDlnOPT82yptPh3nYhcdYllvLLwZUL2ynRKf8wqMiywTwsk9uqbHSrdg2wWOdNA/iBvQ85uriGB1Xrn1Fa",
+        "icono": "https://logo-marque.com/wp-content/uploads/2021/12/SporTV-Nouveau-Logo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqK6i1y+/CMvO6oNI7Zeav64caLnJpg/rEfNuh3Th1YwJ6TwF6s8LsXkAaUZfAljRNtujDN3zyZUf1fM76cVWw93xONoYyxexvM5efwfkC52StAUI5Frn67ZJlB5f2YU2VjaeOQC5B3HMPhPFrje2g56Q=="
       },
       {
         "name": "SPORTV 3",
