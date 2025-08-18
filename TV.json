@@ -806,6 +806,22 @@
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJFf/jb8yjYqez9A8is3A64LDuo3wZU5ul+iHAJ0zlVHDUURGq2HgDLW4h0unm65oIadLcPLbGb+9AUj4boqA/I9KF7CS9DIfRALbIgZn22rQ7JaWCrE2BaPdl4Jvteycw=="
       },
       {
+        "name": "ESPN CO",
+        "uri": "E9dvhEuLgplFXDJ+arhR7VjjbrISTnWqg88BL6aeCLPR8+Guimj5YRd9Ji2YcPNBM/kSP4olaG/Tg+Vo2RIL+UJk9Yxs8dvbICjqYpZgZzVAdXLc6+Vf/g7njQlkwSwt",
+        "icono": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvLurcSP0UhLePo925nHY+XUEJer/RigPACBmVJmkPiU0k2d7jMbkJApVtHsRm/sH9bfIKUGVgKK17pRurbRgBiTAcfEKWb0u/HdHmLJeMc51DL8SJaXG4DS6J5woDkah0w==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
+      },
+      {  
+        "name": "ESPN CO 2",
+        "uri": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87DKo2QPNynbeAjvHzc5GfIc47/bG61ir0XusgzZeTgdnJrXEewtOKkvHufQZnaFGnQ=",
+        "icono": "https://r2.thesportsdb.com/images/media/channel/logo/mq2tu41660762188.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJeHJEkUXm0TPnpq/A+SIunaKCDBW3dNJkVGOaiJfWRxuBf08xNgspfT33XLRamt0FE8vxILlw90nSZgsLHqzUQc0aiN6HdZVvrfQv8IAiEmLaveYJ51+jX/MYewqSDaAQ==",
+        "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
+      },
+      {
         "name": "ESPN",
         "uri": "dBHQ1O5erUOUk3MErt+BmuXFVyLh0b2XJALZ3Jnaj/vPcR+VCDzuePZvMBrYP8aUrs4fLnSIKKjyvimN8RI4Ow==",
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg",
