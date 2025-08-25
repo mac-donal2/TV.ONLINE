@@ -1002,6 +1002,34 @@
         "drm_data": "CrIrhfomDvwOAryxigF3uHs3kL4rPHqj2IkBmCwsDmvUB6h+PGGC2barVnE3qDLqRPUREomXWlsdEMVDvq6TmsVAI4EtSuO9eULOA/AG33NFNQMMZg+aM0XiulAi5Z+POwhSj88CB7u05CS4io4KU1Oty1GXn1A0SseDP9R01qlmNiKjjamUUr0A1g6C/JU0ObDX+PITAQYkqWdZce3sIrAQ6xv6po6L3xqDLAlxq09tK1di1yLgNcllG/loZeLRw8U6FOFX/Uy3F/5967X3VcM6gZiXoGzlZ6tEmQjr3UHHWL6lAGM7i66h3JR6y87I"
       },
       {
+        "name": "ESPN 1 COLOMBIA",
+        "uri": "2fUnlTvvklsIkoicU41VawDMMjaUSleNXGxstynv9QUJBfYj1nl5GxgaBagO+W5IVAdsZrsFxGqhG3ogT3qIKMq3BUyya1TeM/tcqtcIDTDMfs92cL5m5rZU6pSQvHZby6kRnYqQJnVVBGEs/O/tJw==",
+        "icono": "https://i.ibb.co/MDX40nT6/ESPENCO1.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvNTF3n78vobe2bIJpnKbsJp7CjeMft6JAwFwnekdVjsOaI2snZbzqDY23RZ9zY584D+8tQA8LAPX0Wnr6e5Uqc/J0aO/HFYTmZeOpxANS0MhIY9aPOTx2hrFewbOWW94Aw=="
+      },
+      {
+        "name": "ESPN 2 COLOMBIA",
+        "uri": "2fUnlTvvklsIkoicU41VawDMMjaUSleNXGxstynv9QUJBfYj1nl5GxgaBagO+W5IVAdsZrsFxGqhG3ogT3qIKMq3BUyya1TeM/tcqtcIDTBaU2tOWKxil2l0wYz4evlquA3PGGwPwc6GZxOyD+gVlw==",
+        "icono": "https://i.ibb.co/B2NR8t7h/ESPENCO2.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvN/BIOpyKBXjcfIVhq7Y9Ktv1TzLzJ086YtxrdC6KXhPJ5Xs+gIH7LkaR0Md3eo6xKWSFy3wgcII3OMDvUj2G4F30v+vNHbuTe9skX8WfhTqabgy5Pi3qZYIw5F+E9C88w=="
+      },
+      {
+        "name": "ESPN 3 COLOMBIA",
+        "uri": "2fUnlTvvklsIkoicU41VawDMMjaUSleNXGxstynv9QUJBfYj1nl5GxgaBagO+W5IVAdsZrsFxGqhG3ogT3qIKMq3BUyya1TeM/tcqtcIDTDeEDBfwyWr9GLtpRPptS6XuA3PGGwPwc6GZxOyD+gVlw==",
+        "icono": "https://i.ibb.co/1YHWSbtd/ESPENCO3.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvPvhlp5Vb55rEM1vbIIhcO8Vj7a6xy9WKyf1/hWILGH/xRyr82aaVNAUiIG7/25tpLNjD+sk8E4WZd3Qav5sG6QNrobefFpRA8jj78GvGMOrhNyk/JL/CZ8jWElPPYp9+g=="
+      },
+      {
+        "name": "ESPN 4 COLOMBIA",
+        "uri": "2fUnlTvvklsIkoicU41VawDMMjaUSleNXGxstynv9QUJBfYj1nl5GxgaBagO+W5IVAdsZrsFxGqhG3ogT3qIKI2yo8VCAbIBf+lIhTqDln1xvOygzEJqQFZNmrYELlmE1VuQw5ho1tbdnPuzML8lyA==",
+        "icono": "https://i.ibb.co/v6b0jDVt/ESPENCO4.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEjjhqpc+etF+sHGZjSxjlQf7fMCAD/aRDd82EsG1eFvJ8RqfCPWAG40uDjLR6ZLr80lMzCYXKbXpMSdKjMrFvnS8c8FRa+KXPFgRyi5I/7wAAjpHqrtXy60XMXQlwBzsg=="
+      },
+      {
         "name": "ESPN",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZHP6HyROJeWBxubQseJGrtf5MHiUDID6tmYlnShvTPy3BzWmualXeQ1rQpP+n411V",
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg",
