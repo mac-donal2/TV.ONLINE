@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS1",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS2",
     "samples": [
       {
         "name": "EL DESTAPE",
@@ -1123,7 +1123,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvHSbMawGEnFdWRXQ9Kx50otlnRD9rQ/6BispITKjF/Zm68UWYcTAbuThVtUtoAIphKXannL7lbJVgYQLnRpJRCdK0aK8LRjdw9DwsbZbTES/fcjndaj2jHpRu0qFEz04QQ==",
         "drm_data": "ryXzPvIyIgOok7TiFk0wYjBCgB4wScl6I7Tfzf1cFzpQDX7SCfLZWcQnY0c8zzn/bZ+KRwhbsl8NU7oizXYj1dBWMa4v3QUrkGe4X03dOBxucvbjLoADcrJffsCQ3jL4v3lEDCkA5J+9mbA7VfjwFsd0nBYIixLJnnaS9LwryIw3bmfSW8wm3ErQT92CNEBMy4Smn2lKMhpKk11vRGuQXocILGoxbPKT5LermMKz45Y2gUMVRfnoDRL09gbfskti4XNLejw70QgANUhtApL6voAfAoGhcK9TQueVg97tcT6TbcE6S88Pj7ihpunO/bVt"
-      },
+          },
       {
         "name": "TYC SPORT (PLAY 1)",
         "uri": "wZKRazi0V9CUb1ZRFtd/73zY0W6fPexNaCdVdY/2XhuVZ9XLctwbpCyUNPLxD3rOepBOiOvrSSyQCXaYo8VR95B1Nnk78FfCJiVJaBdnrIvQUDtBQUoj9VVJU2nsPh8w",
@@ -1133,47 +1133,56 @@
       {
         "name": "TYC SPORT (PLAY 2)",
         "uri": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2XhsGqM5ZdN6cxWP/2/HhdO5/lVsZbNbVG92ATqbeM1n7Z1ilr1aJ//IbFXtDh+leqzV2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
         "name": "TYC SPORT (PLAY 3)",
-        "uri": "E2wd1Nh8KFFsT2UzJ4XGYnzY0W6fPexNaCdVdY/2XhsJ6ImwSAjy9QtJjPlMyPPQL4+UIMBA1bTisBf5ezhrcxChwVOKf3B9wSGxdTCMWjJ2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "uri": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhsv2VMFAQ7/5/jT749RbuwEtX11MXcNAGKxK8XAlE0+UtUXsGM1Cr69h9gekI2IXkO2jTjmvPfDU1HYb5HsuE4s",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
         "name": "TYC SPORT (PLAY 4)",
-        "uri": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhsv2VMFAQ7/5/jT749RbuwEtX11MXcNAGKxK8XAlE0+UtUXsGM1Cr69h9gekI2IXkO2jTjmvPfDU1HYb5HsuE4s",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "uri": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy52z5Pjb0oYp+ltJPGpzDgRo62jTjmvPfDU1HYb5HsuE4s",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
         "name": "TYC SPORT (PLAY 5)",
-        "uri": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy52z5Pjb0oYp+ltJPGpzDgRo62jTjmvPfDU1HYb5HsuE4s",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "uri": "8BEFtD2OtXjZjatJeng4KnzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy5204d9OMGU1jer4vpxe63PmF2BTmYAa0QSE7BwaoYKp1A",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
         "name": "TYC SPORT (PLAY 6)",
         "uri": "8BEFtD2OtXjZjatJeng4KnzY0W6fPexNaCdVdY/2Xhto8/Awl/nxkBm11kw8JnqS5xMtuV/uJ9D7Ewu9eAy5204d9OMGU1jer4vpxe63PmF2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
         "name": "TYC SPORT (PLAY 7)",
         "uri": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2XhsTrKkykmMBfxoC6F1o7+S1oLlpLO3SRNngkVrycahKeVKCkhicyu8+4vxQgPpp2yB2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
         "name": "TYC SPORT (PLAY 8)",
         "uri": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2Xhu1CGy6wd3yrvW13PgQV4y4qXshcE/qyVwice8Z/a9qsdRZu5isuRC+bTzu8IFXbfV2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
         "name": "TYC SPORT (PLAY 9)",
         "uri": "WDdE8SdwfEwCFL6Jn/LKsXzY0W6fPexNaCdVdY/2XhsJ6ImwSAjy9QtJjPlMyPPQL4+UIMBA1bTisBf5ezhrcxChwVOKf3B9wSGxdTCMWjJ2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
-        "name": "TYC SPORT (PLAY 10)",
-        "uri": "wZKRazi0V9CUb1ZRFtd/73zY0W6fPexNaCdVdY/2XhuVZ9XLctwbpCyUNPLxD3rOepBOiOvrSSyQCXaYo8VR97hNweDM8xE64j1lHS/UP0h2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "name": "TYC SPORT (PLAY 9)",
+        "uri": "HEy/sjKA3+35ACwnh3Ia9R/HJ9HY1qpIaB+bzHM05hle9JFwpwBlXmyHU/bQsLErxouBRWp0SxDkRG2Kohm10XdXOrjUA7Bkn4luF30FUsHbMe9kA/luNy3Ed2lOPrKU",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
+        "drm_data": "CrIrhfomDvwOAryxigF3uOT4CiXbXITGvqKbLRMYpGl0Fch7eQg9OFtsSgoU/lwMLZS0jleE5JORwRApNwH2P7xRqJAWH1ONwpFpQVUBXIv0xDQ/Eiw23HcFmUBm5ztcl4NPCH+wVCqRfCFkmj4TtfOJcMEHJYREjo2S8lMcG63PgKa5PN0+N6ix8hshc6vbutaFBiSHH+k/3iKk0kaOUHGvej7Okv8UiHYJK5s/CaqDcMuNA8gwbdMAHIio+L2oOQG+hqyq6ZweXeAmmr5RmP2oufC0kEyAi7HUUeR0aP0="
       },
       {
         "name": "GOLF CHANNEL",
