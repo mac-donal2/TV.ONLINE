@@ -1110,6 +1110,35 @@
     ]
   },
   {
+    "name": "⚽ Perú vs. Paraguay (Solo cuando hay transmisiones Exclusivas)🇵🇾",
+    "samples": [
+      {
+        "name": "GEN TV ",
+        "uri": "AbWDpiiuPyo+YGsdtbFby6gF7dgcZfGEKjdW2pSHQ+WKFYCp9Z/kXOZdES54z6vHD0Fi32+EGBW705ViLo2WQITTA+8hDO9xQFFPyeoGj6Fh9n9HY/it9X7SHtqDbRG1cadTR5RCcDPaETBbaJouKZ456l8LBdDnMvRgH5GZ0kc6c5nJtkBznkTk+t5ST2LWpM+fMaCQHAP0b4Eh+fyc0zwlfjRYAAllN6HzBJ5yYFK3UvsGPbVHqO9mPiqw4AuoY2a4tgyjNV1riWCfpe1LtH1VmM+UllwmbHCBjvblE3jaOSgyD01/iLoAfuJkQMAD93Yfh6I33Y2KHBBYmfCEhoO5Aa80Hn3vvgn8WzHh25WuTNxzxYC9RzLbH6hqfrdx0MLBT/NQhhj4vhwno6vNxyYG8RTRlb/9owodw+XDb6kaqUa+Ghel7be8aAAxzKcBXymJm5DEM6GJIqcwlmGOxPVrXVnh4+zJlHmaDDl8H1yQ0hOSkGcWCl1NMLYJxXxWB+GEh6j/qFvKtPyqHJ3b9fDHtXID2CJFzylJ6J3h3jFnKaHIu28K34+l+0uTYUDZO3D3GlsF93iH0x+NrGaEIK6voryN4NYnCqt7zM2C/uAiAgEZXEp7UyZHT064Un6YAh4leyWK/QEFyTRhyGAkLEqkRXhogIwyaTJunRe/fvlvywjkxciqcFLDsPmX2RmP+ZA1BfLTQd4RiF8b4ijnc/dGfycVjGa20uMpy14kLxRnxWxJ0CEU6nZWQre/OfMXlfHtu7HghY3Pt5MQlzWP9dZ60cTiBpYSuOMiksMRhm1EbNETzekaJb7c++7ieKx3kEfB6Zk7qUc3Qrw8OZo/+yWHDBDNYtNyFPlZOkSuQ7NKwUtlRhjCUX50GOk2l19r",
+        "icono": "https://i.ibb.co/jPsVFN72/68be2910d305e826a103b824.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGTXwKoauD87QKHajOUNK6RHihkM41doG1VQVdsoOpArGIuUC6SA6csBURz5boQKXveCCucRzkgvj3yd6bBJhzOq4xXjnopEEIkCqtt0ninEuxayEcWORN4TkqcU0thvag==",
+        "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1/iWMd/owN/4gf+3Mrmnwo5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k85D6/H5RxUiXQpIz71TizWnOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "UNICANAL",
+        "uri": "AbWDpiiuPyo+YGsdtbFby6gF7dgcZfGEKjdW2pSHQ+WKFYCp9Z/kXOZdES54z6vHD0Fi32+EGBW705ViLo2WQITTA+8hDO9xQFFPyeoGj6Fh9n9HY/it9X7SHtqDbRG1cadTR5RCcDPaETBbaJouKZ456l8LBdDnMvRgH5GZ0kc6c5nJtkBznkTk+t5ST2LWpM+fMaCQHAP0b4Eh+fyc0zwlfjRYAAllN6HzBJ5yYFK3UvsGPbVHqO9mPiqw4AuoY2a4tgyjNV1riWCfpe1LtH1VmM+UllwmbHCBjvblE3jaOSgyD01/iLoAfuJkQMAD93Yfh6I33Y2KHBBYmfCEhoO5Aa80Hn3vvgn8WzHh25WuTNxzxYC9RzLbH6hqfrdx0MLBT/NQhhj4vhwno6vNxyYG8RTRlb/9owodw+XDb6kaqUa+Ghel7be8aAAxzKcBXymJm5DEM6GJIqcwlmGOxPVrXVnh4+zJlHmaDDl8H1yQ0hOSkGcWCl1NMLYJxXxWB+GEh6j/qFvKtPyqHJ3b9fDHtXID2CJFzylJ6J3h3jFnKaHIu28K34+l+0uTYUDZO3D3GlsF93iH0x+NrGaEIK6voryN4NYnCqt7zM2C/uAiAgEZXEp7UyZHT064Un6YAh4leyWK/QEFyTRhyGAkLEqkRXhogIwyaTJunRe/fvlvywjkxciqcFLDsPmX2RmP+ZA1BfLTQd4RiF8b4ijnc/dGfycVjGa20uMpy14kLxRnxWxJ0CEU6nZWQre/OfMXlfHtu7HghY3Pt5MQlzWP9dZ60cTiBpYSuOMiksMRhm1EbNETzekaJb7c++7ieKx3tGzUCKp77ZnURJBqvAhHNJW4JCHQJTG5ZjI2d3KOvQTy85awZU220dbOlD+yihE6vYSKGL5PLpoVmJxMhg9NIg==",
+        "icono": "https://i.ibb.co/jPsVFN72/68be2910d305e826a103b824.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvJjqPW4W/kuNFLMGzhNhcw6OMwRjzOrSRDJ1SwsneipOzzHOk5AQvcEusFvQyRt/uhbXqwGnEwIUr/njbN8vGXv6Ht+gyROVXzzZ+cvsEWz3m91J1p5XC3YXqdj+Gi1zig==",
+        "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1/iWMd/owN/4gf+3Mrmnwo5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k85D6/H5RxUiXQpIz71TizWnOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
+      },
+      {
+        "name": "RPC ",
+        "uri": "AbWDpiiuPyo+YGsdtbFby6gF7dgcZfGEKjdW2pSHQ+WKFYCp9Z/kXOZdES54z6vHD0Fi32+EGBW705ViLo2WQITTA+8hDO9xQFFPyeoGj6Fh9n9HY/it9X7SHtqDbRG1cadTR5RCcDPaETBbaJouKZ456l8LBdDnMvRgH5GZ0kc6c5nJtkBznkTk+t5ST2LWpM+fMaCQHAP0b4Eh+fyc0zwlfjRYAAllN6HzBJ5yYFK3UvsGPbVHqO9mPiqw4AuoY2a4tgyjNV1riWCfpe1LtH1VmM+UllwmbHCBjvblE3jaOSgyD01/iLoAfuJkQMAD93Yfh6I33Y2KHBBYmfCEhoO5Aa80Hn3vvgn8WzHh25WuTNxzxYC9RzLbH6hqfrdx0MLBT/NQhhj4vhwno6vNxyYG8RTRlb/9owodw+XDb6kaqUa+Ghel7be8aAAxzKcBXymJm5DEM6GJIqcwlmGOxPVrXVnh4+zJlHmaDDl8H1yQ0hOSkGcWCl1NMLYJxXxWB+GEh6j/qFvKtPyqHJ3b9fDHtXID2CJFzylJ6J3h3jFnKaHIu28K34+l+0uTYUDZO3D3GlsF93iH0x+NrGaEIK6voryN4NYnCqt7zM2C/uAiAgEZXEp7UyZHT064Un6YAh4leyWK/QEFyTRhyGAkLEqkRXhogIwyaTJunRe/fvlvywjkxciqcFLDsPmX2RmP+ZA1BfLTQd4RiF8b4ijnc/dGfycVjGa20uMpy14kLxRnxWxJ0CEU6nZWQre/OfMXlfHtu7HghY3Pt5MQlzWP9dZ60cTiBpYSuOMiksMRhm1EbNETzekaJb7c++7ieKx34tWul3IhfQTcgX5pwn9dZiWHDBDNYtNyFPlZOkSuQ7PgmqLKS+MMw6ZcynTt5Ehk",
+        "icono": "https://i.ibb.co/jPsVFN72/68be2910d305e826a103b824.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvFluF2a369itUetrQ3ZkKMHcQNPtbPYauFM5rg9k+FXrg1Gxa2wwqpMwP1bOW5Z15LkAQtaja9MAjq8VWL1XMS89TzSPP7CGNGooqObxlnkdCxjOHw3q/5tYdMrngHwH8g==",
+        "drm_data": "RvNst3Foq2PHKAs38Dfgeoegsrb2FsFlQtWbWaT8QY1/iWMd/owN/4gf+3Mrmnwo5Oh9OxDBLZuq0xDcq1rsM9t8iRQxv8ihnzs66chb5k85D6/H5RxUiXQpIz71TizWnOMS84gfReNPMGkhhFVRGrN4drqcHWoLjMMJEwGFLkgIbZYdMEr8qL8k0hqcJ+IN9eCqOnRRelhBainfOLDTkeV08NpMVv8bS9cULi0sjf7ykF22sJ5ATw8IeCU4Xsr5ABaxCweCWOPyYqEooWPfuQ8qVPvjcWtVgMG5TfExi6Fp45ALkHccw+E8WuN7aDnp"
+      }
+    ]
+  },
+  {
     "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
@@ -2456,36 +2485,6 @@
         "name": "ADN",
         "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7+pQ+bVIWlosxRL0R0SEASRSQNVNHieHk1OcgimKiRr1veITwRhX8aUS78OgZMkZtAhl0WV/O+YaPslP/9qJ38wE9peXTKysi3XLOkoP4xAM9/kOU14YCiLUjzOgJRmuHIUeGTBhFvxjPYxi8Dx2/s",
         "icono": "https://i.ibb.co/PDTMK1g/OIP-4.jpg"
-      }
-    ]
-  },
-  {
-    "name": "🇵🇪 CANALES DE PERU",
-    "samples": [
-      {
-        "name": "America TV",
-        "uri": "59JarZTE1ssVNjTuIk/PHkCRx9KUjc7/YGxa8OpRdmQCW95aIKYJNuWlT7VwSau/mxDIzUZiymk9NOGNXVEXvYg6pcq4AGJM/5mZIeGpmQsqUvtC0kJqF34MTQ4DF05SM6MMjpkgcPUn95awNWax41zD2FjWQpPeji6kmgBHaTJ6DiLOTBzNls4eWmyVDMtGNfGW8ON6S/+b3swIC+MDtAiLmNzFpmgBLZYjiKGdAD66EEAVEna9jsdHJ0gvmoRrazROV1aeQFV/E6EUQg7A5CQ9uJlPjIAJ7yYtP3eAPs2jg8RkVZYHTkGg9fcdVAqMGIb8Nc3OXA8ZokroVrCecKGLHLWeofCrj8HNom4WiPkQjT5dUjD0zA47XPaArm4J1dnB9Ci+km/rDDvPS5YmEFAEaNl8PqMnk5iQH43KbVW/DAgx4pMDylOkd66ZeiJTJZO5ndF39/w33gJR611+2YvhTFWdPEFCw1gx+yhZouCG4O8qNjm30+0+Vb09x7X8sWLF0jZ5nD9vZQvzdHtuIMTQKt5U1TmUeGJBOkScxlFfq0IbkNhMvATtoi7zX0nhy72CsqFfM4z231xOf+r55NfAtnJ72q5Hx6gcBGx/niU+eQ4ykHUPXRFTiji2AEvYttihi/tBNG62QxCu9Uzs3N/QDmLKBIkZPbgX5bDTMWKyJIFiFHk9KHG+P7CnzvhHjEuscMMyHbZj6LvSvMi5cEQoZUKWA4KnSJwa3pdyaVUOYBfVNOuqQ8lShIGlMiUQviSCg9W3o/aV5Asf++oL7AHYWmJK76O1d6DFaceik1DRcGhKP8GXia+uDLDuUcqqYyybGeyweQ7GTNv32vjc5AZtFBfCs2yc1nK7GBOq1hESsRwcp2oTjhmUJb12SzeknWs9IluErwTMR1r4IU2s8y7xg1XdSCqG2QNXC18CzW2dAN5d9vorrO6RA3IZuuI/",
-        "icono": "https://i.ibb.co/tMRdwWNr/KRDAxh-SJVhh-RP7-SACB06i-Ig7xcz-MDUur1i-GWVlv-AJ4-Xkx-RCk-Y1q-FOVq-Vo02bsnh7-W1c9-Hj-NA-s900-c-k-c0x.jpg"
-      },
-      {
-        "name": "Cable Perú TV",
-        "uri": "2pSyn21ZWzBnfAjiTSKzII4rCT1Ua6vpE5XQ9+5ljeNKOqHEB7a1A9OqIvn830zr",
-        "icono": "https://yt3.googleusercontent.com/ytc/AIdro_ljKdkBil060jO_j9lLzKf75QRnxpz07ajGLknEoEvT7Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "TV Perú Noticias",
-        "uri": "mVE56NMbim3ctrsycTCxiPzbMWijouFH9FJ29/0UfEPekRgP7+Uav6BYk573YSjcemdOSX79t2UNxxcHp4p38SIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTupsLEyeS8BgtBJKy8eUk5cVns5N9rV51R8A&s"
-      },
-      {
-        "name": "TV Perú Internacional",
-        "uri": "mVE56NMbim3ctrsycTCxiBdTnqjq+y0e5cB7DmWUyMx1PH+YCd0A7M5XUYyOAXs65zq4trxY1CZmisDNUuGgVCIT3yhdl2JzflKta4M2hBc=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TvPeruInternacional.png/800px-TvPeruInternacional.png"
-      },
-      {
-        "name": "LATINA TV PERU",
-        "uri": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7JyntJZ+76swmqlqlJIyQDJ7KU6+NexZCuFyBlEkn5l5YJLIjBLuRjds4tY5eXtUjla6LQekgz8DUzpoOl4YB1IHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"
       }
     ]
   }
