@@ -870,6 +870,13 @@
     "name": "🇦🇷 DEPORTES DE ARGENTINA",
     "samples": [
       {
+        "name": "DSPORTS",
+        "uri": "cg7cdmemEGtrqUnPpUJJAQAmzActTTN4zK0pTyHOdlC/qz+jNMH0MVUHKLg05sRPw8GQsJA+5sp0jI8AUzrsfw==",
+        "icono": "https://canalesonline.netlify.app/img/DirecTV%20Sports.webp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvCZtHv94wxpAr7ndt0EuSS2njCr2NHOKwe1tKIgDu6P8mCitNK/gjdaj3LzPvmx8PeTIpsDdAkqMgaKVAewXZRykY2X6jbZCTY8d+9kNZi179UsFtwsnEhRSkmp5gbpJDQ=="
+      },
+      {
         "name": "TNT SPORTS PREMIUM HD",
         "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwc/XffXuweaW/Vv3H7958bZ1loOwsvHpIHbjVu5fNVwF",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
