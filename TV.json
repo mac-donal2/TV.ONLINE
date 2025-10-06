@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS1",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS",
     "samples": [
       {
         "name": "EL DESTAPE",
@@ -870,14 +870,22 @@
     "name": "🇦🇷 DEPORTES DE ARGENTINA",
     "samples": [
       {
-        "name": "DIRECTV GO",
-        "uri": "dNtYfQl563jnXmuj0hp/0e7V7tz/+W8aYIm9mWIBamwRsQ/V8XRmloaiJpPFOtlf",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
+        "name": "DSports",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PxRxuQ9HVDmyYzRKbJ+3Nb49iylb2dBc/Oc7RpLrIvVcZNdslJzEJd47XW5hCf8ulgV1WtLUcc9PxYpaFufjhoiaX2Im2U+uN0z0NELLfMAoD99rcPj09GZAwHbf4jxfLjGmc+pXViAxG9X2ewYnX/Fj24m0coT/q68iO18z7sguGmugG58hTggYcfmtYRMwQM2o298RFjHhtdl6aC5xeudmMFmXD7kqjiiAZOSxGZOvMmSD4SP0hxOScHDgmOQerVXmcipP+p+kViygce5Cjj0lGAZIFHr7s0sPW7rsNoYIw==",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_data": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU="
       },
       {
-        "name": "DSPORTS 3",
-        "uri": "dNtYfQl563jnXmuj0hp/0e7V7tz/+W8aYIm9mWIBamwRsQ/V8XRmloaiJpPFOtlf",
-        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
+        "name": "DSports 2",
+        "uri": "B2RVJu0iUQxnFTKYr9heAK3ScJoT8uuAntEQnvBn/PwN6zgad0+B30yzK/p9eHyhbLxG3dnR1E5RA8m3ocACbcd8oxXEIpeMtp/0x7FUDsn5rVTqSgll3cnqOlOoTp8FoosG7knI1NHuI7xNpoeR0IK8wj/X6OOziO6rMEfPO1wp1ldkY3cp67tBzpOQFIQIYYnFvBO3OorNYW5EX6MUVWJXnOQnr8CjxwI2mhQgYJtFk1jFR3njly5CyuVM6uAtqko46m62h4LQUqfhp0nQxOvLSIWXYzKauhwtt0fXUNPM6ZosXE7fgP1RA4Qt5OB1BClaSshofYBYhiC+RkGqLA==",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_data": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU="
+      },
+      {
+        "name": "DSports 3",
+        "uri": "zmOa6R/i7Dxiq2woU+O6zSUYFPZoHTv9sk+wrfZRjKxDVogqHFtyElmSRQqJ0hY4",
+        "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp",
+        "drm_data": "UtxCeM0v7wzlGqwK+6WtNv4FECGQediAuvNUpIw6yyp26+OX6fi3jDnRG6nnHkUu9Zh4xG9DgpvhGr8ZgNTxCUzvuhXeZ4xArltde1llzM75CuDy7bmV9BNzU+WyjKeQ8TAd8w+R6nR5xqOh7w3vPp7DOBhY+tlwbG0RPycLsl17iQUTLBDEQi0Zy3tNsL8zRqhgOGrddWOkm8AfuhTETEZsoxNPGXMVDkXGesPZqIlwdLLWHG5VZyYQGsoKRbJTC8eq+7tOExemdxZA/OVpZX1ASoEYSBg+c5POeoh7eElxaiL8VRMrLQRSlZj++qpYLj0Q/zIP1I7FXmdwUQTo5pon99u9Cvm6yuIDZkebDnC6Yab4Ia4EW9Fjp+YPfNmZ1Hx7SnMmz/6kOxGjFDmZgeuckYqSP3tqDFN3c6rjuZ5guz8dkaS7GujBB8nNOvs+lBRMEool3rwRWaJn2v3nXZIYuRrqGeu1RfYwK6qZFBKbWWSzh5XX0ZHAsD1VjZY0eG4pCtCAfBmlC8tsR2uw3mELrHjqs7gOtRvdCyIdgUy/8DukmlPANrq5cE/BUSZqmgKT2w0qpbYqq7vGiRZnKDIK6ghgaDIjUefcSGVheoHY6306qHTPQU2mTUTZxgTpFol0UAcKRuhD4kzUuWAAxPa/Hw1g7wCIDFVkgHKwFac/qr3SGySr8R1vTFINDtsxSSoPS/vIYzeMjd+Ka5QoHIujtiahOemOuEu73E3gPRXoq7z8QBMJs7FMP+uNtaOj7Zk+1BESOaY2tWOPKiTnTn3NEmGU8Gp6yLTclvvNuvU="
       },
       {
         "name": "TNT SPORTS PREMIUM HD",
