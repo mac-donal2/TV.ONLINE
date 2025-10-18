@@ -1331,48 +1331,6 @@
     ]
   },
   {
-    "name": "⚽ TIGO SPORTS (Solo cuando hay transmisiones Exclusivas)",
-    "samples": [
-      {
-        "name": "TIGO",
-        "uri": "9n6KnizKL2gZ97Ny4tQWcKKCYWcB7izdwFP4YczzvQd6BsYqUEZnEzb50eJ4rQNI",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_data": "GBYVFEwfRGwBP+DAAbaZLabjOUg7fqbiYxqwzALbSlUaF5/D9qTW2r6JEb3VcILB1x1YYrm/hSa0P9oLXzmP6ondnZfU1Z1kXG+83zNNTiqUpbq5vu0OhnTQO2abMn/6eQ0ADcdWIgRHUie5cj4ZJDVoUpBIqiilTNPl1iuvlb00e32Z9jFtom6QnbdY0LIYP44yH45aEU/mB2E0R2nXoEv5UcP6sx/gCS89iphBE11TpjQl8xNbRfdInXq2EEgBJHeda9ez6f7GtCLREd/xlA=="
-      },
-      {
-        "name": "TIGO +",
-        "uri": "9n6KnizKL2gZ97Ny4tQWcKKCYWcB7izdwFP4YczzvQd6BsYqUEZnEzb50eJ4rQNI",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
-      },
-      {
-        "name": "TIGO test 🇵🇾",
-        "uri": "WlQJicNExM1Nk3TMzu+X9faJafPvsYjErDvaXIBeolC+ObasdSLS/cQpUrG4+rO/mHdVM9pRe+nxCGBejnXTg9nU8mfxkPeBMq+mAqGPW5v9xHmlx7MwZ1xStH2UX9YDgFVZP0gBGnkgRD3MlyDAhO/ryWuxmVTD56JJBFmG568MND2nkS5RUKQl+edlQiEVGmmtpj/qT1QbsCYjj57AOQ==",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg"
-      },
-      {
-        "name": " EVENTOS PY 1 🇵🇾",
-        "uri": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEgHC1awJycPBS+VzXaSx/syUHPmwfLYIUXBTsooQT/fDhTjvASWVnlVJ7jRAmBuPygLe2cbMYdrH8hXiuH8GhBbAvan360aOAlo9CnroL7CIaeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": " EVENTOS PY 2 🇵🇾",
-        "uri": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIEj7PAMdqqV8OZX7AjfT0fenuUw2eFDnhmRK4n9csTXS/FpjHSvX5nWJ6Xm5mPQFJcKGir2H0kStwsr4Jo5OSJVbY5j10bSEskquAtAy+mE+2aeOQC5B3HMPhPFrje2g56Q=="
-      },
-      {
-        "name": " EVENTOS PY 3 🇵🇾",
-        "uri": "sk9vSh5Vq453ypMB+//16SivYW1zu/BaD2f8UOpYemBZVDDyxuC0fPrfsyLOKkqP",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqKX97JuY81rXeDWiC+e2aIElFV3EW9lCZ+rtIEHs24FYl76FQE5lSUgsmVxUY3Nq0gg0MKl0251rBIK8+TsW8KnNJ+sUlS0ePAblt8mOjNZx3Zwlp2mVVoEdGkPmRX9zlWaeOQC5B3HMPhPFrje2g56Q=="
-      }
-    ]
-  },
-  {
     "name": "⚽ EVENTOS EN VIVO UY MLS (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
